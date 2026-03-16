@@ -6,379 +6,242 @@
     <title>AI 聚合网站情报中心</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <!-- 优化：使用 Geist 字体替代 Inter -->
-    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        /* 优化：使用 Geist 字体系统 */
-        body { 
-            font-family: 'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
-            /* 优化：使用带色调的深色背景，不是纯黑 */
-            background: oklch(0.12 0.01 250);
-        }
-        
-        /* 优化：使用专业的数据分析配色，避免紫色渐变 */
-        .gradient-bg { 
-            background: linear-gradient(135deg, 
-                oklch(0.15 0.02 250) 0%, 
-                oklch(0.18 0.03 240) 50%, 
-                oklch(0.20 0.04 230) 100%
-            );
-        }
-        
-        /* 优化：使用专业的 easing 函数 */
-        .card-hover { 
-            transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1),
-                        box-shadow 200ms cubic-bezier(0.16, 1, 0.3, 1);
-        }
-        .card-hover:hover { 
-            transform: translateY(-4px); 
-            box-shadow: 0 20px 40px oklch(0 0 0 / 0.3);
-        }
-        
-        .heatmap-cell { 
-            transition: transform 150ms cubic-bezier(0.16, 1, 0.3, 1); 
-            cursor: pointer; 
-            position: relative;
-        }
-        .heatmap-cell:hover { 
-            transform: scale(1.05); 
-            z-index: 10;
-        }
-        
-        .modal { 
-            display: none; 
-            position: fixed; 
-            top: 0; 
-            left: 0; 
-            width: 100%; 
-            height: 100%; 
-            background: oklch(0 0 0 / 0.85); 
-            z-index: 100; 
-            overflow-y: auto;
-        }
-        .modal.active { 
-            display: flex; 
-            align-items: flex-start; 
-            justify-content: center; 
-            padding: 2rem;
-        }
-        .modal-content { 
-            max-width: 900px; 
-            width: 100%; 
-            margin: auto;
-        }
-        
-        /* 优化：使用 OKLCH 色彩空间定义颜色 */
-        .trend-up { color: oklch(0.7 0.15 145); }
-        .trend-down { color: oklch(0.65 0.2 25); }
-        
-        /* 优化：玻璃态效果使用更专业的参数 */
-        .glass { 
-            background: oklch(1 0 0 / 0.06); 
-            backdrop-filter: blur(12px); 
-            border: 1px solid oklch(1 0 0 / 0.12);
-        }
-        
-        /* 优化：层级徽章使用更专业的配色 */
-        .tier-badge { 
-            font-size: 10px; 
-            padding: 2px 8px; 
-            border-radius: 6px;
-            font-weight: 600;
-            letter-spacing: 0.5px;
-        }
-        .tier-t1 { 
-            background: linear-gradient(135deg, 
-                oklch(0.7 0.15 45), 
-                oklch(0.65 0.2 25)
-            );
-        }
-        .tier-t2 { 
-            background: linear-gradient(135deg, 
-                oklch(0.6 0.2 250), 
-                oklch(0.55 0.25 280)
-            );
-        }
-        .tier-t3 { 
-            background: linear-gradient(135deg, 
-                oklch(0.45 0.02 250), 
-                oklch(0.40 0.02 250)
-            );
-        }
-        
-        /* 优化：添加专业的 focus 状态 */
-        a:focus-visible, button:focus-visible {
-            outline: 2px solid oklch(0.6 0.2 250);
-            outline-offset: 2px;
-        }
-        
-        /* 优化：改进文字层次 */
-        .text-primary { color: oklch(0.95 0.01 250); }
-        .text-secondary { color: oklch(0.65 0.02 250); }
-        .text-tertiary { color: oklch(0.50 0.02 250); }
-        
-        /* 优化：数据可视化配色 */
-        .stat-number {
-            font-variant-numeric: tabular-nums;
-            letter-spacing: -0.02em;
-        }
+        body { font-family: 'DM Sans', -apple-system, sans-serif; background: #fafbfc; }
+        .card { background: white; border: 1px solid #e5e7eb; border-radius: 12px; transition: all 200ms cubic-bezier(0.16, 1, 0.3, 1); }
+        .card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.08); transform: translateY(-2px); }
+        .modal { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 100; overflow-y: auto; }
+        .modal.active { display: flex; align-items: flex-start; justify-content: center; padding: 2rem; }
+        .trend-up { color: #059669; }
+        .trend-down { color: #dc2626; }
+        .tier-t1 { background: #dbeafe; color: #1e40af; }
+        .tier-t2 { background: #fef3c7; color: #92400e; }
+        .tier-t3 { background: #f3f4f6; color: #4b5563; }
+        .nav-link { padding: 8px 16px; border-radius: 8px; font-size: 14px; font-weight: 500; transition: all 150ms; }
+        .nav-link:hover { background: #f3f4f6; }
+        .nav-link.active { background: #2563eb; color: white; }
     </style>
 </head>
-<body class="min-h-screen text-primary">
+<body class="min-h-screen">
     <!-- Navigation -->
-    <nav class="glass border-b border-white/10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center gap-2 py-4 overflow-x-auto">
-                <a href="./" class="px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium whitespace-nowrap transition-all duration-200 hover:bg-blue-500">🌍 全球</a>
-                <a href="cn/" class="px-4 py-2 glass hover:bg-white/10 text-secondary rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap">🇨🇳 中文</a>
-                <a href="skills/" class="px-4 py-2 glass hover:bg-white/10 text-secondary rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap">🔧 Skills</a>
-                <a href="news/" class="px-4 py-2 glass hover:bg-white/10 text-secondary rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap">📰 资讯</a>
-                <a href="models/" class="px-4 py-2 glass hover:bg-white/10 text-secondary rounded-lg text-sm font-medium transition-all duration-200 whitespace-nowrap">🧠 模型</a>
+    <nav class="bg-white border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex items-center justify-between h-14">
+                <div class="flex items-center gap-1">
+                    <span class="text-lg font-semibold text-gray-900">AI 情报中心</span>
+                </div>
+                <div class="flex items-center gap-1">
+                    <a href="./" class="nav-link active">🌍 全球</a>
+                    <a href="cn/" class="nav-link">🇨🇳 中文</a>
+                    <a href="skills/" class="nav-link">🔧 Skills</a>
+                    <a href="news/" class="nav-link">📰 资讯</a>
+                    <a href="models/" class="nav-link">🧠 模型</a>
+                </div>
             </div>
         </div>
     </nav>
 
     <!-- Header -->
-    <header class="gradient-bg py-12 border-b border-white/10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex items-center justify-between flex-wrap gap-6">
-                <div>
-                    <h1 class="text-3xl md:text-4xl font-bold mb-2 tracking-tight">🌍 全球 AI 聚合网站情报中心</h1>
-                    <p class="text-secondary text-base">AI Tools Directory 竞品监控 · 数据驱动决策</p>
-                </div>
-                <div class="text-right">
-                    <p class="text-sm text-secondary" id="updateTime">加载中...</p>
-                    <p class="text-xs text-tertiary" id="siteCount">-</p>
-                </div>
-            </div>
+    <header class="bg-white border-b border-gray-100">
+        <div class="max-w-6xl mx-auto px-6 py-8">
+            <h1 class="text-2xl font-bold text-gray-900 mb-2">AI 聚合网站</h1>
+            <p class="text-gray-500">收录全球 AI 工具目录网站，追踪流量与趋势</p>
         </div>
     </header>
 
-    <!-- Stats Bar -->
-    <section class="glass border-b border-white/10">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-                <div>
-                    <div class="text-3xl font-bold text-primary stat-number" id="statSites">-</div>
-                    <div class="text-sm text-tertiary mt-1">收录网站</div>
-                </div>
-                <div>
-                    <div class="text-3xl font-bold stat-number" style="color: oklch(0.6 0.2 250);" id="statVisits">-</div>
-                    <div class="text-sm text-tertiary mt-1">总月访问</div>
-                </div>
-                <div>
-                    <div class="text-3xl font-bold stat-number" style="color: oklch(0.7 0.15 145);" id="statTools">-</div>
-                    <div class="text-sm text-tertiary mt-1">收录工具数</div>
-                </div>
-                <div>
-                    <div class="text-3xl font-bold stat-number" style="color: oklch(0.65 0.2 280);" id="statT1">-</div>
-                    <div class="text-sm text-tertiary mt-1">头部玩家</div>
-                </div>
+    <!-- Stats -->
+    <section class="max-w-6xl mx-auto px-6 py-6">
+        <div class="grid grid-cols-4 gap-4">
+            <div class="card p-4 text-center">
+                <div class="text-2xl font-bold text-gray-900" id="statSites">-</div>
+                <div class="text-sm text-gray-500">收录网站</div>
+            </div>
+            <div class="card p-4 text-center">
+                <div class="text-2xl font-bold text-blue-600" id="statVisits">-</div>
+                <div class="text-sm text-gray-500">总月访问</div>
+            </div>
+            <div class="card p-4 text-center">
+                <div class="text-2xl font-bold text-emerald-600" id="statT1">-</div>
+                <div class="text-sm text-gray-500">T1 头部</div>
+            </div>
+            <div class="card p-4 text-center">
+                <div class="text-2xl font-bold text-gray-400" id="updateTime">-</div>
+                <div class="text-sm text-gray-500">更新时间</div>
             </div>
         </div>
     </section>
 
-    <!-- Main Content -->
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <!-- Insights -->
-        <section class="mb-8" id="insightsSection"></section>
+    <!-- Filter -->
+    <section class="max-w-6xl mx-auto px-6 pb-4">
+        <div class="flex flex-wrap gap-2" id="typeFilter"></div>
+    </section>
 
-        <!-- Filters -->
-        <div class="flex flex-wrap gap-3 mb-6">
-            <button onclick="filterTier('all')" class="px-4 py-2 glass rounded-lg text-sm font-medium text-secondary hover:bg-white/10 transition-all duration-200 active-filter">全部</button>
-            <button onclick="filterTier('T1')" class="px-4 py-2 glass rounded-lg text-sm font-medium text-secondary hover:bg-white/10 transition-all duration-200">T1 头部</button>
-            <button onclick="filterTier('T2')" class="px-4 py-2 glass rounded-lg text-sm font-medium text-secondary hover:bg-white/10 transition-all duration-200">T2 腰部</button>
-            <button onclick="filterTier('T3')" class="px-4 py-2 glass rounded-lg text-sm font-medium text-secondary hover:bg-white/10 transition-all duration-200">T3 长尾</button>
+    <!-- Table -->
+    <section class="max-w-6xl mx-auto px-6 pb-12">
+        <div class="card overflow-hidden">
+            <table class="w-full">
+                <thead class="bg-gray-50 border-b border-gray-200">
+                    <tr>
+                        <th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">#</th>
+                        <th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">网站</th>
+                        <th class="px-4 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">类型</th>
+                        <th class="px-4 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">月访问</th>
+                        <th class="px-4 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">趋势</th>
+                        <th class="px-4 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">层级</th>
+                    </tr>
+                </thead>
+                <tbody id="competitorTable" class="divide-y divide-gray-100"></tbody>
+            </table>
         </div>
-
-        <!-- Sites Grid -->
-        <div id="sitesGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6"></div>
-    </main>
+    </section>
 
     <!-- Modal -->
-    <div id="detailModal" class="modal">
-        <div class="modal-content">
-            <div class="glass rounded-2xl p-8 relative">
-                <button onclick="closeModal()" class="absolute top-6 right-6 text-secondary hover:text-primary text-2xl transition-colors duration-200">&times;</button>
-                <div id="modalContent"></div>
-            </div>
-        </div>
+    <div class="modal" id="detailModal">
+        <div class="max-w-2xl w-full bg-white rounded-xl shadow-2xl m-auto" id="modalContent"></div>
     </div>
 
+    <footer class="border-t border-gray-200 py-6 bg-white">
+        <div class="max-w-6xl mx-auto px-6 text-center text-gray-400 text-sm">
+            由 小满 🌾 自动生成 · <span id="footerTime"></span>
+        </div>
+    </footer>
+
     <script>
-        let allSites = [];
-        let currentFilter = 'all';
+        let data = null, currentType = 'all';
 
         async function loadData() {
             try {
-                const response = await fetch('data.json');
-                allSites = await response.json();
-                updateStats();
-                renderInsights();
-                renderSites();
-            } catch (error) {
-                console.error('加载数据失败:', error);
-            }
+                data = await (await fetch('data.json?v=' + Date.now())).json();
+                renderPage();
+            } catch (e) { console.error(e); }
         }
 
-        function updateStats() {
-            const totalVisits = allSites.reduce((sum, site) => sum + (site.monthlyVisits || 0), 0);
-            const totalTools = allSites.reduce((sum, site) => sum + (site.toolsCount || 0), 0);
-            const t1Count = allSites.filter(s => s.tier === 'T1').length;
-
-            document.getElementById('statSites').textContent = allSites.length;
-            document.getElementById('statVisits').textContent = formatNumber(totalVisits);
-            document.getElementById('statTools').textContent = formatNumber(totalTools);
-            document.getElementById('statT1').textContent = t1Count;
-            document.getElementById('updateTime').textContent = `更新时间：${new Date().toLocaleString('zh-CN')}`;
-            document.getElementById('siteCount').textContent = `共 ${allSites.length} 个网站`;
+        function formatNumber(n) {
+            if (!n) return '-';
+            if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M';
+            if (n >= 1e3) return (n / 1e3).toFixed(0) + 'K';
+            return n;
         }
 
-        function formatNumber(num) {
-            if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
-            if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
-            return num.toString();
+        function calcGrowth(trend) {
+            if (!trend || trend.length < 2) return 0;
+            return ((trend[trend.length - 1] - trend[0]) / trend[0] * 100).toFixed(0);
         }
 
-        function renderInsights() {
-            const insights = allSites.filter(s => s.insights && s.insights.length > 0);
-            if (insights.length === 0) return;
+        function renderPage() {
+            // Stats
+            document.getElementById('statSites').textContent = data.competitors.length;
+            document.getElementById('statVisits').textContent = formatNumber(data.competitors.reduce((s, c) => s + (c.monthlyVisits || 0), 0));
+            document.getElementById('statT1').textContent = data.competitors.filter(c => c.tier === 'T1').length;
+            const updateDate = new Date(data.lastUpdated);
+            document.getElementById('updateTime').textContent = updateDate.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+            document.getElementById('footerTime').textContent = updateDate.toLocaleString('zh-CN');
 
-            const html = insights.map(site => {
-                return site.insights.map(insight => `
-                    <div class="glass rounded-xl p-6 mb-4 border-l-4" style="border-color: ${insight.color || 'oklch(0.6 0.2 250)'};">
-                        <h3 class="font-bold text-lg mb-2 text-primary">${insight.title}</h3>
-                        <p class="text-secondary text-sm leading-relaxed">${insight.content}</p>
-                    </div>
-                `).join('');
-            }).join('');
-
-            document.getElementById('insightsSection').innerHTML = html;
+            renderTypeFilter();
+            renderTable();
         }
 
-        function renderSites() {
-            const filtered = currentFilter === 'all' ? allSites : allSites.filter(s => s.tier === currentFilter);
+        function renderTypeFilter() {
+            const types = ['all', ...new Set(data.competitors.map(c => c.type))];
+            const counts = { all: data.competitors.length };
+            types.forEach(t => { if (t !== 'all') counts[t] = data.competitors.filter(c => c.type === t).length; });
             
-            const html = filtered.map(site => `
-                <div class="glass rounded-xl p-6 card-hover cursor-pointer" onclick="showDetail('${site.id}')">
-                    <div class="flex items-start justify-between mb-4">
-                        <div class="flex-1">
-                            <div class="flex items-center gap-2 mb-2">
-                                <h3 class="font-bold text-lg text-primary">${site.name}</h3>
-                                <span class="tier-badge tier-${site.tier.toLowerCase()}">${site.tier}</span>
-                            </div>
-                            <p class="text-xs text-tertiary">${site.url}</p>
-                        </div>
-                    </div>
-                    
-                    <div class="grid grid-cols-2 gap-4 mb-4">
-                        <div>
-                            <div class="text-xs text-tertiary mb-1">月访问量</div>
-                            <div class="text-xl font-bold stat-number" style="color: oklch(0.6 0.2 250);">${formatNumber(site.monthlyVisits || 0)}</div>
-                        </div>
-                        <div>
-                            <div class="text-xs text-tertiary mb-1">全球排名</div>
-                            <div class="text-xl font-bold stat-number text-primary">${site.globalRank ? '#' + formatNumber(site.globalRank) : '-'}</div>
-                        </div>
-                    </div>
-                    
-                    ${site.badge ? `<div class="inline-block px-3 py-1 rounded-full text-xs font-medium" style="background: oklch(0.6 0.2 250 / 0.15); color: oklch(0.7 0.2 250);">${site.badge}</div>` : ''}
-                </div>
-            `).join('');
-
-            document.getElementById('sitesGrid').innerHTML = html;
+            document.getElementById('typeFilter').innerHTML = types.map(t => 
+                `<button class="px-3 py-1.5 rounded-full text-sm transition ${currentType === t ? 'bg-blue-600 text-white' : 'bg-white border border-gray-200 text-gray-600 hover:bg-gray-50'}" onclick="filterType('${t}')">${t === 'all' ? '全部' : t} (${counts[t]})</button>`
+            ).join('');
         }
 
-        function filterTier(tier) {
-            currentFilter = tier;
-            document.querySelectorAll('button[onclick^="filterTier"]').forEach(btn => {
-                btn.classList.remove('active-filter', 'bg-white/10');
-            });
-            event.target.classList.add('active-filter', 'bg-white/10');
-            renderSites();
+        function filterType(t) {
+            currentType = t;
+            renderTypeFilter();
+            renderTable();
+        }
+
+        function getFiltered() {
+            return currentType === 'all' ? data.competitors : data.competitors.filter(c => c.type === currentType);
+        }
+
+        function renderTable() {
+            const comps = getFiltered().sort((a, b) => (b.monthlyVisits || 0) - (a.monthlyVisits || 0));
+            document.getElementById('competitorTable').innerHTML = comps.map((c, i) => {
+                const growth = calcGrowth(c.trafficTrend);
+                const tierClass = c.tier === 'T1' ? 'tier-t1' : c.tier === 'T2' ? 'tier-t2' : 'tier-t3';
+                return `<tr class="hover:bg-gray-50 cursor-pointer" onclick="showDetail('${c.id}')">
+                    <td class="px-4 py-3 text-gray-400 text-sm">${i + 1}</td>
+                    <td class="px-4 py-3">
+                        <div class="font-medium text-gray-900">${c.name}</div>
+                        <div class="text-sm text-gray-400">${c.domain}</div>
+                    </td>
+                    <td class="px-4 py-3 text-sm text-gray-500">${c.type}</td>
+                    <td class="px-4 py-3 text-right font-medium text-gray-900">${formatNumber(c.monthlyVisits)}</td>
+                    <td class="px-4 py-3 text-right text-sm ${growth > 0 ? 'trend-up' : growth < 0 ? 'trend-down' : 'text-gray-400'}">${growth > 0 ? '+' : ''}${growth}%</td>
+                    <td class="px-4 py-3 text-center"><span class="px-2 py-0.5 rounded text-xs font-medium ${tierClass}">${c.tier}</span></td>
+                </tr>`;
+            }).join('');
         }
 
         function showDetail(id) {
-            const site = allSites.find(s => s.id === id);
-            if (!site) return;
-
-            const html = `
-                <h2 class="text-2xl font-bold mb-6 text-primary">${site.name}</h2>
-                
-                <div class="grid grid-cols-2 md:grid-cols-3 gap-6 mb-8">
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">月访问量</div>
-                        <div class="text-2xl font-bold stat-number" style="color: oklch(0.6 0.2 250);">${formatNumber(site.monthlyVisits || 0)}</div>
+            const c = data.competitors.find(x => x.id === id);
+            if (!c) return;
+            const growth = calcGrowth(c.trafficTrend);
+            const tierClass = c.tier === 'T1' ? 'tier-t1' : c.tier === 'T2' ? 'tier-t2' : 'tier-t3';
+            
+            document.getElementById('modalContent').innerHTML = `
+                <div class="p-6">
+                    <div class="flex justify-between items-start mb-4">
+                        <div>
+                            <div class="flex items-center gap-2 mb-1">
+                                <h2 class="text-xl font-bold text-gray-900">${c.name}</h2>
+                                <span class="px-2 py-0.5 rounded text-xs font-medium ${tierClass}">${c.tier}</span>
+                            </div>
+                            <p class="text-gray-500">${c.domain} · ${c.type}</p>
+                        </div>
+                        <button onclick="closeModal()" class="text-gray-400 hover:text-gray-600 text-2xl leading-none">&times;</button>
                     </div>
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">全球排名</div>
-                        <div class="text-2xl font-bold stat-number text-primary">${site.globalRank ? '#' + formatNumber(site.globalRank) : '-'}</div>
+                    <p class="text-gray-600 mb-6">${c.description || ''}</p>
+                    <div class="grid grid-cols-3 gap-4 mb-6">
+                        <div class="bg-gray-50 rounded-lg p-4 text-center">
+                            <div class="text-2xl font-bold text-gray-900">${formatNumber(c.monthlyVisits)}</div>
+                            <div class="text-sm text-gray-500">月访问量</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 text-center">
+                            <div class="text-2xl font-bold ${growth > 0 ? 'trend-up' : growth < 0 ? 'trend-down' : 'text-gray-400'}">${growth > 0 ? '+' : ''}${growth}%</div>
+                            <div class="text-sm text-gray-500">6月增长</div>
+                        </div>
+                        <div class="bg-gray-50 rounded-lg p-4 text-center">
+                            <div class="text-2xl font-bold text-gray-900">${c.globalRank ? '#' + c.globalRank.toLocaleString() : '-'}</div>
+                            <div class="text-sm text-gray-500">全球排名</div>
+                        </div>
                     </div>
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">跳出率</div>
-                        <div class="text-2xl font-bold stat-number text-primary">${site.bounceRate || '-'}</div>
-                    </div>
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">平均停留</div>
-                        <div class="text-2xl font-bold stat-number text-primary">${site.avgDuration || '-'}</div>
-                    </div>
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">页面/访问</div>
-                        <div class="text-2xl font-bold stat-number text-primary">${site.pagesPerVisit || '-'}</div>
-                    </div>
-                    <div>
-                        <div class="text-sm text-tertiary mb-2">主要国家</div>
-                        <div class="text-2xl font-bold stat-number text-primary">${site.mainCountry || '-'}</div>
-                    </div>
-                </div>
-
-                ${site.trend && site.trend.length > 0 ? `
-                    <div class="mb-6">
-                        <h3 class="text-lg font-bold mb-4 text-primary">访问趋势</h3>
-                        <canvas id="trendChart" class="w-full" style="max-height: 300px;"></canvas>
-                    </div>
-                ` : ''}
-
-                <div class="flex gap-4">
-                    <a href="${site.url}" target="_blank" class="px-6 py-3 rounded-lg font-medium transition-all duration-200" style="background: oklch(0.6 0.2 250); color: white;">访问网站</a>
-                    <button onclick="closeModal()" class="px-6 py-3 glass rounded-lg font-medium text-secondary hover:bg-white/10 transition-all duration-200">关闭</button>
-                </div>
-            `;
-
-            document.getElementById('modalContent').innerHTML = html;
+                    ${c.features ? `<div class="mb-6"><div class="text-sm font-medium text-gray-700 mb-2">特色功能</div><div class="flex flex-wrap gap-2">${c.features.map(f => `<span class="px-2 py-1 bg-blue-50 text-blue-700 rounded text-sm">${f}</span>`).join('')}</div></div>` : ''}
+                    ${c.trafficTrend && c.trafficTrend.length ? `<div class="mb-6"><div class="text-sm font-medium text-gray-700 mb-3">流量趋势</div><canvas id="trendChart" height="120"></canvas></div>` : ''}
+                    <a href="${c.url}" target="_blank" class="block w-full bg-blue-600 text-white text-center py-3 rounded-lg hover:bg-blue-700 transition font-medium">访问网站 →</a>
+                </div>`;
+            
             document.getElementById('detailModal').classList.add('active');
-
-            if (site.trend && site.trend.length > 0) {
+            
+            if (c.trafficTrend && c.trafficTrend.length) {
                 setTimeout(() => {
-                    const ctx = document.getElementById('trendChart').getContext('2d');
-                    new Chart(ctx, {
+                    new Chart(document.getElementById('trendChart'), {
                         type: 'line',
                         data: {
-                            labels: site.trend.map((_, i) => `${i + 1}月`),
+                            labels: ['10月', '11月', '12月', '1月', '2月', '3月'],
                             datasets: [{
-                                label: '月访问量',
-                                data: site.trend,
-                                borderColor: 'oklch(0.6 0.2 250)',
-                                backgroundColor: 'oklch(0.6 0.2 250 / 0.1)',
+                                data: c.trafficTrend,
+                                borderColor: '#2563eb',
+                                backgroundColor: 'rgba(37, 99, 235, 0.1)',
                                 fill: true,
                                 tension: 0.4,
-                                pointRadius: 4,
-                                pointBackgroundColor: 'oklch(0.6 0.2 250)'
+                                pointRadius: 0
                             }]
                         },
                         options: {
                             responsive: true,
                             plugins: { legend: { display: false } },
                             scales: {
-                                y: { 
-                                    beginAtZero: false, 
-                                    grid: { color: 'oklch(1 0 0 / 0.1)' }, 
-                                    ticks: { color: 'oklch(0.65 0.02 250)' } 
-                                },
-                                x: { 
-                                    grid: { display: false }, 
-                                    ticks: { color: 'oklch(0.65 0.02 250)' } 
-                                }
+                                y: { grid: { color: '#f3f4f6' }, ticks: { color: '#9ca3af' } },
+                                x: { grid: { display: false }, ticks: { color: '#9ca3af' } }
                             }
                         }
                     });
@@ -386,18 +249,10 @@
             }
         }
 
-        function closeModal() {
-            document.getElementById('detailModal').classList.remove('active');
-        }
-
-        document.getElementById('detailModal').addEventListener('click', (e) => {
-            if (e.target.id === 'detailModal') closeModal();
-        });
-
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeModal();
-        });
-
+        function closeModal() { document.getElementById('detailModal').classList.remove('active'); }
+        document.getElementById('detailModal').addEventListener('click', e => { if (e.target.id === 'detailModal') closeModal(); });
+        document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+        
         loadData();
     </script>
 </body>
