@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills & MCP 生态情报中心</title>
+    <title>AI 模型情报中心</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body { font-family: 'Inter', -apple-system, sans-serif; }
-        .gradient-bg { background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 50%, #4c1d95 100%); }
+        .gradient-bg { background: linear-gradient(135deg, #059669 0%, #047857 50%, #065f46 100%); }
         .heatmap-cell { transition: all 0.3s ease; cursor: pointer; }
         .heatmap-cell:hover { transform: scale(1.05); z-index: 10; }
         .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); z-index: 100; overflow-y: auto; }
@@ -18,7 +18,7 @@
         .trend-down { color: #ef4444; }
         .glass { background: rgba(255,255,255,0.08); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.15); }
         .tier-badge { font-size: 10px; padding: 2px 6px; border-radius: 4px; }
-        .tier-t1 { background: linear-gradient(135deg, #7c3aed, #ec4899); }
+        .tier-t1 { background: linear-gradient(135deg, #059669, #ec4899); }
         .tier-t2 { background: linear-gradient(135deg, #3b82f6, #8b5cf6); }
         .tier-t3 { background: linear-gradient(135deg, #6b7280, #4b5563); }
         .our-badge { background: linear-gradient(135deg, #f59e0b, #ef4444); animation: pulse 2s infinite; }
@@ -33,23 +33,23 @@
             <div class="flex items-center gap-2 py-3 overflow-x-auto">
                 <a href="../" class="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium whitespace-nowrap">🌍 全球</a>
                 <a href="../cn/" class="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">🇨🇳 中文</a>
-                <a href="./" class="px-3 py-2 bg-purple-600 text-white hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">🔧 Skills</a>
+                <a href="../skills/" class="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">🔧 Skills</a>
                 <a href="../news/" class="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">📰 资讯</a>
-                <a href="../models/" class="px-3 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">🧠 模型</a>
+                <a href="./" class="px-3 py-2 bg-green-600 text-white hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition whitespace-nowrap">🧠 模型</a>
             </div>
         </div>
     </nav>
 
-    <header class="gradient-bg py-8 border-b border-purple-800">
+    <header class="gradient-bg py-8 border-b border-green-800">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="flex items-center justify-between flex-wrap gap-4">
                 <div>
-                    <h1 class="text-2xl md:text-3xl font-bold mb-1">🔧 Skills & MCP 生态</h1>
-                    <p class="text-purple-200 text-sm">SKILL.md · MCP Server · .cursorrules · Agent 工具</p>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-1">🧠 AI 模型</h1>
+                    <p class="text-green-200 text-sm">大模型 · 开源模型 · API 服务 · 本地部署</p>
                 </div>
                 <div class="text-right">
-                    <p class="text-sm text-purple-200" id="updateTime">加载中...</p>
-                    <p class="text-xs text-purple-300" id="siteCount">-</p>
+                    <p class="text-sm text-green-200" id="updateTime">加载中...</p>
+                    <p class="text-xs text-green-300" id="siteCount">-</p>
                 </div>
             </div>
         </div>
@@ -59,7 +59,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
                 <div><div class="text-2xl font-bold text-white" id="statSites">-</div><div class="text-xs text-gray-400">收录平台</div></div>
-                <div><div class="text-2xl font-bold text-purple-400" id="statVisits">-</div><div class="text-xs text-gray-400">总月访问</div></div>
+                <div><div class="text-2xl font-bold text-green-400" id="statVisits">-</div><div class="text-xs text-gray-400">总月访问</div></div>
                 <div><div class="text-2xl font-bold text-green-400" id="statStars">-</div><div class="text-xs text-gray-400">GitHub Stars</div></div>
                 <div><div class="text-2xl font-bold text-pink-400" id="statT1">-</div><div class="text-xs text-gray-400">头部平台</div></div>
             </div>
@@ -102,12 +102,12 @@
     <div class="modal" id="detailModal"><div class="modal-content bg-gray-800 rounded-2xl p-6 md:p-8" id="modalContent"></div></div>
 
     <footer class="border-t border-gray-700 py-8 mt-12">
-        <div class="max-w-7xl mx-auto px-4 text-center text-gray-500">由 小满 🌾 自动生成 · Skills & MCP 生态分析</div>
+        <div class="max-w-7xl mx-auto px-4 text-center text-gray-500">由 小满 🌾 自动生成 · AI 模型分析</div>
     </footer>
 
     <script>
         let data = null, currentType = 'all';
-        const colorMap = { blue: 'border-blue-500', green: 'border-green-500', purple: 'border-purple-500', orange: 'border-orange-500' };
+        const colorMap = { blue: 'border-blue-500', green: 'border-green-500', purple: 'border-green-500', orange: 'border-orange-500' };
 
         async function loadData() {
             try { data = await (await fetch('data.json?v=' + Date.now())).json(); renderPage(); }
@@ -115,7 +115,7 @@
         }
 
         function formatNumber(n) { return !n ? '-' : n >= 1e6 ? (n/1e6).toFixed(1)+'M' : n >= 1e3 ? (n/1e3).toFixed(0)+'K' : n; }
-        function getHeatColor(v, max) { const r = Math.log(v+1)/Math.log(max+1); return r>.7?'from-purple-600 to-pink-500':r>.5?'from-pink-500 to-orange-500':r>.3?'from-orange-500 to-yellow-500':r>.15?'from-yellow-500 to-green-500':'from-green-500 to-teal-500'; }
+        function getHeatColor(v, max) { const r = Math.log(v+1)/Math.log(max+1); return r>.7?'from-green-600 to-pink-500':r>.5?'from-pink-500 to-orange-500':r>.3?'from-orange-500 to-yellow-500':r>.15?'from-yellow-500 to-green-500':'from-green-500 to-teal-500'; }
         function getTierClass(t) { return t==='T1'?'tier-t1':t==='T2'?'tier-t2':'tier-t3'; }
 
         function renderPage() {
@@ -132,7 +132,7 @@
             const types = ['all', ...new Set(data.competitors.map(c=>c.type))];
             const counts = { all: data.competitors.length };
             types.forEach(t => { if(t!=='all') counts[t] = data.competitors.filter(c=>c.type===t).length; });
-            document.getElementById('typeFilter').innerHTML = types.map(t => `<button class="px-4 py-2 rounded-full text-sm transition ${currentType===t?'bg-purple-600 text-white':'bg-gray-700 text-gray-300 hover:bg-gray-600'}" onclick="filterType('${t}')">${t==='all'?'全部':t} (${counts[t]})</button>`).join('');
+            document.getElementById('typeFilter').innerHTML = types.map(t => `<button class="px-4 py-2 rounded-full text-sm transition ${currentType===t?'bg-green-600 text-white':'bg-gray-700 text-gray-300 hover:bg-gray-600'}" onclick="filterType('${t}')">${t==='all'?'全部':t} (${counts[t]})</button>`).join('');
         }
 
         function filterType(t) { currentType = t; renderTypeFilter(); renderHeatmap(); renderTable(); }
@@ -191,11 +191,11 @@
                     <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold ${growth>0?'trend-up':growth<0?'trend-down':''}">${growth>0?'+':''}${growth}%</div><div class="text-xs text-gray-400">6月增长</div></div>
                     <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold">${c.pricing||'-'}</div><div class="text-xs text-gray-400">定价</div></div>
                 </div>
-                <div class="mb-6"><h3 class="font-semibold mb-3">✨ 特色功能</h3><div class="flex flex-wrap gap-2">${(c.features||[]).map(f=>`<span class="px-3 py-1 bg-purple-600/20 text-purple-300 rounded-full text-sm">${f}</span>`).join('')}</div></div>
+                <div class="mb-6"><h3 class="font-semibold mb-3">✨ 特色功能</h3><div class="flex flex-wrap gap-2">${(c.features||[]).map(f=>`<span class="px-3 py-1 bg-green-600/20 text-green-300 rounded-full text-sm">${f}</span>`).join('')}</div></div>
                 ${trend.length?`<div class="mb-6"><h3 class="font-semibold mb-4">📈 流量趋势</h3><canvas id="trendChart" height="150"></canvas></div>`:''}
-                <a href="${c.url}" target="_blank" class="block w-full bg-purple-600 text-center py-3 rounded-lg hover:bg-purple-700 transition font-medium">访问 ${c.name} →</a>`;
+                <a href="${c.url}" target="_blank" class="block w-full bg-green-600 text-center py-3 rounded-lg hover:bg-green-700 transition font-medium">访问 ${c.name} →</a>`;
             document.getElementById('detailModal').classList.add('active');
-            if(trend.length) setTimeout(()=>new Chart(document.getElementById('trendChart'),{type:'line',data:{labels:['10月','11月','12月','1月','2月','3月'],datasets:[{data:trend,borderColor:'#7c3aed',backgroundColor:'rgba(124,58,237,0.1)',fill:true,tension:0.4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{y:{grid:{color:'rgba(255,255,255,0.1)'},ticks:{color:'#9ca3af'}},x:{grid:{display:false},ticks:{color:'#9ca3af'}}}}}),100);
+            if(trend.length) setTimeout(()=>new Chart(document.getElementById('trendChart'),{type:'line',data:{labels:['10月','11月','12月','1月','2月','3月'],datasets:[{data:trend,borderColor:'#059669',backgroundColor:'rgba(124,58,237,0.1)',fill:true,tension:0.4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{y:{grid:{color:'rgba(255,255,255,0.1)'},ticks:{color:'#9ca3af'}},x:{grid:{display:false},ticks:{color:'#9ca3af'}}}}}),100);
         }
 
         function closeModal() { document.getElementById('detailModal').classList.remove('active'); }
