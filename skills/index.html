@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills & MCP 生态情报中心</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Inter', -apple-system, sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 50%, #4c1d95 100%); }
+        .heatmap-cell { transition: all 0.3s ease; cursor: pointer; }
+        .heatmap-cell:hover { transform: scale(1.05); z-index: 10; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.85); z-index: 100; overflow-y: auto; }
+        .modal.active { display: flex; align-items: flex-start; justify-content: center; padding: 2rem; }
+        .modal-content { max-width: 900px; width: 100%; margin: auto; }
+        .trend-up { color: #10b981; }
+        .trend-down { color: #ef4444; }
+        .glass { background: rgba(255,255,255,0.08); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.15); }
+        .tier-badge { font-size: 10px; padding: 2px 6px; border-radius: 4px; }
+        .tier-t1 { background: linear-gradient(135deg, #7c3aed, #ec4899); }
+        .tier-t2 { background: linear-gradient(135deg, #3b82f6, #8b5cf6); }
+        .tier-t3 { background: linear-gradient(135deg, #6b7280, #4b5563); }
+        .our-badge { background: linear-gradient(135deg, #f59e0b, #ef4444); animation: pulse 2s infinite; }
+        .official-badge { background: linear-gradient(135deg, #10b981, #059669); }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.7; } }
+    </style>
+</head>
+<body class="bg-gray-900 min-h-screen text-white">
+    <nav class="bg-gray-800 border-b border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center gap-4 py-3">
+                <a href="../" class="px-4 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition">🌍 全球站</a>
+                <a href="../cn/" class="px-4 py-2 bg-gray-700 hover:bg-gray-600 text-gray-300 rounded-lg text-sm font-medium transition">🇨🇳 中文站</a>
+                <a href="./" class="px-4 py-2 bg-purple-600 text-white rounded-lg text-sm font-medium">🔧 Skills站</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="gradient-bg py-8 border-b border-purple-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between flex-wrap gap-4">
+                <div>
+                    <h1 class="text-2xl md:text-3xl font-bold mb-1">🔧 Skills & MCP 生态</h1>
+                    <p class="text-purple-200 text-sm">SKILL.md · MCP Server · .cursorrules · Agent 工具</p>
+                </div>
+                <div class="text-right">
+                    <p class="text-sm text-purple-200" id="updateTime">加载中...</p>
+                    <p class="text-xs text-purple-300" id="siteCount">-</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="bg-gray-800/50 border-b border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+                <div><div class="text-2xl font-bold text-white" id="statSites">-</div><div class="text-xs text-gray-400">收录平台</div></div>
+                <div><div class="text-2xl font-bold text-purple-400" id="statVisits">-</div><div class="text-xs text-gray-400">总月访问</div></div>
+                <div><div class="text-2xl font-bold text-green-400" id="statStars">-</div><div class="text-xs text-gray-400">GitHub Stars</div></div>
+                <div><div class="text-2xl font-bold text-pink-400" id="statT1">-</div><div class="text-xs text-gray-400">头部平台</div></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <div class="flex flex-wrap gap-2" id="typeFilter"></div>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-8">
+        <h2 class="text-xl font-bold mb-4">🔥 流量热力图 <span class="text-sm font-normal text-gray-400 ml-2">点击查看详情</span></h2>
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3" id="heatmapGrid"></div>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-xl font-bold mb-6">💡 市场洞察</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4" id="insightsGrid"></div>
+    </section>
+
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-xl font-bold mb-6">📊 完整排名</h2>
+        <div class="glass rounded-xl overflow-hidden overflow-x-auto">
+            <table class="w-full text-sm">
+                <thead class="bg-gray-800/50">
+                    <tr>
+                        <th class="px-4 py-3 text-left">#</th>
+                        <th class="px-4 py-3 text-left">平台</th>
+                        <th class="px-4 py-3 text-left">类型</th>
+                        <th class="px-4 py-3 text-right">月访问</th>
+                        <th class="px-4 py-3 text-right">GitHub ⭐</th>
+                        <th class="px-4 py-3 text-center">层级</th>
+                    </tr>
+                </thead>
+                <tbody id="competitorTable"></tbody>
+            </table>
+        </div>
+    </section>
+
+    <div class="modal" id="detailModal"><div class="modal-content bg-gray-800 rounded-2xl p-6 md:p-8" id="modalContent"></div></div>
+
+    <footer class="border-t border-gray-700 py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4 text-center text-gray-500">由 小满 🌾 自动生成 · Skills & MCP 生态分析</div>
+    </footer>
+
+    <script>
+        let data = null, currentType = 'all';
+        const colorMap = { blue: 'border-blue-500', green: 'border-green-500', purple: 'border-purple-500', orange: 'border-orange-500' };
+
+        async function loadData() {
+            try { data = await (await fetch('data.json?v=' + Date.now())).json(); renderPage(); }
+            catch (e) { console.error(e); }
+        }
+
+        function formatNumber(n) { return !n ? '-' : n >= 1e6 ? (n/1e6).toFixed(1)+'M' : n >= 1e3 ? (n/1e3).toFixed(0)+'K' : n; }
+        function getHeatColor(v, max) { const r = Math.log(v+1)/Math.log(max+1); return r>.7?'from-purple-600 to-pink-500':r>.5?'from-pink-500 to-orange-500':r>.3?'from-orange-500 to-yellow-500':r>.15?'from-yellow-500 to-green-500':'from-green-500 to-teal-500'; }
+        function getTierClass(t) { return t==='T1'?'tier-t1':t==='T2'?'tier-t2':'tier-t3'; }
+
+        function renderPage() {
+            document.getElementById('updateTime').textContent = '更新: ' + new Date(data.lastUpdated).toLocaleString('zh-CN');
+            document.getElementById('siteCount').textContent = '共 ' + data.competitors.length + ' 个平台';
+            document.getElementById('statSites').textContent = data.competitors.length;
+            document.getElementById('statVisits').textContent = formatNumber(data.competitors.reduce((s,c)=>s+(c.monthlyVisits||0),0));
+            document.getElementById('statStars').textContent = formatNumber(data.competitors.reduce((s,c)=>s+(c.githubStars||0),0));
+            document.getElementById('statT1').textContent = data.competitors.filter(c=>c.tier==='T1').length;
+            renderTypeFilter(); renderHeatmap(); renderInsights(); renderTable();
+        }
+
+        function renderTypeFilter() {
+            const types = ['all', ...new Set(data.competitors.map(c=>c.type))];
+            const counts = { all: data.competitors.length };
+            types.forEach(t => { if(t!=='all') counts[t] = data.competitors.filter(c=>c.type===t).length; });
+            document.getElementById('typeFilter').innerHTML = types.map(t => `<button class="px-4 py-2 rounded-full text-sm transition ${currentType===t?'bg-purple-600 text-white':'bg-gray-700 text-gray-300 hover:bg-gray-600'}" onclick="filterType('${t}')">${t==='all'?'全部':t} (${counts[t]})</button>`).join('');
+        }
+
+        function filterType(t) { currentType = t; renderTypeFilter(); renderHeatmap(); renderTable(); }
+        function getFiltered() { return currentType==='all' ? data.competitors : data.competitors.filter(c=>c.type===currentType); }
+
+        function renderHeatmap() {
+            const comps = getFiltered().sort((a,b)=>(b.monthlyVisits||0)-(a.monthlyVisits||0));
+            const max = comps[0]?.monthlyVisits || 1;
+            document.getElementById('heatmapGrid').innerHTML = comps.map(c => {
+                const isOurs = c.badge==='我们', isOfficial = c.badge==='官方';
+                return `<div class="heatmap-cell bg-gradient-to-br ${getHeatColor(c.monthlyVisits||0,max)} rounded-xl p-3 text-center shadow-lg ${isOurs?'ring-2 ring-yellow-400':''}" onclick="showDetail('${c.id}')">
+                    <div class="font-bold text-sm truncate">${c.name}</div>
+                    <div class="text-xl font-bold mt-1">${formatNumber(c.monthlyVisits)}</div>
+                    <div class="text-xs opacity-75">月访问</div>
+                    <div class="mt-2 flex justify-center gap-1 flex-wrap">
+                        <span class="tier-badge ${getTierClass(c.tier)}">${c.tier}</span>
+                        ${isOurs?'<span class="tier-badge our-badge">我们</span>':''}
+                        ${isOfficial?'<span class="tier-badge official-badge">官方</span>':''}
+                    </div>
+                </div>`;
+            }).join('');
+        }
+
+        function renderInsights() {
+            document.getElementById('insightsGrid').innerHTML = (data.insights||[]).map(i => `<div class="glass rounded-xl p-5 border-l-4 ${colorMap[i.color]||'border-blue-500'}"><h3 class="font-semibold mb-2">${i.title}</h3><p class="text-gray-400 text-sm">${i.content}</p></div>`).join('');
+        }
+
+        function renderTable() {
+            const comps = getFiltered().sort((a,b)=>(b.monthlyVisits||0)-(a.monthlyVisits||0));
+            document.getElementById('competitorTable').innerHTML = comps.map((c,i) => {
+                const isOurs = c.badge==='我们', isOfficial = c.badge==='官方';
+                return `<tr class="border-t border-gray-700/50 hover:bg-gray-800/30 cursor-pointer ${isOurs?'bg-yellow-900/20':''}" onclick="showDetail('${c.id}')">
+                    <td class="px-4 py-3 text-gray-400">${i+1}</td>
+                    <td class="px-4 py-3"><div class="flex items-center gap-2"><span class="font-medium">${c.name}</span>${isOurs?'<span class="tier-badge our-badge text-xs">我们</span>':''}${isOfficial?'<span class="tier-badge official-badge text-xs">官方</span>':''}</div><div class="text-xs text-gray-500">${c.domain}</div></td>
+                    <td class="px-4 py-3 text-gray-400">${c.type}</td>
+                    <td class="px-4 py-3 text-right font-medium">${formatNumber(c.monthlyVisits)}</td>
+                    <td class="px-4 py-3 text-right text-gray-400">${c.githubStars?formatNumber(c.githubStars):'-'}</td>
+                    <td class="px-4 py-3 text-center"><span class="tier-badge ${getTierClass(c.tier)}">${c.tier}</span></td>
+                </tr>`;
+            }).join('');
+        }
+
+        function showDetail(id) {
+            const c = data.competitors.find(x=>x.id===id); if(!c) return;
+            const trend = c.trafficTrend||[], growth = trend.length>=2 ? ((trend[5]-trend[0])/trend[0]*100).toFixed(0) : 0;
+            const isOurs = c.badge==='我们', isOfficial = c.badge==='官方';
+            document.getElementById('modalContent').innerHTML = `
+                <div class="flex justify-between items-start mb-6">
+                    <div><div class="flex items-center gap-3 mb-1"><h2 class="text-2xl font-bold">${c.name}</h2><span class="tier-badge ${getTierClass(c.tier)}">${c.tier}</span>${isOurs?'<span class="tier-badge our-badge">我们</span>':''}${isOfficial?'<span class="tier-badge official-badge">官方</span>':''}</div><p class="text-gray-400">${c.domain} · ${c.type}</p></div>
+                    <button onclick="closeModal()" class="text-gray-400 hover:text-white text-3xl">&times;</button>
+                </div>
+                <p class="text-gray-300 mb-6">${c.description||''}</p>
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+                    <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold">${formatNumber(c.monthlyVisits)}</div><div class="text-xs text-gray-400">月访问量</div></div>
+                    <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold">${c.githubStars?formatNumber(c.githubStars):'-'}</div><div class="text-xs text-gray-400">GitHub ⭐</div></div>
+                    <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold ${growth>0?'trend-up':growth<0?'trend-down':''}">${growth>0?'+':''}${growth}%</div><div class="text-xs text-gray-400">6月增长</div></div>
+                    <div class="bg-gray-700/50 rounded-lg p-4 text-center"><div class="text-2xl font-bold">${c.pricing||'-'}</div><div class="text-xs text-gray-400">定价</div></div>
+                </div>
+                <div class="mb-6"><h3 class="font-semibold mb-3">✨ 特色功能</h3><div class="flex flex-wrap gap-2">${(c.features||[]).map(f=>`<span class="px-3 py-1 bg-purple-600/20 text-purple-300 rounded-full text-sm">${f}</span>`).join('')}</div></div>
+                ${trend.length?`<div class="mb-6"><h3 class="font-semibold mb-4">📈 流量趋势</h3><canvas id="trendChart" height="150"></canvas></div>`:''}
+                <a href="${c.url}" target="_blank" class="block w-full bg-purple-600 text-center py-3 rounded-lg hover:bg-purple-700 transition font-medium">访问 ${c.name} →</a>`;
+            document.getElementById('detailModal').classList.add('active');
+            if(trend.length) setTimeout(()=>new Chart(document.getElementById('trendChart'),{type:'line',data:{labels:['10月','11月','12月','1月','2月','3月'],datasets:[{data:trend,borderColor:'#7c3aed',backgroundColor:'rgba(124,58,237,0.1)',fill:true,tension:0.4}]},options:{responsive:true,plugins:{legend:{display:false}},scales:{y:{grid:{color:'rgba(255,255,255,0.1)'},ticks:{color:'#9ca3af'}},x:{grid:{display:false},ticks:{color:'#9ca3af'}}}}}),100);
+        }
+
+        function closeModal() { document.getElementById('detailModal').classList.remove('active'); }
+        document.getElementById('detailModal').addEventListener('click', e => { if(e.target.id==='detailModal') closeModal(); });
+        document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
+        loadData();
+    </script>
+</body>
+</html>
