@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T17:25:00+08:00",
+  "lastUpdated": "2026-03-16T17:39:19.149807+08:00",
   "config": {
     "category": "AI Tools Directory / AI 聚合网页",
     "description": "专门收集、分类、展示各种 AI 工具的目录网站",
@@ -24,8 +24,16 @@
       "launchDate": "2022-11",
       "color": "purple",
       "badge": "#1",
-      "trafficTrend": [3800000, 4000000, 4200000, 4300000, 4400000, 4500000],
-      "tier": "T1"
+      "trafficTrend": [
+        3800000,
+        4000000,
+        4200000,
+        4300000,
+        4400000,
+        4500000
+      ],
+      "tier": "T1",
+      "status": "active"
     },
     {
       "id": "toolify",
@@ -43,8 +51,16 @@
       "launchDate": "2023-03",
       "color": "green",
       "badge": "增长快",
-      "trafficTrend": [1500000, 1800000, 2100000, 2400000, 2600000, 2800000],
-      "tier": "T1"
+      "trafficTrend": [
+        1500000,
+        1800000,
+        2100000,
+        2400000,
+        2600000,
+        2800000
+      ],
+      "tier": "T1",
+      "status": "active"
     },
     {
       "id": "futurepedia",
@@ -62,8 +78,16 @@
       "launchDate": "2022-10",
       "color": "blue",
       "badge": "热门",
-      "trafficTrend": [850000, 780000, 720000, 700000, 690000, 680000],
-      "tier": "T2"
+      "trafficTrend": [
+        850000,
+        780000,
+        720000,
+        700000,
+        690000,
+        680000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "futuretools",
@@ -81,8 +105,16 @@
       "launchDate": "2022-12",
       "color": "orange",
       "badge": "KOL",
-      "trafficTrend": [600000, 580000, 550000, 530000, 520000, 520000],
-      "tier": "T2"
+      "trafficTrend": [
+        600000,
+        580000,
+        550000,
+        530000,
+        520000,
+        520000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "aixploria",
@@ -100,8 +132,16 @@
       "launchDate": "2023-06",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [300000, 350000, 380000, 410000, 430000, 450000],
-      "tier": "T2"
+      "trafficTrend": [
+        300000,
+        350000,
+        380000,
+        410000,
+        430000,
+        450000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "aitoolshunt",
@@ -119,8 +159,16 @@
       "launchDate": "2023-01",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [320000, 340000, 350000, 360000, 370000, 380000],
-      "tier": "T2"
+      "trafficTrend": [
+        320000,
+        340000,
+        350000,
+        360000,
+        370000,
+        380000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "opentools",
@@ -138,8 +186,16 @@
       "launchDate": "2023-04",
       "color": "green",
       "badge": null,
-      "trafficTrend": [250000, 270000, 290000, 300000, 310000, 320000],
-      "tier": "T2"
+      "trafficTrend": [
+        250000,
+        270000,
+        290000,
+        300000,
+        310000,
+        320000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "altern",
@@ -157,8 +213,16 @@
       "launchDate": "2023-02",
       "color": "purple",
       "badge": null,
-      "trafficTrend": [200000, 220000, 240000, 260000, 270000, 280000],
-      "tier": "T2"
+      "trafficTrend": [
+        200000,
+        220000,
+        240000,
+        260000,
+        270000,
+        280000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "aipediahub",
@@ -176,8 +240,16 @@
       "launchDate": "2023-06",
       "color": "purple",
       "badge": "工具最多",
-      "trafficTrend": [180000, 200000, 220000, 230000, 240000, 250000],
-      "tier": "T2"
+      "trafficTrend": [
+        180000,
+        200000,
+        220000,
+        230000,
+        240000,
+        250000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "insidr",
@@ -195,8 +267,16 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [150000, 170000, 190000, 200000, 210000, 220000],
-      "tier": "T2"
+      "trafficTrend": [
+        150000,
+        170000,
+        190000,
+        200000,
+        210000,
+        220000
+      ],
+      "tier": "T2",
+      "status": "active"
     },
     {
       "id": "aitoptools",
@@ -214,7 +294,14 @@
       "launchDate": "2023-03",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [150000, 160000, 170000, 180000, 190000, 200000],
+      "trafficTrend": [
+        150000,
+        160000,
+        170000,
+        180000,
+        190000,
+        200000
+      ],
       "tier": "T2"
     },
     {
@@ -233,7 +320,14 @@
       "launchDate": "2023-02",
       "color": "blue",
       "badge": "精选",
-      "trafficTrend": [150000, 160000, 165000, 170000, 175000, 180000],
+      "trafficTrend": [
+        150000,
+        160000,
+        165000,
+        170000,
+        175000,
+        180000
+      ],
       "tier": "T2"
     },
     {
@@ -252,7 +346,14 @@
       "launchDate": "2023-04",
       "color": "green",
       "badge": null,
-      "trafficTrend": [100000, 120000, 135000, 145000, 155000, 160000],
+      "trafficTrend": [
+        100000,
+        120000,
+        135000,
+        145000,
+        155000,
+        160000
+      ],
       "tier": "T3"
     },
     {
@@ -271,7 +372,14 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [90000, 105000, 115000, 125000, 135000, 140000],
+      "trafficTrend": [
+        90000,
+        105000,
+        115000,
+        125000,
+        135000,
+        140000
+      ],
       "tier": "T3"
     },
     {
@@ -290,7 +398,14 @@
       "launchDate": "2023-06",
       "color": "purple",
       "badge": null,
-      "trafficTrend": [80000, 90000, 100000, 105000, 115000, 120000],
+      "trafficTrend": [
+        80000,
+        90000,
+        100000,
+        105000,
+        115000,
+        120000
+      ],
       "tier": "T3"
     },
     {
@@ -309,7 +424,14 @@
       "launchDate": "2023-07",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [60000, 75000, 85000, 95000, 105000, 110000],
+      "trafficTrend": [
+        60000,
+        75000,
+        85000,
+        95000,
+        105000,
+        110000
+      ],
       "tier": "T3"
     },
     {
@@ -328,7 +450,14 @@
       "launchDate": "2023-08",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [50000, 60000, 70000, 80000, 90000, 95000],
+      "trafficTrend": [
+        50000,
+        60000,
+        70000,
+        80000,
+        90000,
+        95000
+      ],
       "tier": "T3"
     },
     {
@@ -347,7 +476,14 @@
       "launchDate": "2023-04",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [50000, 60000, 68000, 75000, 80000, 85000],
+      "trafficTrend": [
+        50000,
+        60000,
+        68000,
+        75000,
+        80000,
+        85000
+      ],
       "tier": "T3"
     },
     {
@@ -366,7 +502,14 @@
       "launchDate": "2023-09",
       "color": "green",
       "badge": null,
-      "trafficTrend": [40000, 50000, 58000, 65000, 70000, 75000],
+      "trafficTrend": [
+        40000,
+        50000,
+        58000,
+        65000,
+        70000,
+        75000
+      ],
       "tier": "T3"
     },
     {
@@ -385,7 +528,14 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [35000, 42000, 50000, 55000, 60000, 65000],
+      "trafficTrend": [
+        35000,
+        42000,
+        50000,
+        55000,
+        60000,
+        65000
+      ],
       "tier": "T3"
     },
     {
@@ -404,7 +554,14 @@
       "launchDate": "2023-06",
       "color": "green",
       "badge": null,
-      "trafficTrend": [30000, 38000, 44000, 48000, 52000, 55000],
+      "trafficTrend": [
+        30000,
+        38000,
+        44000,
+        48000,
+        52000,
+        55000
+      ],
       "tier": "T3"
     },
     {
@@ -423,7 +580,14 @@
       "launchDate": "2024-06",
       "color": "green",
       "badge": "Agent",
-      "trafficTrend": [20000, 28000, 35000, 40000, 42000, 45000],
+      "trafficTrend": [
+        20000,
+        28000,
+        35000,
+        40000,
+        42000,
+        45000
+      ],
       "tier": "T3"
     },
     {
@@ -442,7 +606,14 @@
       "launchDate": "2024-03",
       "color": "purple",
       "badge": "Agent",
-      "trafficTrend": [15000, 22000, 28000, 32000, 35000, 38000],
+      "trafficTrend": [
+        15000,
+        22000,
+        28000,
+        32000,
+        35000,
+        38000
+      ],
       "tier": "T3"
     },
     {
@@ -461,7 +632,14 @@
       "launchDate": "2023-10",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [15000, 20000, 24000, 28000, 30000, 32000],
+      "trafficTrend": [
+        15000,
+        20000,
+        24000,
+        28000,
+        30000,
+        32000
+      ],
       "tier": "T3"
     },
     {
@@ -480,7 +658,14 @@
       "launchDate": "2023-11",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [12000, 16000, 20000, 24000, 26000, 28000],
+      "trafficTrend": [
+        12000,
+        16000,
+        20000,
+        24000,
+        26000,
+        28000
+      ],
       "tier": "T3"
     },
     {
@@ -499,7 +684,14 @@
       "launchDate": "2024-01",
       "color": "green",
       "badge": null,
-      "trafficTrend": [8000, 12000, 15000, 18000, 20000, 22000],
+      "trafficTrend": [
+        8000,
+        12000,
+        15000,
+        18000,
+        20000,
+        22000
+      ],
       "tier": "T3"
     },
     {
@@ -518,7 +710,14 @@
       "launchDate": "2024-02",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [5000, 8000, 12000, 14000, 16000, 18000],
+      "trafficTrend": [
+        5000,
+        8000,
+        12000,
+        14000,
+        16000,
+        18000
+      ],
       "tier": "T3"
     },
     {
@@ -537,7 +736,14 @@
       "launchDate": "2024-04",
       "color": "green",
       "badge": "免费",
-      "trafficTrend": [5000, 7000, 10000, 12000, 14000, 15000],
+      "trafficTrend": [
+        5000,
+        7000,
+        10000,
+        12000,
+        14000,
+        15000
+      ],
       "tier": "T3"
     },
     {
@@ -556,7 +762,14 @@
       "launchDate": "2024-05",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [3000, 5000, 7000, 9000, 11000, 12000],
+      "trafficTrend": [
+        3000,
+        5000,
+        7000,
+        9000,
+        11000,
+        12000
+      ],
       "tier": "T3"
     }
   ],
@@ -583,14 +796,38 @@
     }
   ],
   "categories": [
-    {"id": "general", "name": "综合目录", "count": 25},
-    {"id": "agent", "name": "Agent 专注", "count": 2},
-    {"id": "productivity", "name": "效率工具", "count": 1}
+    {
+      "id": "general",
+      "name": "综合目录",
+      "count": 25
+    },
+    {
+      "id": "agent",
+      "name": "Agent 专注",
+      "count": 2
+    },
+    {
+      "id": "productivity",
+      "name": "效率工具",
+      "count": 1
+    }
   ],
   "tiers": {
-    "T1": {"name": "头部", "threshold": 1000000, "count": 2},
-    "T2": {"name": "中部", "threshold": 100000, "count": 10},
-    "T3": {"name": "长尾", "threshold": 10000, "count": 18}
+    "T1": {
+      "name": "头部",
+      "threshold": 1000000,
+      "count": 2
+    },
+    "T2": {
+      "name": "中部",
+      "threshold": 100000,
+      "count": 10
+    },
+    "T3": {
+      "name": "长尾",
+      "threshold": 10000,
+      "count": 18
+    }
   },
   "metrics": {
     "totalSites": 30,
