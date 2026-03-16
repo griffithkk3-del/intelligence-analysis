@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent 竞品分析报告</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .card-hover { transition: all 0.3s ease; }
+        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
+        .loading { animation: pulse 2s infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div id="app">
+        <!-- Header -->
+        <header class="gradient-bg text-white py-12">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+                <h1 class="text-4xl font-bold mb-2">🔍 AI Agent 竞品分析报告</h1>
+                <p class="text-xl opacity-90">市场洞察 · 数据驱动 · 战略决策</p>
+                <p class="mt-4 text-sm opacity-75" id="updateTime">加载中...</p>
+            </div>
+        </header>
+
+        <!-- Summary Cards -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6" id="summaryCards">
+                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
+                    <div class="text-3xl mb-2">📊</div>
+                    <div class="text-3xl font-bold text-gray-800" id="totalCompetitors">-</div>
+                    <div class="text-gray-500">分析竞品数</div>
+                </div>
+                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
+                    <div class="text-3xl mb-2">👁️</div>
+                    <div class="text-3xl font-bold text-blue-600" id="totalVisits">-</div>
+                    <div class="text-gray-500">总访问量(3月)</div>
+                </div>
+                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
+                    <div class="text-3xl mb-2">⭐</div>
+                    <div class="text-3xl font-bold text-yellow-500" id="totalStars">-</div>
+                    <div class="text-gray-500">GitHub Stars</div>
+                </div>
+                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
+                    <div class="text-3xl mb-2">🌍</div>
+                    <div class="text-3xl font-bold text-green-600" id="bestRank">-</div>
+                    <div class="text-gray-500">最高全球排名</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Competitor Cards -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <h2 class="text-2xl font-bold text-gray-800 mb-8">📋 竞品详情</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8" id="competitorCards"></div>
+        </section>
+
+        <!-- Charts Section -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-white rounded-2xl shadow-lg mx-4 mb-12">
+            <h2 class="text-2xl font-bold text-gray-800 mb-8">📈 数据对比</h2>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">GitHub Stars 对比</h3>
+                    <canvas id="starsChart"></canvas>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-4">月访问量对比</h3>
+                    <canvas id="trafficChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- Insights -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <h2 class="text-2xl font-bold text-gray-800 mb-8">💡 关键洞察</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="insightsCards"></div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="bg-gray-800 text-white py-8 mt-12">
+            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                <p class="text-gray-400">由 小满 🌾 自动生成 · 数据来源：SimilarWeb, GitHub, BuiltWith</p>
+                <p class="text-gray-500 text-sm mt-2">© 2026 竞品分析报告 · 通过对话即可更新数据</p>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        const colorMap = {
+            blue: { gradient: 'from-blue-500 to-purple-600', bg: 'bg-blue-50', border: 'border-blue-500', text: 'text-blue-800', textLight: 'text-blue-700' },
+            green: { gradient: 'from-green-500 to-teal-600', bg: 'bg-green-50', border: 'border-green-500', text: 'text-green-800', textLight: 'text-green-700' },
+            purple: { gradient: 'from-purple-500 to-pink-600', bg: 'bg-purple-50', border: 'border-purple-500', text: 'text-purple-800', textLight: 'text-purple-700' },
+            orange: { gradient: 'from-orange-500 to-red-600', bg: 'bg-orange-50', border: 'border-orange-500', text: 'text-orange-800', textLight: 'text-orange-700' }
+        };
+
+        let starsChart, trafficChart;
+
+        async function loadData() {
+            try {
+                const response = await fetch('data.json?' + Date.now());
+                const data = await response.json();
+                renderPage(data);
+            } catch (error) {
+                console.error('加载数据失败:', error);
+            }
+        }
+
+        function formatNumber(num) {
+            if (num === null || num === undefined) return '待收集';
+            if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+            if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
+            return num.toString();
+        }
+
+        function renderPage(data) {
+            // Update time
+            const updateTime = new Date(data.lastUpdated);
+            document.getElementById('updateTime').textContent = `更新时间：${updateTime.toLocaleString('zh-CN')}`;
+
+            // Summary cards
+            const competitors = data.competitors;
+            const totalStars = competitors.reduce((sum, c) => sum + (c.githubStars || 0), 0);
+            const totalVisits = competitors.reduce((sum, c) => sum + (c.totalVisits3m || 0), 0);
+            const ranks = competitors.filter(c => c.globalRank).map(c => c.globalRank);
+            const bestRank = ranks.length > 0 ? Math.min(...ranks) : null;
+
+            document.getElementById('totalCompetitors').textContent = competitors.length;
+            document.getElementById('totalVisits').textContent = formatNumber(totalVisits);
+            document.getElementById('totalStars').textContent = formatNumber(totalStars);
+            document.getElementById('bestRank').textContent = bestRank ? formatNumber(bestRank) : '-';
+
+            document.querySelectorAll('.loading').forEach(el => el.classList.remove('loading'));
+
+            // Competitor cards
+            const cardsContainer = document.getElementById('competitorCards');
+            cardsContainer.innerHTML = competitors.map(c => renderCompetitorCard(c)).join('');
+
+            // Insights
+            const insightsContainer = document.getElementById('insightsCards');
+            insightsContainer.innerHTML = data.insights.map(i => renderInsightCard(i)).join('');
+
+            // Charts
+            renderCharts(competitors);
+        }
+
+        function renderCompetitorCard(c) {
+            const colors = colorMap[c.color] || colorMap.blue;
+            return `
+                <div class="bg-white rounded-2xl shadow-lg overflow-hidden card-hover">
+                    <div class="bg-gradient-to-r ${colors.gradient} p-6 text-white">
+                        <div class="flex items-center justify-between">
+                            <div>
+                                <h3 class="text-2xl font-bold">${c.name}</h3>
+                                <p class="opacity-90">${c.type}</p>
+                            </div>
+                            ${c.badge ? `<span class="bg-white/20 px-3 py-1 rounded-full text-sm">${c.badge}</span>` : ''}
+                        </div>
+                    </div>
+                    <div class="p-6">
+                        <div class="grid grid-cols-2 gap-4 mb-6">
+                            <div class="bg-gray-50 rounded-lg p-4">
+                                <div class="text-sm text-gray-500">月访问量</div>
+                                <div class="text-2xl font-bold text-gray-800">${c.monthlyVisits ? formatNumber(c.monthlyVisits) : '待收集'}</div>
+                            </div>
+                            <div class="bg-gray-50 rounded-lg p-4">
+                                <div class="text-sm text-gray-500">全球排名</div>
+                                <div class="text-2xl font-bold text-gray-800">${c.globalRank ? '#' + formatNumber(c.globalRank) : '待收集'}</div>
+                            </div>
+                            <div class="bg-gray-50 rounded-lg p-4">
+                                <div class="text-sm text-gray-500">GitHub Stars</div>
+                                <div class="text-2xl font-bold text-yellow-500">⭐ ${c.githubStars ? formatNumber(c.githubStars) : '-'}</div>
+                            </div>
+                            <div class="bg-gray-50 rounded-lg p-4">
+                                <div class="text-sm text-gray-500">GitHub Forks</div>
+                                <div class="text-2xl font-bold text-gray-800">${c.githubForks || '-'}</div>
+                            </div>
+                        </div>
+                        <div class="space-y-3 text-sm">
+                            ${c.totalVisits3m ? `<div class="flex justify-between"><span class="text-gray-500">总访问量(3月)</span><span class="font-medium">${formatNumber(c.totalVisits3m)}</span></div>` : ''}
+                            ${c.avgDuration ? `<div class="flex justify-between"><span class="text-gray-500">平均访问时长</span><span class="font-medium">${c.avgDuration}</span></div>` : ''}
+                            ${c.bounceRate ? `<div class="flex justify-between"><span class="text-gray-500">跳出率</span><span class="font-medium">${c.bounceRate}%</span></div>` : ''}
+                            ${c.pagesPerVisit ? `<div class="flex justify-between"><span class="text-gray-500">页面/访问</span><span class="font-medium">${c.pagesPerVisit}</span></div>` : ''}
+                            ${c.desktopPercent ? `<div class="flex justify-between"><span class="text-gray-500">设备分布</span><span class="font-medium">桌面 ${c.desktopPercent}% / 移动 ${c.mobilePercent}%</span></div>` : ''}
+                            <div class="flex justify-between"><span class="text-gray-500">主要国家</span><span class="font-medium">${c.mainCountry === '中国' ? '🇨🇳' : '🌍'} ${c.mainCountry}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-500">CDN</span><span class="font-medium">${c.cdn}</span></div>
+                            ${c.launchDate ? `<div class="flex justify-between"><span class="text-gray-500">上线时间</span><span class="font-medium">${c.launchDate}</span></div>` : ''}
+                        </div>
+                        <div class="mt-6 flex gap-3">
+                            <a href="${c.url}" target="_blank" class="flex-1 bg-${c.color}-500 text-white text-center py-2 rounded-lg hover:bg-${c.color}-600 transition" style="background-color: var(--tw-${c.color}-500, #3b82f6)">访问网站</a>
+                            ${c.github ? `<a href="${c.github}" target="_blank" class="flex-1 bg-gray-800 text-white text-center py-2 rounded-lg hover:bg-gray-900 transition">GitHub</a>` : ''}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function renderInsightCard(i) {
+            const colors = colorMap[i.color] || colorMap.blue;
+            return `
+                <div class="${colors.bg} border-l-4 ${colors.border} p-6 rounded-r-lg">
+                    <h3 class="font-semibold ${colors.text} mb-2">${i.title}</h3>
+                    <p class="${colors.textLight} text-sm">${i.content}</p>
+                </div>
+            `;
+        }
+
+        function renderCharts(competitors) {
+            const labels = competitors.map(c => c.name.split(' ')[0]);
+            const stars = competitors.map(c => c.githubStars || 0);
+            const visits = competitors.map(c => c.monthlyVisits || 0);
+            const colors = competitors.map(c => c.color === 'green' ? 'rgba(16, 185, 129, 0.8)' : 'rgba(59, 130, 246, 0.8)');
+
+            if (starsChart) starsChart.destroy();
+            if (trafficChart) trafficChart.destroy();
+
+            starsChart = new Chart(document.getElementById('starsChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{ label: 'GitHub Stars', data: stars, backgroundColor: colors, borderRadius: 8 }]
+                },
+                options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+            });
+
+            trafficChart = new Chart(document.getElementById('trafficChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{ label: '月访问量', data: visits, backgroundColor: colors, borderRadius: 8 }]
+                },
+                options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
+            });
+        }
+
+        // Load data on page load
+        loadData();
+
+        // Auto refresh every 30 seconds
+        setInterval(loadData, 30000);
+    </script>
+</body>
+</html>

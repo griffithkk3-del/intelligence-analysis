@@ -1,0 +1,68 @@
+{
+  "lastUpdated": "2026-03-16T16:56:00+08:00",
+  "competitors": [
+    {
+      "id": "openclaw101",
+      "name": "openclaw101.dev",
+      "type": "AI 编程教程",
+      "url": "https://openclaw101.dev",
+      "github": "https://github.com/mengjian-github/openclaw101",
+      "githubStars": 2298,
+      "githubForks": 242,
+      "monthlyVisits": 45147,
+      "totalVisits3m": 135440,
+      "globalRank": 250846,
+      "countryRank": 11203,
+      "avgDuration": "3:42",
+      "bounceRate": 45.2,
+      "pagesPerVisit": 2.8,
+      "desktopPercent": 97.88,
+      "mobilePercent": 2.12,
+      "mainCountry": "中国",
+      "cdn": "Cloudflare",
+      "launchDate": "2025-02-04",
+      "color": "blue",
+      "badge": "#1 热门"
+    },
+    {
+      "id": "clawhub",
+      "name": "ClawHub (openclawmp.cc)",
+      "type": "Agent 技能市场",
+      "url": "https://openclawmp.cc",
+      "github": "https://github.com/openclaw/clawhub",
+      "githubStars": 6023,
+      "githubForks": 942,
+      "monthlyVisits": null,
+      "totalVisits3m": null,
+      "globalRank": null,
+      "countryRank": null,
+      "avgDuration": null,
+      "bounceRate": null,
+      "pagesPerVisit": null,
+      "desktopPercent": null,
+      "mobilePercent": null,
+      "mainCountry": "全球",
+      "cdn": "Cloudflare",
+      "launchDate": "2025-01-03",
+      "color": "green",
+      "badge": "官方平台"
+    }
+  ],
+  "insights": [
+    {
+      "title": "📚 教程市场",
+      "content": "openclaw101.dev 专注 AI 编程教程，月访问量 4.5 万，用户粘性高（平均访问 3:42）",
+      "color": "blue"
+    },
+    {
+      "title": "🛒 技能市场",
+      "content": "ClawHub 是官方技能市场，GitHub 活跃度高（6K+ Stars），面向全球开发者",
+      "color": "green"
+    },
+    {
+      "title": "🎯 市场机会",
+      "content": "两者定位互补，教程引流 + 技能变现的组合模式值得关注",
+      "color": "purple"
+    }
+  ]
+}
