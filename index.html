@@ -3,244 +3,371 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Agent 竞品分析报告</title>
+    <title>AI Agent 竞品情报中心</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; }
-        .gradient-bg { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+        .gradient-bg { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); }
         .card-hover { transition: all 0.3s ease; }
-        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.1); }
-        .loading { animation: pulse 2s infinite; }
-        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
+        .card-hover:hover { transform: translateY(-4px); box-shadow: 0 20px 40px rgba(0,0,0,0.2); }
+        .heatmap-cell { transition: all 0.3s ease; cursor: pointer; }
+        .heatmap-cell:hover { transform: scale(1.05); z-index: 10; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 100; }
+        .modal.active { display: flex; align-items: center; justify-content: center; }
+        .modal-content { max-width: 900px; max-height: 90vh; overflow-y: auto; }
+        .trend-up { color: #10b981; }
+        .trend-down { color: #ef4444; }
+        .glass { background: rgba(255,255,255,0.1); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); }
     </style>
 </head>
-<body class="bg-gray-50 min-h-screen">
-    <div id="app">
-        <!-- Header -->
-        <header class="gradient-bg text-white py-12">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                <h1 class="text-4xl font-bold mb-2">🔍 AI Agent 竞品分析报告</h1>
-                <p class="text-xl opacity-90">市场洞察 · 数据驱动 · 战略决策</p>
-                <p class="mt-4 text-sm opacity-75" id="updateTime">加载中...</p>
-            </div>
-        </header>
-
-        <!-- Summary Cards -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-8">
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-6" id="summaryCards">
-                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
-                    <div class="text-3xl mb-2">📊</div>
-                    <div class="text-3xl font-bold text-gray-800" id="totalCompetitors">-</div>
-                    <div class="text-gray-500">分析竞品数</div>
-                </div>
-                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
-                    <div class="text-3xl mb-2">👁️</div>
-                    <div class="text-3xl font-bold text-blue-600" id="totalVisits">-</div>
-                    <div class="text-gray-500">总访问量(3月)</div>
-                </div>
-                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
-                    <div class="text-3xl mb-2">⭐</div>
-                    <div class="text-3xl font-bold text-yellow-500" id="totalStars">-</div>
-                    <div class="text-gray-500">GitHub Stars</div>
-                </div>
-                <div class="bg-white rounded-xl shadow-lg p-6 card-hover loading">
-                    <div class="text-3xl mb-2">🌍</div>
-                    <div class="text-3xl font-bold text-green-600" id="bestRank">-</div>
-                    <div class="text-gray-500">最高全球排名</div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Competitor Cards -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <h2 class="text-2xl font-bold text-gray-800 mb-8">📋 竞品详情</h2>
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8" id="competitorCards"></div>
-        </section>
-
-        <!-- Charts Section -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-white rounded-2xl shadow-lg mx-4 mb-12">
-            <h2 class="text-2xl font-bold text-gray-800 mb-8">📈 数据对比</h2>
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+<body class="bg-gray-900 min-h-screen text-white">
+    <!-- Header -->
+    <header class="gradient-bg py-8 border-b border-gray-700">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between">
                 <div>
-                    <h3 class="text-lg font-semibold mb-4">GitHub Stars 对比</h3>
-                    <canvas id="starsChart"></canvas>
+                    <h1 class="text-3xl font-bold mb-1">🔍 AI Agent 竞品情报中心</h1>
+                    <p class="text-gray-400">实时监控 · 自动分析 · 数据驱动</p>
                 </div>
-                <div>
-                    <h3 class="text-lg font-semibold mb-4">月访问量对比</h3>
-                    <canvas id="trafficChart"></canvas>
+                <div class="text-right">
+                    <p class="text-sm text-gray-400" id="updateTime">加载中...</p>
+                    <p class="text-xs text-gray-500">数据来源: SimilarWeb, GitHub</p>
                 </div>
             </div>
-        </section>
+        </div>
+    </header>
 
-        <!-- Insights -->
-        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-            <h2 class="text-2xl font-bold text-gray-800 mb-8">💡 关键洞察</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="insightsCards"></div>
-        </section>
+    <!-- Heatmap Section -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-xl font-bold mb-6 flex items-center">
+            <span class="mr-2">🔥</span> 流量热力图
+            <span class="text-sm font-normal text-gray-400 ml-3">点击查看详情</span>
+        </h2>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4" id="heatmapGrid"></div>
+    </section>
 
-        <!-- Footer -->
-        <footer class="bg-gray-800 text-white py-8 mt-12">
-            <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-                <p class="text-gray-400">由 小满 🌾 自动生成 · 数据来源：SimilarWeb, GitHub, BuiltWith</p>
-                <p class="text-gray-500 text-sm mt-2">© 2026 竞品分析报告 · 通过对话即可更新数据</p>
-            </div>
-        </footer>
+    <!-- Category Filter -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <div class="flex flex-wrap gap-2" id="categoryFilter">
+            <button class="px-4 py-2 rounded-full bg-blue-600 text-white text-sm" data-category="all">全部</button>
+        </div>
+    </section>
+
+    <!-- Competitor Grid -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-xl font-bold mb-6">📊 竞品列表</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="competitorGrid"></div>
+    </section>
+
+    <!-- Insights -->
+    <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <h2 class="text-xl font-bold mb-6">💡 市场洞察</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6" id="insightsGrid"></div>
+    </section>
+
+    <!-- Detail Modal -->
+    <div class="modal" id="detailModal">
+        <div class="modal-content bg-gray-800 rounded-2xl p-8 m-4 w-full" id="modalContent"></div>
     </div>
 
-    <script>
-        const colorMap = {
-            blue: { gradient: 'from-blue-500 to-purple-600', bg: 'bg-blue-50', border: 'border-blue-500', text: 'text-blue-800', textLight: 'text-blue-700' },
-            green: { gradient: 'from-green-500 to-teal-600', bg: 'bg-green-50', border: 'border-green-500', text: 'text-green-800', textLight: 'text-green-700' },
-            purple: { gradient: 'from-purple-500 to-pink-600', bg: 'bg-purple-50', border: 'border-purple-500', text: 'text-purple-800', textLight: 'text-purple-700' },
-            orange: { gradient: 'from-orange-500 to-red-600', bg: 'bg-orange-50', border: 'border-orange-500', text: 'text-orange-800', textLight: 'text-orange-700' }
-        };
+    <!-- Footer -->
+    <footer class="border-t border-gray-700 py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <p class="text-gray-500">由 小满 🌾 自动生成 · 数据每日更新</p>
+            <p class="text-gray-600 text-sm mt-2">© 2026 AI Agent 竞品情报中心</p>
+        </div>
+    </footer>
 
-        let starsChart, trafficChart;
+    <script>
+        let data = null;
+        let currentCategory = 'all';
+
+        const colorMap = {
+            blue: { bg: 'bg-blue-500', light: 'bg-blue-500/20', border: 'border-blue-500', text: 'text-blue-400' },
+            green: { bg: 'bg-green-500', light: 'bg-green-500/20', border: 'border-green-500', text: 'text-green-400' },
+            purple: { bg: 'bg-purple-500', light: 'bg-purple-500/20', border: 'border-purple-500', text: 'text-purple-400' },
+            orange: { bg: 'bg-orange-500', light: 'bg-orange-500/20', border: 'border-orange-500', text: 'text-orange-400' },
+            pink: { bg: 'bg-pink-500', light: 'bg-pink-500/20', border: 'border-pink-500', text: 'text-pink-400' }
+        };
 
         async function loadData() {
             try {
                 const response = await fetch('data.json?' + Date.now());
-                const data = await response.json();
-                renderPage(data);
+                data = await response.json();
+                renderPage();
             } catch (error) {
                 console.error('加载数据失败:', error);
             }
         }
 
         function formatNumber(num) {
-            if (num === null || num === undefined) return '待收集';
+            if (!num) return '-';
             if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
             if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
             return num.toString();
         }
 
-        function renderPage(data) {
-            // Update time
-            const updateTime = new Date(data.lastUpdated);
-            document.getElementById('updateTime').textContent = `更新时间：${updateTime.toLocaleString('zh-CN')}`;
-
-            // Summary cards
-            const competitors = data.competitors;
-            const totalStars = competitors.reduce((sum, c) => sum + (c.githubStars || 0), 0);
-            const totalVisits = competitors.reduce((sum, c) => sum + (c.totalVisits3m || 0), 0);
-            const ranks = competitors.filter(c => c.globalRank).map(c => c.globalRank);
-            const bestRank = ranks.length > 0 ? Math.min(...ranks) : null;
-
-            document.getElementById('totalCompetitors').textContent = competitors.length;
-            document.getElementById('totalVisits').textContent = formatNumber(totalVisits);
-            document.getElementById('totalStars').textContent = formatNumber(totalStars);
-            document.getElementById('bestRank').textContent = bestRank ? formatNumber(bestRank) : '-';
-
-            document.querySelectorAll('.loading').forEach(el => el.classList.remove('loading'));
-
-            // Competitor cards
-            const cardsContainer = document.getElementById('competitorCards');
-            cardsContainer.innerHTML = competitors.map(c => renderCompetitorCard(c)).join('');
-
-            // Insights
-            const insightsContainer = document.getElementById('insightsCards');
-            insightsContainer.innerHTML = data.insights.map(i => renderInsightCard(i)).join('');
-
-            // Charts
-            renderCharts(competitors);
+        function getHeatColor(value, max) {
+            const ratio = Math.log(value + 1) / Math.log(max + 1);
+            if (ratio > 0.8) return 'from-red-600 to-orange-500';
+            if (ratio > 0.6) return 'from-orange-500 to-yellow-500';
+            if (ratio > 0.4) return 'from-yellow-500 to-green-500';
+            if (ratio > 0.2) return 'from-green-500 to-teal-500';
+            return 'from-teal-500 to-blue-500';
         }
 
-        function renderCompetitorCard(c) {
+        function renderPage() {
+            document.getElementById('updateTime').textContent = `更新: ${new Date(data.lastUpdated).toLocaleString('zh-CN')}`;
+            renderHeatmap();
+            renderCategories();
+            renderCompetitors();
+            renderInsights();
+        }
+
+        function renderHeatmap() {
+            const container = document.getElementById('heatmapGrid');
+            const sorted = [...data.competitors].sort((a, b) => (b.monthlyVisits || 0) - (a.monthlyVisits || 0));
+            const maxVisits = sorted[0]?.monthlyVisits || 1;
+
+            container.innerHTML = sorted.map(c => {
+                const heatColor = getHeatColor(c.monthlyVisits || 0, maxVisits);
+                const size = Math.max(80, Math.min(150, 80 + (c.monthlyVisits / maxVisits) * 70));
+                return `
+                    <div class="heatmap-cell bg-gradient-to-br ${heatColor} rounded-xl p-4 text-center cursor-pointer"
+                         onclick="showDetail('${c.id}')" style="min-height: ${size}px">
+                        <div class="font-bold text-lg truncate">${c.name}</div>
+                        <div class="text-2xl font-bold mt-2">${formatNumber(c.monthlyVisits)}</div>
+                        <div class="text-xs opacity-75">月访问</div>
+                        ${c.badge ? `<span class="inline-block mt-2 px-2 py-0.5 bg-white/20 rounded-full text-xs">${c.badge}</span>` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderCategories() {
+            const container = document.getElementById('categoryFilter');
+            const categories = data.categories || [];
+            container.innerHTML = `
+                <button class="px-4 py-2 rounded-full ${currentCategory === 'all' ? 'bg-blue-600' : 'bg-gray-700'} text-white text-sm" 
+                        onclick="filterCategory('all')">全部 (${data.competitors.length})</button>
+                ${categories.map(cat => `
+                    <button class="px-4 py-2 rounded-full ${currentCategory === cat.id ? 'bg-blue-600' : 'bg-gray-700'} text-white text-sm"
+                            onclick="filterCategory('${cat.id}')">${cat.name} (${cat.competitors.length})</button>
+                `).join('')}
+            `;
+        }
+
+        function filterCategory(category) {
+            currentCategory = category;
+            renderCategories();
+            renderCompetitors();
+        }
+
+        function renderCompetitors() {
+            const container = document.getElementById('competitorGrid');
+            let competitors = data.competitors;
+            
+            if (currentCategory !== 'all') {
+                const cat = data.categories.find(c => c.id === currentCategory);
+                if (cat) {
+                    competitors = competitors.filter(c => cat.competitors.includes(c.id));
+                }
+            }
+
+            container.innerHTML = competitors.map(c => {
+                const colors = colorMap[c.color] || colorMap.blue;
+                const trend = c.trafficTrend || [];
+                const growth = trend.length >= 2 ? ((trend[trend.length-1] - trend[0]) / trend[0] * 100).toFixed(0) : 0;
+                
+                return `
+                    <div class="glass rounded-xl overflow-hidden card-hover cursor-pointer" onclick="showDetail('${c.id}')">
+                        <div class="p-6">
+                            <div class="flex items-center justify-between mb-4">
+                                <div>
+                                    <h3 class="font-bold text-lg">${c.name}</h3>
+                                    <p class="text-gray-400 text-sm">${c.type}</p>
+                                </div>
+                                ${c.badge ? `<span class="px-2 py-1 ${colors.light} ${colors.text} rounded-full text-xs">${c.badge}</span>` : ''}
+                            </div>
+                            <div class="grid grid-cols-2 gap-4 mb-4">
+                                <div>
+                                    <div class="text-2xl font-bold">${formatNumber(c.monthlyVisits)}</div>
+                                    <div class="text-xs text-gray-400">月访问量</div>
+                                </div>
+                                <div>
+                                    <div class="text-2xl font-bold ${growth > 0 ? 'trend-up' : 'trend-down'}">${growth > 0 ? '+' : ''}${growth}%</div>
+                                    <div class="text-xs text-gray-400">6月增长</div>
+                                </div>
+                            </div>
+                            <div class="flex items-center justify-between text-sm text-gray-400">
+                                <span>🌍 #${formatNumber(c.globalRank)}</span>
+                                ${c.githubStars ? `<span>⭐ ${formatNumber(c.githubStars)}</span>` : ''}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function renderInsights() {
+            const container = document.getElementById('insightsGrid');
+            container.innerHTML = data.insights.map(i => {
+                const colors = colorMap[i.color] || colorMap.blue;
+                return `
+                    <div class="glass rounded-xl p-6 border-l-4 ${colors.border}">
+                        <h3 class="font-semibold mb-2">${i.title}</h3>
+                        <p class="text-gray-400 text-sm">${i.content}</p>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function showDetail(id) {
+            const c = data.competitors.find(x => x.id === id);
+            if (!c) return;
+
             const colors = colorMap[c.color] || colorMap.blue;
-            return `
-                <div class="bg-white rounded-2xl shadow-lg overflow-hidden card-hover">
-                    <div class="bg-gradient-to-r ${colors.gradient} p-6 text-white">
-                        <div class="flex items-center justify-between">
-                            <div>
-                                <h3 class="text-2xl font-bold">${c.name}</h3>
-                                <p class="opacity-90">${c.type}</p>
-                            </div>
-                            ${c.badge ? `<span class="bg-white/20 px-3 py-1 rounded-full text-sm">${c.badge}</span>` : ''}
+            const trend = c.trafficTrend || [];
+            const growth = trend.length >= 2 ? ((trend[trend.length-1] - trend[0]) / trend[0] * 100).toFixed(0) : 0;
+
+            document.getElementById('modalContent').innerHTML = `
+                <div class="flex justify-between items-start mb-6">
+                    <div>
+                        <h2 class="text-2xl font-bold">${c.name}</h2>
+                        <p class="text-gray-400">${c.domain} · ${c.type}</p>
+                    </div>
+                    <button onclick="closeModal()" class="text-gray-400 hover:text-white text-2xl">&times;</button>
+                </div>
+                
+                <p class="text-gray-300 mb-6">${c.description || ''}</p>
+
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+                    <div class="bg-gray-700/50 rounded-lg p-4">
+                        <div class="text-2xl font-bold">${formatNumber(c.monthlyVisits)}</div>
+                        <div class="text-sm text-gray-400">月访问量</div>
+                    </div>
+                    <div class="bg-gray-700/50 rounded-lg p-4">
+                        <div class="text-2xl font-bold">#${formatNumber(c.globalRank)}</div>
+                        <div class="text-sm text-gray-400">全球排名</div>
+                    </div>
+                    <div class="bg-gray-700/50 rounded-lg p-4">
+                        <div class="text-2xl font-bold ${growth > 0 ? 'trend-up' : 'trend-down'}">${growth > 0 ? '+' : ''}${growth}%</div>
+                        <div class="text-sm text-gray-400">6月增长</div>
+                    </div>
+                    <div class="bg-gray-700/50 rounded-lg p-4">
+                        <div class="text-2xl font-bold">${c.avgDuration || '-'}</div>
+                        <div class="text-sm text-gray-400">平均时长</div>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                    <div>
+                        <h3 class="font-semibold mb-4">📈 流量趋势</h3>
+                        <canvas id="trendChart" height="200"></canvas>
+                    </div>
+                    <div>
+                        <h3 class="font-semibold mb-4">🌐 流量来源</h3>
+                        <canvas id="sourceChart" height="200"></canvas>
+                    </div>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-8">
+                    <div>
+                        <h3 class="font-semibold mb-4">🗺️ 主要市场</h3>
+                        <div class="space-y-2">
+                            ${(c.topCountries || []).map(tc => `
+                                <div class="flex items-center justify-between">
+                                    <span>${tc.country}</span>
+                                    <div class="flex items-center">
+                                        <div class="w-32 bg-gray-700 rounded-full h-2 mr-2">
+                                            <div class="bg-blue-500 h-2 rounded-full" style="width: ${tc.percent}%"></div>
+                                        </div>
+                                        <span class="text-sm">${tc.percent}%</span>
+                                    </div>
+                                </div>
+                            `).join('')}
                         </div>
                     </div>
-                    <div class="p-6">
-                        <div class="grid grid-cols-2 gap-4 mb-6">
-                            <div class="bg-gray-50 rounded-lg p-4">
-                                <div class="text-sm text-gray-500">月访问量</div>
-                                <div class="text-2xl font-bold text-gray-800">${c.monthlyVisits ? formatNumber(c.monthlyVisits) : '待收集'}</div>
-                            </div>
-                            <div class="bg-gray-50 rounded-lg p-4">
-                                <div class="text-sm text-gray-500">全球排名</div>
-                                <div class="text-2xl font-bold text-gray-800">${c.globalRank ? '#' + formatNumber(c.globalRank) : '待收集'}</div>
-                            </div>
-                            <div class="bg-gray-50 rounded-lg p-4">
-                                <div class="text-sm text-gray-500">GitHub Stars</div>
-                                <div class="text-2xl font-bold text-yellow-500">⭐ ${c.githubStars ? formatNumber(c.githubStars) : '-'}</div>
-                            </div>
-                            <div class="bg-gray-50 rounded-lg p-4">
-                                <div class="text-sm text-gray-500">GitHub Forks</div>
-                                <div class="text-2xl font-bold text-gray-800">${c.githubForks || '-'}</div>
-                            </div>
-                        </div>
+                    <div>
+                        <h3 class="font-semibold mb-4">📊 其他指标</h3>
                         <div class="space-y-3 text-sm">
-                            ${c.totalVisits3m ? `<div class="flex justify-between"><span class="text-gray-500">总访问量(3月)</span><span class="font-medium">${formatNumber(c.totalVisits3m)}</span></div>` : ''}
-                            ${c.avgDuration ? `<div class="flex justify-between"><span class="text-gray-500">平均访问时长</span><span class="font-medium">${c.avgDuration}</span></div>` : ''}
-                            ${c.bounceRate ? `<div class="flex justify-between"><span class="text-gray-500">跳出率</span><span class="font-medium">${c.bounceRate}%</span></div>` : ''}
-                            ${c.pagesPerVisit ? `<div class="flex justify-between"><span class="text-gray-500">页面/访问</span><span class="font-medium">${c.pagesPerVisit}</span></div>` : ''}
-                            ${c.desktopPercent ? `<div class="flex justify-between"><span class="text-gray-500">设备分布</span><span class="font-medium">桌面 ${c.desktopPercent}% / 移动 ${c.mobilePercent}%</span></div>` : ''}
-                            <div class="flex justify-between"><span class="text-gray-500">主要国家</span><span class="font-medium">${c.mainCountry === '中国' ? '🇨🇳' : '🌍'} ${c.mainCountry}</span></div>
-                            <div class="flex justify-between"><span class="text-gray-500">CDN</span><span class="font-medium">${c.cdn}</span></div>
-                            ${c.launchDate ? `<div class="flex justify-between"><span class="text-gray-500">上线时间</span><span class="font-medium">${c.launchDate}</span></div>` : ''}
-                        </div>
-                        <div class="mt-6 flex gap-3">
-                            <a href="${c.url}" target="_blank" class="flex-1 bg-${c.color}-500 text-white text-center py-2 rounded-lg hover:bg-${c.color}-600 transition" style="background-color: var(--tw-${c.color}-500, #3b82f6)">访问网站</a>
-                            ${c.github ? `<a href="${c.github}" target="_blank" class="flex-1 bg-gray-800 text-white text-center py-2 rounded-lg hover:bg-gray-900 transition">GitHub</a>` : ''}
+                            <div class="flex justify-between"><span class="text-gray-400">跳出率</span><span>${c.bounceRate || '-'}%</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">页面/访问</span><span>${c.pagesPerVisit || '-'}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">桌面端</span><span>${c.desktopPercent || '-'}%</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">移动端</span><span>${c.mobilePercent || '-'}%</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">CDN</span><span>${c.cdn || '-'}</span></div>
+                            <div class="flex justify-between"><span class="text-gray-400">上线时间</span><span>${c.launchDate || '-'}</span></div>
                         </div>
                     </div>
                 </div>
-            `;
-        }
 
-        function renderInsightCard(i) {
-            const colors = colorMap[i.color] || colorMap.blue;
-            return `
-                <div class="${colors.bg} border-l-4 ${colors.border} p-6 rounded-r-lg">
-                    <h3 class="font-semibold ${colors.text} mb-2">${i.title}</h3>
-                    <p class="${colors.textLight} text-sm">${i.content}</p>
+                <div class="flex gap-4">
+                    <a href="${c.url}" target="_blank" class="flex-1 bg-blue-600 text-center py-3 rounded-lg hover:bg-blue-700 transition">访问网站</a>
+                    ${c.github ? `<a href="${c.github}" target="_blank" class="flex-1 bg-gray-700 text-center py-3 rounded-lg hover:bg-gray-600 transition">GitHub</a>` : ''}
                 </div>
             `;
+
+            document.getElementById('detailModal').classList.add('active');
+
+            // Render charts
+            setTimeout(() => {
+                if (trend.length > 0) {
+                    new Chart(document.getElementById('trendChart'), {
+                        type: 'line',
+                        data: {
+                            labels: ['10月', '11月', '12月', '1月', '2月', '3月'],
+                            datasets: [{
+                                label: '月访问量',
+                                data: trend,
+                                borderColor: '#3b82f6',
+                                backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                                fill: true,
+                                tension: 0.4
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            plugins: { legend: { display: false } },
+                            scales: { y: { beginAtZero: false, grid: { color: 'rgba(255,255,255,0.1)' } }, x: { grid: { display: false } } }
+                        }
+                    });
+                }
+
+                if (c.trafficSources) {
+                    new Chart(document.getElementById('sourceChart'), {
+                        type: 'doughnut',
+                        data: {
+                            labels: ['直接访问', '搜索', '社交', '引荐'],
+                            datasets: [{
+                                data: [c.trafficSources.direct, c.trafficSources.search, c.trafficSources.social, c.trafficSources.referral],
+                                backgroundColor: ['#3b82f6', '#10b981', '#f59e0b', '#8b5cf6']
+                            }]
+                        },
+                        options: {
+                            responsive: true,
+                            plugins: { legend: { position: 'bottom', labels: { color: '#9ca3af' } } }
+                        }
+                    });
+                }
+            }, 100);
         }
 
-        function renderCharts(competitors) {
-            const labels = competitors.map(c => c.name.split(' ')[0]);
-            const stars = competitors.map(c => c.githubStars || 0);
-            const visits = competitors.map(c => c.monthlyVisits || 0);
-            const colors = competitors.map(c => c.color === 'green' ? 'rgba(16, 185, 129, 0.8)' : 'rgba(59, 130, 246, 0.8)');
-
-            if (starsChart) starsChart.destroy();
-            if (trafficChart) trafficChart.destroy();
-
-            starsChart = new Chart(document.getElementById('starsChart'), {
-                type: 'bar',
-                data: {
-                    labels: labels,
-                    datasets: [{ label: 'GitHub Stars', data: stars, backgroundColor: colors, borderRadius: 8 }]
-                },
-                options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
-            });
-
-            trafficChart = new Chart(document.getElementById('trafficChart'), {
-                type: 'bar',
-                data: {
-                    labels: labels,
-                    datasets: [{ label: '月访问量', data: visits, backgroundColor: colors, borderRadius: 8 }]
-                },
-                options: { responsive: true, plugins: { legend: { display: false } }, scales: { y: { beginAtZero: true } } }
-            });
+        function closeModal() {
+            document.getElementById('detailModal').classList.remove('active');
         }
 
-        // Load data on page load
+        document.getElementById('detailModal').addEventListener('click', (e) => {
+            if (e.target.id === 'detailModal') closeModal();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeModal();
+        });
+
         loadData();
-
-        // Auto refresh every 30 seconds
-        setInterval(loadData, 30000);
+        setInterval(loadData, 60000);
     </script>
 </body>
 </html>
