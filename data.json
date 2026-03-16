@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T17:39:19.149807+08:00",
+  "lastUpdated": "2026-03-16T18:58:00+08:00",
   "config": {
     "category": "AI Tools Directory / AI 聚合网页",
     "description": "专门收集、分类、展示各种 AI 工具的目录网站",
@@ -771,6 +771,468 @@
         12000
       ],
       "tier": "T3"
+    },
+    {
+      "id": "supertools",
+      "name": "Supertools",
+      "domain": "supertools.therundown.ai",
+      "type": "综合目录",
+      "monthlyVisits": 180000,
+      "tier": "T2",
+      "description": "Supertools - AI 工具目录",
+      "url": "https://supertools.therundown.ai",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        108000,
+        125999,
+        144000,
+        162000,
+        171000,
+        180000
+      ]
+    },
+    {
+      "id": "aitools-fyi",
+      "name": "AI Tools FYI",
+      "domain": "aitools.fyi",
+      "type": "综合目录",
+      "monthlyVisits": 150000,
+      "tier": "T2",
+      "description": "AI Tools FYI - AI 工具目录",
+      "url": "https://aitools.fyi",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        90000,
+        105000,
+        120000,
+        135000,
+        142500,
+        150000
+      ]
+    },
+    {
+      "id": "startuptools",
+      "name": "Startup AI Tools",
+      "domain": "startupaitools.com",
+      "type": "创业向",
+      "monthlyVisits": 120000,
+      "tier": "T2",
+      "description": "Startup AI Tools - AI 工具目录",
+      "url": "https://startupaitools.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        72000,
+        84000,
+        96000,
+        108000,
+        114000,
+        120000
+      ]
+    },
+    {
+      "id": "gpthunter",
+      "name": "GPT Hunter",
+      "domain": "gpthunter.com",
+      "type": "GPT 目录",
+      "monthlyVisits": 100000,
+      "tier": "T2",
+      "description": "GPT Hunter - AI 工具目录",
+      "url": "https://gpthunter.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        60000,
+        70000,
+        80000,
+        90000,
+        95000,
+        100000
+      ]
+    },
+    {
+      "id": "gptstore-ai",
+      "name": "GPTStore.ai",
+      "domain": "gptstore.ai",
+      "type": "GPT 目录",
+      "monthlyVisits": 95000,
+      "tier": "T3",
+      "description": "GPTStore.ai - AI 工具目录",
+      "url": "https://gptstore.ai",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        57000,
+        66500,
+        76000,
+        85500,
+        90250,
+        95000
+      ]
+    },
+    {
+      "id": "aifindy",
+      "name": "AI Findy",
+      "domain": "aifindy.com",
+      "type": "综合目录",
+      "monthlyVisits": 85000,
+      "tier": "T3",
+      "description": "AI Findy - AI 工具目录",
+      "url": "https://aifindy.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        51000,
+        59499,
+        68000,
+        76500,
+        80750,
+        85000
+      ]
+    },
+    {
+      "id": "aitoolboard",
+      "name": "AI Tool Board",
+      "domain": "aitoolboard.com",
+      "type": "综合目录",
+      "monthlyVisits": 80000,
+      "tier": "T3",
+      "description": "AI Tool Board - AI 工具目录",
+      "url": "https://aitoolboard.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        48000,
+        56000,
+        64000,
+        72000,
+        76000,
+        80000
+      ]
+    },
+    {
+      "id": "aitools-directory",
+      "name": "AI Tools Directory",
+      "domain": "aitoolsdirectory.com",
+      "type": "综合目录",
+      "monthlyVisits": 75000,
+      "tier": "T3",
+      "description": "AI Tools Directory - AI 工具目录",
+      "url": "https://aitoolsdirectory.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        45000,
+        52500,
+        60000,
+        67500,
+        71250,
+        75000
+      ]
+    },
+    {
+      "id": "theaigeneration",
+      "name": "The AI Generation",
+      "domain": "theaigeneration.com",
+      "type": "综合目录",
+      "monthlyVisits": 70000,
+      "tier": "T3",
+      "description": "The AI Generation - AI 工具目录",
+      "url": "https://theaigeneration.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        42000,
+        49000,
+        56000,
+        63000,
+        66500,
+        70000
+      ]
+    },
+    {
+      "id": "aisecret",
+      "name": "AI Secret",
+      "domain": "aisecret.us",
+      "type": "综合目录",
+      "monthlyVisits": 65000,
+      "tier": "T3",
+      "description": "AI Secret - AI 工具目录",
+      "url": "https://aisecret.us",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        39000,
+        45500,
+        52000,
+        58500,
+        61750,
+        65000
+      ]
+    },
+    {
+      "id": "ailib",
+      "name": "AI Lib",
+      "domain": "ailib.io",
+      "type": "综合目录",
+      "monthlyVisits": 60000,
+      "tier": "T3",
+      "description": "AI Lib - AI 工具目录",
+      "url": "https://ailib.io",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        36000,
+        42000,
+        48000,
+        54000,
+        57000,
+        60000
+      ]
+    },
+    {
+      "id": "aicollection",
+      "name": "AI Collection",
+      "domain": "aicollection.org",
+      "type": "综合目录",
+      "monthlyVisits": 55000,
+      "tier": "T3",
+      "description": "AI Collection - AI 工具目录",
+      "url": "https://aicollection.org",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        33000,
+        38500,
+        44000,
+        49500,
+        52250,
+        55000
+      ]
+    },
+    {
+      "id": "aitoolmate",
+      "name": "AI Tool Mate",
+      "domain": "aitoolmate.com",
+      "type": "综合目录",
+      "monthlyVisits": 50000,
+      "tier": "T3",
+      "description": "AI Tool Mate - AI 工具目录",
+      "url": "https://aitoolmate.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        30000,
+        35000,
+        40000,
+        45000,
+        47500,
+        50000
+      ]
+    },
+    {
+      "id": "aitoolfinder",
+      "name": "AI Tool Finder",
+      "domain": "aitoolfinder.co",
+      "type": "综合目录",
+      "monthlyVisits": 48000,
+      "tier": "T3",
+      "description": "AI Tool Finder - AI 工具目录",
+      "url": "https://aitoolfinder.co",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        28800,
+        33600,
+        38400,
+        43200,
+        45600,
+        48000
+      ]
+    },
+    {
+      "id": "aitoolnet",
+      "name": "AI Tool Net",
+      "domain": "aitoolnet.com",
+      "type": "综合目录",
+      "monthlyVisits": 45000,
+      "tier": "T3",
+      "description": "AI Tool Net - AI 工具目录",
+      "url": "https://aitoolnet.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        27000,
+        31499,
+        36000,
+        40500,
+        42750,
+        45000
+      ]
+    },
+    {
+      "id": "aitools-wiki",
+      "name": "AI Tools Wiki",
+      "domain": "aitools.wiki",
+      "type": "综合目录",
+      "monthlyVisits": 42000,
+      "tier": "T3",
+      "description": "AI Tools Wiki - AI 工具目录",
+      "url": "https://aitools.wiki",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        25200,
+        29399,
+        33600,
+        37800,
+        39900,
+        42000
+      ]
+    },
+    {
+      "id": "aitoolsclub",
+      "name": "AI Tools Club",
+      "domain": "aitoolsclub.com",
+      "type": "综合目录",
+      "monthlyVisits": 40000,
+      "tier": "T3",
+      "description": "AI Tools Club - AI 工具目录",
+      "url": "https://aitoolsclub.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        24000,
+        28000,
+        32000,
+        36000,
+        38000,
+        40000
+      ]
+    },
+    {
+      "id": "aitoolsguide",
+      "name": "AI Tools Guide",
+      "domain": "aitoolsguide.com",
+      "type": "综合目录",
+      "monthlyVisits": 38000,
+      "tier": "T3",
+      "description": "AI Tools Guide - AI 工具目录",
+      "url": "https://aitoolsguide.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        22800,
+        26600,
+        30400,
+        34200,
+        36100,
+        38000
+      ]
+    },
+    {
+      "id": "aitoolsworld",
+      "name": "AI Tools World",
+      "domain": "aitoolsworld.com",
+      "type": "综合目录",
+      "monthlyVisits": 35000,
+      "tier": "T3",
+      "description": "AI Tools World - AI 工具目录",
+      "url": "https://aitoolsworld.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        21000,
+        24500,
+        28000,
+        31500,
+        33250,
+        35000
+      ]
+    },
+    {
+      "id": "aitoolszone",
+      "name": "AI Tools Zone",
+      "domain": "aitoolszone.com",
+      "type": "综合目录",
+      "monthlyVisits": 32000,
+      "tier": "T3",
+      "description": "AI Tools Zone - AI 工具目录",
+      "url": "https://aitoolszone.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        19200,
+        22400,
+        25600,
+        28800,
+        30400,
+        32000
+      ]
+    },
+    {
+      "id": "aitoolsbase",
+      "name": "AI Tools Base",
+      "domain": "aitoolsbase.com",
+      "type": "综合目录",
+      "monthlyVisits": 30000,
+      "tier": "T3",
+      "description": "AI Tools Base - AI 工具目录",
+      "url": "https://aitoolsbase.com",
+      "features": [
+        "AI 工具",
+        "目录"
+      ],
+      "trafficTrend": [
+        18000,
+        21000,
+        24000,
+        27000,
+        28500,
+        30000
+      ]
     }
   ],
   "insights": [
@@ -830,8 +1292,6 @@
     }
   },
   "metrics": {
-    "totalSites": 30,
-    "totalMonthlyVisits": 11500000,
-    "totalToolsIndexed": 75000
+    "totalSites": 50
   }
 }

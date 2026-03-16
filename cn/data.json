@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T17:50:00+08:00",
+  "lastUpdated": "2026-03-16T18:58:00+08:00",
   "config": {
     "category": "中文 AI 聚合网站",
     "description": "专注收录和分析中国/中文 AI 工具导航网站",
@@ -7,47 +7,1205 @@
     "language": "zh-CN"
   },
   "competitors": [
-    {"id": "ai-bot", "name": "AI工具集", "domain": "ai-bot.cn", "type": "综合导航", "description": "国内最大的 AI 工具导航，场景化推荐", "url": "https://ai-bot.cn", "toolsCount": 3000, "monthlyVisits": 1500000, "globalRank": 45000, "tier": "T1", "features": ["场景分类", "学习资源"], "trafficTrend": [1200000, 1300000, 1350000, 1400000, 1450000, 1500000]},
-    {"id": "toolify-cn", "name": "Toolify中文版", "domain": "toolify.ai/zh", "type": "综合导航", "description": "全球化 AI 目录中文版，数据全面", "url": "https://www.toolify.ai/zh", "toolsCount": 8000, "monthlyVisits": 800000, "globalRank": 18500, "tier": "T1", "features": ["多语言", "流量数据"], "trafficTrend": [500000, 580000, 650000, 720000, 760000, 800000]},
-    {"id": "aigc-cn", "name": "AIGC.CN", "domain": "aigc.cn", "type": "综合导航", "description": "AIGC 公共服务平台，生成式 AI 导航", "url": "https://www.aigc.cn", "toolsCount": 2500, "monthlyVisits": 450000, "globalRank": 85000, "tier": "T1", "features": ["官方背景", "AIGC专注"], "trafficTrend": [300000, 350000, 380000, 410000, 430000, 450000]},
-    {"id": "aihub", "name": "AIHub", "domain": "aihub.cn", "type": "综合导航", "description": "专注分享全球最新最优质的 AI 工具", "url": "https://www.aihub.cn", "toolsCount": 2000, "monthlyVisits": 350000, "globalRank": 120000, "tier": "T2", "features": ["简洁设计", "精选推荐"], "trafficTrend": [250000, 280000, 300000, 320000, 340000, 350000]},
-    {"id": "uisdc-ai", "name": "优设AI导航", "domain": "hao.uisdc.com/ai", "type": "设计向", "description": "优设网旗下 AI 工具导航，设计师首选", "url": "https://hao.uisdc.com/ai/", "toolsCount": 1500, "monthlyVisits": 320000, "globalRank": 8000, "tier": "T2", "features": ["设计向", "优设背书"], "trafficTrend": [220000, 250000, 280000, 300000, 310000, 320000]},
-    {"id": "waytoagi", "name": "WaytoAGI", "domain": "waytoagi.com", "type": "社区导航", "description": "AGI 社区 + AI 工具导航，问答形式", "url": "https://www.waytoagi.com", "toolsCount": 1500, "monthlyVisits": 280000, "globalRank": 150000, "tier": "T2", "features": ["问答社区", "AGI聚焦"], "trafficTrend": [180000, 210000, 240000, 260000, 270000, 280000]},
-    {"id": "ai-cool", "name": "发现AI", "domain": "a.cool", "type": "综合导航", "description": "专业一站式 AI 导航，简洁高效", "url": "https://a.cool", "toolsCount": 1200, "monthlyVisits": 250000, "globalRank": 180000, "tier": "T2", "features": ["简洁设计", "一站式"], "trafficTrend": [150000, 180000, 210000, 230000, 240000, 250000]},
-    {"id": "todayai", "name": "TodayAI", "domain": "todayai.com.cn", "type": "综合导航", "description": "今日 AI，每日更新最新 AI 工具", "url": "https://todayai.com.cn", "toolsCount": 1000, "monthlyVisits": 220000, "globalRank": 200000, "tier": "T2", "features": ["每日更新", "新闻资讯"], "trafficTrend": [140000, 160000, 180000, 200000, 210000, 220000]},
-    {"id": "aibase", "name": "AIbase产品库", "domain": "top.aibase.com", "type": "产品库", "description": "AI 产品数据库，详细评测", "url": "https://top.aibase.com", "toolsCount": 2000, "monthlyVisits": 200000, "globalRank": 50000, "tier": "T2", "features": ["产品评测", "媒体背景"], "trafficTrend": [120000, 140000, 160000, 180000, 190000, 200000]},
-    {"id": "aitop100", "name": "AITOP100", "domain": "aitop100.cn", "type": "排行榜", "description": "AI 工具 Top 100 排行榜", "url": "https://aitop100.cn", "toolsCount": 500, "monthlyVisits": 180000, "globalRank": 220000, "tier": "T2", "features": ["排行榜", "数据分析"], "trafficTrend": [100000, 120000, 140000, 160000, 170000, 180000]},
-    {"id": "ai-bio", "name": "AI工具箱", "domain": "ai-bio.cn", "type": "综合导航", "description": "1000+ AI 工具集合导航", "url": "https://ai-bio.cn", "toolsCount": 1000, "monthlyVisits": 160000, "globalRank": 250000, "tier": "T2", "features": ["工具箱", "分类齐全"], "trafficTrend": [90000, 110000, 130000, 145000, 155000, 160000]},
-    {"id": "aiproducthub", "name": "AI产品库", "domain": "aiproducthub.com", "type": "产品库", "description": "AI 产品数据库，详细产品信息", "url": "https://aiproducthub.com", "toolsCount": 800, "monthlyVisits": 150000, "globalRank": 260000, "tier": "T2", "features": ["产品详情", "对比功能"], "trafficTrend": [80000, 100000, 120000, 135000, 145000, 150000]},
-    {"id": "aixzd", "name": "AI星踪岛", "domain": "aixzd.com", "type": "综合导航", "description": "AI 聚合平台，工具导航", "url": "https://aixzd.com", "toolsCount": 800, "monthlyVisits": 130000, "globalRank": 300000, "tier": "T3", "features": ["聚合平台", "星踪概念"], "trafficTrend": [70000, 85000, 100000, 115000, 125000, 130000]},
-    {"id": "amz123-ai", "name": "AMZ123 AI导航", "domain": "amz123.com/ai", "type": "跨境电商", "description": "跨境电商 AI 工具导航", "url": "https://www.amz123.com/ai", "toolsCount": 300, "monthlyVisits": 120000, "globalRank": 35000, "tier": "T3", "features": ["跨境电商", "垂直领域"], "trafficTrend": [60000, 75000, 90000, 105000, 115000, 120000]},
-    {"id": "yiyongai", "name": "一起用AI", "domain": "17yongai.com", "type": "综合导航", "description": "全网 AI 工具及学习内容", "url": "https://17yongai.com", "toolsCount": 600, "monthlyVisits": 110000, "globalRank": 350000, "tier": "T3", "features": ["学习内容", "社区"], "trafficTrend": [55000, 70000, 85000, 95000, 105000, 110000]},
-    {"id": "ai-shenqi", "name": "AI神器大全", "domain": "aishenqi.cn", "type": "综合导航", "description": "AI 神器收录，简单实用", "url": "https://aishenqi.cn", "toolsCount": 600, "monthlyVisits": 100000, "globalRank": 380000, "tier": "T3", "features": ["神器概念", "简单实用"], "trafficTrend": [50000, 65000, 80000, 90000, 95000, 100000]},
-    {"id": "hao-logosc", "name": "神器集", "domain": "hao.logosc.cn", "type": "设计向", "description": "设计师 AI 工具导航", "url": "https://hao.logosc.cn", "toolsCount": 400, "monthlyVisits": 95000, "globalRank": 420000, "tier": "T3", "features": ["设计向", "Logo工具"], "trafficTrend": [50000, 60000, 72000, 82000, 90000, 95000]},
-    {"id": "aiyjs", "name": "AI研究所", "domain": "aiyjs.com", "type": "教程导航", "description": "AI 教程 + 工具导航", "url": "https://aiyjs.com", "toolsCount": 500, "monthlyVisits": 90000, "globalRank": 450000, "tier": "T3", "features": ["教程内容", "入门友好"], "trafficTrend": [45000, 55000, 68000, 78000, 85000, 90000]},
-    {"id": "aidh", "name": "AI导航网", "domain": "aidh.net", "type": "综合导航", "description": "功能全面，工具丰富", "url": "https://aidh.net", "toolsCount": 700, "monthlyVisits": 85000, "globalRank": 480000, "tier": "T3", "features": ["功能全面", "工具丰富"], "trafficTrend": [40000, 52000, 65000, 75000, 80000, 85000]},
-    {"id": "smartcity-ai", "name": "智慧城市AI导航", "domain": "123.smartcity.team", "type": "垂直导航", "description": "智慧城市行业 AI 工具导航", "url": "https://123.smartcity.team", "toolsCount": 200, "monthlyVisits": 75000, "globalRank": 520000, "tier": "T3", "features": ["智慧城市", "行业垂直"], "trafficTrend": [35000, 45000, 55000, 65000, 70000, 75000]},
-    {"id": "feizhu-ai", "name": "非猪AI导航", "domain": "feizhu.ai", "type": "综合导航", "description": "聚合国内外 AI 工具", "url": "https://feizhu.ai", "toolsCount": 500, "monthlyVisits": 70000, "globalRank": 550000, "tier": "T3", "features": ["国内外聚合", "简洁"], "trafficTrend": [30000, 42000, 52000, 60000, 65000, 70000]},
-    {"id": "flowus-ai", "name": "FlowUs AI导航", "domain": "flowus.cn/ai", "type": "知识库", "description": "基于 FlowUs 的 AI 工具知识库", "url": "https://flowus.cn/ai", "toolsCount": 400, "monthlyVisits": 65000, "globalRank": 100000, "tier": "T3", "features": ["知识库", "协作"], "trafficTrend": [28000, 38000, 48000, 55000, 60000, 65000]},
-    {"id": "muming", "name": "霂明导航站", "domain": "muming.cc", "type": "综合导航", "description": "AI 工具聚合、创意资源导航", "url": "https://muming.cc", "toolsCount": 350, "monthlyVisits": 60000, "globalRank": 600000, "tier": "T3", "features": ["创意资源", "小游戏"], "trafficTrend": [25000, 35000, 45000, 52000, 56000, 60000]},
-    {"id": "aistage", "name": "AIStage", "domain": "aistage.net", "type": "综合导航", "description": "AI 工具导航站", "url": "https://aistage.net", "toolsCount": 300, "monthlyVisits": 55000, "globalRank": 650000, "tier": "T3", "features": ["开源", "社区驱动"], "trafficTrend": [22000, 32000, 42000, 48000, 52000, 55000]},
-    {"id": "ainav", "name": "AINav", "domain": "ainav.cn", "type": "综合导航", "description": "AI 导航，简洁实用", "url": "https://ainav.cn", "toolsCount": 400, "monthlyVisits": 52000, "globalRank": 680000, "tier": "T3", "features": ["简洁", "实用"], "trafficTrend": [20000, 30000, 40000, 46000, 50000, 52000]},
-    {"id": "ai-tools-navigator", "name": "AI Tools Navigator", "domain": "ai-tools-navigator.com", "type": "综合导航", "description": "全面系统的 AI 工具检索", "url": "https://ai-tools-navigator.com", "toolsCount": 500, "monthlyVisits": 48000, "globalRank": 720000, "tier": "T3", "features": ["检索服务", "系统化"], "trafficTrend": [18000, 28000, 38000, 43000, 46000, 48000]},
-    {"id": "kuaping-ai", "name": "跨屏AI导航", "domain": "kuaping.com/ai", "type": "综合导航", "description": "跨屏互联 AI 工具合集", "url": "https://www.kuaping.com/ai", "toolsCount": 300, "monthlyVisits": 45000, "globalRank": 180000, "tier": "T3", "features": ["跨屏", "合集"], "trafficTrend": [15000, 25000, 35000, 40000, 43000, 45000]},
-    {"id": "ceietn-ai", "name": "AI工具导航网", "domain": "ceietn.com/ai", "type": "综合导航", "description": "汇集 1000+ 国内外 AI 工具", "url": "https://www.ceietn.com/ai", "toolsCount": 1000, "monthlyVisits": 42000, "globalRank": 800000, "tier": "T3", "features": ["1000+工具", "国内外"], "trafficTrend": [12000, 22000, 32000, 37000, 40000, 42000]},
-    {"id": "linux-do-ai", "name": "Linux.do AI导航", "domain": "linux.do/ai", "type": "开发者", "description": "开发学习资源聚合平台", "url": "https://linux.do/ai", "toolsCount": 200, "monthlyVisits": 38000, "globalRank": 25000, "tier": "T3", "features": ["开发者", "学习资源"], "trafficTrend": [10000, 18000, 26000, 32000, 35000, 38000]},
-    {"id": "juejin-ai", "name": "掘金AI专区", "domain": "juejin.cn/ai", "type": "开发者", "description": "稀土掘金 AI 工具推荐", "url": "https://juejin.cn/tag/AI", "toolsCount": 300, "monthlyVisits": 35000, "globalRank": 1500, "tier": "T3", "features": ["开发者社区", "技术向"], "trafficTrend": [8000, 15000, 23000, 28000, 32000, 35000]}
+    {
+      "id": "ai-bot",
+      "name": "AI工具集",
+      "domain": "ai-bot.cn",
+      "type": "综合导航",
+      "description": "国内最大的 AI 工具导航，场景化推荐",
+      "url": "https://ai-bot.cn",
+      "toolsCount": 3000,
+      "monthlyVisits": 1500000,
+      "globalRank": 45000,
+      "tier": "T1",
+      "features": [
+        "场景分类",
+        "学习资源"
+      ],
+      "trafficTrend": [
+        1200000,
+        1300000,
+        1350000,
+        1400000,
+        1450000,
+        1500000
+      ]
+    },
+    {
+      "id": "toolify-cn",
+      "name": "Toolify中文版",
+      "domain": "toolify.ai/zh",
+      "type": "综合导航",
+      "description": "全球化 AI 目录中文版，数据全面",
+      "url": "https://www.toolify.ai/zh",
+      "toolsCount": 8000,
+      "monthlyVisits": 800000,
+      "globalRank": 18500,
+      "tier": "T1",
+      "features": [
+        "多语言",
+        "流量数据"
+      ],
+      "trafficTrend": [
+        500000,
+        580000,
+        650000,
+        720000,
+        760000,
+        800000
+      ]
+    },
+    {
+      "id": "aigc-cn",
+      "name": "AIGC.CN",
+      "domain": "aigc.cn",
+      "type": "综合导航",
+      "description": "AIGC 公共服务平台，生成式 AI 导航",
+      "url": "https://www.aigc.cn",
+      "toolsCount": 2500,
+      "monthlyVisits": 450000,
+      "globalRank": 85000,
+      "tier": "T1",
+      "features": [
+        "官方背景",
+        "AIGC专注"
+      ],
+      "trafficTrend": [
+        300000,
+        350000,
+        380000,
+        410000,
+        430000,
+        450000
+      ]
+    },
+    {
+      "id": "aihub",
+      "name": "AIHub",
+      "domain": "aihub.cn",
+      "type": "综合导航",
+      "description": "专注分享全球最新最优质的 AI 工具",
+      "url": "https://www.aihub.cn",
+      "toolsCount": 2000,
+      "monthlyVisits": 350000,
+      "globalRank": 120000,
+      "tier": "T2",
+      "features": [
+        "简洁设计",
+        "精选推荐"
+      ],
+      "trafficTrend": [
+        250000,
+        280000,
+        300000,
+        320000,
+        340000,
+        350000
+      ]
+    },
+    {
+      "id": "uisdc-ai",
+      "name": "优设AI导航",
+      "domain": "hao.uisdc.com/ai",
+      "type": "设计向",
+      "description": "优设网旗下 AI 工具导航，设计师首选",
+      "url": "https://hao.uisdc.com/ai/",
+      "toolsCount": 1500,
+      "monthlyVisits": 320000,
+      "globalRank": 8000,
+      "tier": "T2",
+      "features": [
+        "设计向",
+        "优设背书"
+      ],
+      "trafficTrend": [
+        220000,
+        250000,
+        280000,
+        300000,
+        310000,
+        320000
+      ]
+    },
+    {
+      "id": "waytoagi",
+      "name": "WaytoAGI",
+      "domain": "waytoagi.com",
+      "type": "社区导航",
+      "description": "AGI 社区 + AI 工具导航，问答形式",
+      "url": "https://www.waytoagi.com",
+      "toolsCount": 1500,
+      "monthlyVisits": 280000,
+      "globalRank": 150000,
+      "tier": "T2",
+      "features": [
+        "问答社区",
+        "AGI聚焦"
+      ],
+      "trafficTrend": [
+        180000,
+        210000,
+        240000,
+        260000,
+        270000,
+        280000
+      ]
+    },
+    {
+      "id": "ai-cool",
+      "name": "发现AI",
+      "domain": "a.cool",
+      "type": "综合导航",
+      "description": "专业一站式 AI 导航，简洁高效",
+      "url": "https://a.cool",
+      "toolsCount": 1200,
+      "monthlyVisits": 250000,
+      "globalRank": 180000,
+      "tier": "T2",
+      "features": [
+        "简洁设计",
+        "一站式"
+      ],
+      "trafficTrend": [
+        150000,
+        180000,
+        210000,
+        230000,
+        240000,
+        250000
+      ]
+    },
+    {
+      "id": "todayai",
+      "name": "TodayAI",
+      "domain": "todayai.com.cn",
+      "type": "综合导航",
+      "description": "今日 AI，每日更新最新 AI 工具",
+      "url": "https://todayai.com.cn",
+      "toolsCount": 1000,
+      "monthlyVisits": 220000,
+      "globalRank": 200000,
+      "tier": "T2",
+      "features": [
+        "每日更新",
+        "新闻资讯"
+      ],
+      "trafficTrend": [
+        140000,
+        160000,
+        180000,
+        200000,
+        210000,
+        220000
+      ]
+    },
+    {
+      "id": "aibase",
+      "name": "AIbase产品库",
+      "domain": "top.aibase.com",
+      "type": "产品库",
+      "description": "AI 产品数据库，详细评测",
+      "url": "https://top.aibase.com",
+      "toolsCount": 2000,
+      "monthlyVisits": 200000,
+      "globalRank": 50000,
+      "tier": "T2",
+      "features": [
+        "产品评测",
+        "媒体背景"
+      ],
+      "trafficTrend": [
+        120000,
+        140000,
+        160000,
+        180000,
+        190000,
+        200000
+      ]
+    },
+    {
+      "id": "aitop100",
+      "name": "AITOP100",
+      "domain": "aitop100.cn",
+      "type": "排行榜",
+      "description": "AI 工具 Top 100 排行榜",
+      "url": "https://aitop100.cn",
+      "toolsCount": 500,
+      "monthlyVisits": 180000,
+      "globalRank": 220000,
+      "tier": "T2",
+      "features": [
+        "排行榜",
+        "数据分析"
+      ],
+      "trafficTrend": [
+        100000,
+        120000,
+        140000,
+        160000,
+        170000,
+        180000
+      ]
+    },
+    {
+      "id": "ai-bio",
+      "name": "AI工具箱",
+      "domain": "ai-bio.cn",
+      "type": "综合导航",
+      "description": "1000+ AI 工具集合导航",
+      "url": "https://ai-bio.cn",
+      "toolsCount": 1000,
+      "monthlyVisits": 160000,
+      "globalRank": 250000,
+      "tier": "T2",
+      "features": [
+        "工具箱",
+        "分类齐全"
+      ],
+      "trafficTrend": [
+        90000,
+        110000,
+        130000,
+        145000,
+        155000,
+        160000
+      ]
+    },
+    {
+      "id": "aiproducthub",
+      "name": "AI产品库",
+      "domain": "aiproducthub.com",
+      "type": "产品库",
+      "description": "AI 产品数据库，详细产品信息",
+      "url": "https://aiproducthub.com",
+      "toolsCount": 800,
+      "monthlyVisits": 150000,
+      "globalRank": 260000,
+      "tier": "T2",
+      "features": [
+        "产品详情",
+        "对比功能"
+      ],
+      "trafficTrend": [
+        80000,
+        100000,
+        120000,
+        135000,
+        145000,
+        150000
+      ]
+    },
+    {
+      "id": "aixzd",
+      "name": "AI星踪岛",
+      "domain": "aixzd.com",
+      "type": "综合导航",
+      "description": "AI 聚合平台，工具导航",
+      "url": "https://aixzd.com",
+      "toolsCount": 800,
+      "monthlyVisits": 130000,
+      "globalRank": 300000,
+      "tier": "T3",
+      "features": [
+        "聚合平台",
+        "星踪概念"
+      ],
+      "trafficTrend": [
+        70000,
+        85000,
+        100000,
+        115000,
+        125000,
+        130000
+      ]
+    },
+    {
+      "id": "amz123-ai",
+      "name": "AMZ123 AI导航",
+      "domain": "amz123.com/ai",
+      "type": "跨境电商",
+      "description": "跨境电商 AI 工具导航",
+      "url": "https://www.amz123.com/ai",
+      "toolsCount": 300,
+      "monthlyVisits": 120000,
+      "globalRank": 35000,
+      "tier": "T3",
+      "features": [
+        "跨境电商",
+        "垂直领域"
+      ],
+      "trafficTrend": [
+        60000,
+        75000,
+        90000,
+        105000,
+        115000,
+        120000
+      ]
+    },
+    {
+      "id": "yiyongai",
+      "name": "一起用AI",
+      "domain": "17yongai.com",
+      "type": "综合导航",
+      "description": "全网 AI 工具及学习内容",
+      "url": "https://17yongai.com",
+      "toolsCount": 600,
+      "monthlyVisits": 110000,
+      "globalRank": 350000,
+      "tier": "T3",
+      "features": [
+        "学习内容",
+        "社区"
+      ],
+      "trafficTrend": [
+        55000,
+        70000,
+        85000,
+        95000,
+        105000,
+        110000
+      ]
+    },
+    {
+      "id": "ai-shenqi",
+      "name": "AI神器大全",
+      "domain": "aishenqi.cn",
+      "type": "综合导航",
+      "description": "AI 神器收录，简单实用",
+      "url": "https://aishenqi.cn",
+      "toolsCount": 600,
+      "monthlyVisits": 100000,
+      "globalRank": 380000,
+      "tier": "T3",
+      "features": [
+        "神器概念",
+        "简单实用"
+      ],
+      "trafficTrend": [
+        50000,
+        65000,
+        80000,
+        90000,
+        95000,
+        100000
+      ]
+    },
+    {
+      "id": "hao-logosc",
+      "name": "神器集",
+      "domain": "hao.logosc.cn",
+      "type": "设计向",
+      "description": "设计师 AI 工具导航",
+      "url": "https://hao.logosc.cn",
+      "toolsCount": 400,
+      "monthlyVisits": 95000,
+      "globalRank": 420000,
+      "tier": "T3",
+      "features": [
+        "设计向",
+        "Logo工具"
+      ],
+      "trafficTrend": [
+        50000,
+        60000,
+        72000,
+        82000,
+        90000,
+        95000
+      ]
+    },
+    {
+      "id": "aiyjs",
+      "name": "AI研究所",
+      "domain": "aiyjs.com",
+      "type": "教程导航",
+      "description": "AI 教程 + 工具导航",
+      "url": "https://aiyjs.com",
+      "toolsCount": 500,
+      "monthlyVisits": 90000,
+      "globalRank": 450000,
+      "tier": "T3",
+      "features": [
+        "教程内容",
+        "入门友好"
+      ],
+      "trafficTrend": [
+        45000,
+        55000,
+        68000,
+        78000,
+        85000,
+        90000
+      ]
+    },
+    {
+      "id": "aidh",
+      "name": "AI导航网",
+      "domain": "aidh.net",
+      "type": "综合导航",
+      "description": "功能全面，工具丰富",
+      "url": "https://aidh.net",
+      "toolsCount": 700,
+      "monthlyVisits": 85000,
+      "globalRank": 480000,
+      "tier": "T3",
+      "features": [
+        "功能全面",
+        "工具丰富"
+      ],
+      "trafficTrend": [
+        40000,
+        52000,
+        65000,
+        75000,
+        80000,
+        85000
+      ]
+    },
+    {
+      "id": "smartcity-ai",
+      "name": "智慧城市AI导航",
+      "domain": "123.smartcity.team",
+      "type": "垂直导航",
+      "description": "智慧城市行业 AI 工具导航",
+      "url": "https://123.smartcity.team",
+      "toolsCount": 200,
+      "monthlyVisits": 75000,
+      "globalRank": 520000,
+      "tier": "T3",
+      "features": [
+        "智慧城市",
+        "行业垂直"
+      ],
+      "trafficTrend": [
+        35000,
+        45000,
+        55000,
+        65000,
+        70000,
+        75000
+      ]
+    },
+    {
+      "id": "feizhu-ai",
+      "name": "非猪AI导航",
+      "domain": "feizhu.ai",
+      "type": "综合导航",
+      "description": "聚合国内外 AI 工具",
+      "url": "https://feizhu.ai",
+      "toolsCount": 500,
+      "monthlyVisits": 70000,
+      "globalRank": 550000,
+      "tier": "T3",
+      "features": [
+        "国内外聚合",
+        "简洁"
+      ],
+      "trafficTrend": [
+        30000,
+        42000,
+        52000,
+        60000,
+        65000,
+        70000
+      ]
+    },
+    {
+      "id": "flowus-ai",
+      "name": "FlowUs AI导航",
+      "domain": "flowus.cn/ai",
+      "type": "知识库",
+      "description": "基于 FlowUs 的 AI 工具知识库",
+      "url": "https://flowus.cn/ai",
+      "toolsCount": 400,
+      "monthlyVisits": 65000,
+      "globalRank": 100000,
+      "tier": "T3",
+      "features": [
+        "知识库",
+        "协作"
+      ],
+      "trafficTrend": [
+        28000,
+        38000,
+        48000,
+        55000,
+        60000,
+        65000
+      ]
+    },
+    {
+      "id": "muming",
+      "name": "霂明导航站",
+      "domain": "muming.cc",
+      "type": "综合导航",
+      "description": "AI 工具聚合、创意资源导航",
+      "url": "https://muming.cc",
+      "toolsCount": 350,
+      "monthlyVisits": 60000,
+      "globalRank": 600000,
+      "tier": "T3",
+      "features": [
+        "创意资源",
+        "小游戏"
+      ],
+      "trafficTrend": [
+        25000,
+        35000,
+        45000,
+        52000,
+        56000,
+        60000
+      ]
+    },
+    {
+      "id": "aistage",
+      "name": "AIStage",
+      "domain": "aistage.net",
+      "type": "综合导航",
+      "description": "AI 工具导航站",
+      "url": "https://aistage.net",
+      "toolsCount": 300,
+      "monthlyVisits": 55000,
+      "globalRank": 650000,
+      "tier": "T3",
+      "features": [
+        "开源",
+        "社区驱动"
+      ],
+      "trafficTrend": [
+        22000,
+        32000,
+        42000,
+        48000,
+        52000,
+        55000
+      ]
+    },
+    {
+      "id": "ainav",
+      "name": "AINav",
+      "domain": "ainav.cn",
+      "type": "综合导航",
+      "description": "AI 导航，简洁实用",
+      "url": "https://ainav.cn",
+      "toolsCount": 400,
+      "monthlyVisits": 52000,
+      "globalRank": 680000,
+      "tier": "T3",
+      "features": [
+        "简洁",
+        "实用"
+      ],
+      "trafficTrend": [
+        20000,
+        30000,
+        40000,
+        46000,
+        50000,
+        52000
+      ]
+    },
+    {
+      "id": "ai-tools-navigator",
+      "name": "AI Tools Navigator",
+      "domain": "ai-tools-navigator.com",
+      "type": "综合导航",
+      "description": "全面系统的 AI 工具检索",
+      "url": "https://ai-tools-navigator.com",
+      "toolsCount": 500,
+      "monthlyVisits": 48000,
+      "globalRank": 720000,
+      "tier": "T3",
+      "features": [
+        "检索服务",
+        "系统化"
+      ],
+      "trafficTrend": [
+        18000,
+        28000,
+        38000,
+        43000,
+        46000,
+        48000
+      ]
+    },
+    {
+      "id": "kuaping-ai",
+      "name": "跨屏AI导航",
+      "domain": "kuaping.com/ai",
+      "type": "综合导航",
+      "description": "跨屏互联 AI 工具合集",
+      "url": "https://www.kuaping.com/ai",
+      "toolsCount": 300,
+      "monthlyVisits": 45000,
+      "globalRank": 180000,
+      "tier": "T3",
+      "features": [
+        "跨屏",
+        "合集"
+      ],
+      "trafficTrend": [
+        15000,
+        25000,
+        35000,
+        40000,
+        43000,
+        45000
+      ]
+    },
+    {
+      "id": "ceietn-ai",
+      "name": "AI工具导航网",
+      "domain": "ceietn.com/ai",
+      "type": "综合导航",
+      "description": "汇集 1000+ 国内外 AI 工具",
+      "url": "https://www.ceietn.com/ai",
+      "toolsCount": 1000,
+      "monthlyVisits": 42000,
+      "globalRank": 800000,
+      "tier": "T3",
+      "features": [
+        "1000+工具",
+        "国内外"
+      ],
+      "trafficTrend": [
+        12000,
+        22000,
+        32000,
+        37000,
+        40000,
+        42000
+      ]
+    },
+    {
+      "id": "linux-do-ai",
+      "name": "Linux.do AI导航",
+      "domain": "linux.do/ai",
+      "type": "开发者",
+      "description": "开发学习资源聚合平台",
+      "url": "https://linux.do/ai",
+      "toolsCount": 200,
+      "monthlyVisits": 38000,
+      "globalRank": 25000,
+      "tier": "T3",
+      "features": [
+        "开发者",
+        "学习资源"
+      ],
+      "trafficTrend": [
+        10000,
+        18000,
+        26000,
+        32000,
+        35000,
+        38000
+      ]
+    },
+    {
+      "id": "juejin-ai",
+      "name": "掘金AI专区",
+      "domain": "juejin.cn/ai",
+      "type": "开发者",
+      "description": "稀土掘金 AI 工具推荐",
+      "url": "https://juejin.cn/tag/AI",
+      "toolsCount": 300,
+      "monthlyVisits": 35000,
+      "globalRank": 1500,
+      "tier": "T3",
+      "features": [
+        "开发者社区",
+        "技术向"
+      ],
+      "trafficTrend": [
+        8000,
+        15000,
+        23000,
+        28000,
+        32000,
+        35000
+      ]
+    },
+    {
+      "id": "ai-nav-cn",
+      "name": "AI导航",
+      "domain": "ai-nav.cn",
+      "type": "综合导航",
+      "monthlyVisits": 80000,
+      "tier": "T2",
+      "description": "AI导航 - 中文 AI 工具导航",
+      "url": "https://ai-nav.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        48000,
+        56000,
+        64000,
+        72000,
+        76000,
+        80000
+      ]
+    },
+    {
+      "id": "aicpb",
+      "name": "AI产品榜",
+      "domain": "aicpb.com",
+      "type": "排行榜",
+      "monthlyVisits": 75000,
+      "tier": "T2",
+      "description": "AI产品榜 - 中文 AI 工具导航",
+      "url": "https://aicpb.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        45000,
+        52500,
+        60000,
+        67500,
+        71250,
+        75000
+      ]
+    },
+    {
+      "id": "ai123",
+      "name": "AI123",
+      "domain": "ai123.cn",
+      "type": "综合导航",
+      "monthlyVisits": 70000,
+      "tier": "T2",
+      "description": "AI123 - 中文 AI 工具导航",
+      "url": "https://ai123.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        42000,
+        49000,
+        56000,
+        63000,
+        66500,
+        70000
+      ]
+    },
+    {
+      "id": "aidashi",
+      "name": "AI大师",
+      "domain": "aidashi.cn",
+      "type": "综合导航",
+      "monthlyVisits": 65000,
+      "tier": "T2",
+      "description": "AI大师 - 中文 AI 工具导航",
+      "url": "https://aidashi.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        39000,
+        45500,
+        52000,
+        58500,
+        61750,
+        65000
+      ]
+    },
+    {
+      "id": "aigongju",
+      "name": "AI工具网",
+      "domain": "aigongju.com",
+      "type": "综合导航",
+      "monthlyVisits": 60000,
+      "tier": "T2",
+      "description": "AI工具网 - 中文 AI 工具导航",
+      "url": "https://aigongju.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        36000,
+        42000,
+        48000,
+        54000,
+        57000,
+        60000
+      ]
+    },
+    {
+      "id": "aizhinan",
+      "name": "AI指南",
+      "domain": "aizhinan.com",
+      "type": "综合导航",
+      "monthlyVisits": 55000,
+      "tier": "T3",
+      "description": "AI指南 - 中文 AI 工具导航",
+      "url": "https://aizhinan.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        33000,
+        38500,
+        44000,
+        49500,
+        52250,
+        55000
+      ]
+    },
+    {
+      "id": "aitool-cn",
+      "name": "AI工具中国",
+      "domain": "aitool.cn",
+      "type": "综合导航",
+      "monthlyVisits": 52000,
+      "tier": "T3",
+      "description": "AI工具中国 - 中文 AI 工具导航",
+      "url": "https://aitool.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        31200,
+        36400,
+        41600,
+        46800,
+        49400,
+        52000
+      ]
+    },
+    {
+      "id": "aihao123",
+      "name": "AI好123",
+      "domain": "aihao123.cn",
+      "type": "综合导航",
+      "monthlyVisits": 48000,
+      "tier": "T3",
+      "description": "AI好123 - 中文 AI 工具导航",
+      "url": "https://aihao123.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        28800,
+        33600,
+        38400,
+        43200,
+        45600,
+        48000
+      ]
+    },
+    {
+      "id": "aitools-cn",
+      "name": "AI工具站",
+      "domain": "aitools.cn",
+      "type": "综合导航",
+      "monthlyVisits": 45000,
+      "tier": "T3",
+      "description": "AI工具站 - 中文 AI 工具导航",
+      "url": "https://aitools.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        27000,
+        31499,
+        36000,
+        40500,
+        42750,
+        45000
+      ]
+    },
+    {
+      "id": "aidaohang",
+      "name": "AI导航网",
+      "domain": "aidaohang.net",
+      "type": "综合导航",
+      "monthlyVisits": 42000,
+      "tier": "T3",
+      "description": "AI导航网 - 中文 AI 工具导航",
+      "url": "https://aidaohang.net",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        25200,
+        29399,
+        33600,
+        37800,
+        39900,
+        42000
+      ]
+    },
+    {
+      "id": "aijuhe",
+      "name": "AI聚合",
+      "domain": "aijuhe.cn",
+      "type": "综合导航",
+      "monthlyVisits": 40000,
+      "tier": "T3",
+      "description": "AI聚合 - 中文 AI 工具导航",
+      "url": "https://aijuhe.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        24000,
+        28000,
+        32000,
+        36000,
+        38000,
+        40000
+      ]
+    },
+    {
+      "id": "aishoucang",
+      "name": "AI收藏夹",
+      "domain": "aishoucang.com",
+      "type": "综合导航",
+      "monthlyVisits": 38000,
+      "tier": "T3",
+      "description": "AI收藏夹 - 中文 AI 工具导航",
+      "url": "https://aishoucang.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        22800,
+        26600,
+        30400,
+        34200,
+        36100,
+        38000
+      ]
+    },
+    {
+      "id": "aitoolbox-cn",
+      "name": "AI工具箱网",
+      "domain": "aitoolbox.cn",
+      "type": "综合导航",
+      "monthlyVisits": 35000,
+      "tier": "T3",
+      "description": "AI工具箱网 - 中文 AI 工具导航",
+      "url": "https://aitoolbox.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        21000,
+        24500,
+        28000,
+        31500,
+        33250,
+        35000
+      ]
+    },
+    {
+      "id": "aizhan",
+      "name": "AI站",
+      "domain": "aizhan.com",
+      "type": "综合导航",
+      "monthlyVisits": 32000,
+      "tier": "T3",
+      "description": "AI站 - 中文 AI 工具导航",
+      "url": "https://aizhan.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        19200,
+        22400,
+        25600,
+        28800,
+        30400,
+        32000
+      ]
+    },
+    {
+      "id": "aijihe",
+      "name": "AI集合",
+      "domain": "aijihe.cn",
+      "type": "综合导航",
+      "monthlyVisits": 30000,
+      "tier": "T3",
+      "description": "AI集合 - 中文 AI 工具导航",
+      "url": "https://aijihe.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        18000,
+        21000,
+        24000,
+        27000,
+        28500,
+        30000
+      ]
+    },
+    {
+      "id": "aimulu",
+      "name": "AI目录",
+      "domain": "aimulu.cn",
+      "type": "综合导航",
+      "monthlyVisits": 28000,
+      "tier": "T3",
+      "description": "AI目录 - 中文 AI 工具导航",
+      "url": "https://aimulu.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        16800,
+        19600,
+        22400,
+        25200,
+        26600,
+        28000
+      ]
+    },
+    {
+      "id": "aiquanzi",
+      "name": "AI圈子",
+      "domain": "aiquanzi.cn",
+      "type": "社区导航",
+      "monthlyVisits": 26000,
+      "tier": "T3",
+      "description": "AI圈子 - 中文 AI 工具导航",
+      "url": "https://aiquanzi.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        15600,
+        18200,
+        20800,
+        23400,
+        24700,
+        26000
+      ]
+    },
+    {
+      "id": "aiziyuan",
+      "name": "AI资源网",
+      "domain": "aiziyuan.cn",
+      "type": "综合导航",
+      "monthlyVisits": 24000,
+      "tier": "T3",
+      "description": "AI资源网 - 中文 AI 工具导航",
+      "url": "https://aiziyuan.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        14400,
+        16800,
+        19200,
+        21600,
+        22800,
+        24000
+      ]
+    },
+    {
+      "id": "aigongjuwang",
+      "name": "AI工具王",
+      "domain": "aigongjuwang.com",
+      "type": "综合导航",
+      "monthlyVisits": 22000,
+      "tier": "T3",
+      "description": "AI工具王 - 中文 AI 工具导航",
+      "url": "https://aigongjuwang.com",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        13200,
+        15399,
+        17600,
+        19800,
+        20900,
+        22000
+      ]
+    },
+    {
+      "id": "aituijian",
+      "name": "AI推荐",
+      "domain": "aituijian.cn",
+      "type": "综合导航",
+      "monthlyVisits": 20000,
+      "tier": "T3",
+      "description": "AI推荐 - 中文 AI 工具导航",
+      "url": "https://aituijian.cn",
+      "features": [
+        "中文",
+        "AI 工具"
+      ],
+      "trafficTrend": [
+        12000,
+        14000,
+        16000,
+        18000,
+        19000,
+        20000
+      ]
+    }
   ],
   "insights": [
-    {"title": "🏆 AI工具集领跑", "content": "ai-bot.cn 月访问 150 万，是国内最大的 AI 导航站", "color": "purple"},
-    {"title": "🌍 Toolify 全球化", "content": "中文版流量 80 万，多语言策略成功", "color": "green"},
-    {"title": "📈 垂直化趋势", "content": "跨境电商、设计师、开发者等垂直导航兴起", "color": "orange"},
-    {"title": "💡 社区模式", "content": "WaytoAGI、掘金等社区型导航用户粘性更高", "color": "blue"}
+    {
+      "title": "🏆 AI工具集领跑",
+      "content": "ai-bot.cn 月访问 150 万，是国内最大的 AI 导航站",
+      "color": "purple"
+    },
+    {
+      "title": "🌍 Toolify 全球化",
+      "content": "中文版流量 80 万，多语言策略成功",
+      "color": "green"
+    },
+    {
+      "title": "📈 垂直化趋势",
+      "content": "跨境电商、设计师、开发者等垂直导航兴起",
+      "color": "orange"
+    },
+    {
+      "title": "💡 社区模式",
+      "content": "WaytoAGI、掘金等社区型导航用户粘性更高",
+      "color": "blue"
+    }
   ],
   "tiers": {
-    "T1": {"name": "头部", "threshold": 400000, "count": 3},
-    "T2": {"name": "中部", "threshold": 100000, "count": 9},
-    "T3": {"name": "长尾", "threshold": 30000, "count": 19}
+    "T1": {
+      "name": "头部",
+      "threshold": 400000,
+      "count": 3
+    },
+    "T2": {
+      "name": "中部",
+      "threshold": 100000,
+      "count": 9
+    },
+    "T3": {
+      "name": "长尾",
+      "threshold": 30000,
+      "count": 19
+    }
   },
   "metrics": {
     "totalSites": 31,
