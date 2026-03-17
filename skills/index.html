@@ -11,14 +11,32 @@
         body { font-family: 'DM Sans', -apple-system, sans-serif; background: #f8fafc; }
         .card { background: white; border: 1px solid #e2e8f0; border-radius: 12px; transition: all 200ms cubic-bezier(0.16, 1, 0.3, 1); }
         .card:hover { box-shadow: 0 8px 24px rgba(0,0,0,0.06); }
-        .heatmap-cell { transition: all 150ms cubic-bezier(0.16, 1, 0.3, 1); cursor: pointer; border-radius: 12px; }
-        .heatmap-cell:hover { transform: scale(1.03); z-index: 10; box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
+        .treemap-container { display: flex; flex-wrap: wrap; gap: 4px; }
+        .treemap-cell { 
+            border-radius: 8px; 
+            cursor: pointer; 
+            transition: all 150ms cubic-bezier(0.16, 1, 0.3, 1); 
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center;
+            overflow: hidden;
+            position: relative;
+        }
+        .treemap-cell:hover { 
+            transform: scale(1.02); 
+            z-index: 10; 
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15); 
+        }
+        .treemap-cell .name { font-weight: 600; text-align: center; line-height: 1.2; }
+        .treemap-cell .visits { font-weight: 700; }
+        .treemap-cell .tier-badge { position: absolute; top: 4px; right: 4px; font-size: 10px; padding: 2px 6px; border-radius: 4px; }
         .modal { display: none; position: fixed; inset: 0; background: rgba(15,23,42,0.6); backdrop-filter: blur(4px); z-index: 100; overflow-y: auto; }
         .modal.active { display: flex; align-items: flex-start; justify-content: center; padding: 2rem; }
         .trend-up { color: #059669; } .trend-down { color: #dc2626; }
-        .tier-t1 { background: #dbeafe; color: #1e40af; }
-        .tier-t2 { background: #fef3c7; color: #92400e; }
-        .tier-t3 { background: #f1f5f9; color: #475569; }
+        .tier-t1 { background: rgba(219,234,254,0.9); color: #1e40af; }
+        .tier-t2 { background: rgba(254,243,199,0.9); color: #92400e; }
+        .tier-t3 { background: rgba(241,245,249,0.9); color: #475569; }
         .nav-link { padding: 8px 16px; border-radius: 8px; font-size: 14px; font-weight: 500; transition: all 150ms; color: #64748b; }
         .nav-link:hover { background: #f1f5f9; color: #334155; }
         .nav-link.active { background: #7c3aed; color: white; }
@@ -60,8 +78,8 @@
     <section class="max-w-7xl mx-auto px-6 py-6"><div class="flex flex-wrap gap-2" id="typeFilter"></div></section>
 
     <section class="max-w-7xl mx-auto px-6 pb-8">
-        <h2 class="text-xl font-bold text-slate-900 mb-4">🔥 流量热力图 <span class="text-sm font-normal text-slate-400 ml-2">点击查看详情</span></h2>
-        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-3" id="heatmapGrid"></div>
+        <h2 class="text-xl font-bold text-slate-900 mb-4">🔥 流量热力图 <span class="text-sm font-normal text-slate-400 ml-2">方块大小 = 流量占比</span></h2>
+        <div class="treemap-container" id="treemapGrid" style="min-height: 400px;"></div>
     </section>
 
     <section class="max-w-7xl mx-auto px-6 pb-8" id="insightsSection"></section>
@@ -99,13 +117,14 @@
 
         function formatNumber(n) { if (!n) return '-'; if (n >= 1e6) return (n / 1e6).toFixed(1) + 'M'; if (n >= 1e3) return (n / 1e3).toFixed(0) + 'K'; return n; }
         function calcGrowth(trend) { if (!trend || trend.length < 2) return 0; return ((trend[trend.length - 1] - trend[0]) / trend[0] * 100).toFixed(0); }
+        
         function getHeatColor(value, max) {
             const ratio = Math.log(value + 1) / Math.log(max + 1);
-            if (ratio > 0.7) return 'bg-gradient-to-br from-rose-400 to-pink-500 text-white';
-            if (ratio > 0.5) return 'bg-gradient-to-br from-orange-300 to-amber-400 text-white';
-            if (ratio > 0.3) return 'bg-gradient-to-br from-yellow-300 to-orange-300 text-slate-900';
-            if (ratio > 0.15) return 'bg-gradient-to-br from-emerald-300 to-teal-400 text-white';
-            return 'bg-gradient-to-br from-slate-100 to-slate-200 text-slate-700';
+            if (ratio > 0.7) return { bg: 'linear-gradient(135deg, #f43f5e, #ec4899)', text: 'white' };
+            if (ratio > 0.5) return { bg: 'linear-gradient(135deg, #fb923c, #f59e0b)', text: 'white' };
+            if (ratio > 0.3) return { bg: 'linear-gradient(135deg, #fbbf24, #f59e0b)', text: '#1e293b' };
+            if (ratio > 0.15) return { bg: 'linear-gradient(135deg, #34d399, #10b981)', text: 'white' };
+            return { bg: 'linear-gradient(135deg, #e2e8f0, #cbd5e1)', text: '#475569' };
         }
 
         function renderPage() {
@@ -114,7 +133,7 @@
             document.getElementById('statT1').textContent = data.competitors.filter(c => c.tier === 'T1').length;
             const d = new Date(data.lastUpdated);
             document.getElementById('updateTime').textContent = d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
-            renderTypeFilter(); renderHeatmap(); renderInsights(); renderTable();
+            renderTypeFilter(); renderTreemap(); renderInsights(); renderTable();
         }
 
         function renderTypeFilter() {
@@ -126,22 +145,49 @@
             ).join('');
         }
 
-        function filterType(t) { currentType = t; renderTypeFilter(); renderHeatmap(); renderTable(); }
+        function filterType(t) { currentType = t; renderTypeFilter(); renderTreemap(); renderTable(); }
         function getFiltered() { return currentType === 'all' ? data.competitors : data.competitors.filter(c => c.type === currentType); }
 
-        function renderHeatmap() {
+        function renderTreemap() {
             const comps = getFiltered().sort((a, b) => (b.monthlyVisits || 0) - (a.monthlyVisits || 0));
+            const total = comps.reduce((s, c) => s + (c.monthlyVisits || 0), 0);
             const max = comps[0]?.monthlyVisits || 1;
-            document.getElementById('heatmapGrid').innerHTML = comps.map(c => {
-                const colorClass = getHeatColor(c.monthlyVisits || 0, max);
+            const container = document.getElementById('treemapGrid');
+            const containerWidth = container.offsetWidth || 1200;
+            
+            // Treemap 算法：根据流量占比计算面积
+            let html = '';
+            comps.forEach((c, i) => {
+                const visits = c.monthlyVisits || 1;
+                const ratio = visits / total;
+                
+                // 计算方块大小：最小 80px，最大根据占比
+                const minSize = 80;
+                const maxSize = 280;
+                const baseSize = Math.sqrt(ratio) * 800; // 面积与流量成正比
+                const size = Math.max(minSize, Math.min(maxSize, baseSize));
+                
+                // 高度根据流量调整
+                const height = Math.max(80, Math.min(180, size * 0.7));
+                
+                const color = getHeatColor(visits, max);
                 const tierClass = c.tier === 'T1' ? 'tier-t1' : c.tier === 'T2' ? 'tier-t2' : 'tier-t3';
-                return `<div class="heatmap-cell ${colorClass} p-4 text-center shadow-sm" onclick="showDetail('${c.id}')">
-                    <div class="font-semibold text-sm truncate">${c.name}</div>
-                    <div class="text-2xl font-bold mt-1">${formatNumber(c.monthlyVisits)}</div>
-                    <div class="text-xs opacity-80">月访问</div>
-                    <div class="mt-2"><span class="px-2 py-0.5 rounded text-xs font-medium ${tierClass}">${c.tier}</span></div>
+                
+                // 根据大小调整字体
+                const nameSize = size > 150 ? '14px' : size > 100 ? '12px' : '11px';
+                const visitSize = size > 150 ? '20px' : size > 100 ? '16px' : '14px';
+                const showTier = size > 90;
+                
+                html += `<div class="treemap-cell" 
+                    style="width: ${size}px; height: ${height}px; background: ${color.bg}; color: ${color.text}; flex-grow: ${Math.max(1, Math.floor(ratio * 10))};"
+                    onclick="showDetail('${c.id}')">
+                    ${showTier ? `<span class="tier-badge ${tierClass}">${c.tier}</span>` : ''}
+                    <div class="name" style="font-size: ${nameSize}; padding: 0 8px;">${c.name}</div>
+                    <div class="visits" style="font-size: ${visitSize};">${formatNumber(visits)}</div>
                 </div>`;
-            }).join('');
+            });
+            
+            container.innerHTML = html;
         }
 
         function renderInsights() {
