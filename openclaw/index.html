@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 工具导航 - AI 情报中心</title>
+    <title>OpenClaw 生态 - AI 情报中心</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -41,7 +41,7 @@
         .tier-t3 { background: rgba(241,245,249,0.9); color: #475569; }
         .nav-link { padding: 8px 16px; border-radius: 8px; font-size: 14px; font-weight: 500; transition: all 150ms; color: #64748b; }
         .nav-link:hover { background: #f1f5f9; color: #334155; }
-        .nav-link.active { background: #2563eb; color: white; }
+        .nav-link.active { background: #ea580c; color: white; }
         .insight-card { background: white; border: 1px solid #e2e8f0; border-radius: 12px; border-left: 4px solid; }
     </style>
 </head>
@@ -51,21 +51,21 @@
             <div class="flex items-center justify-between h-14">
                 <span class="text-lg font-semibold text-slate-900">AI 情报中心</span>
                 <div class="flex items-center gap-1">
-                    <a href="./" class="nav-link active">🌍 全球</a>
-                    <a href="./cn/" class="nav-link">🇨🇳 中文</a>
-                    <a href="./skills/" class="nav-link">🔧 Skills</a>
-                    <a href="./news/" class="nav-link">📰 资讯</a>
-                    <a href="./models/" class="nav-link">🧠 模型</a>
-                    <a href="./openclaw/" class="nav-link">🦞 OpenClaw</a>
+                    <a href="../" class="nav-link">🌍 全球</a>
+                    <a href="../cn/" class="nav-link">🇨🇳 中文</a>
+                    <a href="../skills/" class="nav-link">🔧 Skills</a>
+                    <a href="../news/" class="nav-link">📰 资讯</a>
+                    <a href="../models/" class="nav-link">🧠 模型</a>
+                    <a href="../openclaw/" class="nav-link active">🦞 OpenClaw</a>
                 </div>
             </div>
         </div>
     </nav>
 
-    <header class="bg-gradient-to-br from-blue-600 to-indigo-700 text-white">
+    <header class="bg-gradient-to-br from-orange-500 to-red-600 text-white">
         <div class="max-w-7xl mx-auto px-6 py-10">
-            <h1 class="text-3xl font-bold mb-2">🌍 全球 AI 工具导航</h1>
-            <p class="text-white/80">全球 AI 工具聚合网站流量排名</p>
+            <h1 class="text-3xl font-bold mb-2">🦞 OpenClaw 生态</h1>
+            <p class="text-white/80">Skills 市场、社区、工具、教程</p>
         </div>
     </header>
 
@@ -114,7 +114,7 @@
 
     <script>
         let data = null, currentType = 'all';
-        const accentColor = '#2563eb';
+        const accentColor = '#ea580c';
 
         async function loadData() { try { data = await (await fetch('data.json?v=' + Date.now())).json(); renderPage(); } catch (e) { console.error(e); } }
 
