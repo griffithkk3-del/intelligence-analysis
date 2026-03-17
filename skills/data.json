@@ -665,21 +665,6 @@
       "trafficTrend": []
     },
     {
-      "id": "mcp-awesome",
-      "name": "Awesome MCP",
-      "domain": "awesomemcp.com",
-      "type": "MCP 列表",
-      "monthlyVisits": 26000,
-      "tier": "T3",
-      "description": "Awesome MCP - Skills/MCP 生态",
-      "url": "https://awesomemcp.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "skill-market",
       "name": "Skill Market",
       "domain": "skillmarket.ai",
@@ -688,36 +673,6 @@
       "tier": "T3",
       "description": "Skill Market - Skills/MCP 生态",
       "url": "https://skillmarket.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "tool-registry",
-      "name": "Tool Registry",
-      "domain": "toolregistry.dev",
-      "type": "工具注册",
-      "monthlyVisits": 22000,
-      "tier": "T3",
-      "description": "Tool Registry - Skills/MCP 生态",
-      "url": "https://toolregistry.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-connectors",
-      "name": "AI Connectors",
-      "domain": "aiconnectors.dev",
-      "type": "连接器",
-      "monthlyVisits": 20000,
-      "tier": "T3",
-      "description": "AI Connectors - Skills/MCP 生态",
-      "url": "https://aiconnectors.dev",
       "features": [
         "Skills",
         "MCP"
@@ -755,21 +710,6 @@
       "trafficTrend": []
     },
     {
-      "id": "skill-directory",
-      "name": "Skill Directory",
-      "domain": "skilldirectory.ai",
-      "type": "Skills 目录",
-      "monthlyVisits": 15000,
-      "tier": "T3",
-      "description": "Skill Directory - Skills/MCP 生态",
-      "url": "https://skilldirectory.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "mcp-store",
       "name": "MCP Store",
       "domain": "mcpstore.dev",
@@ -778,36 +718,6 @@
       "tier": "T3",
       "description": "MCP Store - Skills/MCP 生态",
       "url": "https://mcpstore.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "tool-market",
-      "name": "Tool Market",
-      "domain": "toolmarket.ai",
-      "type": "工具市场",
-      "monthlyVisits": 13000,
-      "tier": "T3",
-      "description": "Tool Market - Skills/MCP 生态",
-      "url": "https://toolmarket.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-extensions",
-      "name": "AI Extensions",
-      "domain": "aiextensions.dev",
-      "type": "扩展市场",
-      "monthlyVisits": 12000,
-      "tier": "T3",
-      "description": "AI Extensions - Skills/MCP 生态",
-      "url": "https://aiextensions.dev",
       "features": [
         "Skills",
         "MCP"

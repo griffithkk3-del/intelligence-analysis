@@ -515,36 +515,6 @@
       "trafficTrend": []
     },
     {
-      "id": "ai-insider",
-      "name": "AI Insider",
-      "domain": "aiinsider.com",
-      "type": "Newsletter",
-      "monthlyVisits": 100000,
-      "tier": "T2",
-      "description": "AI Insider - AI 资讯",
-      "url": "https://aiinsider.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-daily",
-      "name": "AI Daily",
-      "domain": "aidaily.co",
-      "type": "Newsletter",
-      "monthlyVisits": 90000,
-      "tier": "T2",
-      "description": "AI Daily - AI 资讯",
-      "url": "https://aidaily.co",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "ai-pulse",
       "name": "AI Pulse",
       "domain": "aipulse.news",
@@ -710,21 +680,6 @@
       "trafficTrend": []
     },
     {
-      "id": "ai-watch",
-      "name": "AI Watch",
-      "domain": "aiwatch.news",
-      "type": "AI 专业",
-      "monthlyVisits": 40000,
-      "tier": "T3",
-      "description": "AI Watch - AI 资讯",
-      "url": "https://aiwatch.news",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "ai-brief",
       "name": "AI Brief",
       "domain": "aibrief.co",
@@ -748,21 +703,6 @@
       "tier": "T3",
       "description": "AI Update - AI 资讯",
       "url": "https://aiupdate.news",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-flash",
-      "name": "AI Flash",
-      "domain": "aiflash.news",
-      "type": "AI 专业",
-      "monthlyVisits": 32000,
-      "tier": "T3",
-      "description": "AI Flash - AI 资讯",
-      "url": "https://aiflash.news",
       "features": [
         "AI 资讯",
         "新闻"

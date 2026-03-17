@@ -263,23 +263,6 @@
       "trafficTrend": []
     },
     {
-      "id": "ai-shenqi",
-      "name": "AI神器大全",
-      "domain": "aishenqi.cn",
-      "type": "综合导航",
-      "description": "AI 神器收录，简单实用",
-      "url": "https://aishenqi.cn",
-      "toolsCount": 600,
-      "monthlyVisits": 100000,
-      "globalRank": 380000,
-      "tier": "T3",
-      "features": [
-        "神器概念",
-        "简单实用"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "hao-logosc",
       "name": "神器集",
       "domain": "hao.logosc.cn",
@@ -378,23 +361,6 @@
       "features": [
         "知识库",
         "协作"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "muming",
-      "name": "霂明导航站",
-      "domain": "muming.cc",
-      "type": "综合导航",
-      "description": "AI 工具聚合、创意资源导航",
-      "url": "https://muming.cc",
-      "toolsCount": 350,
-      "monthlyVisits": 60000,
-      "globalRank": 600000,
-      "tier": "T3",
-      "features": [
-        "创意资源",
-        "小游戏"
       ],
       "trafficTrend": []
     },
@@ -593,36 +559,6 @@
       "trafficTrend": []
     },
     {
-      "id": "aizhinan",
-      "name": "AI指南",
-      "domain": "aizhinan.com",
-      "type": "综合导航",
-      "monthlyVisits": 55000,
-      "tier": "T3",
-      "description": "AI指南 - 中文 AI 工具导航",
-      "url": "https://aizhinan.com",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aitool-cn",
-      "name": "AI工具中国",
-      "domain": "aitool.cn",
-      "type": "综合导航",
-      "monthlyVisits": 52000,
-      "tier": "T3",
-      "description": "AI工具中国 - 中文 AI 工具导航",
-      "url": "https://aitool.cn",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "aihao123",
       "name": "AI好123",
       "domain": "aihao123.cn",
@@ -631,36 +567,6 @@
       "tier": "T3",
       "description": "AI好123 - 中文 AI 工具导航",
       "url": "https://aihao123.cn",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aitools-cn",
-      "name": "AI工具站",
-      "domain": "aitools.cn",
-      "type": "综合导航",
-      "monthlyVisits": 45000,
-      "tier": "T3",
-      "description": "AI工具站 - 中文 AI 工具导航",
-      "url": "https://aitools.cn",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aidaohang",
-      "name": "AI导航网",
-      "domain": "aidaohang.net",
-      "type": "综合导航",
-      "monthlyVisits": 42000,
-      "tier": "T3",
-      "description": "AI导航网 - 中文 AI 工具导航",
-      "url": "https://aidaohang.net",
       "features": [
         "中文",
         "AI 工具"
@@ -728,21 +634,6 @@
       "trafficTrend": []
     },
     {
-      "id": "aijihe",
-      "name": "AI集合",
-      "domain": "aijihe.cn",
-      "type": "综合导航",
-      "monthlyVisits": 30000,
-      "tier": "T3",
-      "description": "AI集合 - 中文 AI 工具导航",
-      "url": "https://aijihe.cn",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "aimulu",
       "name": "AI目录",
       "domain": "aimulu.cn",
@@ -781,21 +672,6 @@
       "tier": "T3",
       "description": "AI资源网 - 中文 AI 工具导航",
       "url": "https://aiziyuan.cn",
-      "features": [
-        "中文",
-        "AI 工具"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aigongjuwang",
-      "name": "AI工具王",
-      "domain": "aigongjuwang.com",
-      "type": "综合导航",
-      "monthlyVisits": 22000,
-      "tier": "T3",
-      "description": "AI工具王 - 中文 AI 工具导航",
-      "url": "https://aigongjuwang.com",
       "features": [
         "中文",
         "AI 工具"
