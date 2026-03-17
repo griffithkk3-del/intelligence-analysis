@@ -131,97 +131,59 @@
             return '#6366f1';                    // 紫色 - 最低
         }
 
-        // Squarified Treemap 算法
-        function squarify(items, x, y, width, height) {
+        // 简化的 Treemap 算法 - 水平/垂直交替分割
+        function computeTreemap(items, x, y, width, height) {
             if (items.length === 0) return [];
             
-            const total = items.reduce((s, i) => s + i.value, 0);
+            let total = items.reduce((s, i) => s + i.value, 0);
             const results = [];
-            
-            // 递归分割
-            function layoutRow(row, rowItems, x, y, width, height, vertical) {
-                const rowTotal = rowItems.reduce((s, i) => s + i.value, 0);
-                const rowRatio = rowTotal / total;
-                
-                let offset = 0;
-                const rowSize = vertical ? width * rowRatio : height * rowRatio;
-                
-                rowItems.forEach(item => {
-                    const itemRatio = item.value / rowTotal;
-                    const itemSize = vertical ? height * itemRatio : width * itemRatio;
-                    
-                    if (vertical) {
-                        results.push({
-                            ...item,
-                            x: x,
-                            y: y + offset,
-                            width: rowSize,
-                            height: itemSize
-                        });
-                        offset += itemSize;
-                    } else {
-                        results.push({
-                            ...item,
-                            x: x + offset,
-                            y: y,
-                            width: itemSize,
-                            height: rowSize
-                        });
-                        offset += itemSize;
-                    }
-                });
-                
-                return { rowSize, vertical };
-            }
-            
-            // 简化的 squarify 实现
             let remaining = [...items];
             let currentX = x, currentY = y, currentW = width, currentH = height;
             
             while (remaining.length > 0) {
-                const vertical = currentW > currentH;
-                const side = vertical ? currentH : currentW;
+                // 决定分割方向
+                const isVertical = currentW >= currentH;
+                const side = isVertical ? currentH : currentW;
                 
-                // 找到最佳分割点
-                let row = [remaining[0]];
-                let rowTotal = remaining[0].value;
-                let bestRatio = Infinity;
+                // 找到当前行的最佳项目（保持宽高比最优）
+                let row = [];
+                let rowValue = 0;
+                let bestAspect = Infinity;
                 
-                for (let i = 1; i < remaining.length; i++) {
+                for (let i = 0; i < remaining.length; i++) {
                     const testRow = [...row, remaining[i]];
-                    const testTotal = rowTotal + remaining[i].value;
-                    const testRatio = testTotal / total;
-                    const testSize = vertical ? currentW * testRatio : currentH * testRatio;
+                    const testValue = rowValue + remaining[i].value;
+                    const rowRatio = testValue / total;
+                    const rowSize = isVertical ? currentW * rowRatio : currentH * rowRatio;
                     
-                    // 计算最差宽高比
-                    let worstRatio = 0;
-                    let offset = 0;
+                    // 计算这个选择的最差宽高比
+                    let worstInRow = 0;
                     testRow.forEach(item => {
-                        const itemRatio = item.value / testTotal;
+                        const itemRatio = item.value / testValue;
                         const itemSize = side * itemRatio;
-                        const ratio = Math.max(testSize / itemSize, itemSize / testSize);
-                        worstRatio = Math.max(worstRatio, ratio);
+                        const aspect = Math.max(rowSize / itemSize, itemSize / rowSize);
+                        worstInRow = Math.max(worstInRow, aspect);
                     });
                     
-                    if (worstRatio < bestRatio) {
-                        bestRatio = worstRatio;
+                    if (worstInRow <= bestAspect) {
+                        bestAspect = worstInRow;
                         row = testRow;
-                        rowTotal = testTotal;
+                        rowValue = testValue;
                     } else {
                         break;
                     }
                 }
                 
-                // 布局当前行
-                const rowRatio = rowTotal / total;
-                const rowSize = vertical ? currentW * rowRatio : currentH * rowRatio;
+                // 布局这一行
+                const rowRatio = rowValue / total;
+                const rowSize = isVertical ? currentW * rowRatio : currentH * rowRatio;
                 
                 let offset = 0;
                 row.forEach(item => {
-                    const itemRatio = item.value / rowTotal;
+                    const itemRatio = item.value / rowValue;
                     const itemSize = side * itemRatio;
                     
-                    if (vertical) {
+                    if (isVertical) {
                         results.push({
                             ...item,
                             x: currentX,
@@ -243,7 +205,7 @@
                 });
                 
                 // 更新剩余区域
-                if (vertical) {
+                if (isVertical) {
                     currentX += rowSize;
                     currentW -= rowSize;
                 } else {
@@ -304,7 +266,7 @@
             }));
             
             // 计算布局
-            const layout = squarify(items, 0, 0, width, height);
+            const layout = computeTreemap(items, 0, 0, width, height);
             
             // 渲染
             let html = '';
