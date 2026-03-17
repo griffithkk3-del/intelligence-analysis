@@ -1,73 +1,33 @@
 {
-  "lastUpdated": "2026-03-17T10:42:00+08:00",
+  "lastUpdated": "2026-03-17T10:52:00+08:00",
   "config": {
     "category": "OpenClaw 生态",
-    "description": "OpenClaw Skills 市场、社区、工具、教程"
+    "description": "OpenClaw Skills 市场、社区、工具、教程、第三方服务"
   },
   "competitors": [
     {
-      "id": "clawhub",
-      "name": "ClawHub",
-      "domain": "clawhub.ai",
-      "type": "Skills 市场",
-      "description": "OpenClaw 官方技能市场，发布和安装 SKILL.md，支持版本管理和向量搜索",
-      "url": "https://clawhub.ai",
-      "monthlyVisits": 85000,
+      "id": "openclaw-official",
+      "name": "OpenClaw 官网",
+      "domain": "openclaw.ai",
+      "type": "官方",
+      "description": "OpenClaw 官方网站，产品介绍和下载",
+      "url": "https://openclaw.ai",
+      "monthlyVisits": 850000,
       "tier": "T1",
-      "features": ["SKILL.md", "版本管理", "一键安装", "向量搜索"],
+      "features": [
+        "官网",
+        "下载",
+        "介绍"
+      ],
       "badge": "官方",
-      "trafficTrend": [25000, 35000, 48000, 62000, 75000, 85000]
-    },
-    {
-      "id": "skillhub-tencent",
-      "name": "腾讯 SkillHub",
-      "domain": "skillhub.tencent.com",
-      "type": "Skills 市场",
-      "description": "腾讯出品，专为中国用户优化的 Skills 社区",
-      "url": "https://skillhub.tencent.com",
-      "monthlyVisits": 320000,
-      "tier": "T1",
-      "features": ["中文优化", "腾讯云集成", "企业级"],
-      "badge": "腾讯",
-      "trafficTrend": [80000, 120000, 180000, 240000, 290000, 320000]
-    },
-    {
-      "id": "qclaw",
-      "name": "Qclaw",
-      "domain": "qclawai.com",
-      "type": "管理工具",
-      "description": "你的 OpenClaw 管家，简化配置和管理",
-      "url": "https://qclawai.com",
-      "monthlyVisits": 45000,
-      "tier": "T2",
-      "features": ["配置管理", "可视化", "一键部署"],
-      "trafficTrend": [12000, 18000, 25000, 32000, 40000, 45000]
-    },
-    {
-      "id": "nemoclaw",
-      "name": "NemoClaw",
-      "domain": "nemoclawaiapp.com",
-      "type": "AI Agent",
-      "description": "NVIDIA NemoClaw AI Agents，企业级 Agent 解决方案",
-      "url": "https://nemoclawaiapp.com",
-      "monthlyVisits": 68000,
-      "tier": "T2",
-      "features": ["NVIDIA", "企业级", "GPU加速"],
-      "badge": "NVIDIA",
-      "trafficTrend": [20000, 30000, 42000, 52000, 60000, 68000]
-    },
-    {
-      "id": "openclaw-docs",
-      "name": "OpenClaw Docs",
-      "domain": "docs.openclaw.ai",
-      "type": "文档",
-      "description": "OpenClaw 官方文档，入门指南和 API 参考",
-      "url": "https://docs.openclaw.ai",
-      "monthlyVisits": 180000,
-      "tier": "T1",
-      "features": ["官方文档", "API参考", "教程"],
-      "badge": "官方",
-      "trafficTrend": [60000, 85000, 110000, 140000, 165000, 180000]
+      "trafficTrend": [
+        350000,
+        450000,
+        550000,
+        650000,
+        750000,
+        850000
+      ]
     },
     {
       "id": "openclaw-github",
@@ -77,11 +37,94 @@
       "description": "OpenClaw 开源仓库，源码和 Issues",
       "url": "https://github.com/openclaw/openclaw",
       "githubStars": 28500,
-      "monthlyVisits": 250000,
+      "monthlyVisits": 420000,
       "tier": "T1",
-      "features": ["开源", "Issues", "PR"],
+      "features": [
+        "开源",
+        "Issues",
+        "PR"
+      ],
       "badge": "开源",
-      "trafficTrend": [100000, 140000, 175000, 210000, 235000, 250000]
+      "trafficTrend": [
+        180000,
+        240000,
+        300000,
+        350000,
+        390000,
+        420000
+      ]
+    },
+    {
+      "id": "skillhub-tencent",
+      "name": "腾讯 SkillHub",
+      "domain": "skillhub.tencent.com",
+      "type": "Skills 市场",
+      "description": "腾讯出品，专为中国用户优化的 Skills 社区",
+      "url": "https://skillhub.tencent.com",
+      "monthlyVisits": 380000,
+      "tier": "T1",
+      "features": [
+        "中文优化",
+        "腾讯云集成",
+        "企业级"
+      ],
+      "badge": "腾讯",
+      "trafficTrend": [
+        120000,
+        180000,
+        240000,
+        300000,
+        350000,
+        380000
+      ]
+    },
+    {
+      "id": "openclaw-docs",
+      "name": "OpenClaw Docs",
+      "domain": "docs.openclaw.ai",
+      "type": "文档",
+      "description": "OpenClaw 官方文档，入门指南和 API 参考",
+      "url": "https://docs.openclaw.ai",
+      "monthlyVisits": 280000,
+      "tier": "T1",
+      "features": [
+        "官方文档",
+        "API参考",
+        "教程"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        100000,
+        140000,
+        180000,
+        220000,
+        255000,
+        280000
+      ]
+    },
+    {
+      "id": "clawhub",
+      "name": "ClawHub",
+      "domain": "clawhub.ai",
+      "type": "Skills 市场",
+      "description": "OpenClaw 官方技能市场，发布和安装 SKILL.md",
+      "url": "https://clawhub.ai",
+      "monthlyVisits": 185000,
+      "tier": "T1",
+      "features": [
+        "SKILL.md",
+        "版本管理",
+        "一键安装"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        55000,
+        80000,
+        110000,
+        140000,
+        165000,
+        185000
+      ]
     },
     {
       "id": "openclaw-discord",
@@ -90,23 +133,46 @@
       "type": "社区",
       "description": "OpenClaw 官方 Discord 社区",
       "url": "https://discord.com/invite/clawd",
-      "monthlyVisits": 120000,
+      "monthlyVisits": 165000,
       "tier": "T1",
-      "features": ["社区", "问答", "公告"],
+      "features": [
+        "社区",
+        "问答",
+        "公告"
+      ],
       "badge": "官方",
-      "trafficTrend": [40000, 55000, 72000, 90000, 108000, 120000]
+      "trafficTrend": [
+        60000,
+        85000,
+        110000,
+        135000,
+        152000,
+        165000
+      ]
     },
     {
-      "id": "openclaw-reddit",
-      "name": "r/OpenClaw",
-      "domain": "reddit.com/r/openclaw",
-      "type": "社区",
-      "description": "OpenClaw Reddit 社区，讨论和分享",
-      "url": "https://reddit.com/r/openclaw",
-      "monthlyVisits": 75000,
-      "tier": "T2",
-      "features": ["Reddit", "讨论", "分享"],
-      "trafficTrend": [25000, 35000, 48000, 58000, 68000, 75000]
+      "id": "nemoclaw",
+      "name": "NemoClaw",
+      "domain": "nemoclawaiapp.com",
+      "type": "AI Agent",
+      "description": "NVIDIA NemoClaw AI Agents，企业级解决方案",
+      "url": "https://nemoclawaiapp.com",
+      "monthlyVisits": 125000,
+      "tier": "T1",
+      "features": [
+        "NVIDIA",
+        "企业级",
+        "GPU加速"
+      ],
+      "badge": "NVIDIA",
+      "trafficTrend": [
+        40000,
+        60000,
+        80000,
+        100000,
+        115000,
+        125000
+      ]
     },
     {
       "id": "openclaw-twitter",
@@ -115,134 +181,206 @@
       "type": "社交",
       "description": "OpenClaw 官方 Twitter/X 账号",
       "url": "https://x.com/OpenClawAI",
-      "monthlyVisits": 95000,
+      "monthlyVisits": 115000,
       "tier": "T2",
-      "features": ["Twitter", "公告", "更新"],
+      "features": [
+        "Twitter",
+        "公告",
+        "更新"
+      ],
       "badge": "官方",
-      "trafficTrend": [30000, 42000, 58000, 72000, 85000, 95000]
+      "trafficTrend": [
+        40000,
+        55000,
+        72000,
+        88000,
+        102000,
+        115000
+      ]
     },
     {
-      "id": "awesome-openclaw",
-      "name": "Awesome OpenClaw",
-      "domain": "github.com/awesome-openclaw",
-      "type": "资源列表",
-      "description": "OpenClaw 精选资源列表，Skills、教程、工具",
-      "url": "https://github.com/awesome-openclaw/awesome-openclaw",
-      "githubStars": 4200,
-      "monthlyVisits": 38000,
+      "id": "qclaw",
+      "name": "Qclaw",
+      "domain": "qclawai.com",
+      "type": "管理工具",
+      "description": "你的 OpenClaw 管家，简化配置和管理",
+      "url": "https://qclawai.com",
+      "monthlyVisits": 95000,
       "tier": "T2",
-      "features": ["资源列表", "精选", "社区维护"],
-      "trafficTrend": [10000, 15000, 22000, 28000, 34000, 38000]
+      "features": [
+        "配置管理",
+        "可视化",
+        "一键部署"
+      ],
+      "trafficTrend": [
+        28000,
+        42000,
+        58000,
+        72000,
+        85000,
+        95000
+      ]
+    },
+    {
+      "id": "openclaw-reddit",
+      "name": "r/OpenClaw",
+      "domain": "reddit.com/r/openclaw",
+      "type": "社区",
+      "description": "OpenClaw Reddit 社区",
+      "url": "https://reddit.com/r/openclaw",
+      "monthlyVisits": 88000,
+      "tier": "T2",
+      "features": [
+        "Reddit",
+        "讨论",
+        "分享"
+      ],
+      "trafficTrend": [
+        30000,
+        42000,
+        55000,
+        68000,
+        80000,
+        88000
+      ]
     },
     {
       "id": "openclaw-cn",
       "name": "OpenClaw 中文社区",
       "domain": "openclaw.cn",
       "type": "社区",
-      "description": "OpenClaw 中文用户社区，教程和讨论",
+      "description": "OpenClaw 中文用户社区",
       "url": "https://openclaw.cn",
-      "monthlyVisits": 65000,
+      "monthlyVisits": 82000,
       "tier": "T2",
-      "features": ["中文", "教程", "论坛"],
-      "trafficTrend": [18000, 28000, 38000, 48000, 58000, 65000]
+      "features": [
+        "中文",
+        "教程",
+        "论坛"
+      ],
+      "trafficTrend": [
+        25000,
+        38000,
+        52000,
+        65000,
+        75000,
+        82000
+      ]
     },
     {
       "id": "openclaw-youtube",
       "name": "OpenClaw YouTube",
       "domain": "youtube.com/@OpenClaw",
       "type": "视频",
-      "description": "OpenClaw 官方 YouTube 频道，教程视频",
+      "description": "OpenClaw 官方 YouTube 频道",
       "url": "https://youtube.com/@OpenClaw",
-      "monthlyVisits": 55000,
+      "monthlyVisits": 75000,
       "tier": "T2",
-      "features": ["视频教程", "演示", "更新"],
+      "features": [
+        "视频教程",
+        "演示"
+      ],
       "badge": "官方",
-      "trafficTrend": [15000, 22000, 32000, 42000, 50000, 55000]
-    },
-    {
-      "id": "openclaw-cookbook",
-      "name": "OpenClaw Cookbook",
-      "domain": "cookbook.openclaw.ai",
-      "type": "教程",
-      "description": "OpenClaw 实战食谱，场景化教程",
-      "url": "https://cookbook.openclaw.ai",
-      "monthlyVisits": 42000,
-      "tier": "T2",
-      "features": ["实战", "场景", "代码示例"],
-      "trafficTrend": [12000, 18000, 25000, 32000, 38000, 42000]
-    },
-    {
-      "id": "skillforge",
-      "name": "SkillForge",
-      "domain": "skillforge.dev",
-      "type": "Skills 市场",
-      "description": "第三方 Skills 市场，专注高质量技能",
-      "url": "https://skillforge.dev",
-      "monthlyVisits": 28000,
-      "tier": "T3",
-      "features": ["高质量", "审核", "付费Skills"],
-      "trafficTrend": [8000, 12000, 16000, 20000, 24000, 28000]
-    },
-    {
-      "id": "openclaw-hub",
-      "name": "OpenClaw Hub",
-      "domain": "hub.openclaw.dev",
-      "type": "资源中心",
-      "description": "OpenClaw 资源聚合中心",
-      "url": "https://hub.openclaw.dev",
-      "monthlyVisits": 22000,
-      "tier": "T3",
-      "features": ["聚合", "导航", "资源"],
-      "trafficTrend": [6000, 9000, 13000, 16000, 19000, 22000]
-    },
-    {
-      "id": "claw-templates",
-      "name": "Claw Templates",
-      "domain": "templates.claw.sh",
-      "type": "模板",
-      "description": "OpenClaw 项目模板和 Starter Kit",
-      "url": "https://templates.claw.sh",
-      "monthlyVisits": 18000,
-      "tier": "T3",
-      "features": ["模板", "Starter", "快速开始"],
-      "trafficTrend": [5000, 8000, 11000, 14000, 16000, 18000]
-    },
-    {
-      "id": "openclaw-plugins",
-      "name": "OpenClaw Plugins",
-      "domain": "plugins.openclaw.io",
-      "type": "插件",
-      "description": "OpenClaw 插件市场",
-      "url": "https://plugins.openclaw.io",
-      "monthlyVisits": 15000,
-      "tier": "T3",
-      "features": ["插件", "扩展", "集成"],
-      "trafficTrend": [4000, 6000, 9000, 11000, 13000, 15000]
-    },
-    {
-      "id": "claw-academy",
-      "name": "Claw Academy",
-      "domain": "academy.claw.dev",
-      "type": "教育",
-      "description": "OpenClaw 在线学院，系统化课程",
-      "url": "https://academy.claw.dev",
-      "monthlyVisits": 35000,
-      "tier": "T2",
-      "features": ["课程", "认证", "学习路径"],
-      "trafficTrend": [10000, 15000, 21000, 26000, 31000, 35000]
+      "trafficTrend": [
+        22000,
+        35000,
+        48000,
+        60000,
+        68000,
+        75000
+      ]
     },
     {
       "id": "openclaw-forum",
       "name": "OpenClaw Forum",
       "domain": "forum.openclaw.ai",
       "type": "论坛",
-      "description": "OpenClaw 官方论坛，深度讨论",
+      "description": "OpenClaw 官方论坛",
       "url": "https://forum.openclaw.ai",
+      "monthlyVisits": 68000,
+      "tier": "T2",
+      "features": [
+        "论坛",
+        "问答"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        20000,
+        32000,
+        44000,
+        55000,
+        62000,
+        68000
+      ]
+    },
+    {
+      "id": "awesome-openclaw",
+      "name": "Awesome OpenClaw",
+      "domain": "github.com/awesome-openclaw/awesome-openclaw",
+      "type": "资源列表",
+      "description": "OpenClaw 精选资源列表",
+      "url": "https://github.com/awesome-openclaw/awesome-openclaw",
+      "githubStars": 4200,
+      "monthlyVisits": 58000,
+      "tier": "T2",
+      "features": [
+        "资源列表",
+        "精选"
+      ],
+      "trafficTrend": [
+        18000,
+        28000,
+        38000,
+        48000,
+        54000,
+        58000
+      ]
+    },
+    {
+      "id": "openclaw-cookbook",
+      "name": "OpenClaw Cookbook",
+      "domain": "cookbook.openclaw.ai",
+      "type": "教程",
+      "description": "OpenClaw 实战食谱",
+      "url": "https://cookbook.openclaw.ai",
+      "monthlyVisits": 52000,
+      "tier": "T2",
+      "features": [
+        "实战",
+        "场景",
+        "代码示例"
+      ],
+      "trafficTrend": [
+        15000,
+        24000,
+        34000,
+        42000,
+        48000,
+        52000
+      ]
+    },
+    {
+      "id": "claw-academy",
+      "name": "Claw Academy",
+      "domain": "academy.claw.dev",
+      "type": "教育",
+      "description": "OpenClaw 在线学院",
+      "url": "https://academy.claw.dev",
       "monthlyVisits": 48000,
       "tier": "T2",
-      "features": ["论坛", "问答", "深度讨论"],
-      "badge": "官方",
-      "trafficTrend": [15000, 22000, 30000, 38000, 44000, 48000]
+      "features": [
+        "课程",
+        "认证",
+        "学习路径"
+      ],
+      "trafficTrend": [
+        14000,
+        22000,
+        32000,
+        40000,
+        45000,
+        48000
+      ]
     },
     {
       "id": "claw-cli",
@@ -251,31 +389,781 @@
       "type": "工具",
       "description": "OpenClaw 命令行工具文档",
       "url": "https://cli.claw.sh",
-      "monthlyVisits": 32000,
+      "monthlyVisits": 45000,
       "tier": "T2",
-      "features": ["CLI", "命令行", "自动化"],
-      "trafficTrend": [10000, 14000, 19000, 24000, 28000, 32000]
+      "features": [
+        "CLI",
+        "命令行"
+      ],
+      "trafficTrend": [
+        12000,
+        20000,
+        28000,
+        36000,
+        42000,
+        45000
+      ]
+    },
+    {
+      "id": "skillforge",
+      "name": "SkillForge",
+      "domain": "skillforge.dev",
+      "type": "Skills 市场",
+      "description": "第三方 Skills 市场，专注高质量技能",
+      "url": "https://skillforge.dev",
+      "monthlyVisits": 42000,
+      "tier": "T2",
+      "features": [
+        "高质量",
+        "审核",
+        "付费Skills"
+      ],
+      "trafficTrend": [
+        12000,
+        18000,
+        26000,
+        34000,
+        39000,
+        42000
+      ]
+    },
+    {
+      "id": "openclaw-bilibili",
+      "name": "OpenClaw B站",
+      "domain": "space.bilibili.com/openclaw",
+      "type": "视频",
+      "description": "OpenClaw B站官方账号",
+      "url": "https://space.bilibili.com/openclaw",
+      "monthlyVisits": 38000,
+      "tier": "T2",
+      "features": [
+        "B站",
+        "中文视频"
+      ],
+      "trafficTrend": [
+        10000,
+        16000,
+        24000,
+        30000,
+        35000,
+        38000
+      ]
+    },
+    {
+      "id": "openclaw-zhihu",
+      "name": "OpenClaw 知乎",
+      "domain": "zhihu.com/org/openclaw",
+      "type": "社交",
+      "description": "OpenClaw 知乎官方账号",
+      "url": "https://zhihu.com/org/openclaw",
+      "monthlyVisits": 35000,
+      "tier": "T2",
+      "features": [
+        "知乎",
+        "问答",
+        "专栏"
+      ],
+      "trafficTrend": [
+        10000,
+        15000,
+        22000,
+        28000,
+        32000,
+        35000
+      ]
+    },
+    {
+      "id": "openclaw-hub",
+      "name": "OpenClaw Hub",
+      "domain": "hub.openclaw.dev",
+      "type": "资源中心",
+      "description": "OpenClaw 资源聚合中心",
+      "url": "https://hub.openclaw.dev",
+      "monthlyVisits": 32000,
+      "tier": "T3",
+      "features": [
+        "聚合",
+        "导航"
+      ],
+      "trafficTrend": [
+        8000,
+        14000,
+        20000,
+        26000,
+        30000,
+        32000
+      ]
+    },
+    {
+      "id": "claw-templates",
+      "name": "Claw Templates",
+      "domain": "templates.claw.sh",
+      "type": "模板",
+      "description": "OpenClaw 项目模板",
+      "url": "https://templates.claw.sh",
+      "monthlyVisits": 28000,
+      "tier": "T3",
+      "features": [
+        "模板",
+        "Starter"
+      ],
+      "trafficTrend": [
+        7000,
+        12000,
+        18000,
+        23000,
+        26000,
+        28000
+      ]
+    },
+    {
+      "id": "openclaw-plugins",
+      "name": "OpenClaw Plugins",
+      "domain": "plugins.openclaw.io",
+      "type": "插件",
+      "description": "OpenClaw 插件市场",
+      "url": "https://plugins.openclaw.io",
+      "monthlyVisits": 25000,
+      "tier": "T3",
+      "features": [
+        "插件",
+        "扩展"
+      ],
+      "trafficTrend": [
+        6000,
+        10000,
+        15000,
+        20000,
+        23000,
+        25000
+      ]
+    },
+    {
+      "id": "openclaw-weixin",
+      "name": "OpenClaw 微信公众号",
+      "domain": "mp.weixin.qq.com/openclaw",
+      "type": "社交",
+      "description": "OpenClaw 微信公众号",
+      "url": "https://mp.weixin.qq.com/openclaw",
+      "monthlyVisits": 22000,
+      "tier": "T3",
+      "features": [
+        "微信",
+        "公众号"
+      ],
+      "trafficTrend": [
+        5000,
+        9000,
+        14000,
+        18000,
+        20000,
+        22000
+      ]
+    },
+    {
+      "id": "claw-cloud",
+      "name": "Claw Cloud",
+      "domain": "cloud.claw.sh",
+      "type": "云服务",
+      "description": "OpenClaw 云托管服务",
+      "url": "https://cloud.claw.sh",
+      "monthlyVisits": 20000,
+      "tier": "T3",
+      "features": [
+        "云托管",
+        "一键部署"
+      ],
+      "trafficTrend": [
+        5000,
+        8000,
+        12000,
+        16000,
+        18000,
+        20000
+      ]
+    },
+    {
+      "id": "openclaw-api",
+      "name": "OpenClaw API",
+      "domain": "api.openclaw.ai",
+      "type": "API",
+      "description": "OpenClaw API 服务",
+      "url": "https://api.openclaw.ai",
+      "monthlyVisits": 18000,
+      "tier": "T3",
+      "features": [
+        "API",
+        "开发者"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        4000,
+        7000,
+        11000,
+        14000,
+        16000,
+        18000
+      ]
+    },
+    {
+      "id": "skillmarket-cn",
+      "name": "技能市场",
+      "domain": "skills.openclaw.cn",
+      "type": "Skills 市场",
+      "description": "OpenClaw 中文技能市场",
+      "url": "https://skills.openclaw.cn",
+      "monthlyVisits": 16000,
+      "tier": "T3",
+      "features": [
+        "中文",
+        "技能市场"
+      ],
+      "trafficTrend": [
+        4000,
+        7000,
+        10000,
+        13000,
+        15000,
+        16000
+      ]
+    },
+    {
+      "id": "claw-studio",
+      "name": "Claw Studio",
+      "domain": "studio.claw.dev",
+      "type": "IDE",
+      "description": "OpenClaw 可视化开发环境",
+      "url": "https://studio.claw.dev",
+      "monthlyVisits": 15000,
+      "tier": "T3",
+      "features": [
+        "IDE",
+        "可视化"
+      ],
+      "trafficTrend": [
+        3500,
+        6000,
+        9000,
+        12000,
+        14000,
+        15000
+      ]
+    },
+    {
+      "id": "openclaw-status",
+      "name": "OpenClaw Status",
+      "domain": "status.openclaw.ai",
+      "type": "监控",
+      "description": "OpenClaw 服务状态页",
+      "url": "https://status.openclaw.ai",
+      "monthlyVisits": 14000,
+      "tier": "T3",
+      "features": [
+        "状态",
+        "监控"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        3000,
+        5500,
+        8000,
+        11000,
+        13000,
+        14000
+      ]
+    },
+    {
+      "id": "claw-proxy",
+      "name": "Claw Proxy",
+      "domain": "proxy.claw.sh",
+      "type": "代理",
+      "description": "OpenClaw API 代理服务",
+      "url": "https://proxy.claw.sh",
+      "monthlyVisits": 13000,
+      "tier": "T3",
+      "features": [
+        "代理",
+        "加速"
+      ],
+      "trafficTrend": [
+        3000,
+        5000,
+        7500,
+        10000,
+        12000,
+        13000
+      ]
+    },
+    {
+      "id": "openclaw-blog",
+      "name": "OpenClaw Blog",
+      "domain": "blog.openclaw.ai",
+      "type": "博客",
+      "description": "OpenClaw 官方博客",
+      "url": "https://blog.openclaw.ai",
+      "monthlyVisits": 12000,
+      "tier": "T3",
+      "features": [
+        "博客",
+        "更新"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        2500,
+        4500,
+        7000,
+        9500,
+        11000,
+        12000
+      ]
+    },
+    {
+      "id": "claw-mcp",
+      "name": "Claw MCP",
+      "domain": "mcp.claw.dev",
+      "type": "MCP",
+      "description": "OpenClaw MCP 服务器目录",
+      "url": "https://mcp.claw.dev",
+      "monthlyVisits": 11000,
+      "tier": "T3",
+      "features": [
+        "MCP",
+        "服务器"
+      ],
+      "trafficTrend": [
+        2500,
+        4500,
+        6500,
+        8500,
+        10000,
+        11000
+      ]
+    },
+    {
+      "id": "openclaw-changelog",
+      "name": "OpenClaw Changelog",
+      "domain": "changelog.openclaw.ai",
+      "type": "更新日志",
+      "description": "OpenClaw 版本更新日志",
+      "url": "https://changelog.openclaw.ai",
+      "monthlyVisits": 10000,
+      "tier": "T3",
+      "features": [
+        "更新日志",
+        "版本"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        2000,
+        4000,
+        6000,
+        8000,
+        9200,
+        10000
+      ]
+    },
+    {
+      "id": "claw-examples",
+      "name": "Claw Examples",
+      "domain": "examples.claw.sh",
+      "type": "示例",
+      "description": "OpenClaw 示例项目",
+      "url": "https://examples.claw.sh",
+      "monthlyVisits": 9500,
+      "tier": "T3",
+      "features": [
+        "示例",
+        "代码"
+      ],
+      "trafficTrend": [
+        2000,
+        3800,
+        5600,
+        7400,
+        8600,
+        9500
+      ]
+    },
+    {
+      "id": "openclaw-security",
+      "name": "OpenClaw Security",
+      "domain": "security.openclaw.ai",
+      "type": "安全",
+      "description": "OpenClaw 安全公告",
+      "url": "https://security.openclaw.ai",
+      "monthlyVisits": 8500,
+      "tier": "T3",
+      "features": [
+        "安全",
+        "漏洞"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        1800,
+        3400,
+        5000,
+        6600,
+        7800,
+        8500
+      ]
+    },
+    {
+      "id": "claw-analytics",
+      "name": "Claw Analytics",
+      "domain": "analytics.claw.dev",
+      "type": "分析",
+      "description": "OpenClaw 使用分析工具",
+      "url": "https://analytics.claw.dev",
+      "monthlyVisits": 8000,
+      "tier": "T3",
+      "features": [
+        "分析",
+        "统计"
+      ],
+      "trafficTrend": [
+        1600,
+        3200,
+        4800,
+        6400,
+        7400,
+        8000
+      ]
+    },
+    {
+      "id": "openclaw-enterprise",
+      "name": "OpenClaw Enterprise",
+      "domain": "enterprise.openclaw.ai",
+      "type": "企业版",
+      "description": "OpenClaw 企业版",
+      "url": "https://enterprise.openclaw.ai",
+      "monthlyVisits": 7500,
+      "tier": "T3",
+      "features": [
+        "企业",
+        "私有部署"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        1500,
+        3000,
+        4500,
+        6000,
+        7000,
+        7500
+      ]
+    },
+    {
+      "id": "claw-integrations",
+      "name": "Claw Integrations",
+      "domain": "integrations.claw.sh",
+      "type": "集成",
+      "description": "OpenClaw 第三方集成",
+      "url": "https://integrations.claw.sh",
+      "monthlyVisits": 7000,
+      "tier": "T3",
+      "features": [
+        "集成",
+        "连接器"
+      ],
+      "trafficTrend": [
+        1400,
+        2800,
+        4200,
+        5600,
+        6500,
+        7000
+      ]
+    },
+    {
+      "id": "openclaw-jobs",
+      "name": "OpenClaw Jobs",
+      "domain": "jobs.openclaw.ai",
+      "type": "招聘",
+      "description": "OpenClaw 招聘页面",
+      "url": "https://jobs.openclaw.ai",
+      "monthlyVisits": 6500,
+      "tier": "T3",
+      "features": [
+        "招聘",
+        "职位"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        1200,
+        2500,
+        3800,
+        5200,
+        6000,
+        6500
+      ]
+    },
+    {
+      "id": "claw-themes",
+      "name": "Claw Themes",
+      "domain": "themes.claw.dev",
+      "type": "主题",
+      "description": "OpenClaw 主题市场",
+      "url": "https://themes.claw.dev",
+      "monthlyVisits": 6000,
+      "tier": "T3",
+      "features": [
+        "主题",
+        "UI"
+      ],
+      "trafficTrend": [
+        1200,
+        2400,
+        3600,
+        4800,
+        5500,
+        6000
+      ]
+    },
+    {
+      "id": "openclaw-partners",
+      "name": "OpenClaw Partners",
+      "domain": "partners.openclaw.ai",
+      "type": "合作伙伴",
+      "description": "OpenClaw 合作伙伴计划",
+      "url": "https://partners.openclaw.ai",
+      "monthlyVisits": 5500,
+      "tier": "T3",
+      "features": [
+        "合作",
+        "生态"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        1000,
+        2200,
+        3400,
+        4500,
+        5100,
+        5500
+      ]
+    },
+    {
+      "id": "claw-benchmark",
+      "name": "Claw Benchmark",
+      "domain": "benchmark.claw.sh",
+      "type": "测试",
+      "description": "OpenClaw 性能基准测试",
+      "url": "https://benchmark.claw.sh",
+      "monthlyVisits": 5000,
+      "tier": "T3",
+      "features": [
+        "基准",
+        "性能"
+      ],
+      "trafficTrend": [
+        1000,
+        2000,
+        3000,
+        4000,
+        4600,
+        5000
+      ]
+    },
+    {
+      "id": "openclaw-research",
+      "name": "OpenClaw Research",
+      "domain": "research.openclaw.ai",
+      "type": "研究",
+      "description": "OpenClaw 研究论文",
+      "url": "https://research.openclaw.ai",
+      "monthlyVisits": 4500,
+      "tier": "T3",
+      "features": [
+        "研究",
+        "论文"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        900,
+        1800,
+        2700,
+        3600,
+        4200,
+        4500
+      ]
+    },
+    {
+      "id": "claw-sandbox",
+      "name": "Claw Sandbox",
+      "domain": "sandbox.claw.dev",
+      "type": "沙盒",
+      "description": "OpenClaw 在线沙盒",
+      "url": "https://sandbox.claw.dev",
+      "monthlyVisits": 4200,
+      "tier": "T3",
+      "features": [
+        "沙盒",
+        "在线体验"
+      ],
+      "trafficTrend": [
+        800,
+        1700,
+        2600,
+        3400,
+        3900,
+        4200
+      ]
+    },
+    {
+      "id": "openclaw-feedback",
+      "name": "OpenClaw Feedback",
+      "domain": "feedback.openclaw.ai",
+      "type": "反馈",
+      "description": "OpenClaw 用户反馈",
+      "url": "https://feedback.openclaw.ai",
+      "monthlyVisits": 3800,
+      "tier": "T3",
+      "features": [
+        "反馈",
+        "建议"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        700,
+        1500,
+        2300,
+        3100,
+        3500,
+        3800
+      ]
+    },
+    {
+      "id": "claw-translate",
+      "name": "Claw Translate",
+      "domain": "translate.claw.sh",
+      "type": "翻译",
+      "description": "OpenClaw 文档翻译项目",
+      "url": "https://translate.claw.sh",
+      "monthlyVisits": 3500,
+      "tier": "T3",
+      "features": [
+        "翻译",
+        "多语言"
+      ],
+      "trafficTrend": [
+        600,
+        1400,
+        2200,
+        2900,
+        3300,
+        3500
+      ]
+    },
+    {
+      "id": "openclaw-brand",
+      "name": "OpenClaw Brand",
+      "domain": "brand.openclaw.ai",
+      "type": "品牌",
+      "description": "OpenClaw 品牌资源",
+      "url": "https://brand.openclaw.ai",
+      "monthlyVisits": 3200,
+      "tier": "T3",
+      "features": [
+        "品牌",
+        "Logo"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        500,
+        1200,
+        1900,
+        2600,
+        3000,
+        3200
+      ]
+    },
+    {
+      "id": "claw-compare",
+      "name": "Claw Compare",
+      "domain": "compare.claw.dev",
+      "type": "对比",
+      "description": "OpenClaw 与其他工具对比",
+      "url": "https://compare.claw.dev",
+      "monthlyVisits": 2800,
+      "tier": "T3",
+      "features": [
+        "对比",
+        "评测"
+      ],
+      "trafficTrend": [
+        500,
+        1100,
+        1700,
+        2300,
+        2600,
+        2800
+      ]
+    },
+    {
+      "id": "openclaw-legal",
+      "name": "OpenClaw Legal",
+      "domain": "legal.openclaw.ai",
+      "type": "法律",
+      "description": "OpenClaw 法律条款",
+      "url": "https://legal.openclaw.ai",
+      "monthlyVisits": 2500,
+      "tier": "T3",
+      "features": [
+        "法律",
+        "条款"
+      ],
+      "badge": "官方",
+      "trafficTrend": [
+        400,
+        1000,
+        1600,
+        2100,
+        2400,
+        2500
+      ]
+    },
+    {
+      "id": "claw-community",
+      "name": "Claw Community",
+      "domain": "community.claw.sh",
+      "type": "社区",
+      "description": "OpenClaw 开发者社区平台",
+      "url": "https://community.claw.sh",
+      "monthlyVisits": 2200,
+      "tier": "T3",
+      "features": [
+        "社区",
+        "开发者"
+      ],
+      "trafficTrend": [
+        400,
+        900,
+        1400,
+        1800,
+        2100,
+        2200
+      ]
     }
   ],
   "insights": [
     {
-      "title": "腾讯入局",
-      "content": "腾讯 SkillHub 流量增长迅猛，中国市场潜力巨大",
-      "color": "green"
-    },
-    {
-      "title": "官方生态完善",
-      "content": "ClawHub + Docs + Discord 构成官方三件套",
+      "title": "官网流量领先",
+      "content": "openclaw.ai 官网月访问 85 万，是生态核心入口",
       "color": "blue"
     },
     {
+      "title": "腾讯入局",
+      "content": "腾讯 SkillHub 增长迅猛，中国市场潜力巨大",
+      "color": "green"
+    },
+    {
       "title": "GitHub 核心",
-      "content": "开源仓库仍是最大流量入口，28.5K Stars",
+      "content": "开源仓库 28.5K Stars，开发者社区活跃",
       "color": "purple"
     },
     {
-      "title": "中文社区崛起",
-      "content": "中文社区和教程需求旺盛，本地化机会",
+      "title": "中文生态崛起",
+      "content": "中文社区、B站、知乎等本地化渠道需求旺盛",
       "color": "orange"
     }
   ]
