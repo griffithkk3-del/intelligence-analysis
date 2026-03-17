@@ -20,14 +20,7 @@
         "介绍"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        350000,
-        450000,
-        550000,
-        650000,
-        750000,
-        850000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-github",
@@ -45,14 +38,7 @@
         "PR"
       ],
       "badge": "开源",
-      "trafficTrend": [
-        180000,
-        240000,
-        300000,
-        350000,
-        390000,
-        420000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skillhub-tencent",
@@ -69,14 +55,7 @@
         "企业级"
       ],
       "badge": "腾讯",
-      "trafficTrend": [
-        120000,
-        180000,
-        240000,
-        300000,
-        350000,
-        380000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-docs",
@@ -93,14 +72,7 @@
         "教程"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        100000,
-        140000,
-        180000,
-        220000,
-        255000,
-        280000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "clawhub",
@@ -117,14 +89,7 @@
         "一键安装"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        55000,
-        80000,
-        110000,
-        140000,
-        165000,
-        185000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-discord",
@@ -141,14 +106,7 @@
         "公告"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        60000,
-        85000,
-        110000,
-        135000,
-        152000,
-        165000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "nemoclaw",
@@ -165,14 +123,7 @@
         "GPU加速"
       ],
       "badge": "NVIDIA",
-      "trafficTrend": [
-        40000,
-        60000,
-        80000,
-        100000,
-        115000,
-        125000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-twitter",
@@ -189,14 +140,7 @@
         "更新"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        40000,
-        55000,
-        72000,
-        88000,
-        102000,
-        115000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "qclaw",
@@ -212,14 +156,7 @@
         "可视化",
         "一键部署"
       ],
-      "trafficTrend": [
-        28000,
-        42000,
-        58000,
-        72000,
-        85000,
-        95000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-reddit",
@@ -235,14 +172,7 @@
         "讨论",
         "分享"
       ],
-      "trafficTrend": [
-        30000,
-        42000,
-        55000,
-        68000,
-        80000,
-        88000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-cn",
@@ -258,14 +188,7 @@
         "教程",
         "论坛"
       ],
-      "trafficTrend": [
-        25000,
-        38000,
-        52000,
-        65000,
-        75000,
-        82000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-youtube",
@@ -281,14 +204,7 @@
         "演示"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        22000,
-        35000,
-        48000,
-        60000,
-        68000,
-        75000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-forum",
@@ -304,14 +220,7 @@
         "问答"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        20000,
-        32000,
-        44000,
-        55000,
-        62000,
-        68000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "awesome-openclaw",
@@ -327,14 +236,7 @@
         "资源列表",
         "精选"
       ],
-      "trafficTrend": [
-        18000,
-        28000,
-        38000,
-        48000,
-        54000,
-        58000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-cookbook",
@@ -350,14 +252,7 @@
         "场景",
         "代码示例"
       ],
-      "trafficTrend": [
-        15000,
-        24000,
-        34000,
-        42000,
-        48000,
-        52000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-academy",
@@ -373,14 +268,7 @@
         "认证",
         "学习路径"
       ],
-      "trafficTrend": [
-        14000,
-        22000,
-        32000,
-        40000,
-        45000,
-        48000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-cli",
@@ -395,14 +283,7 @@
         "CLI",
         "命令行"
       ],
-      "trafficTrend": [
-        12000,
-        20000,
-        28000,
-        36000,
-        42000,
-        45000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skillforge",
@@ -418,14 +299,7 @@
         "审核",
         "付费Skills"
       ],
-      "trafficTrend": [
-        12000,
-        18000,
-        26000,
-        34000,
-        39000,
-        42000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-bilibili",
@@ -440,14 +314,7 @@
         "B站",
         "中文视频"
       ],
-      "trafficTrend": [
-        10000,
-        16000,
-        24000,
-        30000,
-        35000,
-        38000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-zhihu",
@@ -463,14 +330,7 @@
         "问答",
         "专栏"
       ],
-      "trafficTrend": [
-        10000,
-        15000,
-        22000,
-        28000,
-        32000,
-        35000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-hub",
@@ -485,14 +345,7 @@
         "聚合",
         "导航"
       ],
-      "trafficTrend": [
-        8000,
-        14000,
-        20000,
-        26000,
-        30000,
-        32000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-templates",
@@ -507,14 +360,7 @@
         "模板",
         "Starter"
       ],
-      "trafficTrend": [
-        7000,
-        12000,
-        18000,
-        23000,
-        26000,
-        28000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-plugins",
@@ -529,14 +375,7 @@
         "插件",
         "扩展"
       ],
-      "trafficTrend": [
-        6000,
-        10000,
-        15000,
-        20000,
-        23000,
-        25000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-weixin",
@@ -551,14 +390,7 @@
         "微信",
         "公众号"
       ],
-      "trafficTrend": [
-        5000,
-        9000,
-        14000,
-        18000,
-        20000,
-        22000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-cloud",
@@ -573,14 +405,7 @@
         "云托管",
         "一键部署"
       ],
-      "trafficTrend": [
-        5000,
-        8000,
-        12000,
-        16000,
-        18000,
-        20000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-api",
@@ -596,14 +421,7 @@
         "开发者"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        4000,
-        7000,
-        11000,
-        14000,
-        16000,
-        18000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skillmarket-cn",
@@ -618,14 +436,7 @@
         "中文",
         "技能市场"
       ],
-      "trafficTrend": [
-        4000,
-        7000,
-        10000,
-        13000,
-        15000,
-        16000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-studio",
@@ -640,14 +451,7 @@
         "IDE",
         "可视化"
       ],
-      "trafficTrend": [
-        3500,
-        6000,
-        9000,
-        12000,
-        14000,
-        15000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-status",
@@ -663,14 +467,7 @@
         "监控"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        3000,
-        5500,
-        8000,
-        11000,
-        13000,
-        14000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-proxy",
@@ -685,14 +482,7 @@
         "代理",
         "加速"
       ],
-      "trafficTrend": [
-        3000,
-        5000,
-        7500,
-        10000,
-        12000,
-        13000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-blog",
@@ -708,14 +498,7 @@
         "更新"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        2500,
-        4500,
-        7000,
-        9500,
-        11000,
-        12000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-mcp",
@@ -730,14 +513,7 @@
         "MCP",
         "服务器"
       ],
-      "trafficTrend": [
-        2500,
-        4500,
-        6500,
-        8500,
-        10000,
-        11000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-changelog",
@@ -753,14 +529,7 @@
         "版本"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        2000,
-        4000,
-        6000,
-        8000,
-        9200,
-        10000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-examples",
@@ -775,14 +544,7 @@
         "示例",
         "代码"
       ],
-      "trafficTrend": [
-        2000,
-        3800,
-        5600,
-        7400,
-        8600,
-        9500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-security",
@@ -798,14 +560,7 @@
         "漏洞"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        1800,
-        3400,
-        5000,
-        6600,
-        7800,
-        8500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-analytics",
@@ -820,14 +575,7 @@
         "分析",
         "统计"
       ],
-      "trafficTrend": [
-        1600,
-        3200,
-        4800,
-        6400,
-        7400,
-        8000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-enterprise",
@@ -843,14 +591,7 @@
         "私有部署"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        1500,
-        3000,
-        4500,
-        6000,
-        7000,
-        7500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-integrations",
@@ -865,14 +606,7 @@
         "集成",
         "连接器"
       ],
-      "trafficTrend": [
-        1400,
-        2800,
-        4200,
-        5600,
-        6500,
-        7000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-jobs",
@@ -888,14 +622,7 @@
         "职位"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        1200,
-        2500,
-        3800,
-        5200,
-        6000,
-        6500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-themes",
@@ -910,14 +637,7 @@
         "主题",
         "UI"
       ],
-      "trafficTrend": [
-        1200,
-        2400,
-        3600,
-        4800,
-        5500,
-        6000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-partners",
@@ -933,14 +653,7 @@
         "生态"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        1000,
-        2200,
-        3400,
-        4500,
-        5100,
-        5500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-benchmark",
@@ -955,14 +668,7 @@
         "基准",
         "性能"
       ],
-      "trafficTrend": [
-        1000,
-        2000,
-        3000,
-        4000,
-        4600,
-        5000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-research",
@@ -978,14 +684,7 @@
         "论文"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        900,
-        1800,
-        2700,
-        3600,
-        4200,
-        4500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-sandbox",
@@ -1000,14 +699,7 @@
         "沙盒",
         "在线体验"
       ],
-      "trafficTrend": [
-        800,
-        1700,
-        2600,
-        3400,
-        3900,
-        4200
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-feedback",
@@ -1023,14 +715,7 @@
         "建议"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        700,
-        1500,
-        2300,
-        3100,
-        3500,
-        3800
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-translate",
@@ -1045,14 +730,7 @@
         "翻译",
         "多语言"
       ],
-      "trafficTrend": [
-        600,
-        1400,
-        2200,
-        2900,
-        3300,
-        3500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-brand",
@@ -1068,14 +746,7 @@
         "Logo"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        500,
-        1200,
-        1900,
-        2600,
-        3000,
-        3200
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-compare",
@@ -1090,14 +761,7 @@
         "对比",
         "评测"
       ],
-      "trafficTrend": [
-        500,
-        1100,
-        1700,
-        2300,
-        2600,
-        2800
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw-legal",
@@ -1113,14 +777,7 @@
         "条款"
       ],
       "badge": "官方",
-      "trafficTrend": [
-        400,
-        1000,
-        1600,
-        2100,
-        2400,
-        2500
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claw-community",
@@ -1135,14 +792,7 @@
         "社区",
         "开发者"
       ],
-      "trafficTrend": [
-        400,
-        900,
-        1400,
-        1800,
-        2100,
-        2200
-      ]
+      "trafficTrend": []
     }
   ],
   "insights": [

@@ -24,14 +24,7 @@
       "launchDate": "2022-11",
       "color": "purple",
       "badge": "#1",
-      "trafficTrend": [
-        3800000,
-        4000000,
-        4200000,
-        4300000,
-        4400000,
-        4500000
-      ],
+      "trafficTrend": [],
       "tier": "T1",
       "status": "active"
     },
@@ -51,14 +44,7 @@
       "launchDate": "2023-03",
       "color": "green",
       "badge": "增长快",
-      "trafficTrend": [
-        1500000,
-        1800000,
-        2100000,
-        2400000,
-        2600000,
-        2800000
-      ],
+      "trafficTrend": [],
       "tier": "T1",
       "status": "active"
     },
@@ -78,14 +64,7 @@
       "launchDate": "2022-10",
       "color": "blue",
       "badge": "热门",
-      "trafficTrend": [
-        850000,
-        780000,
-        720000,
-        700000,
-        690000,
-        680000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -105,14 +84,7 @@
       "launchDate": "2022-12",
       "color": "orange",
       "badge": "KOL",
-      "trafficTrend": [
-        600000,
-        580000,
-        550000,
-        530000,
-        520000,
-        520000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -132,14 +104,7 @@
       "launchDate": "2023-06",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        300000,
-        350000,
-        380000,
-        410000,
-        430000,
-        450000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -159,14 +124,7 @@
       "launchDate": "2023-01",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        320000,
-        340000,
-        350000,
-        360000,
-        370000,
-        380000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -186,14 +144,7 @@
       "launchDate": "2023-04",
       "color": "green",
       "badge": null,
-      "trafficTrend": [
-        250000,
-        270000,
-        290000,
-        300000,
-        310000,
-        320000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -213,14 +164,7 @@
       "launchDate": "2023-02",
       "color": "purple",
       "badge": null,
-      "trafficTrend": [
-        200000,
-        220000,
-        240000,
-        260000,
-        270000,
-        280000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -240,14 +184,7 @@
       "launchDate": "2023-06",
       "color": "purple",
       "badge": "工具最多",
-      "trafficTrend": [
-        180000,
-        200000,
-        220000,
-        230000,
-        240000,
-        250000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -267,14 +204,7 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        150000,
-        170000,
-        190000,
-        200000,
-        210000,
-        220000
-      ],
+      "trafficTrend": [],
       "tier": "T2",
       "status": "active"
     },
@@ -294,14 +224,7 @@
       "launchDate": "2023-03",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [
-        150000,
-        160000,
-        170000,
-        180000,
-        190000,
-        200000
-      ],
+      "trafficTrend": [],
       "tier": "T2"
     },
     {
@@ -320,14 +243,7 @@
       "launchDate": "2023-02",
       "color": "blue",
       "badge": "精选",
-      "trafficTrend": [
-        150000,
-        160000,
-        165000,
-        170000,
-        175000,
-        180000
-      ],
+      "trafficTrend": [],
       "tier": "T2"
     },
     {
@@ -346,14 +262,7 @@
       "launchDate": "2023-04",
       "color": "green",
       "badge": null,
-      "trafficTrend": [
-        100000,
-        120000,
-        135000,
-        145000,
-        155000,
-        160000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -372,14 +281,7 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        90000,
-        105000,
-        115000,
-        125000,
-        135000,
-        140000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -398,14 +300,7 @@
       "launchDate": "2023-06",
       "color": "purple",
       "badge": null,
-      "trafficTrend": [
-        80000,
-        90000,
-        100000,
-        105000,
-        115000,
-        120000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -424,14 +319,7 @@
       "launchDate": "2023-07",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        60000,
-        75000,
-        85000,
-        95000,
-        105000,
-        110000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -450,14 +338,7 @@
       "launchDate": "2023-08",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [
-        50000,
-        60000,
-        70000,
-        80000,
-        90000,
-        95000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -476,14 +357,7 @@
       "launchDate": "2023-04",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        50000,
-        60000,
-        68000,
-        75000,
-        80000,
-        85000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -502,14 +376,7 @@
       "launchDate": "2023-09",
       "color": "green",
       "badge": null,
-      "trafficTrend": [
-        40000,
-        50000,
-        58000,
-        65000,
-        70000,
-        75000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -528,14 +395,7 @@
       "launchDate": "2023-05",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        35000,
-        42000,
-        50000,
-        55000,
-        60000,
-        65000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -554,14 +414,7 @@
       "launchDate": "2023-06",
       "color": "green",
       "badge": null,
-      "trafficTrend": [
-        30000,
-        38000,
-        44000,
-        48000,
-        52000,
-        55000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -580,14 +433,7 @@
       "launchDate": "2024-06",
       "color": "green",
       "badge": "Agent",
-      "trafficTrend": [
-        20000,
-        28000,
-        35000,
-        40000,
-        42000,
-        45000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -606,14 +452,7 @@
       "launchDate": "2024-03",
       "color": "purple",
       "badge": "Agent",
-      "trafficTrend": [
-        15000,
-        22000,
-        28000,
-        32000,
-        35000,
-        38000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -632,14 +471,7 @@
       "launchDate": "2023-10",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [
-        15000,
-        20000,
-        24000,
-        28000,
-        30000,
-        32000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -658,14 +490,7 @@
       "launchDate": "2023-11",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        12000,
-        16000,
-        20000,
-        24000,
-        26000,
-        28000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -684,14 +509,7 @@
       "launchDate": "2024-01",
       "color": "green",
       "badge": null,
-      "trafficTrend": [
-        8000,
-        12000,
-        15000,
-        18000,
-        20000,
-        22000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -710,14 +528,7 @@
       "launchDate": "2024-02",
       "color": "blue",
       "badge": null,
-      "trafficTrend": [
-        5000,
-        8000,
-        12000,
-        14000,
-        16000,
-        18000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -736,14 +547,7 @@
       "launchDate": "2024-04",
       "color": "green",
       "badge": "免费",
-      "trafficTrend": [
-        5000,
-        7000,
-        10000,
-        12000,
-        14000,
-        15000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -762,14 +566,7 @@
       "launchDate": "2024-05",
       "color": "orange",
       "badge": null,
-      "trafficTrend": [
-        3000,
-        5000,
-        7000,
-        9000,
-        11000,
-        12000
-      ],
+      "trafficTrend": [],
       "tier": "T3"
     },
     {
@@ -785,14 +582,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        108000,
-        125999,
-        144000,
-        162000,
-        171000,
-        180000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitools-fyi",
@@ -807,14 +597,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        90000,
-        105000,
-        120000,
-        135000,
-        142500,
-        150000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "startuptools",
@@ -829,14 +612,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        72000,
-        84000,
-        96000,
-        108000,
-        114000,
-        120000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "gpthunter",
@@ -851,14 +627,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        60000,
-        70000,
-        80000,
-        90000,
-        95000,
-        100000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "gptstore-ai",
@@ -873,14 +642,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        57000,
-        66500,
-        76000,
-        85500,
-        90250,
-        95000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aifindy",
@@ -895,14 +657,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        51000,
-        59499,
-        68000,
-        76500,
-        80750,
-        85000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolboard",
@@ -917,14 +672,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        48000,
-        56000,
-        64000,
-        72000,
-        76000,
-        80000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitools-directory",
@@ -939,14 +687,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        45000,
-        52500,
-        60000,
-        67500,
-        71250,
-        75000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "theaigeneration",
@@ -961,14 +702,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        42000,
-        49000,
-        56000,
-        63000,
-        66500,
-        70000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aisecret",
@@ -983,14 +717,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        39000,
-        45500,
-        52000,
-        58500,
-        61750,
-        65000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "ailib",
@@ -1005,14 +732,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        36000,
-        42000,
-        48000,
-        54000,
-        57000,
-        60000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aicollection",
@@ -1027,14 +747,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        33000,
-        38500,
-        44000,
-        49500,
-        52250,
-        55000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolmate",
@@ -1049,14 +762,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        30000,
-        35000,
-        40000,
-        45000,
-        47500,
-        50000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolfinder",
@@ -1071,14 +777,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        28800,
-        33600,
-        38400,
-        43200,
-        45600,
-        48000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolnet",
@@ -1093,14 +792,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        27000,
-        31499,
-        36000,
-        40500,
-        42750,
-        45000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitools-wiki",
@@ -1115,14 +807,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        25200,
-        29399,
-        33600,
-        37800,
-        39900,
-        42000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolsclub",
@@ -1137,14 +822,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        24000,
-        28000,
-        32000,
-        36000,
-        38000,
-        40000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolsguide",
@@ -1159,14 +837,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        22800,
-        26600,
-        30400,
-        34200,
-        36100,
-        38000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolsworld",
@@ -1181,14 +852,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        21000,
-        24500,
-        28000,
-        31500,
-        33250,
-        35000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolszone",
@@ -1203,14 +867,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        19200,
-        22400,
-        25600,
-        28800,
-        30400,
-        32000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "aitoolsbase",
@@ -1225,14 +882,7 @@
         "AI 工具",
         "目录"
       ],
-      "trafficTrend": [
-        18000,
-        21000,
-        24000,
-        27000,
-        28500,
-        30000
-      ]
+      "trafficTrend": []
     }
   ],
   "insights": [

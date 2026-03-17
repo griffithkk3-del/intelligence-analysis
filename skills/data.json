@@ -22,14 +22,7 @@
       ],
       "pricing": "免费",
       "badge": "官方",
-      "trafficTrend": [
-        5000,
-        10000,
-        15000,
-        18000,
-        22000,
-        25000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skillhub-tencent",
@@ -47,14 +40,7 @@
         "中文"
       ],
       "pricing": "免费/企业",
-      "trafficTrend": [
-        80000,
-        100000,
-        130000,
-        150000,
-        165000,
-        180000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-market",
@@ -72,14 +58,7 @@
         "一键安装"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        50000,
-        75000,
-        100000,
-        120000,
-        140000,
-        150000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skillsmp",
@@ -97,14 +76,7 @@
         "社区"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        40000,
-        60000,
-        80000,
-        95000,
-        110000,
-        120000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "lobehub-skills",
@@ -122,14 +94,7 @@
         "开源"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        30000,
-        50000,
-        70000,
-        85000,
-        95000,
-        100000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "anthropic-connectors",
@@ -147,14 +112,7 @@
         "审核"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        100000,
-        130000,
-        160000,
-        180000,
-        190000,
-        200000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claude-marketplace",
@@ -172,14 +130,7 @@
         "工具"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        20000,
-        35000,
-        50000,
-        65000,
-        75000,
-        85000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "agentskills-so",
@@ -197,14 +148,7 @@
         "社区"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        10000,
-        18000,
-        28000,
-        35000,
-        40000,
-        45000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claude-plugins-official",
@@ -222,14 +166,7 @@
         "开源"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        15000,
-        25000,
-        35000,
-        42000,
-        47000,
-        50000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-so",
@@ -247,14 +184,7 @@
         "社区"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        20000,
-        32000,
-        45000,
-        55000,
-        60000,
-        65000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "smithery",
@@ -272,14 +202,7 @@
         "托管"
       ],
       "pricing": "免费/$10",
-      "trafficTrend": [
-        25000,
-        40000,
-        55000,
-        68000,
-        75000,
-        80000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "glama-mcp",
@@ -297,14 +220,7 @@
         "搜索"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        15000,
-        25000,
-        38000,
-        48000,
-        52000,
-        55000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-get",
@@ -322,14 +238,7 @@
         "npm风格"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        8000,
-        16000,
-        26000,
-        34000,
-        38000,
-        40000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "awesome-mcp",
@@ -347,14 +256,7 @@
         "社区"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        40000,
-        60000,
-        80000,
-        100000,
-        110000,
-        120000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-hub",
@@ -372,14 +274,7 @@
         "分享"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        8000,
-        15000,
-        22000,
-        28000,
-        32000,
-        35000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "cursor-directory",
@@ -397,14 +292,7 @@
         "社区"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        100000,
-        140000,
-        180000,
-        215000,
-        235000,
-        250000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "dotcursorrules",
@@ -422,14 +310,7 @@
         "模板"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        15000,
-        28000,
-        40000,
-        50000,
-        56000,
-        60000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "langchain-hub",
@@ -447,14 +328,7 @@
         "LangChain"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        80000,
-        100000,
-        130000,
-        155000,
-        170000,
-        180000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "composio",
@@ -472,14 +346,7 @@
         "MCP"
       ],
       "pricing": "免费/$49",
-      "trafficTrend": [
-        100000,
-        140000,
-        180000,
-        210000,
-        235000,
-        250000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "toolhouse",
@@ -497,14 +364,7 @@
         "SDK"
       ],
       "pricing": "免费/$20",
-      "trafficTrend": [
-        12000,
-        20000,
-        30000,
-        38000,
-        42000,
-        45000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "arcade-ai",
@@ -522,14 +382,7 @@
         "企业"
       ],
       "pricing": "$50/月",
-      "trafficTrend": [
-        8000,
-        14000,
-        20000,
-        25000,
-        28000,
-        30000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "e2b",
@@ -547,14 +400,7 @@
         "安全"
       ],
       "pricing": "免费/$0.1/h",
-      "trafficTrend": [
-        35000,
-        50000,
-        65000,
-        78000,
-        85000,
-        90000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "modal",
@@ -572,14 +418,7 @@
         "Python"
       ],
       "pricing": "按量计费",
-      "trafficTrend": [
-        60000,
-        85000,
-        110000,
-        130000,
-        142000,
-        150000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "browserbase",
@@ -597,14 +436,7 @@
         "MCP"
       ],
       "pricing": "免费/$50",
-      "trafficTrend": [
-        15000,
-        25000,
-        38000,
-        48000,
-        52000,
-        55000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "firecrawl",
@@ -622,14 +454,7 @@
         "API"
       ],
       "pricing": "免费/$19",
-      "trafficTrend": [
-        30000,
-        50000,
-        70000,
-        85000,
-        95000,
-        100000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "jina-reader",
@@ -647,14 +472,7 @@
         "免费"
       ],
       "pricing": "免费",
-      "trafficTrend": [
-        25000,
-        40000,
-        55000,
-        68000,
-        75000,
-        80000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "exa",
@@ -672,14 +490,7 @@
         "MCP"
       ],
       "pricing": "免费/$50",
-      "trafficTrend": [
-        50000,
-        70000,
-        90000,
-        105000,
-        115000,
-        120000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "tavily",
@@ -697,14 +508,7 @@
         "MCP"
       ],
       "pricing": "免费/$50",
-      "trafficTrend": [
-        30000,
-        45000,
-        60000,
-        72000,
-        80000,
-        85000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "openclaw",
@@ -723,14 +527,7 @@
       ],
       "pricing": "开源",
       "badge": "我们",
-      "trafficTrend": [
-        10000,
-        18000,
-        28000,
-        38000,
-        45000,
-        50000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-directory",
@@ -745,14 +542,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        25000,
-        30000,
-        35000,
-        40000,
-        45000,
-        50000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-tools",
@@ -767,14 +557,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        22500,
-        27000,
-        31499,
-        36000,
-        40500,
-        45000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skills-store",
@@ -789,14 +572,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        21000,
-        25200,
-        29399,
-        33600,
-        37800,
-        42000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "agent-tools",
@@ -811,14 +587,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        20000,
-        24000,
-        28000,
-        32000,
-        36000,
-        40000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-registry",
@@ -833,14 +602,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        19000,
-        22800,
-        26600,
-        30400,
-        34200,
-        38000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "claude-tools",
@@ -855,14 +617,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        17500,
-        21000,
-        24500,
-        28000,
-        31500,
-        35000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "ai-plugins",
@@ -877,14 +632,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        16000,
-        19200,
-        22400,
-        25600,
-        28800,
-        32000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "llm-tools",
@@ -899,14 +647,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        15000,
-        18000,
-        21000,
-        24000,
-        27000,
-        30000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "agent-skills",
@@ -921,14 +662,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        14000,
-        16800,
-        19600,
-        22400,
-        25200,
-        28000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-awesome",
@@ -943,14 +677,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        13000,
-        15600,
-        18200,
-        20800,
-        23400,
-        26000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skill-market",
@@ -965,14 +692,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        12000,
-        14400,
-        16800,
-        19200,
-        21600,
-        24000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "tool-registry",
@@ -987,14 +707,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        11000,
-        13200,
-        15399,
-        17600,
-        19800,
-        22000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "ai-connectors",
@@ -1009,14 +722,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        10000,
-        12000,
-        14000,
-        16000,
-        18000,
-        20000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-plugins",
@@ -1031,14 +737,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        9000,
-        10800,
-        12600,
-        14400,
-        16200,
-        18000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "agent-hub",
@@ -1053,14 +752,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        8000,
-        9600,
-        11200,
-        12800,
-        14400,
-        16000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "skill-directory",
@@ -1075,14 +767,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        7500,
-        9000,
-        10500,
-        12000,
-        13500,
-        15000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "mcp-store",
@@ -1097,14 +782,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        7000,
-        8400,
-        9800,
-        11200,
-        12600,
-        14000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "tool-market",
@@ -1119,14 +797,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        6500,
-        7800,
-        9100,
-        10400,
-        11700,
-        13000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "ai-extensions",
@@ -1141,14 +812,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        6000,
-        7200,
-        8400,
-        9600,
-        10800,
-        12000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "llm-plugins",
@@ -1163,14 +827,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        5500,
-        6600,
-        7699,
-        8800,
-        9900,
-        11000
-      ]
+      "trafficTrend": []
     },
     {
       "id": "agent-marketplace",
@@ -1185,14 +842,7 @@
         "Skills",
         "MCP"
       ],
-      "trafficTrend": [
-        5000,
-        6000,
-        7000,
-        8000,
-        9000,
-        10000
-      ]
+      "trafficTrend": []
     }
   ],
   "insights": [
