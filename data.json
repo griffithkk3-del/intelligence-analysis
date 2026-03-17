@@ -158,26 +158,6 @@
       "status": "active"
     },
     {
-      "id": "altern",
-      "name": "Altern.ai",
-      "domain": "altern.ai",
-      "type": "综合目录",
-      "description": "AI 工具替代品查找",
-      "url": "https://altern.ai",
-      "toolsCount": 3000,
-      "monthlyVisits": 280000,
-      "globalRank": 210000,
-      "avgDuration": "2:30",
-      "bounceRate": 48.5,
-      "mainCountry": "美国",
-      "launchDate": "2023-02",
-      "color": "purple",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
       "id": "aipediahub",
       "name": "AI Pedia Hub",
       "domain": "aipediahub.com",
