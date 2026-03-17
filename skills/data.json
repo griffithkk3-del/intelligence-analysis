@@ -134,10 +134,10 @@
     {
       "id": "anthropic-connectors",
       "name": "Anthropic Connectors",
-      "domain": "claude.com/connectors",
+      "domain": "support.anthropic.com",
       "type": "MCP 官方",
       "description": "Anthropic 官方连接器目录，高质量 MCP",
-      "url": "https://support.claude.com/en/articles/11596036",
+      "url": "https://support.anthropic.com/en/articles/11596036-remote-mcp-connectors",
       "githubStars": null,
       "monthlyVisits": 200000,
       "tier": "T1",
