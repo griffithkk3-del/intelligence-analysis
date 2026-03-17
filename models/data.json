@@ -23,6 +23,40 @@
       "trafficTrend": []
     },
     {
+      "id": "huggingface",
+      "name": "HuggingFace",
+      "domain": "huggingface.co",
+      "type": "模型平台",
+      "description": "最大开源模型平台，100 万+ 模型",
+      "url": "https://huggingface.co",
+      "monthlyVisits": 25000000,
+      "tier": "T1",
+      "features": [
+        "平台",
+        "开源",
+        "社区"
+      ],
+      "pricing": "免费/$9",
+      "trafficTrend": []
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "domain": "perplexity.ai",
+      "type": "搜索模型",
+      "description": "AI 搜索引擎，实时信息",
+      "url": "https://perplexity.ai",
+      "monthlyVisits": 20000000,
+      "tier": "T1",
+      "features": [
+        "搜索",
+        "实时",
+        "引用"
+      ],
+      "pricing": "免费/$20",
+      "trafficTrend": []
+    },
+    {
       "id": "anthropic",
       "name": "Anthropic",
       "domain": "anthropic.com",
@@ -37,6 +71,37 @@
         "安全"
       ],
       "pricing": "$20/月",
+      "trafficTrend": []
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "domain": "midjourney.com",
+      "type": "图像模型",
+      "description": "最强 AI 绘画",
+      "url": "https://www.midjourney.com",
+      "monthlyVisits": 15000000,
+      "tier": "T1",
+      "features": [
+        "图像",
+        "艺术",
+        "Discord"
+      ],
+      "pricing": "$10/月",
+      "trafficTrend": []
+    },
+    {
+      "id": "character",
+      "name": "Character.AI",
+      "domain": "character.ai",
+      "type": "角色模型",
+      "monthlyVisits": 15000000,
+      "tier": "T1",
+      "description": "Character.AI - AI 模型",
+      "url": "https://character.ai",
+      "features": [
+        "AI 模型"
+      ],
       "trafficTrend": []
     },
     {
@@ -74,105 +139,34 @@
       "trafficTrend": []
     },
     {
-      "id": "mistral",
-      "name": "Mistral AI",
-      "domain": "mistral.ai",
-      "type": "开源模型",
-      "description": "Mistral/Mixtral 系列，欧洲 AI",
-      "url": "https://mistral.ai",
-      "monthlyVisits": 3000000,
+      "id": "poe",
+      "name": "Poe",
+      "domain": "poe.com",
+      "type": "模型聚合",
+      "description": "Quora 多模型聚合平台",
+      "url": "https://poe.com",
+      "monthlyVisits": 8000000,
       "tier": "T1",
       "features": [
-        "Mistral",
-        "开源",
-        "欧洲"
+        "聚合",
+        "多模型",
+        "Bot"
       ],
-      "pricing": "免费/API",
+      "pricing": "免费/$20",
       "trafficTrend": []
     },
     {
-      "id": "huggingface",
-      "name": "HuggingFace",
-      "domain": "huggingface.co",
-      "type": "模型平台",
-      "description": "最大开源模型平台，100 万+ 模型",
-      "url": "https://huggingface.co",
-      "monthlyVisits": 25000000,
+      "id": "civitai",
+      "name": "Civitai",
+      "domain": "civitai.com",
+      "type": "模型社区",
+      "monthlyVisits": 8000000,
       "tier": "T1",
+      "description": "Civitai - AI 模型",
+      "url": "https://civitai.com",
       "features": [
-        "平台",
-        "开源",
-        "社区"
+        "AI 模型"
       ],
-      "pricing": "免费/$9",
-      "trafficTrend": []
-    },
-    {
-      "id": "together-ai",
-      "name": "Together AI",
-      "domain": "together.ai",
-      "type": "推理平台",
-      "description": "开源模型推理平台，价格低",
-      "url": "https://together.ai",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "推理",
-        "开源",
-        "便宜"
-      ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "groq",
-      "name": "Groq",
-      "domain": "groq.com",
-      "type": "推理平台",
-      "description": "超快推理，LPU 芯片",
-      "url": "https://groq.com",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "超快",
-        "LPU",
-        "免费"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "fireworks",
-      "name": "Fireworks AI",
-      "domain": "fireworks.ai",
-      "type": "推理平台",
-      "description": "快速推理平台",
-      "url": "https://fireworks.ai",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "快速",
-        "API",
-        "微调"
-      ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "replicate",
-      "name": "Replicate",
-      "domain": "replicate.com",
-      "type": "模型平台",
-      "description": "模型 API 市场，一键部署",
-      "url": "https://replicate.com",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "API",
-        "部署",
-        "市场"
-      ],
-      "pricing": "按量计费",
       "trafficTrend": []
     },
     {
@@ -193,54 +187,31 @@
       "trafficTrend": []
     },
     {
-      "id": "qwen",
-      "name": "通义千问 Qwen",
-      "domain": "qwen.ai",
-      "type": "开源模型",
-      "description": "阿里 Qwen 系列，中文能力强",
-      "url": "https://qwen.ai",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "开源",
-        "阿里",
-        "中文"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "zhipu",
-      "name": "智谱 GLM",
-      "domain": "zhipuai.cn",
+      "id": "xai",
+      "name": "xAI Grok",
+      "domain": "x.ai",
       "type": "闭源模型",
-      "description": "智谱 GLM-4 系列",
-      "url": "https://www.zhipuai.cn",
-      "monthlyVisits": 2000000,
+      "monthlyVisits": 5000000,
       "tier": "T1",
+      "description": "xAI Grok - AI 模型",
+      "url": "https://x.ai",
       "features": [
-        "GLM",
-        "中国",
-        "API"
+        "AI 模型"
       ],
-      "pricing": "API 计费",
       "trafficTrend": []
     },
     {
-      "id": "baichuan",
-      "name": "百川智能",
-      "domain": "baichuan-ai.com",
-      "type": "开源模型",
-      "description": "百川系列模型",
-      "url": "https://www.baichuan-ai.com",
-      "monthlyVisits": 800000,
-      "tier": "T2",
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "domain": "elevenlabs.io",
+      "type": "语音模型",
+      "monthlyVisits": 5000000,
+      "tier": "T1",
+      "description": "ElevenLabs - AI 模型",
+      "url": "https://elevenlabs.io",
       "features": [
-        "开源",
-        "中国",
-        "搜索"
+        "AI 模型"
       ],
-      "pricing": "免费/API",
       "trafficTrend": []
     },
     {
@@ -261,71 +232,51 @@
       "trafficTrend": []
     },
     {
-      "id": "minimax",
-      "name": "MiniMax",
-      "domain": "minimaxi.com",
-      "type": "闭源模型",
-      "description": "MiniMax 模型，语音能力强",
-      "url": "https://www.minimaxi.com",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
+      "id": "suno",
+      "name": "Suno",
+      "domain": "suno.ai",
+      "type": "音乐模型",
+      "monthlyVisits": 4000000,
+      "tier": "T1",
+      "description": "Suno - AI 模型",
+      "url": "https://suno.ai",
       "features": [
-        "语音",
-        "中国",
-        "多模态"
+        "AI 模型"
       ],
-      "pricing": "API 计费",
       "trafficTrend": []
     },
     {
-      "id": "cohere",
-      "name": "Cohere",
-      "domain": "cohere.com",
-      "type": "企业模型",
-      "description": "企业级 LLM，RAG 能力强",
-      "url": "https://cohere.com",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
-      "features": [
-        "企业",
-        "RAG",
-        "嵌入"
-      ],
-      "pricing": "企业定价",
-      "trafficTrend": []
-    },
-    {
-      "id": "ai21",
-      "name": "AI21 Labs",
-      "domain": "ai21.com",
-      "type": "企业模型",
-      "description": "Jamba 模型，企业级",
-      "url": "https://www.ai21.com",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "Jamba",
-        "企业",
-        "长上下文"
-      ],
-      "pricing": "企业定价",
-      "trafficTrend": []
-    },
-    {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "domain": "perplexity.ai",
-      "type": "搜索模型",
-      "description": "AI 搜索引擎，实时信息",
-      "url": "https://perplexity.ai",
-      "monthlyVisits": 20000000,
+      "id": "mistral",
+      "name": "Mistral AI",
+      "domain": "mistral.ai",
+      "type": "开源模型",
+      "description": "Mistral/Mixtral 系列，欧洲 AI",
+      "url": "https://mistral.ai",
+      "monthlyVisits": 3000000,
       "tier": "T1",
       "features": [
-        "搜索",
-        "实时",
-        "引用"
+        "Mistral",
+        "开源",
+        "欧洲"
       ],
-      "pricing": "免费/$20",
+      "pricing": "免费/API",
+      "trafficTrend": []
+    },
+    {
+      "id": "qwen",
+      "name": "通义千问 Qwen",
+      "domain": "qwen.ai",
+      "type": "开源模型",
+      "description": "阿里 Qwen 系列，中文能力强",
+      "url": "https://qwen.ai",
+      "monthlyVisits": 3000000,
+      "tier": "T1",
+      "features": [
+        "开源",
+        "阿里",
+        "中文"
+      ],
+      "pricing": "免费/API",
       "trafficTrend": []
     },
     {
@@ -363,108 +314,6 @@
       "trafficTrend": []
     },
     {
-      "id": "lmstudio",
-      "name": "LM Studio",
-      "domain": "lmstudio.ai",
-      "type": "本地部署",
-      "description": "本地 LLM GUI 客户端",
-      "url": "https://lmstudio.ai",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "GUI",
-        "简单"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "jan",
-      "name": "Jan",
-      "domain": "jan.ai",
-      "type": "本地部署",
-      "description": "开源本地 AI 助手",
-      "url": "https://jan.ai",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "开源",
-        "隐私"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "openrouter",
-      "name": "OpenRouter",
-      "domain": "openrouter.ai",
-      "type": "API 聚合",
-      "description": "多模型 API 聚合，统一接口",
-      "url": "https://openrouter.ai",
-      "monthlyVisits": 1200000,
-      "tier": "T2",
-      "features": [
-        "聚合",
-        "统一API",
-        "多模型"
-      ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "poe",
-      "name": "Poe",
-      "domain": "poe.com",
-      "type": "模型聚合",
-      "description": "Quora 多模型聚合平台",
-      "url": "https://poe.com",
-      "monthlyVisits": 8000000,
-      "tier": "T1",
-      "features": [
-        "聚合",
-        "多模型",
-        "Bot"
-      ],
-      "pricing": "免费/$20",
-      "trafficTrend": []
-    },
-    {
-      "id": "chatbot-arena",
-      "name": "Chatbot Arena",
-      "domain": "lmarena.ai",
-      "type": "评测平台",
-      "description": "LLM 盲测排行榜",
-      "url": "https://lmarena.ai",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "评测",
-        "排行",
-        "盲测"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "artificial-analysis",
-      "name": "Artificial Analysis",
-      "domain": "artificialanalysis.ai",
-      "type": "评测平台",
-      "description": "LLM 性能评测",
-      "url": "https://artificialanalysis.ai",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "评测",
-        "性能",
-        "价格"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
       "id": "stability-ai",
       "name": "Stability AI",
       "domain": "stability.ai",
@@ -482,65 +331,6 @@
       "trafficTrend": []
     },
     {
-      "id": "midjourney",
-      "name": "Midjourney",
-      "domain": "midjourney.com",
-      "type": "图像模型",
-      "description": "最强 AI 绘画",
-      "url": "https://www.midjourney.com",
-      "monthlyVisits": 15000000,
-      "tier": "T1",
-      "features": [
-        "图像",
-        "艺术",
-        "Discord"
-      ],
-      "pricing": "$10/月",
-      "trafficTrend": []
-    },
-    {
-      "id": "xai",
-      "name": "xAI Grok",
-      "domain": "x.ai",
-      "type": "闭源模型",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "description": "xAI Grok - AI 模型",
-      "url": "https://x.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "inflection",
-      "name": "Inflection Pi",
-      "domain": "inflection.ai",
-      "type": "闭源模型",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "description": "Inflection Pi - AI 模型",
-      "url": "https://inflection.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "character",
-      "name": "Character.AI",
-      "domain": "character.ai",
-      "type": "角色模型",
-      "monthlyVisits": 15000000,
-      "tier": "T1",
-      "description": "Character.AI - AI 模型",
-      "url": "https://character.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "runway",
       "name": "Runway",
       "domain": "runway.ml",
@@ -549,62 +339,6 @@
       "tier": "T1",
       "description": "Runway - AI 模型",
       "url": "https://runway.ml",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "pika",
-      "name": "Pika",
-      "domain": "pika.art",
-      "type": "视频模型",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "description": "Pika - AI 模型",
-      "url": "https://pika.art",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "suno",
-      "name": "Suno",
-      "domain": "suno.ai",
-      "type": "音乐模型",
-      "monthlyVisits": 4000000,
-      "tier": "T1",
-      "description": "Suno - AI 模型",
-      "url": "https://suno.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "udio",
-      "name": "Udio",
-      "domain": "udio.com",
-      "type": "音乐模型",
-      "monthlyVisits": 2500000,
-      "tier": "T1",
-      "description": "Udio - AI 模型",
-      "url": "https://udio.com",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "elevenlabs",
-      "name": "ElevenLabs",
-      "domain": "elevenlabs.io",
-      "type": "语音模型",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "description": "ElevenLabs - AI 模型",
-      "url": "https://elevenlabs.io",
       "features": [
         "AI 模型"
       ],
@@ -625,34 +359,6 @@
       "trafficTrend": []
     },
     {
-      "id": "ideogram",
-      "name": "Ideogram",
-      "domain": "ideogram.ai",
-      "type": "图像模型",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "description": "Ideogram - AI 模型",
-      "url": "https://ideogram.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "flux",
-      "name": "Flux",
-      "domain": "flux.ai",
-      "type": "图像模型",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "description": "Flux - AI 模型",
-      "url": "https://flux.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "leonardo",
       "name": "Leonardo.AI",
       "domain": "leonardo.ai",
@@ -667,28 +373,107 @@
       "trafficTrend": []
     },
     {
-      "id": "playground",
-      "name": "Playground AI",
-      "domain": "playground.ai",
-      "type": "图像模型",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
-      "description": "Playground AI - AI 模型",
-      "url": "https://playground.ai",
+      "id": "udio",
+      "name": "Udio",
+      "domain": "udio.com",
+      "type": "音乐模型",
+      "monthlyVisits": 2500000,
+      "tier": "T1",
+      "description": "Udio - AI 模型",
+      "url": "https://udio.com",
       "features": [
         "AI 模型"
       ],
       "trafficTrend": []
     },
     {
-      "id": "civitai",
-      "name": "Civitai",
-      "domain": "civitai.com",
-      "type": "模型社区",
-      "monthlyVisits": 8000000,
+      "id": "groq",
+      "name": "Groq",
+      "domain": "groq.com",
+      "type": "推理平台",
+      "description": "超快推理，LPU 芯片",
+      "url": "https://groq.com",
+      "monthlyVisits": 2000000,
       "tier": "T1",
-      "description": "Civitai - AI 模型",
-      "url": "https://civitai.com",
+      "features": [
+        "超快",
+        "LPU",
+        "免费"
+      ],
+      "pricing": "免费/API",
+      "trafficTrend": []
+    },
+    {
+      "id": "zhipu",
+      "name": "智谱 GLM",
+      "domain": "zhipuai.cn",
+      "type": "闭源模型",
+      "description": "智谱 GLM-4 系列",
+      "url": "https://www.zhipuai.cn",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "features": [
+        "GLM",
+        "中国",
+        "API"
+      ],
+      "pricing": "API 计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "chatbot-arena",
+      "name": "Chatbot Arena",
+      "domain": "lmarena.ai",
+      "type": "评测平台",
+      "description": "LLM 盲测排行榜",
+      "url": "https://lmarena.ai",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "features": [
+        "评测",
+        "排行",
+        "盲测"
+      ],
+      "pricing": "免费",
+      "trafficTrend": []
+    },
+    {
+      "id": "inflection",
+      "name": "Inflection Pi",
+      "domain": "inflection.ai",
+      "type": "闭源模型",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "description": "Inflection Pi - AI 模型",
+      "url": "https://inflection.ai",
+      "features": [
+        "AI 模型"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "domain": "pika.art",
+      "type": "视频模型",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "description": "Pika - AI 模型",
+      "url": "https://pika.art",
+      "features": [
+        "AI 模型"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "ideogram",
+      "name": "Ideogram",
+      "domain": "ideogram.ai",
+      "type": "图像模型",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "description": "Ideogram - AI 模型",
+      "url": "https://ideogram.ai",
       "features": [
         "AI 模型"
       ],
@@ -709,6 +494,88 @@
       "trafficTrend": []
     },
     {
+      "id": "together-ai",
+      "name": "Together AI",
+      "domain": "together.ai",
+      "type": "推理平台",
+      "description": "开源模型推理平台，价格低",
+      "url": "https://together.ai",
+      "monthlyVisits": 1500000,
+      "tier": "T2",
+      "features": [
+        "推理",
+        "开源",
+        "便宜"
+      ],
+      "pricing": "按量计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "replicate",
+      "name": "Replicate",
+      "domain": "replicate.com",
+      "type": "模型平台",
+      "description": "模型 API 市场，一键部署",
+      "url": "https://replicate.com",
+      "monthlyVisits": 1500000,
+      "tier": "T2",
+      "features": [
+        "API",
+        "部署",
+        "市场"
+      ],
+      "pricing": "按量计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax",
+      "domain": "minimaxi.com",
+      "type": "闭源模型",
+      "description": "MiniMax 模型，语音能力强",
+      "url": "https://www.minimaxi.com",
+      "monthlyVisits": 1500000,
+      "tier": "T2",
+      "features": [
+        "语音",
+        "中国",
+        "多模态"
+      ],
+      "pricing": "API 计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "lmstudio",
+      "name": "LM Studio",
+      "domain": "lmstudio.ai",
+      "type": "本地部署",
+      "description": "本地 LLM GUI 客户端",
+      "url": "https://lmstudio.ai",
+      "monthlyVisits": 1500000,
+      "tier": "T2",
+      "features": [
+        "本地",
+        "GUI",
+        "简单"
+      ],
+      "pricing": "免费",
+      "trafficTrend": []
+    },
+    {
+      "id": "flux",
+      "name": "Flux",
+      "domain": "flux.ai",
+      "type": "图像模型",
+      "monthlyVisits": 1500000,
+      "tier": "T2",
+      "description": "Flux - AI 模型",
+      "url": "https://flux.ai",
+      "features": [
+        "AI 模型"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "seaart",
       "name": "SeaArt",
       "domain": "seaart.ai",
@@ -720,6 +587,139 @@
       "features": [
         "AI 模型"
       ],
+      "trafficTrend": []
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "domain": "openrouter.ai",
+      "type": "API 聚合",
+      "description": "多模型 API 聚合，统一接口",
+      "url": "https://openrouter.ai",
+      "monthlyVisits": 1200000,
+      "tier": "T2",
+      "features": [
+        "聚合",
+        "统一API",
+        "多模型"
+      ],
+      "pricing": "按量计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "domain": "cohere.com",
+      "type": "企业模型",
+      "description": "企业级 LLM，RAG 能力强",
+      "url": "https://cohere.com",
+      "monthlyVisits": 1000000,
+      "tier": "T2",
+      "features": [
+        "企业",
+        "RAG",
+        "嵌入"
+      ],
+      "pricing": "企业定价",
+      "trafficTrend": []
+    },
+    {
+      "id": "playground",
+      "name": "Playground AI",
+      "domain": "playground.ai",
+      "type": "图像模型",
+      "monthlyVisits": 1000000,
+      "tier": "T2",
+      "description": "Playground AI - AI 模型",
+      "url": "https://playground.ai",
+      "features": [
+        "AI 模型"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "fireworks",
+      "name": "Fireworks AI",
+      "domain": "fireworks.ai",
+      "type": "推理平台",
+      "description": "快速推理平台",
+      "url": "https://fireworks.ai",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "快速",
+        "API",
+        "微调"
+      ],
+      "pricing": "按量计费",
+      "trafficTrend": []
+    },
+    {
+      "id": "baichuan",
+      "name": "百川智能",
+      "domain": "baichuan-ai.com",
+      "type": "开源模型",
+      "description": "百川系列模型",
+      "url": "https://www.baichuan-ai.com",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "开源",
+        "中国",
+        "搜索"
+      ],
+      "pricing": "免费/API",
+      "trafficTrend": []
+    },
+    {
+      "id": "jan",
+      "name": "Jan",
+      "domain": "jan.ai",
+      "type": "本地部署",
+      "description": "开源本地 AI 助手",
+      "url": "https://jan.ai",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "本地",
+        "开源",
+        "隐私"
+      ],
+      "pricing": "免费",
+      "trafficTrend": []
+    },
+    {
+      "id": "ai21",
+      "name": "AI21 Labs",
+      "domain": "ai21.com",
+      "type": "企业模型",
+      "description": "Jamba 模型，企业级",
+      "url": "https://www.ai21.com",
+      "monthlyVisits": 500000,
+      "tier": "T2",
+      "features": [
+        "Jamba",
+        "企业",
+        "长上下文"
+      ],
+      "pricing": "企业定价",
+      "trafficTrend": []
+    },
+    {
+      "id": "artificial-analysis",
+      "name": "Artificial Analysis",
+      "domain": "artificialanalysis.ai",
+      "type": "评测平台",
+      "description": "LLM 性能评测",
+      "url": "https://artificialanalysis.ai",
+      "monthlyVisits": 500000,
+      "tier": "T2",
+      "features": [
+        "评测",
+        "性能",
+        "价格"
+      ],
+      "pricing": "免费",
       "trafficTrend": []
     },
     {
@@ -751,14 +751,14 @@
       "trafficTrend": []
     },
     {
-      "id": "banana",
-      "name": "Banana.dev",
-      "domain": "banana.dev",
+      "id": "cerebras",
+      "name": "Cerebras",
+      "domain": "cerebras.ai",
       "type": "推理平台",
-      "monthlyVisits": 300000,
-      "tier": "T3",
-      "description": "Banana.dev - AI 模型",
-      "url": "https://banana.dev",
+      "monthlyVisits": 400000,
+      "tier": "T2",
+      "description": "Cerebras - AI 模型",
+      "url": "https://cerebras.ai",
       "features": [
         "AI 模型"
       ],
@@ -779,18 +779,72 @@
       "trafficTrend": []
     },
     {
-      "id": "cerebras",
-      "name": "Cerebras",
-      "domain": "cerebras.ai",
+      "id": "banana",
+      "name": "Banana.dev",
+      "domain": "banana.dev",
       "type": "推理平台",
-      "monthlyVisits": 400000,
-      "tier": "T2",
-      "description": "Cerebras - AI 模型",
-      "url": "https://cerebras.ai",
+      "monthlyVisits": 300000,
+      "tier": "T3",
+      "description": "Banana.dev - AI 模型",
+      "url": "https://banana.dev",
       "features": [
         "AI 模型"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "onyx-leaderboard",
+      "name": "Onyx LLM Leaderboard",
+      "domain": "onyx.app/llm-leaderboard",
+      "type": "排行榜",
+      "url": "https://onyx.app/llm-leaderboard",
+      "monthlyVisits": 185000,
+      "tier": "T1"
+    },
+    {
+      "id": "llm-stats",
+      "name": "LLM Stats",
+      "domain": "llm-stats.com",
+      "type": "排行榜",
+      "url": "https://llm-stats.com/",
+      "monthlyVisits": 145000,
+      "tier": "T1"
+    },
+    {
+      "id": "vellum-leaderboard",
+      "name": "Vellum LLM Leaderboard",
+      "domain": "vellum.ai/llm-leaderboard",
+      "type": "排行榜",
+      "url": "https://vellum.ai/llm-leaderboard",
+      "monthlyVisits": 125000,
+      "tier": "T1"
+    },
+    {
+      "id": "lmcouncil",
+      "name": "LM Council Benchmarks",
+      "domain": "lmcouncil.ai/benchmarks",
+      "type": "基准测试",
+      "url": "https://lmcouncil.ai/benchmarks",
+      "monthlyVisits": 95000,
+      "tier": "T2"
+    },
+    {
+      "id": "pluralsight-models",
+      "name": "Pluralsight AI Models",
+      "domain": "pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
+      "type": "评测",
+      "url": "https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
+      "monthlyVisits": 85000,
+      "tier": "T2"
+    },
+    {
+      "id": "kaggle-benchmark",
+      "name": "Kaggle AI Benchmark",
+      "domain": "kaggle.com/datasets/asadullahcreative/ai-models-benchmark-dataset-2026-latest",
+      "type": "数据集",
+      "url": "https://www.kaggle.com/datasets/asadullahcreative/ai-models-benchmark-dataset-2026-latest",
+      "monthlyVisits": 72000,
+      "tier": "T2"
     }
   ],
   "insights": [

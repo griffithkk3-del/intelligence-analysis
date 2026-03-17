@@ -38,6 +38,22 @@
       "trafficTrend": []
     },
     {
+      "id": "hn-ai",
+      "name": "Hacker News AI",
+      "domain": "news.ycombinator.com",
+      "type": "社区",
+      "description": "Hacker News AI 话题",
+      "url": "https://news.ycombinator.com",
+      "monthlyVisits": 5000000,
+      "tier": "T1",
+      "features": [
+        "社区",
+        "讨论",
+        "技术"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "wired-ai",
       "name": "Wired AI",
       "domain": "wired.com/tag/artificial-intelligence",
@@ -50,6 +66,22 @@
         "深度",
         "长文",
         "观点"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv AI",
+      "domain": "arxiv.org/list/cs.AI",
+      "type": "论文",
+      "description": "arXiv AI 论文预印本",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "monthlyVisits": 3000000,
+      "tier": "T1",
+      "features": [
+        "论文",
+        "预印本",
+        "学术"
       ],
       "trafficTrend": []
     },
@@ -70,6 +102,22 @@
       "trafficTrend": []
     },
     {
+      "id": "reddit-ml",
+      "name": "Reddit r/MachineLearning",
+      "domain": "reddit.com/r/MachineLearning",
+      "type": "社区",
+      "description": "Reddit ML 社区",
+      "url": "https://www.reddit.com/r/MachineLearning/",
+      "monthlyVisits": 2500000,
+      "tier": "T1",
+      "features": [
+        "社区",
+        "讨论",
+        "论文"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "ars-technica",
       "name": "Ars Technica AI",
       "domain": "arstechnica.com/ai",
@@ -82,6 +130,38 @@
         "技术",
         "深度",
         "分析"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "papers-with-code",
+      "name": "Papers With Code",
+      "domain": "paperswithcode.com",
+      "type": "论文",
+      "description": "论文 + 代码，SOTA 追踪",
+      "url": "https://paperswithcode.com",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "features": [
+        "论文",
+        "代码",
+        "SOTA"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "ai-explained",
+      "name": "AI Explained",
+      "domain": "youtube.com/@aiexplained",
+      "type": "YouTube",
+      "description": "AI 解读 YouTube 频道",
+      "url": "https://www.youtube.com/@aiexplained-official",
+      "monthlyVisits": 2000000,
+      "tier": "T1",
+      "features": [
+        "视频",
+        "解读",
+        "模型"
       ],
       "trafficTrend": []
     },
@@ -102,6 +182,70 @@
       "trafficTrend": []
     },
     {
+      "id": "36kr-ai",
+      "name": "36氪 AI",
+      "domain": "36kr.com/information/ai",
+      "type": "中文媒体",
+      "description": "36氪 AI 频道，中文科技媒体",
+      "url": "https://36kr.com/information/ai/",
+      "monthlyVisits": 1500000,
+      "tier": "T1",
+      "features": [
+        "中文",
+        "创投",
+        "产业"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "two-minute-papers",
+      "name": "Two Minute Papers",
+      "domain": "youtube.com/@TwoMinutePapers",
+      "type": "YouTube",
+      "description": "两分钟论文解读",
+      "url": "https://www.youtube.com/@TwoMinutePapers",
+      "monthlyVisits": 1500000,
+      "tier": "T1",
+      "features": [
+        "视频",
+        "论文",
+        "简短"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "jiqizhixin",
+      "name": "机器之心",
+      "domain": "jiqizhixin.com",
+      "type": "中文媒体",
+      "description": "机器之心，AI 专业媒体",
+      "url": "https://www.jiqizhixin.com",
+      "monthlyVisits": 1200000,
+      "tier": "T1",
+      "features": [
+        "专业",
+        "论文",
+        "产业"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "matt-wolfe",
+      "name": "Matt Wolfe",
+      "domain": "youtube.com/@maboroshi",
+      "type": "YouTube",
+      "description": "AI 工具评测 YouTuber",
+      "url": "https://www.youtube.com/@maboroshi",
+      "monthlyVisits": 1000000,
+      "tier": "T2",
+      "features": [
+        "视频",
+        "工具",
+        "评测"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "the-decoder",
       "name": "The Decoder",
       "domain": "the-decoder.com",
@@ -114,6 +258,54 @@
         "专业",
         "评测",
         "模型"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "leiphone",
+      "name": "雷峰网 AI",
+      "domain": "leiphone.com/category/ai",
+      "type": "中文媒体",
+      "description": "雷峰网 AI 频道",
+      "url": "https://www.leiphone.com/category/ai",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "中文",
+        "产业",
+        "应用"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "huggingface-papers",
+      "name": "HuggingFace Papers",
+      "domain": "huggingface.co/papers",
+      "type": "论文",
+      "description": "HuggingFace 每日论文",
+      "url": "https://huggingface.co/papers",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "每日",
+        "精选",
+        "社区"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "reddit-localllama",
+      "name": "Reddit r/LocalLLaMA",
+      "domain": "reddit.com/r/LocalLLaMA",
+      "type": "社区",
+      "description": "本地 LLM 社区",
+      "url": "https://www.reddit.com/r/LocalLLaMA/",
+      "monthlyVisits": 800000,
+      "tier": "T2",
+      "features": [
+        "本地",
+        "开源",
+        "部署"
       ],
       "trafficTrend": []
     },
@@ -134,6 +326,22 @@
       "trafficTrend": []
     },
     {
+      "id": "xinzhiyuan",
+      "name": "新智元",
+      "domain": "xinzhiyuan.com",
+      "type": "中文媒体",
+      "description": "新智元，AI 资讯",
+      "url": "https://www.xinzhiyuan.com",
+      "monthlyVisits": 600000,
+      "tier": "T2",
+      "features": [
+        "中文",
+        "快讯",
+        "论文"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "bensbites",
       "name": "Ben's Bites",
       "domain": "bensbites.com",
@@ -150,6 +358,22 @@
       "trafficTrend": []
     },
     {
+      "id": "qbitai",
+      "name": "量子位",
+      "domain": "qbitai.com",
+      "type": "中文媒体",
+      "description": "量子位，AI 科技媒体",
+      "url": "https://www.qbitai.com",
+      "monthlyVisits": 500000,
+      "tier": "T2",
+      "features": [
+        "中文",
+        "科普",
+        "产品"
+      ],
+      "trafficTrend": []
+    },
+    {
       "id": "tldr-ai",
       "name": "TLDR AI",
       "domain": "tldr.tech/ai",
@@ -162,22 +386,6 @@
         "Newsletter",
         "简报",
         "技术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "import-ai",
-      "name": "Import AI",
-      "domain": "importai.substack.com",
-      "type": "Newsletter",
-      "description": "Jack Clark 的 AI Newsletter",
-      "url": "https://importai.substack.com",
-      "monthlyVisits": 200000,
-      "tier": "T2",
-      "features": [
-        "深度",
-        "政策",
-        "研究"
       ],
       "trafficTrend": []
     },
@@ -214,178 +422,33 @@
       "trafficTrend": []
     },
     {
-      "id": "36kr-ai",
-      "name": "36氪 AI",
-      "domain": "36kr.com/information/ai",
-      "type": "中文媒体",
-      "description": "36氪 AI 频道，中文科技媒体",
-      "url": "https://36kr.com/information/ai/",
-      "monthlyVisits": 1500000,
-      "tier": "T1",
-      "features": [
-        "中文",
-        "创投",
-        "产业"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "jiqizhixin",
-      "name": "机器之心",
-      "domain": "jiqizhixin.com",
-      "type": "中文媒体",
-      "description": "机器之心，AI 专业媒体",
-      "url": "https://www.jiqizhixin.com",
-      "monthlyVisits": 1200000,
-      "tier": "T1",
-      "features": [
-        "专业",
-        "论文",
-        "产业"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "leiphone",
-      "name": "雷峰网 AI",
-      "domain": "leiphone.com/category/ai",
-      "type": "中文媒体",
-      "description": "雷峰网 AI 频道",
-      "url": "https://www.leiphone.com/category/ai",
-      "monthlyVisits": 800000,
+      "id": "import-ai",
+      "name": "Import AI",
+      "domain": "importai.substack.com",
+      "type": "Newsletter",
+      "description": "Jack Clark 的 AI Newsletter",
+      "url": "https://importai.substack.com",
+      "monthlyVisits": 200000,
       "tier": "T2",
       "features": [
-        "中文",
-        "产业",
-        "应用"
+        "深度",
+        "政策",
+        "研究"
       ],
       "trafficTrend": []
     },
     {
-      "id": "xinzhiyuan",
-      "name": "新智元",
-      "domain": "xinzhiyuan.com",
-      "type": "中文媒体",
-      "description": "新智元，AI 资讯",
-      "url": "https://www.xinzhiyuan.com",
-      "monthlyVisits": 600000,
+      "id": "ai-weekly",
+      "name": "AI Weekly",
+      "domain": "aiweekly.co",
+      "type": "Newsletter",
+      "monthlyVisits": 180000,
       "tier": "T2",
+      "description": "AI Weekly - AI 资讯",
+      "url": "https://aiweekly.co",
       "features": [
-        "中文",
-        "快讯",
-        "论文"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "qbitai",
-      "name": "量子位",
-      "domain": "qbitai.com",
-      "type": "中文媒体",
-      "description": "量子位，AI 科技媒体",
-      "url": "https://www.qbitai.com",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "中文",
-        "科普",
-        "产品"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "arxiv-ai",
-      "name": "arXiv AI",
-      "domain": "arxiv.org/list/cs.AI",
-      "type": "论文",
-      "description": "arXiv AI 论文预印本",
-      "url": "https://arxiv.org/list/cs.AI/recent",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "论文",
-        "预印本",
-        "学术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "papers-with-code",
-      "name": "Papers With Code",
-      "domain": "paperswithcode.com",
-      "type": "论文",
-      "description": "论文 + 代码，SOTA 追踪",
-      "url": "https://paperswithcode.com",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "论文",
-        "代码",
-        "SOTA"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "huggingface-papers",
-      "name": "HuggingFace Papers",
-      "domain": "huggingface.co/papers",
-      "type": "论文",
-      "description": "HuggingFace 每日论文",
-      "url": "https://huggingface.co/papers",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "每日",
-        "精选",
-        "社区"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "hn-ai",
-      "name": "Hacker News AI",
-      "domain": "news.ycombinator.com",
-      "type": "社区",
-      "description": "Hacker News AI 话题",
-      "url": "https://news.ycombinator.com",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "features": [
-        "社区",
-        "讨论",
-        "技术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "reddit-ml",
-      "name": "Reddit r/MachineLearning",
-      "domain": "reddit.com/r/MachineLearning",
-      "type": "社区",
-      "description": "Reddit ML 社区",
-      "url": "https://www.reddit.com/r/MachineLearning/",
-      "monthlyVisits": 2500000,
-      "tier": "T1",
-      "features": [
-        "社区",
-        "讨论",
-        "论文"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "reddit-localllama",
-      "name": "Reddit r/LocalLLaMA",
-      "domain": "reddit.com/r/LocalLLaMA",
-      "type": "社区",
-      "description": "本地 LLM 社区",
-      "url": "https://www.reddit.com/r/LocalLLaMA/",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "开源",
-        "部署"
+        "AI 资讯",
+        "新闻"
       ],
       "trafficTrend": []
     },
@@ -406,85 +469,6 @@
       "trafficTrend": []
     },
     {
-      "id": "practical-ai",
-      "name": "Practical AI",
-      "domain": "changelog.com/practicalai",
-      "type": "播客",
-      "description": "实用 AI 播客",
-      "url": "https://changelog.com/practicalai",
-      "monthlyVisits": 100000,
-      "tier": "T3",
-      "features": [
-        "播客",
-        "实用",
-        "教程"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-explained",
-      "name": "AI Explained",
-      "domain": "youtube.com/@aiexplained",
-      "type": "YouTube",
-      "description": "AI 解读 YouTube 频道",
-      "url": "https://www.youtube.com/@aiexplained-official",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "视频",
-        "解读",
-        "模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "two-minute-papers",
-      "name": "Two Minute Papers",
-      "domain": "youtube.com/@TwoMinutePapers",
-      "type": "YouTube",
-      "description": "两分钟论文解读",
-      "url": "https://www.youtube.com/@TwoMinutePapers",
-      "monthlyVisits": 1500000,
-      "tier": "T1",
-      "features": [
-        "视频",
-        "论文",
-        "简短"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "matt-wolfe",
-      "name": "Matt Wolfe",
-      "domain": "youtube.com/@maboroshi",
-      "type": "YouTube",
-      "description": "AI 工具评测 YouTuber",
-      "url": "https://www.youtube.com/@maboroshi",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
-      "features": [
-        "视频",
-        "工具",
-        "评测"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-weekly",
-      "name": "AI Weekly",
-      "domain": "aiweekly.co",
-      "type": "Newsletter",
-      "monthlyVisits": 180000,
-      "tier": "T2",
-      "description": "AI Weekly - AI 资讯",
-      "url": "https://aiweekly.co",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
       "id": "ai-breakfast",
       "name": "AI Breakfast",
       "domain": "aibreakfast.beehiiv.com",
@@ -500,6 +484,15 @@
       "trafficTrend": []
     },
     {
+      "id": "monday-newsletters",
+      "name": "Monday AI Newsletters",
+      "domain": "monday.com/blog/monday-campaigns/best-ai-newsletters",
+      "type": "Newsletter",
+      "url": "https://monday.com/blog/monday-campaigns/best-ai-newsletters/",
+      "monthlyVisits": 125000,
+      "tier": "T1"
+    },
+    {
       "id": "ai-digest",
       "name": "AI Digest",
       "domain": "aidigest.substack.com",
@@ -511,6 +504,22 @@
       "features": [
         "AI 资讯",
         "新闻"
+      ],
+      "trafficTrend": []
+    },
+    {
+      "id": "practical-ai",
+      "name": "Practical AI",
+      "domain": "changelog.com/practicalai",
+      "type": "播客",
+      "description": "实用 AI 播客",
+      "url": "https://changelog.com/practicalai",
+      "monthlyVisits": 100000,
+      "tier": "T3",
+      "features": [
+        "播客",
+        "实用",
+        "教程"
       ],
       "trafficTrend": []
     },
@@ -590,6 +599,15 @@
       "trafficTrend": []
     },
     {
+      "id": "datanorth-newsletters",
+      "name": "DataNorth AI Newsletters",
+      "domain": "datanorth.ai/blog/top-10-ai-newsletters-to-follow-in-2026",
+      "type": "Newsletter",
+      "url": "https://datanorth.ai/blog/top-10-ai-newsletters-to-follow-in-2026",
+      "monthlyVisits": 65000,
+      "tier": "T2"
+    },
+    {
       "id": "ai-herald",
       "name": "AI Herald",
       "domain": "aiherald.com",
@@ -618,6 +636,15 @@
         "新闻"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "paved-newsletters",
+      "name": "Paved AI Newsletters",
+      "domain": "paved.com/blog/ai-newsletter-roundup",
+      "type": "Newsletter",
+      "url": "https://www.paved.com/blog/ai-newsletter-roundup/",
+      "monthlyVisits": 55000,
+      "tier": "T2"
     },
     {
       "id": "ai-chronicle",
@@ -650,6 +677,15 @@
       "trafficTrend": []
     },
     {
+      "id": "tldl-blogs",
+      "name": "TLDL AI Blogs",
+      "domain": "tldl.io/resources/best-ai-tech-blogs-rss-2026",
+      "type": "资源",
+      "url": "https://www.tldl.io/resources/best-ai-tech-blogs-rss-2026",
+      "monthlyVisits": 48000,
+      "tier": "T2"
+    },
+    {
       "id": "ai-wire",
       "name": "AI Wire",
       "domain": "aiwire.com",
@@ -680,6 +716,15 @@
       "trafficTrend": []
     },
     {
+      "id": "aiaccelera",
+      "name": "AI Accelera Newsletter",
+      "domain": "aiaccelera.com/generative-ai-newsletter-february-2026",
+      "type": "Newsletter",
+      "url": "https://aiaccelera.com/generative-ai-newsletter-february-2026/",
+      "monthlyVisits": 42000,
+      "tier": "T2"
+    },
+    {
       "id": "ai-brief",
       "name": "AI Brief",
       "domain": "aibrief.co",
@@ -695,6 +740,15 @@
       "trafficTrend": []
     },
     {
+      "id": "readless-rss",
+      "name": "Readless AI RSS",
+      "domain": "readless.app/blog/best-ai-news-rss-feeds-2026",
+      "type": "RSS",
+      "url": "https://www.readless.app/blog/best-ai-news-rss-feeds-2026",
+      "monthlyVisits": 38000,
+      "tier": "T2"
+    },
+    {
       "id": "ai-update",
       "name": "AI Update",
       "domain": "aiupdate.news",
@@ -708,6 +762,15 @@
         "新闻"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "lymlyt-newsletters",
+      "name": "Lymlyt AI Newsletters",
+      "domain": "lymlyt.pro/blog/best-ai-newsletter",
+      "type": "Newsletter",
+      "url": "https://lymlyt.pro/blog/best-ai-newsletter/",
+      "monthlyVisits": 32000,
+      "tier": "T3"
     },
     {
       "id": "ai-spotlight",
