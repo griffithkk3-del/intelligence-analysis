@@ -706,7 +706,7 @@
     {
       "id": "juejin-ai",
       "name": "掘金AI专区",
-      "domain": "juejin.cn/ai",
+      "domain": "juejin.cn/tag/AI",
       "type": "开发者",
       "description": "稀土掘金 AI 工具推荐",
       "url": "https://juejin.cn/tag/AI",

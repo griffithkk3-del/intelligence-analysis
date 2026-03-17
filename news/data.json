@@ -31,7 +31,7 @@
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
-      "domain": "techcrunch.com/ai",
+      "domain": "techcrunch.com/category/ai",
       "type": "科技媒体",
       "description": "TechCrunch AI 频道，创投视角",
       "url": "https://techcrunch.com/category/artificial-intelligence/",
@@ -54,7 +54,7 @@
     {
       "id": "wired-ai",
       "name": "Wired AI",
-      "domain": "wired.com/ai",
+      "domain": "wired.com/tag/ai",
       "type": "科技媒体",
       "description": "Wired AI 报道，深度长文",
       "url": "https://www.wired.com/tag/artificial-intelligence/",
@@ -307,7 +307,7 @@
     {
       "id": "36kr-ai",
       "name": "36氪 AI",
-      "domain": "36kr.com/ai",
+      "domain": "36kr.com/information/ai",
       "type": "中文媒体",
       "description": "36氪 AI 频道，中文科技媒体",
       "url": "https://36kr.com/information/ai/",
@@ -353,7 +353,7 @@
     {
       "id": "leiphone",
       "name": "雷峰网 AI",
-      "domain": "leiphone.com/ai",
+      "domain": "leiphone.com/category/ai",
       "type": "中文媒体",
       "description": "雷峰网 AI 频道",
       "url": "https://www.leiphone.com/category/ai",
@@ -422,7 +422,7 @@
     {
       "id": "arxiv-ai",
       "name": "arXiv AI",
-      "domain": "arxiv.org/cs.AI",
+      "domain": "arxiv.org/list/cs.AI",
       "type": "论文",
       "description": "arXiv AI 论文预印本",
       "url": "https://arxiv.org/list/cs.AI/recent",
