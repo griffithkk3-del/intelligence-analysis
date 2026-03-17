@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 模型 - AI 情报中心</title>
+    <title>MCP 生态 - AI 情报中心</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -41,7 +41,7 @@
         .tier-t3 { background: rgba(241,245,249,0.9); color: #475569; }
         .nav-link { padding: 8px 16px; border-radius: 8px; font-size: 14px; font-weight: 500; transition: all 150ms; color: #64748b; }
         .nav-link:hover { background: #f1f5f9; color: #334155; }
-        .nav-link.active { background: #059669; color: white; }
+        .nav-link.active { background: #7c3aed; color: white; }
         .insight-card { background: white; border: 1px solid #e2e8f0; border-radius: 12px; border-left: 4px solid; }
     </style>
 </head>
@@ -53,20 +53,20 @@
                 <div class="flex items-center gap-1">
                     <a href="../" class="nav-link">🌍 全球</a>
                     <a href="../cn/" class="nav-link">🇨🇳 中文</a>
-                    <a href="../skills/" class="nav-link">🔧 Skills</a>
+                    <a href="../skills/" class="nav-link active">🔌 MCP</a>
                     <a href="../news/" class="nav-link">📰 资讯</a>
-                    <a href="../models/" class="nav-link active">🧠 模型</a>
-                    <a href="../mcp/" class="nav-link">🔌 MCP</a>
+                    <a href="../models/" class="nav-link">🧠 模型</a>
+                    <a href="../mcp/" class="nav-link active">🔌 MCP</a>
                     <a href="../openclaw/" class="nav-link">🦞 OpenClaw</a>
                 </div>
             </div>
         </div>
     </nav>
 
-    <header class="bg-gradient-to-br from-emerald-500 to-teal-600 text-white">
+    <header class="bg-gradient-to-br from-violet-500 to-purple-600 text-white">
         <div class="max-w-7xl mx-auto px-6 py-10">
-            <h1 class="text-3xl font-bold mb-2">🧠 AI 模型</h1>
-            <p class="text-white/80">大模型、开源模型、API 服务、本地部署</p>
+            <h1 class="text-3xl font-bold mb-2">🔌 MCP & MCP</h1>
+            <p class="text-white/80">Skills 市场、MCP 服务器、Rules 目录</p>
         </div>
     </header>
 
@@ -115,7 +115,7 @@
 
     <script>
         let data = null, currentType = 'all';
-        const accentColor = '#059669';
+        const accentColor = '#7c3aed';
 
         async function loadData() { try { data = await (await fetch('data.json?v=' + Date.now())).json(); renderPage(); } catch (e) { console.error(e); } }
 

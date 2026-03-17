@@ -1,0 +1,351 @@
+{
+  "lastUpdated": "2026-03-17T17:30:00+08:00",
+  "config": {
+    "category": "MCP 生态",
+    "description": "Model Context Protocol 服务器、市场、教程、工具"
+  },
+  "competitors": [
+    {
+      "id": "anthropic-mcp",
+      "name": "Anthropic MCP 官方",
+      "domain": "anthropic.com/news/model-context-protocol",
+      "type": "官方",
+      "description": "Anthropic 官方 MCP 介绍",
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "monthlyVisits": 850000,
+      "tier": "T1",
+      "badge": "官方"
+    },
+    {
+      "id": "mcp-registry",
+      "name": "MCP 官方注册表",
+      "domain": "registry.modelcontextprotocol.io",
+      "type": "官方",
+      "description": "Official MCP Registry",
+      "url": "https://registry.modelcontextprotocol.io/",
+      "monthlyVisits": 420000,
+      "tier": "T1",
+      "badge": "官方"
+    },
+    {
+      "id": "mcp-github",
+      "name": "MCP GitHub Servers",
+      "domain": "github.com/modelcontextprotocol/servers",
+      "type": "开源",
+      "description": "Model Context Protocol 官方服务器仓库",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "monthlyVisits": 380000,
+      "tier": "T1",
+      "badge": "官方",
+      "githubStars": 18500
+    },
+    {
+      "id": "anthropic-courses",
+      "name": "Anthropic MCP 课程",
+      "domain": "anthropic.skilljar.com/introduction-to-model-context-protocol",
+      "type": "教程",
+      "description": "Introduction to Model Context Protocol 官方课程",
+      "url": "https://anthropic.skilljar.com/introduction-to-model-context-protocol",
+      "monthlyVisits": 185000,
+      "tier": "T1",
+      "badge": "官方"
+    },
+    {
+      "id": "mcp-quickstart",
+      "name": "MCP Quickstart",
+      "domain": "modelcontextprotocol.info/docs/quickstart/quickstart",
+      "type": "文档",
+      "description": "MCP 快速入门文档",
+      "url": "https://modelcontextprotocol.info/docs/quickstart/quickstart/",
+      "monthlyVisits": 165000,
+      "tier": "T1"
+    },
+    {
+      "id": "mcpmarket",
+      "name": "MCP Market",
+      "domain": "mcpmarket.com",
+      "type": "市场",
+      "description": "MCP 服务器市场，Top 100 排行榜",
+      "url": "https://mcpmarket.com/",
+      "monthlyVisits": 320000,
+      "tier": "T1"
+    },
+    {
+      "id": "mcp-so",
+      "name": "MCP.so",
+      "domain": "mcp.so",
+      "type": "目录",
+      "description": "MCP Servers 目录",
+      "url": "https://mcp.so/",
+      "monthlyVisits": 245000,
+      "tier": "T1"
+    },
+    {
+      "id": "mcpservers-org",
+      "name": "Awesome MCP Servers",
+      "domain": "mcpservers.org/en",
+      "type": "目录",
+      "description": "Awesome MCP Servers 精选列表",
+      "url": "https://mcpservers.org/en",
+      "monthlyVisits": 185000,
+      "tier": "T1"
+    },
+    {
+      "id": "lobehub-mcp",
+      "name": "LobeHub MCP",
+      "domain": "lobehub.com/mcp",
+      "type": "市场",
+      "description": "LobeHub MCP Servers Marketplace",
+      "url": "https://lobehub.com/mcp",
+      "monthlyVisits": 165000,
+      "tier": "T1"
+    },
+    {
+      "id": "aiagentslist-mcp",
+      "name": "AI Agents List MCP",
+      "domain": "aiagentslist.com/mcp-servers",
+      "type": "目录",
+      "description": "593+ Model Context Protocol Servers 目录",
+      "url": "https://aiagentslist.com/mcp-servers",
+      "monthlyVisits": 125000,
+      "tier": "T1"
+    },
+    {
+      "id": "awesome-claude-mcp",
+      "name": "Awesome Claude MCP",
+      "domain": "github.com/win4r/Awesome-Claude-MCP-Servers",
+      "type": "资源列表",
+      "description": "Awesome Claude MCP Servers 精选",
+      "url": "https://github.com/win4r/Awesome-Claude-MCP-Servers",
+      "monthlyVisits": 95000,
+      "tier": "T2",
+      "githubStars": 4200
+    },
+    {
+      "id": "awesome-mcp-list",
+      "name": "Awesome MCP List",
+      "domain": "github.com/MobinX/awesome-mcp-list",
+      "type": "资源列表",
+      "description": "A concise list for MCP servers",
+      "url": "https://github.com/MobinX/awesome-mcp-list",
+      "monthlyVisits": 68000,
+      "tier": "T2",
+      "githubStars": 2800
+    },
+    {
+      "id": "mcp-chinese-guide",
+      "name": "MCP 中文入门指南",
+      "domain": "github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide",
+      "type": "教程",
+      "description": "Model Context Protocol 编程极速入门",
+      "url": "https://github.com/liaokongVFX/MCP-Chinese-Getting-Started-Guide",
+      "monthlyVisits": 55000,
+      "tier": "T2",
+      "githubStars": 1500
+    },
+    {
+      "id": "anthropic-code-exec",
+      "name": "Anthropic Code Execution",
+      "domain": "anthropic.com/engineering/code-execution-with-mcp",
+      "type": "文章",
+      "description": "Code execution with MCP: building more efficient AI agents",
+      "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
+      "monthlyVisits": 125000,
+      "tier": "T1",
+      "badge": "官方"
+    },
+    {
+      "id": "zapier-mcp",
+      "name": "Zapier MCP 指南",
+      "domain": "zapier.com/blog/claude-mcp-servers",
+      "type": "教程",
+      "description": "7 Claude MCP servers you can set up right now",
+      "url": "https://zapier.com/blog/claude-mcp-servers/",
+      "monthlyVisits": 95000,
+      "tier": "T2"
+    },
+    {
+      "id": "k2view-mcp",
+      "name": "K2view Awesome MCP",
+      "domain": "k2view.com/blog/awesome-mcp-servers",
+      "type": "文章",
+      "description": "Awesome MCP servers: Directory of the top 15 for 2026",
+      "url": "https://www.k2view.com/blog/awesome-mcp-servers",
+      "monthlyVisits": 72000,
+      "tier": "T2"
+    },
+    {
+      "id": "thenewstack-mcp",
+      "name": "The New Stack MCP",
+      "domain": "thenewstack.io/model-context-protocol-roadmap-2026",
+      "type": "新闻",
+      "description": "MCP's biggest growing pains for production use",
+      "url": "https://thenewstack.io/model-context-protocol-roadmap-2026/",
+      "monthlyVisits": 85000,
+      "tier": "T2"
+    },
+    {
+      "id": "medium-mcp-infra",
+      "name": "Medium MCP 基础设施",
+      "domain": "medium.com/devops-ai-decoded/top-10-mcp-servers-to-automate-your-infrastructure-in-2026",
+      "type": "文章",
+      "description": "Top 10 MCP Servers to Automate Your Infrastructure",
+      "url": "https://medium.com/devops-ai-decoded/top-10-mcp-servers-to-automate-your-infrastructure-in-2026-5ef175318ac2",
+      "monthlyVisits": 65000,
+      "tier": "T2"
+    },
+    {
+      "id": "cdata-mcp",
+      "name": "CData MCP 最佳实践",
+      "domain": "cdata.com/blog/mcp-server-best-practices-2026",
+      "type": "文章",
+      "description": "MCP Server Best Practices for 2026",
+      "url": "https://www.cdata.com/blog/mcp-server-best-practices-2026",
+      "monthlyVisits": 58000,
+      "tier": "T2"
+    },
+    {
+      "id": "devto-mcp-101",
+      "name": "DEV MCP 101",
+      "domain": "dev.to/pavanbelagatti/model-context-protocol-mcp-101",
+      "type": "教程",
+      "description": "Model Context Protocol (MCP) 101: A Hands-On Beginner's Guide",
+      "url": "https://dev.to/pavanbelagatti/model-context-protocol-mcp-101-a-hands-on-beginners-guide-47ho",
+      "monthlyVisits": 52000,
+      "tier": "T2"
+    },
+    {
+      "id": "obot-mcp",
+      "name": "Obot MCP 指南",
+      "domain": "obot.ai/resources/learning-center/mcp-anthropic",
+      "type": "教程",
+      "description": "Building with MCP: Anthropic Guidance",
+      "url": "https://obot.ai/resources/learning-center/mcp-anthropic/",
+      "monthlyVisits": 45000,
+      "tier": "T2"
+    },
+    {
+      "id": "apiyi-mcp-top10",
+      "name": "APIYi MCP Top 10",
+      "domain": "help.apiyi.com/en/claude-code-mcp-top-10-must-install-en.html",
+      "type": "文章",
+      "description": "Top 10 Must-Have Claude Code MCP Recommendations",
+      "url": "https://help.apiyi.com/en/claude-code-mcp-top-10-must-install-en.html",
+      "monthlyVisits": 42000,
+      "tier": "T2"
+    },
+    {
+      "id": "microsoft-mcp",
+      "name": "Microsoft Copilot MCP",
+      "domain": "microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-model-context-protocol-mcp-in-copilot-studio",
+      "type": "企业",
+      "description": "Introducing MCP in Copilot Studio",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-model-context-protocol-mcp-in-copilot-studio-simplified-integration-with-ai-apps-and-agents/",
+      "monthlyVisits": 185000,
+      "tier": "T1",
+      "badge": "微软"
+    },
+    {
+      "id": "runoob-mcp",
+      "name": "菜鸟教程 MCP",
+      "domain": "runoob.com/claude-code/claude-code-mcp.html",
+      "type": "教程",
+      "description": "Claude Code MCP 中文教程",
+      "url": "https://www.runoob.com/claude-code/claude-code-mcp.html",
+      "monthlyVisits": 125000,
+      "tier": "T1"
+    },
+    {
+      "id": "csdn-mcp",
+      "name": "CSDN MCP 实战",
+      "domain": "blog.csdn.net/weixin_65514978/article/details/146484646",
+      "type": "教程",
+      "description": "基于 Claude MCP 协议的智能体落地示例",
+      "url": "https://blog.csdn.net/weixin_65514978/article/details/146484646",
+      "monthlyVisits": 85000,
+      "tier": "T2"
+    },
+    {
+      "id": "zhihu-mcp",
+      "name": "知乎 MCP 精通指南",
+      "domain": "zhuanlan.zhihu.com/p/30094144751",
+      "type": "教程",
+      "description": "大模型 MCP 协议从入门到精通",
+      "url": "https://zhuanlan.zhihu.com/p/30094144751",
+      "monthlyVisits": 78000,
+      "tier": "T2"
+    },
+    {
+      "id": "mcp-vyagent",
+      "name": "MCP 中文文档",
+      "domain": "mcp.vyagent.com/tutorials/building-mcp-with-llms",
+      "type": "文档",
+      "description": "使用 LLMs 构建 MCP 中文文档",
+      "url": "https://mcp.vyagent.com/tutorials/building-mcp-with-llms",
+      "monthlyVisits": 65000,
+      "tier": "T2"
+    },
+    {
+      "id": "im47-mcp",
+      "name": "im47 MCP 解析",
+      "domain": "im47.cn/posts/model-context-protocol",
+      "type": "文章",
+      "description": "深入解析 Model Context Protocol (MCP)",
+      "url": "https://im47.cn/posts/model-context-protocol/",
+      "monthlyVisits": 48000,
+      "tier": "T2"
+    },
+    {
+      "id": "cnblogs-mcp",
+      "name": "博客园 MCP 配置",
+      "domain": "cnblogs.com/gyc567/p/19206392",
+      "type": "教程",
+      "description": "如何为 Claude Code 配置两个必备 MCP 工具",
+      "url": "https://www.cnblogs.com/gyc567/p/19206392",
+      "monthlyVisits": 42000,
+      "tier": "T2"
+    },
+    {
+      "id": "reddit-mcp",
+      "name": "Reddit r/mcp",
+      "domain": "reddit.com/r/mcp",
+      "type": "社区",
+      "description": "MCP Reddit 社区",
+      "url": "https://www.reddit.com/r/mcp/",
+      "monthlyVisits": 95000,
+      "tier": "T2"
+    },
+    {
+      "id": "reddit-claudeai-mcp",
+      "name": "Reddit Claude AI MCP",
+      "domain": "reddit.com/r/ClaudeAI/comments/1rcfvki",
+      "type": "社区",
+      "description": "Awesome Claude Code 资源列表讨论",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1rcfvki/i_built_awesome_claude_code_a_curated_list_of/",
+      "monthlyVisits": 72000,
+      "tier": "T2"
+    }
+  ],
+  "insights": [
+    {
+      "title": "Anthropic 主导",
+      "content": "MCP 由 Anthropic 发起，官方资源最权威",
+      "color": "blue"
+    },
+    {
+      "title": "市场快速增长",
+      "content": "mcpmarket.com 和 mcp.so 成为主要服务器目录",
+      "color": "green"
+    },
+    {
+      "title": "企业采用",
+      "content": "Microsoft Copilot Studio 已集成 MCP 协议",
+      "color": "purple"
+    },
+    {
+      "title": "中文生态",
+      "content": "菜鸟教程、CSDN、知乎等中文资源丰富",
+      "color": "orange"
+    }
+  ]
+}
