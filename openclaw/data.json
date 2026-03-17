@@ -109,6 +109,16 @@
       "trafficTrend": []
     },
     {
+      "id": "yt-openclaw-tutorial",
+      "name": "OpenClaw 官方教程",
+      "domain": "youtube.com/watch?v=BoC5MY_7aDk",
+      "type": "视频教程",
+      "description": "OpenClaw Full Tutorial for Beginners",
+      "url": "https://www.youtube.com/watch?v=BoC5MY_7aDk",
+      "monthlyVisits": 150000,
+      "tier": "T2"
+    },
+    {
       "id": "nemoclaw",
       "name": "NemoClaw",
       "domain": "nemoclawaiapp.com",
@@ -124,6 +134,27 @@
       ],
       "badge": "NVIDIA",
       "trafficTrend": []
+    },
+    {
+      "id": "yt-openclaw-course",
+      "name": "OpenClaw 完整课程",
+      "domain": "youtube.com/watch?v=vte-fDoZczE",
+      "type": "视频教程",
+      "description": "OpenClaw Full Course: Setup, Skills, Voice, Memory",
+      "url": "https://www.youtube.com/watch?v=vte-fDoZczE",
+      "monthlyVisits": 120000,
+      "tier": "T2"
+    },
+    {
+      "id": "openclaw-docs-zh",
+      "name": "OpenClaw 中文文档",
+      "domain": "docs.openclaw.ai/zh-CN/start/getting-started",
+      "type": "文档",
+      "description": "OpenClaw 官方中文入门指南",
+      "url": "https://docs.openclaw.ai/zh-CN/start/getting-started",
+      "monthlyVisits": 120000,
+      "tier": "T1",
+      "badge": "官方"
     },
     {
       "id": "openclaw-twitter",
@@ -159,6 +190,27 @@
       "trafficTrend": []
     },
     {
+      "id": "openclaw-integrations",
+      "name": "OpenClaw Integrations",
+      "domain": "openclaw.ai/integrations",
+      "type": "官方",
+      "description": "OpenClaw 官方集成页面",
+      "url": "https://openclaw.ai/integrations",
+      "monthlyVisits": 95000,
+      "tier": "T1",
+      "badge": "官方"
+    },
+    {
+      "id": "yt-automate-anything",
+      "name": "Automate Anything 教程",
+      "domain": "youtube.com/watch?v=hf0R2JKV2fg",
+      "type": "视频教程",
+      "description": "Automate Anything With OpenClaw: Here's How!",
+      "url": "https://www.youtube.com/watch?v=hf0R2JKV2fg",
+      "monthlyVisits": 95000,
+      "tier": "T2"
+    },
+    {
       "id": "openclaw-reddit",
       "name": "r/OpenClaw",
       "domain": "reddit.com/r/openclaw",
@@ -173,6 +225,26 @@
         "分享"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "yt-mcp-skills",
+      "name": "MCP + Skills 教程",
+      "domain": "youtube.com/watch?v=8ogUpuvWOQE",
+      "type": "视频教程",
+      "description": "MCP + Skills.md + OpenClaw: Build Better AI Agents",
+      "url": "https://www.youtube.com/watch?v=8ogUpuvWOQE",
+      "monthlyVisits": 85000,
+      "tier": "T2"
+    },
+    {
+      "id": "zhihu-openclaw-guide",
+      "name": "知乎 OpenClaw 完全指南",
+      "domain": "zhuanlan.zhihu.com/p/2015027745743189513",
+      "type": "教程",
+      "description": "OpenClaw 完全指南：全网最新最全的系统化教程",
+      "url": "https://zhuanlan.zhihu.com/p/2015027745743189513",
+      "monthlyVisits": 85000,
+      "tier": "T2"
     },
     {
       "id": "openclaw-youtube",
@@ -191,6 +263,57 @@
       "trafficTrend": []
     },
     {
+      "id": "tencent-cloud-openclaw",
+      "name": "腾讯云 OpenClaw 指南",
+      "domain": "tencentcloud.com/techpedia/141458",
+      "type": "教程",
+      "description": "OpenClaw 完全指南：部署你的 7×24 小时开源 AI 助手",
+      "url": "https://www.tencentcloud.com/techpedia/141458",
+      "monthlyVisits": 72000,
+      "tier": "T2"
+    },
+    {
+      "id": "yt-agent-swarms",
+      "name": "Agent Swarms 演示",
+      "domain": "youtube.com/watch?v=awIfvN-NzBI",
+      "type": "视频教程",
+      "description": "OpenClaw: Demos, Agent Swarms, and Workflows",
+      "url": "https://www.youtube.com/watch?v=awIfvN-NzBI",
+      "monthlyVisits": 72000,
+      "tier": "T2"
+    },
+    {
+      "id": "yt-deploy-45min",
+      "name": "45分钟部署教程",
+      "domain": "youtube.com/watch?v=sO6NSSOWDO0",
+      "type": "视频教程",
+      "description": "Deploy Your Own AI Agent in 45 Minutes",
+      "url": "https://www.youtube.com/watch?v=sO6NSSOWDO0",
+      "monthlyVisits": 68000,
+      "tier": "T2"
+    },
+    {
+      "id": "openclaw-docs-plugins",
+      "name": "OpenClaw Plugins 文档",
+      "domain": "docs.openclaw.ai/tools/plugin",
+      "type": "文档",
+      "description": "OpenClaw 插件开发文档",
+      "url": "https://docs.openclaw.ai/tools/plugin",
+      "monthlyVisits": 65000,
+      "tier": "T2",
+      "badge": "官方"
+    },
+    {
+      "id": "tencent-dev-openclaw",
+      "name": "腾讯云开发者 OpenClaw",
+      "domain": "cloud.tencent.com/developer/article/2633421",
+      "type": "教程",
+      "description": "OpenClaw 安装使用保姆级教程",
+      "url": "https://cloud.tencent.com/developer/article/2633421",
+      "monthlyVisits": 65000,
+      "tier": "T2"
+    },
+    {
       "id": "awesome-openclaw",
       "name": "Awesome OpenClaw",
       "domain": "github.com/awesome-openclaw/awesome-openclaw",
@@ -207,6 +330,87 @@
       "trafficTrend": []
     },
     {
+      "id": "yt-beginner-setup",
+      "name": "Beginner Setup 教程",
+      "domain": "youtube.com/watch?v=t2gaFg8GAYI",
+      "type": "视频教程",
+      "description": "OpenClaw Beginner Setup – Build Your First AI Agent",
+      "url": "https://www.youtube.com/watch?v=t2gaFg8GAYI",
+      "monthlyVisits": 58000,
+      "tier": "T2"
+    },
+    {
+      "id": "datacamp-openclaw",
+      "name": "DataCamp OpenClaw 教程",
+      "domain": "datacamp.com/pt/tutorial/building-open-claw-skills",
+      "type": "教程",
+      "description": "Building Custom OpenClaw Skills 教程",
+      "url": "https://www.datacamp.com/pt/tutorial/building-open-claw-skills",
+      "monthlyVisits": 55000,
+      "tier": "T2"
+    },
+    {
+      "id": "kdnuggets-openclaw",
+      "name": "KDnuggets OpenClaw 工具",
+      "domain": "kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out",
+      "type": "文章",
+      "description": "Top 7 OpenClaw Tools & Integrations",
+      "url": "https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out",
+      "monthlyVisits": 48000,
+      "tier": "T2"
+    },
+    {
+      "id": "gitbook-openclaw",
+      "name": "GitBook OpenClaw 指南",
+      "domain": "yeasy.gitbook.io/openclaw_guide",
+      "type": "教程",
+      "description": "OpenClaw 从入门到精通",
+      "url": "https://yeasy.gitbook.io/openclaw_guide",
+      "monthlyVisits": 48000,
+      "tier": "T2"
+    },
+    {
+      "id": "awesome-openclaw-skills",
+      "name": "Awesome OpenClaw Skills",
+      "domain": "github.com/VoltAgent/awesome-openclaw-skills",
+      "type": "资源列表",
+      "description": "OpenClaw Skills 精选列表",
+      "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+      "monthlyVisits": 45000,
+      "tier": "T2",
+      "githubStars": 2800
+    },
+    {
+      "id": "reddit-best-skills",
+      "name": "Reddit Best Skills",
+      "domain": "reddit.com/r/AI_Agents/comments/1r2u356",
+      "type": "社区",
+      "description": "Best OpenClaw Skills You Should Install",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1r2u356/best_openclaw_skills_you_should_install_from/",
+      "monthlyVisits": 45000,
+      "tier": "T2"
+    },
+    {
+      "id": "dev-to-openclaw",
+      "name": "DEV Community OpenClaw",
+      "domain": "dev.to/composiodev/how-to-unlock-850-tools-in-openclaw-516g",
+      "type": "教程",
+      "description": "How to unlock 850+ tools in OpenClaw",
+      "url": "https://dev.to/composiodev/how-to-unlock-850-tools-in-openclaw-516g",
+      "monthlyVisits": 42000,
+      "tier": "T2"
+    },
+    {
+      "id": "medium-30-prompts",
+      "name": "Medium 30 Prompts 指南",
+      "domain": "alirezarezvani.medium.com",
+      "type": "文章",
+      "description": "OpenClaw Automation: The 30 Prompts and Instructions Guide",
+      "url": "https://alirezarezvani.medium.com/30-openclaw-automation-prompts-that-turn-a-ai-assistant-into-a-24-7-autonomous-ai-companion-my-ca44430f4df6",
+      "monthlyVisits": 42000,
+      "tier": "T2"
+    },
+    {
       "id": "openclaw-bilibili",
       "name": "OpenClaw B站",
       "domain": "space.bilibili.com/openclaw",
@@ -220,6 +424,37 @@
         "中文视频"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "awesome-openclaw-tutorial",
+      "name": "OpenClaw 实战指南",
+      "domain": "github.com/xianyu110/awesome-openclaw-tutorial",
+      "type": "教程",
+      "description": "一本书玩转 OpenClaw：超级个体实战指南",
+      "url": "https://github.com/xianyu110/awesome-openclaw-tutorial",
+      "monthlyVisits": 38000,
+      "tier": "T2",
+      "githubStars": 1500
+    },
+    {
+      "id": "reddit-extensions",
+      "name": "Reddit Extensions 讨论",
+      "domain": "reddit.com/r/AISEOInsider/comments/1rk02z8",
+      "type": "社区",
+      "description": "OpenClaw Extensions Just Unlocked 2800+ Hidden AI Superpowers",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rk02z8/openclaw_extensions_just_unlocked_2800_hidden_ai/",
+      "monthlyVisits": 38000,
+      "tier": "T2"
+    },
+    {
+      "id": "linkedin-multi-agent",
+      "name": "LinkedIn Multi-Agent 教程",
+      "domain": "linkedin.com/pulse/openclaw-multi-agent-system",
+      "type": "文章",
+      "description": "OpenClaw Multi Agent System: Build Autonomous AI Workflows",
+      "url": "https://www.linkedin.com/pulse/openclaw-multi-agent-system-build-autonomous-ai-workflows-goldie-i0juc",
+      "monthlyVisits": 38000,
+      "tier": "T2"
     },
     {
       "id": "openclaw-zhihu",
@@ -238,6 +473,116 @@
       "trafficTrend": []
     },
     {
+      "id": "fast-io-mcp",
+      "name": "Fast.io MCP 指南",
+      "domain": "fast.io/resources/openclaw-mcp-setup",
+      "type": "教程",
+      "description": "OpenClaw MCP Setup: Complete Step-by-Step Guide",
+      "url": "https://fast.io/resources/openclaw-mcp-setup/",
+      "monthlyVisits": 35000,
+      "tier": "T3"
+    },
+    {
+      "id": "catchadmin-openclaw",
+      "name": "CatchAdmin OpenClaw 教程",
+      "domain": "catchadmin.com/post/2026-02/latest-openclaw-installed",
+      "type": "教程",
+      "description": "OpenClaw 安装教程：2026 最新保姆级飞书对接指南",
+      "url": "https://catchadmin.com/post/2026-02/latest-openclaw-installed",
+      "monthlyVisits": 35000,
+      "tier": "T3"
+    },
+    {
+      "id": "reddit-acp-agents",
+      "name": "Reddit ACP Agents",
+      "domain": "reddit.com/r/AISEOInsider/comments/1rqan9b",
+      "type": "社区",
+      "description": "OpenClaw ACP Agents Just Made Multi-Agent Workflows Way Easier",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rqan9b/openclaw_acp_agents_just_made_multiagent/",
+      "monthlyVisits": 35000,
+      "tier": "T3"
+    },
+    {
+      "id": "apiyi-extensions",
+      "name": "APIYi 扩展生态",
+      "domain": "help.apiyi.com/en/openclaw-extensions-ecosystem-guide-en.html",
+      "type": "教程",
+      "description": "Exploring the OpenClaw Extension Ecosystem",
+      "url": "https://help.apiyi.com/en/openclaw-extensions-ecosystem-guide-en.html",
+      "monthlyVisits": 32000,
+      "tier": "T3"
+    },
+    {
+      "id": "reddit-localllama",
+      "name": "Reddit LocalLLaMA 讨论",
+      "domain": "reddit.com/r/LocalLLaMA/comments/1rd4ekg",
+      "type": "社区",
+      "description": "experimented with openclaw - am I missing something?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rd4ekg/experimented_with_openclaw_am_i_missing_something/",
+      "monthlyVisits": 32000,
+      "tier": "T3"
+    },
+    {
+      "id": "csharp-corner",
+      "name": "C# Corner OpenClaw 教程",
+      "domain": "c-sharpcorner.com/article/using-openclaw-for-ai-agents",
+      "type": "教程",
+      "description": "Using OpenClaw for AI Agents: What It Is and How to Build",
+      "url": "https://www.c-sharpcorner.com/article/using-openclaw-for-ai-agents-what-it-is-and-how-to-build-intelligent-workflows/",
+      "monthlyVisits": 32000,
+      "tier": "T3"
+    },
+    {
+      "id": "lumadock-api",
+      "name": "Lumadock API 集成",
+      "domain": "lumadock.com/tutorials/openclaw-custom-api-integration-guide",
+      "type": "教程",
+      "description": "OpenClaw custom API integration guide",
+      "url": "https://lumadock.com/tutorials/openclaw-custom-api-integration-guide",
+      "monthlyVisits": 28000,
+      "tier": "T3"
+    },
+    {
+      "id": "apiyi-beginner",
+      "name": "APIYi 新人指南",
+      "domain": "help.apiyi.com/openclaw-beginner-guide.html",
+      "type": "教程",
+      "description": "OpenClaw 新人指南：5 分钟掌握你的私人 AI Agent",
+      "url": "https://help.apiyi.com/openclaw-beginner-guide.html",
+      "monthlyVisits": 28000,
+      "tier": "T3"
+    },
+    {
+      "id": "omega-ai-guide",
+      "name": "O-mega AI 终极指南",
+      "domain": "o-mega.ai/articles/openclaw-creating-the-ai-agent-workforce-ultimate-guide-2026",
+      "type": "文章",
+      "description": "OpenClaw: Ultimate Guide to AI Agent Workforce 2026",
+      "url": "https://o-mega.ai/articles/openclaw-creating-the-ai-agent-workforce-ultimate-guide-2026",
+      "monthlyVisits": 28000,
+      "tier": "T3"
+    },
+    {
+      "id": "trilogyai-arch",
+      "name": "TrilogyAI 架构解析",
+      "domain": "trilogyai.substack.com/p/how-to-openclaws-architecture-extension",
+      "type": "文章",
+      "description": "OpenClaw's Architecture, Extension in 5 Minutes",
+      "url": "https://trilogyai.substack.com/p/how-to-openclaws-architecture-extension",
+      "monthlyVisits": 25000,
+      "tier": "T3"
+    },
+    {
+      "id": "medium-workflow",
+      "name": "Medium Workflow 分享",
+      "domain": "safeti.medium.com",
+      "type": "文章",
+      "description": "How OpenClaw Changed My Workflow",
+      "url": "https://safeti.medium.com/how-openclaw-changed-my-workflow-e27b4a03e432",
+      "monthlyVisits": 25000,
+      "tier": "T3"
+    },
+    {
       "id": "openclaw-weixin",
       "name": "OpenClaw 微信公众号",
       "domain": "mp.weixin.qq.com/openclaw",
@@ -251,6 +596,16 @@
         "公众号"
       ],
       "trafficTrend": []
+    },
+    {
+      "id": "transcriptapi-skills",
+      "name": "TranscriptAPI Skills 推荐",
+      "domain": "transcriptapi.com/blog/best-openclaw-skills-developer",
+      "type": "文章",
+      "description": "5 Best OpenClaw Skills Every Developer Needs",
+      "url": "https://transcriptapi.com/blog/best-openclaw-skills-developer",
+      "monthlyVisits": 22000,
+      "tier": "T3"
     }
   ],
   "insights": [
