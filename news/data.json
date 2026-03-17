@@ -31,7 +31,7 @@
     {
       "id": "techcrunch-ai",
       "name": "TechCrunch AI",
-      "domain": "techcrunch.com/category/ai",
+      "domain": "techcrunch.com/category/artificial-intelligence",
       "type": "科技媒体",
       "description": "TechCrunch AI 频道，创投视角",
       "url": "https://techcrunch.com/category/artificial-intelligence/",
@@ -54,7 +54,7 @@
     {
       "id": "wired-ai",
       "name": "Wired AI",
-      "domain": "wired.com/tag/ai",
+      "domain": "wired.com/tag/artificial-intelligence",
       "type": "科技媒体",
       "description": "Wired AI 报道，深度长文",
       "url": "https://www.wired.com/tag/artificial-intelligence/",
