@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-20T10:40:00+08:00",
+  "lastUpdated": "2026-03-20T11:20:00+08:00",
   "config": {
     "category": "AI Tools Directory / AI 聚合网页",
     "description": "专门收集、分类、展示各种 AI 工具的目录网站",
     "autoUpdate": true,
     "updateInterval": "daily",
-    "totalSites": 116
+    "totalSites": 127
   },
   "competitors": [
     {
@@ -2559,6 +2559,99 @@
         "AI",
         "news"
       ]
+    },
+    {
+      "domain": "logicballs.com",
+      "name": "LogicBalls",
+      "type": "global",
+      "url": "https://logicballs.com",
+      "id": "logicballs-com",
+      "tier": "T2"
+    },
+    {
+      "domain": "searchatlas.com",
+      "name": "SearchAtlas",
+      "type": "global",
+      "url": "https://searchatlas.com",
+      "id": "searchatlas-com",
+      "tier": "T2"
+    },
+    {
+      "domain": "datanorth.ai",
+      "name": "DataNorth AI",
+      "type": "global",
+      "url": "https://datanorth.ai",
+      "id": "datanorth-ai",
+      "tier": "T2"
+    },
+    {
+      "domain": "aifire.co",
+      "name": "AI Fire",
+      "type": "global",
+      "url": "https://www.aifire.co",
+      "id": "aifire-co",
+      "tier": "T2"
+    },
+    {
+      "domain": "aihunt.app",
+      "name": "AI Hunt",
+      "type": "global",
+      "url": "https://aihunt.app",
+      "id": "aihunt-app",
+      "tier": "T2"
+    },
+    {
+      "domain": "mcp.so",
+      "name": "MCP.so",
+      "type": "skills",
+      "url": "https://mcp.so",
+      "id": "mcp-so",
+      "tier": "T2"
+    },
+    {
+      "domain": "cherry-studio",
+      "name": "Cherry Studio",
+      "type": "models",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "githubStars": 41846,
+      "id": "cherry-studio",
+      "tier": "T2"
+    },
+    {
+      "domain": "Fission-AI/OpenSpec",
+      "name": "OpenSpec",
+      "type": "skills",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "githubStars": 32429,
+      "id": "Fission-AI/OpenSpec",
+      "tier": "T2"
+    },
+    {
+      "domain": "zeroclaw-labs/zeroclaw",
+      "name": "ZeroCrawl",
+      "type": "models",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "githubStars": 28059,
+      "id": "zeroclaw-labs/zeroclaw",
+      "tier": "T2"
+    },
+    {
+      "domain": "dzhng/deep-research",
+      "name": "Deep Research",
+      "type": "models",
+      "url": "https://github.com/dzhng/deep-research",
+      "githubStars": 18595,
+      "id": "dzhng/deep-research",
+      "tier": "T2"
+    },
+    {
+      "domain": "agent0ai/agent-zero",
+      "name": "Agent Zero",
+      "type": "skills",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "githubStars": 16232,
+      "id": "agent0ai/agent-zero",
+      "tier": "T2"
     }
   ]
 }
