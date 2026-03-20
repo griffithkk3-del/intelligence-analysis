@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-03-20T11:20:00+08:00",
+  "lastUpdated": "2026-03-20T11:30:00+08:00",
   "config": {
     "category": "AI Tools Directory / AI 聚合网页",
     "description": "专门收集、分类、展示各种 AI 工具的目录网站",
     "autoUpdate": true,
     "updateInterval": "daily",
-    "totalSites": 127
+    "totalSites": 137
   },
   "competitors": [
     {
@@ -2651,6 +2651,96 @@
       "url": "https://github.com/agent0ai/agent-zero",
       "githubStars": 16232,
       "id": "agent0ai/agent-zero",
+      "tier": "T2"
+    },
+    {
+      "domain": "producthunt.com",
+      "name": "Product Hunt AI",
+      "type": "global",
+      "url": "https://www.producthunt.com/topics/artificial-intelligence",
+      "monthlyVisits": 5000000,
+      "id": "producthunt-com",
+      "tier": "T2"
+    },
+    {
+      "domain": "alternativeto.net",
+      "name": "AlternativeTo AI",
+      "type": "global",
+      "url": "https://alternativeto.net/category/software/artificial-intelligence/",
+      "monthlyVisits": 8000000,
+      "id": "alternativeto-net",
+      "tier": "T2"
+    },
+    {
+      "domain": "capterra.com",
+      "name": "Capterra AI",
+      "type": "global",
+      "url": "https://www.capterra.com/category/artificial-intelligence-software/",
+      "monthlyVisits": 3000000,
+      "id": "capterra-com",
+      "tier": "T2"
+    },
+    {
+      "domain": "promptbase.com",
+      "name": "PromptBase",
+      "type": "skills",
+      "url": "https://promptbase.com",
+      "monthlyVisits": 500000,
+      "id": "promptbase-com",
+      "tier": "T2"
+    },
+    {
+      "domain": "prompts.chat",
+      "name": "Prompts Chat",
+      "type": "skills",
+      "url": "https://prompts.chat",
+      "monthlyVisits": 100000,
+      "id": "prompts-chat",
+      "tier": "T2"
+    },
+    {
+      "domain": "learn.aireview.org",
+      "name": "AI Review",
+      "type": "news",
+      "url": "https://learn.aireview.org",
+      "monthlyVisits": 200000,
+      "id": "learn-aireview-org",
+      "tier": "T2"
+    },
+    {
+      "domain": "aidma.ai",
+      "name": "AI DMA",
+      "type": "cn",
+      "url": "https://aidma.ai",
+      "monthlyVisits": 150000,
+      "id": "aidma-ai",
+      "tier": "T2"
+    },
+    {
+      "domain": "eudk/awesome-ai-tools",
+      "name": "Awesome AI Tools",
+      "type": "skills",
+      "url": "https://github.com/eudk/awesome-ai-tools",
+      "githubStars": 15000,
+      "id": "eudk-awesome-ai-tools",
+      "tier": "T2"
+    },
+    {
+      "domain": "awesome-fc/awesome-AIGC-tools",
+      "name": "Awesome AIGC Tools",
+      "type": "skills",
+      "url": "https://github.com/awesome-fc/awesome-AIGC-tools",
+      "githubStars": 12000,
+      "id": "awesome-fc-awesome-AIGC-tools",
+      "tier": "T2"
+    },
+    {
+      "domain": "too-many-butts/awesome-ai-tools",
+      "name": "Too Many Butts AI Tools",
+      "type": "skills",
+      "url": "https://github.com/too-many-butts/awesome-ai-tools",
+      "githubStars": 8000,
+      "id": "too-many-butts-awesome-ai-tools",
       "tier": "T2"
     }
   ]
