@@ -1,8 +1,11 @@
 {
-  "lastUpdated": "2026-03-20T14:51:06.973460+08:00",
+  "lastUpdated": "2026-03-20T18:55:00+08:00",
   "config": {
-    "category": "global",
-    "autoUpdate": true
+    "category": "AI Tools Directory / AI 聚合网页",
+    "description": "专门收集、分类、展示各种 AI 工具的目录网站",
+    "autoUpdate": true,
+    "updateInterval": "daily",
+    "totalSites": 131
   },
   "competitors": [
     {
@@ -642,22 +645,2250 @@
         "AI",
         "global"
       ]
-    }
-  ],
-  "insights": [
-    {
-      "title": "🏆 头部集中",
-      "content": "T1 级别 29 个，占据主要流量",
-      "color": "blue"
     },
     {
-      "title": "📈 总流量",
-      "content": "收录网站月访问总量 1090.6M",
-      "color": "green"
+      "name": "hello-ai/home/navigation.md at",
+      "domain": "github.com",
+      "url": "https://github.com/xxxily/hello-ai/blob/main/home/navigation.md",
+      "description": "Futurepedia 一个在线最大的人工智能AIGC工具目录,网站在线收录各种人工智能AI工具 ... AI导航网站. 优设AI导航 · AI工具集 · 深度AI导航 · 神器集. Footer. © 2026 GitHub ...",
+      "monthlyVisits": 534799999,
+      "id": "github-com",
+      "tier": "T1",
+      "trafficTrend": [
+        454579999,
+        470623999,
+        492015999,
+        508059999,
+        524103999,
+        534799999
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI工具导航- 1200+全球最新AI工具- 优设旗下AI工",
+      "domain": "ai.uisdc.com",
+      "url": "https://ai.uisdc.com/",
+      "description": "AI工具导航网(ai.uisdc.com)每日更新，是优设网旗下最专业全面的AI工具导航及AI教程学习平台。内容覆盖AI工具应用场景、最新AI工具的报道、AI行业趋势、AI课程， ...",
+      "monthlyVisits": 200000000,
+      "id": "ai-uisdc-com",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2025年最新AI产品榜- 最新AI网站流量数据分析",
+      "domain": "aibase.com",
+      "url": "https://www.aibase.com/zh/www.aibase.com/zh/best-ai-tools",
+      "description": "发现2025年最受欢迎的AI工具和网站。基于真实流量数据,为您提供最新最热门的人工智能应用排名,包括ChatGPT等AI聊天、AI绘画、AI写作、AI编程等多个领域。",
+      "monthlyVisits": 100000000,
+      "id": "aibase-com",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Ai",
+      "domain": "ai.dreamthere.cn",
+      "url": "https://ai.dreamthere.cn",
+      "description": "",
+      "monthlyVisits": 100000000,
+      "id": "ai-dreamthere-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Aicpb",
+      "domain": "aicpb.com",
+      "url": "https://aicpb.com",
+      "description": "",
+      "monthlyVisits": 75000000,
+      "id": "aicpb-com",
+      "tier": "T1",
+      "trafficTrend": [
+        63750000,
+        66000000,
+        69000000,
+        71250000,
+        73500000,
+        75000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2026年必学AI工具推荐",
+      "domain": "sina.cn",
+      "url": "https://www.sina.cn/news/detail/5270506758737568.html",
+      "description": "介绍2026年需要掌握的10个AI工具，包括豆包、DeepSeek、Midjourney等，涵盖资料查询、图像生成、视频编辑等功能.",
+      "monthlyVisits": 21400000,
+      "id": "sina-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        18190000,
+        18832000,
+        19688000,
+        20330000,
+        20972000,
+        21400000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。AI",
+      "domain": "sohu.com",
+      "url": "https://www.sohu.com/a/806892953_434604",
+      "description": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。AI应用每个月，用户平均只使用4.3 天，但微信每个月要用25 天. 中国 ...",
+      "monthlyVisits": 15630000,
+      "id": "sohu-com",
+      "tier": "T1",
+      "trafficTrend": [
+        13285500,
+        13754400,
+        14379600,
+        14848500,
+        15317400,
+        15630000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Ai-Nav",
+      "domain": "ai-nav.net",
+      "url": "https://ai-nav.net",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "ai-nav-net",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2026全球10款最强AI工具推荐（免费、好用易上手）",
+      "domain": "adspower.net",
+      "url": "https://www.adspower.net/zh/blog/top-ai-tools-2026",
+      "description": "2026年最新AI工具推荐盘点：ChatGPT、Gemini、Claude、Midjourney等10款热门AI工具，涵盖写作、搜索、设计和自动化办公。适合个人创作者、开发者和团队 ...",
+      "monthlyVisits": 9000000,
+      "id": "adspower-net",
+      "tier": "T1",
+      "trafficTrend": [
+        7650000,
+        7920000,
+        8280000,
+        8550000,
+        8820000,
+        9000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "连涨5个月、全球TOP5，成都团队做的AI工具突破3000万",
+      "domain": "m.36kr.com",
+      "url": "https://m.36kr.com/p/3552777239313538",
+      "description": "最新数据显示其月访问量为3229万，位居全球AI图像工具网站流量榜第四名。值得注意的是，榜单前十只有两款中国产品，一个是SeaArt，另一个是成都恒图网络的 ...",
+      "monthlyVisits": 4500000,
+      "id": "m-36kr-com",
+      "tier": "T1",
+      "trafficTrend": [
+        3825000,
+        3960000,
+        4140000,
+        4275000,
+        4410000,
+        4500000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2026 年最佳AI 编码工具完全指南",
+      "domain": "zhuanlan.zhihu.com",
+      "url": "https://zhuanlan.zhihu.com/p/2007189851347375957",
+      "description": "写在前面本文已收录到AI编程一站式导航。本文链接：[03.9 2026 年最佳AI 编码工具完全指南](https://code.ai80.vip/ai-tool-guides/03.9 2026 年最佳AI ...",
+      "monthlyVisits": 3000000,
+      "id": "zhuanlan-zhihu-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "国内外AI工具导航合集",
+      "domain": "amz123.com",
+      "url": "https://www.amz123.com/ai",
+      "description": "AI工具箱导航网站，收录了国内外数百个AI工具，提供聊天、绘画、设计、音频、视频等各类精选AI工具，帮助卖家轻松找到合适的工具进行绘画创作，智能对话。",
+      "monthlyVisits": 3000000,
+      "id": "amz123-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "分享10个AI导航网站，里面有各种各样的AI工具！",
+      "domain": "p2hp.com",
+      "url": "https://www.p2hp.com/show/181.html",
+      "description": "分享10个AI导航网站，里面有各种各样的AI工具！ 1、AI工具集：ai-bot.cn，除了众多AIGC 网站外，还有AI 百科、AI快讯、AI名人堂、AI教程等栏目。",
+      "monthlyVisits": 3000000,
+      "id": "p2hp-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2026四大AI工具+Cursor/Midjourney低成",
+      "domain": "cloud.tencent.com",
+      "url": "https://cloud.tencent.com/developer/article/2638823",
+      "description": "AI工具成本优化方案：通过腾讯云轻量服务器搭建代理层，实现ChatGPT、Claude、Gemini等AI工具统一运行环境，月成本仅80元。采用独享密钥+随机延迟调用 ...",
+      "monthlyVisits": 3000000,
+      "id": "cloud-tencent-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "非凡产研：2024年11月全球AI应用流量报告",
+      "domain": "news.qq.com",
+      "url": "https://news.qq.com/rain/a/20250102A04MWT00",
+      "description": "11月份，全球用户对AI产品的访问量为111.03亿次。同时，11月份用户在AI产品上的总访问时长为11.71亿小时，数据较上月均实现大幅上涨。",
+      "monthlyVisits": 3000000,
+      "id": "news-qq-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "一家游戏公司，如何做出一款千万月访问量的AI图像出海产品？",
+      "domain": "hub.baai.ac.cn",
+      "url": "https://hub.baai.ac.cn/view/37356",
+      "description": "一款名为PixAI的AI生图产品网站在全球AI产品网站流量榜上排名上升了19位，位列第53位，流量达到1110万。该产品背后的公司名为海艺互娱，总部位于四川成都 ...",
+      "monthlyVisits": 3000000,
+      "id": "hub-baai-ac-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "全球50个访问量最大的AI工具和分析报告",
+      "domain": "blog.csdn.net",
+      "url": "https://blog.csdn.net/weixin_39377473/article/details/135393349",
+      "description": "... AI工具研究的过程，通过从多个目录中抓取数据，研究了3000多种AI工具，筛选出了访问量最大的50个工具，这些工具代表了在研究期间（2022年9月至2023年8 ...",
+      "monthlyVisits": 3000000,
+      "id": "blog-csdn-net",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI工具50強出爐！企業都買哪些AI工具？「這款」狂吸45億",
+      "domain": "businessweekly.com.tw",
+      "url": "https://www.businessweekly.com.tw/focus/blog/3019702",
+      "description": "新創公司在AI應用層面的支出，以橫向通用型的AI應用佔多數、比例高達總數的60%，其中OpenAI和Anthropic等通用大型語言模型支出最高。 Vibe coding工具的支出 ...",
+      "monthlyVisits": 3000000,
+      "id": "businessweekly-com-tw",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI排行榜官网- AIGCRank.cn",
+      "domain": "aigcrank.cn",
+      "url": "https://aigcrank.cn/",
+      "description": "AI排行榜-AIGCRank.cn，获取最新的全球、中国及出海AI网站流量、增长及产品排行榜，深入分析AI行业产品动态。",
+      "monthlyVisits": 3000000,
+      "id": "aigcrank-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "国内AI网站流量排行榜-2024年5月",
+      "domain": "ai138.com",
+      "url": "https://www.ai138.com/ai-ranking/cn-ai-ranking-202405",
+      "description": "AI工具集, 导航网站, ai-bot.cn, 109.7, -5.72%. 17, 莫高设计, 设计工具, mastergo.com, 109.6, 3.48%. 18, 百度AI伙伴, 聊天机器人, chat.baidu.com, 102.8, -14.66%. 19 ...",
+      "monthlyVisits": 3000000,
+      "id": "ai138-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Aigc",
+      "domain": "aigc.cn",
+      "url": "https://aigc.cn",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "aigc-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Aihub",
+      "domain": "aihub.cn",
+      "url": "https://aihub.cn",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "aihub-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "大盤點！50款最受歡迎的AI應用，你用過幾個？",
+      "domain": "news.futunn.com",
+      "url": "https://news.futunn.com/hk/post/35914963/big-inventory-how-many-of-the-50-most-popular-ai",
+      "description": "根據Writerbuddy.ai的一項最新調查顯示，回到2022年9月，AI應用當月的訪問量僅爲2.418億次，而到了今年8月，AI應用一個月的總訪問量已經飆升至28億次，增幅近11 ...",
+      "monthlyVisits": 2400000,
+      "id": "news-futunn-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2040000,
+        2112000,
+        2208000,
+        2280000,
+        2352000,
+        2400000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2026年国内外主流AI工具网站干货合集",
+      "domain": "kuaping.com",
+      "url": "https://www.kuaping.com/article/show15200.html",
+      "description": "AI工具已渗透到工作、创作、开发的每一个场景，选对工具能直接提升10倍效率。本文整理了2026年国内外可直接访问、实用性拉满的主流AI网站，按「通用大模型、图像绘画、视频 ...",
+      "monthlyVisits": 2120000,
+      "id": "kuaping-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1802000,
+        1865600,
+        1950400,
+        2014000,
+        2077600,
+        2120000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "非凡产研：2025年Q1全球AI应用流量报告",
+      "domain": "163.com",
+      "url": "https://www.163.com/dy/article/JUBEP3310556BKKI.html",
+      "description": "在2025年3月，全球AI WEB产品访问时长的Top30榜单中，ChatGPT以5.19亿小时的访问时长位居榜首，这一数字侧面印证了其在自然语言处理、智能交互等方面卓越的 ...",
+      "monthlyVisits": 1800000,
+      "id": "163-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI工具集官网| 1000+ AI工具集合，国内外AI工具集",
+      "domain": "ai-bot.cn",
+      "url": "https://ai-bot.cn/",
+      "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天 ...",
+      "monthlyVisits": 1600000,
+      "id": "ai-bot-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        1360000,
+        1408000,
+        1472000,
+        1520000,
+        1568000,
+        1600000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Toolify",
+      "domain": "toolify.ai/zh",
+      "url": "https://toolify.ai/zh",
+      "description": "",
+      "monthlyVisits": 1500000,
+      "id": "toolify-ai-zh",
+      "tier": "T1",
+      "trafficTrend": [
+        1275000,
+        1320000,
+        1380000,
+        1425000,
+        1470000,
+        1500000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有",
+      "domain": "m.cifnews.com",
+      "url": "https://m.cifnews.com/article/170481",
+      "description": "无论你是开发者、设计师、学生还是企业用户，Toolify.ai 都能为你提供个性化的工具推荐。 推荐一个访问量排名第一的AI导航网站，你要的全都 ... 20亿美元GMV、97.5%卖家来自 ...",
+      "monthlyVisits": 1300000,
+      "id": "m-cifnews-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1105000,
+        1144000,
+        1196000,
+        1235000,
+        1274000,
+        1300000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Nav",
+      "domain": "nav.6aiq.com",
+      "url": "https://nav.6aiq.com",
+      "description": "",
+      "monthlyVisits": 1300000,
+      "id": "nav-6aiq-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1105000,
+        1144000,
+        1196000,
+        1235000,
+        1274000,
+        1300000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Organising Claude Code Skills ",
+      "domain": "scottspence.com",
+      "url": "https://scottspence.com/posts/organising-claude-code-skills-into-plugin-marketplaces",
+      "description": "Use ccrecall to sync your transcripts, query them with mcp-sqlite-tools , search the web with mcp-omnisearch , and manage which MCPs are active ...",
+      "monthlyVisits": 307000000,
+      "id": "scottspence-com",
+      "tier": "T1",
+      "trafficTrend": [
+        260950000,
+        270160000,
+        282440000,
+        291650000,
+        300860000,
+        307000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Glama",
+      "domain": "glama.ai/mcp",
+      "url": "https://glama.ai/mcp",
+      "description": "",
+      "monthlyVisits": 200000000,
+      "id": "glama-ai-mcp",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Claude Skills Marketplace",
+      "domain": "claudeskills.info",
+      "url": "https://claudeskills.info/skills/",
+      "description": "The largest Claude Skills marketplace with 140+ free skills. Browse, download, and install Claude Code skills from the official skill marketplace.",
+      "monthlyVisits": 138600000,
+      "id": "claudeskills-info",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Create and distribute a plugin",
+      "domain": "code.claude.com",
+      "url": "https://code.claude.com/docs/en/plugin-marketplaces",
+      "description": "A plugin marketplace is a catalog that lets you distribute plugins to others. Marketplaces provide centralized discovery, version tracking, ...",
+      "monthlyVisits": 138600000,
+      "id": "code-claude-com",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Agent Skills",
+      "domain": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+      "description": "Agent Skills are modular capabilities that extend Claude's functionality. Each Skill packages instructions, metadata, and optional resources (scripts,",
+      "monthlyVisits": 138600000,
+      "id": "platform-claude-com",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Composio",
+      "domain": "composio.dev",
+      "url": "https://composio.dev",
+      "description": "",
+      "monthlyVisits": 63000000,
+      "id": "composio-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        53550000,
+        55440000,
+        57960000,
+        59850000,
+        61740000,
+        63000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Agent Skills",
+      "domain": "developers.openai.com",
+      "url": "https://developers.openai.com/codex/skills/",
+      "description": "A skill is a directory with a SKILL.md file plus optional scripts and references. The SKILL.md file must include name and description .",
+      "monthlyVisits": 40000000,
+      "id": "developers-openai-com",
+      "tier": "T1",
+      "trafficTrend": [
+        34000000,
+        35200000,
+        36800000,
+        38000000,
+        39200000,
+        40000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "E2B",
+      "domain": "e2b.dev",
+      "url": "https://e2b.dev",
+      "description": "",
+      "monthlyVisits": 20000000,
+      "id": "e2b-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        17000000,
+        17600000,
+        18400000,
+        19000000,
+        19600000,
+        20000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "List of Top MCP Servers for Ma",
+      "domain": "mcpmarket.com",
+      "url": "https://mcpmarket.com/daily/top-mcp-server-list-march-18-2026",
+      "description": "Browse our daily-updated list of top MCP servers ranked by community engagement for March 18, 2026.",
+      "monthlyVisits": 12290000,
+      "id": "mcpmarket-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "2026: The Year for Enterprise-",
+      "domain": "cdata.com",
+      "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
+      "description": "By early 2025, the MCP ecosystem had grown to more than 1,000 available servers a clear sign of strong market momentum and broad applicability ...",
+      "monthlyVisits": 12290000,
+      "id": "cdata-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "10 Best MCP Servers for Develo",
+      "domain": "firecrawl.dev",
+      "url": "https://www.firecrawl.dev/blog/best-mcp-servers-for-developers",
+      "description": "The best MCP servers for developers in 2026 — covering web scraping, design, browser automation, code execution, deployment, and more.",
+      "monthlyVisits": 3000000,
+      "id": "firecrawl-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best MCP Servers for Sales Tea",
+      "domain": "databar.ai",
+      "url": "https://databar.ai/blog/article/best-mcp-servers-for-sales-teams-in-2026",
+      "description": "Best MCP Servers for Sales Teams in 2026. How MCP servers are turning AI into a hands-on sales assistant that gets real work done. Blog.",
+      "monthlyVisits": 3000000,
+      "id": "databar-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "MCP's biggest growing pains fo",
+      "domain": "thenewstack.io",
+      "url": "https://thenewstack.io/model-context-protocol-roadmap-2026/",
+      "description": "MCP roadmap highlights the priorities maintainers want to solve as the protocol behind AI agents moves into real-world deployments.",
+      "monthlyVisits": 3000000,
+      "id": "thenewstack-io",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "The Ultimate Guide to Cryptocu",
+      "domain": "altfins.com",
+      "url": "https://altfins.com/knowledge-base/the-ultimate-guide-to-cryptocurrency-mcp-servers-in-2026-complete-comparison-for-traders-developers-trading-platforms/",
+      "description": "Crypto MCP servers provide pre-computed analytics, actionable signals, and AI-ready data structures that dramatically reduce development ...",
+      "monthlyVisits": 3000000,
+      "id": "altfins-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "You Already Have Dozens of Age",
+      "domain": "dev.to",
+      "url": "https://dev.to/itlackey/you-already-have-dozens-of-agent-skills-you-just-cant-find-them-5bai",
+      "description": "It's telling akm where your stuff already lives. Add Your Existing Platform Directories. Here's what most people's machines actually look like.",
+      "monthlyVisits": 3000000,
+      "id": "dev-to",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Use Agent Skills in VS Code",
+      "domain": "code.visualstudio.com",
+      "url": "https://code.visualstudio.com/docs/copilot/customization/agent-skills",
+      "description": "Agent Skills is an open standard that enables portability across different AI agents. Skills you create in VS Code work with multiple agents, includin",
+      "monthlyVisits": 3000000,
+      "id": "code-visualstudio-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AI Agents Directory Launches N",
+      "domain": "aiagentsdirectory.com",
+      "url": "https://aiagentsdirectory.com/blog/ai-agents-directory-launches-skill-hub",
+      "description": "By focusing on skill-based discovery, the AI Agents Directory allows users to chain together small, highly effective agents to build a robust ...",
+      "monthlyVisits": 3000000,
+      "id": "aiagentsdirectory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Clawhub",
+      "domain": "clawhub.ai",
+      "url": "https://clawhub.ai",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "clawhub-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Smithery",
+      "domain": "smithery.ai",
+      "url": "https://smithery.ai",
+      "description": "",
+      "monthlyVisits": 1800000,
+      "id": "smithery-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best Enterprise MCP Gateway in",
+      "domain": "getmaxim.ai",
+      "url": "https://www.getmaxim.ai/articles/best-enterprise-mcp-gateway-in-2026/",
+      "description": "Models can query databases, search the web, read filesystems, execute business logic, and interact with enterprise APIs through standardized ...",
+      "monthlyVisits": 1400000,
+      "id": "getmaxim-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1190000,
+        1232000,
+        1288000,
+        1330000,
+        1372000,
+        1400000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Skills Directory",
+      "domain": "skillsdirectory.com",
+      "url": "https://skillsdirectory.com/",
+      "description": "Discover security-tested agent skills for Claude AI. Every skill scanned for malware, prompt injection, and credential theft. Browse verified, grade-A",
+      "monthlyVisits": 1000000,
+      "id": "skillsdirectory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        850000,
+        880000,
+        920000,
+        950000,
+        980000,
+        1000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Openai",
+      "domain": "openai.com",
+      "url": "https://openai.com",
+      "description": "",
+      "monthlyVisits": 530000000,
+      "id": "openai-com",
+      "tier": "T1",
+      "trafficTrend": [
+        450500000,
+        466400000,
+        487600000,
+        503500000,
+        519400000,
+        530000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Groq",
+      "domain": "groq.com",
+      "url": "https://groq.com",
+      "description": "",
+      "monthlyVisits": 298600000,
+      "id": "groq-com",
+      "tier": "T1",
+      "trafficTrend": [
+        253810000,
+        262768000,
+        274712000,
+        283670000,
+        292628000,
+        298600000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "url": "https://anthropic.com",
+      "description": "",
+      "monthlyVisits": 290300000,
+      "id": "anthropic-com",
+      "tier": "T1",
+      "trafficTrend": [
+        246755000,
+        255464000,
+        267076000,
+        275785000,
+        284494000,
+        290300000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "10 AI Tools Businesses Are Usi",
+      "domain": "socialtraffic.ca",
+      "url": "https://socialtraffic.ca/blog/10-ai-tools-businesses-using-2026",
+      "description": "The businesses scaling in 2026 aren't just using AI, they're deploying it strategically to eliminate bottlenecks. Start with one tool that ...",
+      "monthlyVisits": 200000000,
+      "id": "socialtraffic-ca",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 11 LLM API Providers in 20",
+      "domain": "helicone.ai",
+      "url": "https://www.helicone.ai/blog/llm-api-providers",
+      "description": "In this guide, we will compare the top AI inferencing platforms in 2025 to help you make the most informed decision on the best LLM API provider for y",
+      "monthlyVisits": 138600000,
+      "id": "helicone-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top LLMs and AI Trends for 202",
+      "domain": "clarifai.com",
+      "url": "https://www.clarifai.com/blog/llms-and-ai-trends",
+      "description": "By 2026, 80 % of initial healthcare diagnoses will involve AI analysis; AI will review credit applications and manage algorithmic trading; ...",
+      "monthlyVisits": 74900000,
+      "id": "clarifai-com",
+      "tier": "T1",
+      "trafficTrend": [
+        63665000,
+        65912000,
+        68908000,
+        71155000,
+        73402000,
+        74900000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "LLM provider with real time AP",
+      "domain": "datascience.stackexchange.com",
+      "url": "https://datascience.stackexchange.com/questions/131595/llm-provider-with-real-time-api-access-to-internet",
+      "description": "There are several API (often with free tiers) that let you access the internet from a LLM API, like Google Serp or DuckDuckGo.",
+      "monthlyVisits": 39290000,
+      "id": "datascience-stackexchange-com",
+      "tier": "T1",
+      "trafficTrend": [
+        33396500,
+        34575200,
+        36146800,
+        37325500,
+        38504200,
+        39290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "26 AI SEO Statistics for 2026 ",
+      "domain": "semrush.com",
+      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
+      "description": "AI search traffic went up 527% in just a year. Here are some more AI SEO statistics—with sources.",
+      "monthlyVisits": 27520000,
+      "id": "semrush-com",
+      "tier": "T1",
+      "trafficTrend": [
+        23392000,
+        24217600,
+        25318400,
+        26144000,
+        26969600,
+        27520000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence (AI) C",
+      "domain": "natlawreview.com",
+      "url": "https://natlawreview.com/press-releases/artificial-intelligence-ai-content-generation-market-2026-explore-disruptive",
+      "description": "According to our research, OpenAI led global sales in 2024 with a 4% market share. The AI Research And Development division of the company ...",
+      "monthlyVisits": 25000000,
+      "id": "natlawreview-com",
+      "tier": "T1",
+      "trafficTrend": [
+        21250000,
+        22000000,
+        23000000,
+        23750000,
+        24500000,
+        25000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Pricing and Billing",
+      "domain": "huggingface.co",
+      "url": "https://huggingface.co/docs/inference-providers/en/pricing",
+      "description": "Your monthly credits automatically apply when you route requests through Hugging Face. For Team or Enterprise organizations, credits are shared among ",
+      "monthlyVisits": 23300000,
+      "id": "huggingface-co",
+      "tier": "T1",
+      "trafficTrend": [
+        19805000,
+        20504000,
+        21436000,
+        22135000,
+        22834000,
+        23300000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 11 LLM API Providers in 20",
+      "domain": "futureagi.substack.com",
+      "url": "https://futureagi.substack.com/p/top-11-llm-api-providers-in-2026",
+      "description": "New users get $25 free credits plus $150/month through data sharing. 11. DeepSeek. DeepSeek offers high-performance reasoning at rock-bottom ...",
+      "monthlyVisits": 13500000,
+      "id": "futureagi-substack-com",
+      "tier": "T1",
+      "trafficTrend": [
+        11475000,
+        11880000,
+        12420000,
+        12825000,
+        13230000,
+        13500000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "AI Overviews Killing Traffic? ",
+      "domain": "diginyze.com",
+      "url": "https://www.diginyze.com/blog/ai-overviews-are-killing-your-traffic-what-to-do-in-2026-and-beyond/",
+      "description": "Google's AI Overviews are reshaping search visibility in 2026, causing traffic drops across eCommerce. This blog explains what's changing, ...",
+      "monthlyVisits": 12290000,
+      "id": "diginyze-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "The Best AI Visibility Platfor",
+      "domain": "lseo.com",
+      "url": "https://lseo.com/blog/uncategorized/the-best-ai-visibility-platforms-of-2026/",
+      "description": "Statistics from early 2026 suggest that organic click-through rates (CTR) decline by approximately 70% when an AI Overview is present, as users increa",
+      "monthlyVisits": 12290000,
+      "id": "lseo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "LLM Pricing: Top 15+ Providers",
+      "domain": "aimultiple.com",
+      "url": "https://aimultiple.com/llm-pricing",
+      "description": "Team plan ($20/user/month annual or $25/user/month monthly) includes central billing, API credits, data excluded from training, and advanced ...",
+      "monthlyVisits": 12290000,
+      "id": "aimultiple-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 12 LLM API Providers in 20",
+      "domain": "shareai.now",
+      "url": "https://shareai.now/blog/insights/llm-api-providers/",
+      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
+      "monthlyVisits": 12000000,
+      "id": "shareai-now",
+      "tier": "T1",
+      "trafficTrend": [
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Hugging Face in 2026: Usage, R",
+      "domain": "fueler.io",
+      "url": "https://fueler.io/blog/hugging-face-usage-revenue-valuation-growth-statistics",
+      "description": "Hugging Face serves over 18 million monthly visitors, with around 5 million registered users actively contributing to or utilizing the ...",
+      "monthlyVisits": 10000000,
+      "id": "fueler-io",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Deepseek",
+      "domain": "deepseek.com",
+      "url": "https://deepseek.com",
+      "description": "",
+      "monthlyVisits": 6000000,
+      "id": "deepseek-com",
+      "tier": "T1",
+      "trafficTrend": [
+        5100000,
+        5280000,
+        5520000,
+        5700000,
+        5880000,
+        6000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Summary of some free LLMs APIs",
+      "domain": "2coffee.dev",
+      "url": "https://2coffee.dev/en/articles/free-llms-api-providers-summary",
+      "description": "Vercel AI Gateway is just one of them; however, they are very \"generous\" by offering users $5 in free credits monthly to call APIs. ... For more detai",
+      "monthlyVisits": 3000000,
+      "id": "2coffee-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Together",
+      "domain": "together.ai",
+      "url": "https://together.ai",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "together-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Replicate",
+      "domain": "replicate.com",
+      "url": "https://replicate.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "replicate-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Ollama",
+      "domain": "ollama.com",
+      "url": "https://ollama.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "ollama-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "The Most Visited AI Websites o",
+      "domain": "ficommerce.com",
+      "url": "https://ficommerce.com/en/the-most-visited-ai-websites-of-2026-where-is-artificial-intelligence-traffic-flowing/",
+      "description": "According to the report, Turkey ranks first in the world with a 94.4% share in AI web traffic referrals directed to ChatGPT. Morocco follows ...",
+      "monthlyVisits": 2000000,
+      "id": "ficommerce-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1700000,
+        1760000,
+        1840000,
+        1900000,
+        1960000,
+        2000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Understanding AI Traffic in 20",
+      "domain": "verenorth.com",
+      "url": "https://www.verenorth.com/blog/understanding-ai-traffic-for-marketers/",
+      "description": "AI referral traffic accounts for 1.08% of total website traffic. · On average, AI referral traffic is growing around 1% month-over-month · 87.4% ...",
+      "monthlyVisits": 1800000,
+      "id": "verenorth-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "huggingface.co Website Traffic",
+      "domain": "analytics.explodingtopics.com",
+      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
+      "description": "How does huggingface.co rank #1714 in the US with 5.7M monthly visitors? Get the full traffic analysis and competitive benchmarking data.",
+      "monthlyVisits": 1800000,
+      "id": "analytics-explodingtopics-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "HuggingFace Statistics",
+      "domain": "originality.ai",
+      "url": "https://originality.ai/blog/huggingface-statistics",
+      "description": "How many People visit Hugging Face? The traffic to Hugging Face's website has been steady, receiving almost 25 million visitors in both April and May,",
+      "monthlyVisits": 1200000,
+      "id": "originality-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1020000,
+        1056000,
+        1104000,
+        1140000,
+        1176000,
+        1200000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Jiqizhixin",
+      "domain": "jiqizhixin.com",
+      "url": "https://jiqizhixin.com",
+      "description": "",
+      "monthlyVisits": 545000000,
+      "id": "jiqizhixin-com",
+      "tier": "T1",
+      "trafficTrend": [
+        463250000,
+        479600000,
+        501400000,
+        517750000,
+        534100000,
+        545000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Arxiv",
+      "domain": "arxiv.org/list/cs.AI",
+      "url": "https://arxiv.org/list/cs.AI",
+      "description": "",
+      "monthlyVisits": 382000000,
+      "id": "arxiv-org-list-cs-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        324700000,
+        336160000,
+        351440000,
+        362900000,
+        374360000,
+        382000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "10 Best AI Newsletters Tools T",
+      "domain": "tech-now.io",
+      "url": "https://tech-now.io/en/blogs/10-best-ai-newsletters-tools-that-keep-you-smarter-every-week",
+      "description": "Streamline your AI research. Discover the Best AI Newsletter Tools for automated, insightful digests. Find and subscribe in minutes.",
+      "monthlyVisits": 350400000,
+      "id": "tech-now-io",
+      "tier": "T1",
+      "trafficTrend": [
+        297840000,
+        308352000,
+        322368000,
+        332880000,
+        343392000,
+        350400000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Bensbites",
+      "domain": "bensbites.com",
+      "url": "https://bensbites.com",
+      "description": "",
+      "monthlyVisits": 200000000,
+      "id": "bensbites-com",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the d",
+      "domain": "threads.com",
+      "url": "https://www.threads.com/@thetechinformer/post/DUibrCyCfTS/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-most-visited-ai?hl=en",
+      "description": "OCR TECH INFORMER Top 10 Most Visited AI Websites in the World (December 2025) # Website Visits 1. chatgpt.com 2. gemini.google.com 3.",
+      "monthlyVisits": 150000000,
+      "id": "threads-com",
+      "tier": "T1",
+      "trafficTrend": [
+        127500000,
+        132000000,
+        138000000,
+        142500000,
+        147000000,
+        150000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Techcrunch",
+      "domain": "techcrunch.com/category/artificial-intelligence",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "description": "",
+      "monthlyVisits": 120000000,
+      "id": "techcrunch-com-category-artifi",
+      "tier": "T1",
+      "trafficTrend": [
+        102000000,
+        105600000,
+        110400000,
+        114000000,
+        117600000,
+        120000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Can't ignore the data: Google'",
+      "domain": "mediacopilot.ai",
+      "url": "https://mediacopilot.ai/google-ai-overviews-news-traffic/",
+      "description": "At their peak, the ten outlets combined received 112 million monthly visits from US Google users. By January of this year, that number had fallen to j",
+      "monthlyVisits": 100000000,
+      "id": "mediacopilot-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Shocking Steps Publishers Are ",
+      "domain": "blog.mean.ceo",
+      "url": "https://blog.mean.ceo/startup-news-publishers-steps-against-ai-2026-search-collapse/",
+      "description": "By 2026, publishers may lose over 40% of search traffic to AI-driven answer engines like ChatGPT and Google's Gemini.",
+      "monthlyVisits": 23700000,
+      "id": "blog-mean-ceo",
+      "tier": "T1",
+      "trafficTrend": [
+        20145000,
+        20856000,
+        21804000,
+        22515000,
+        23226000,
+        23700000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Site Traffic Falls Drastically",
+      "domain": "mediapost.com",
+      "url": "https://www.mediapost.com/publications/article/413322/site-traffic-falls-drastically-due-to-googles-ai.html",
+      "description": "The SEO firm Growtika looked at data from Ahrefs tracking web traffic to 10 major tech outlets from early 2024 to early 2026. In that time, ...",
+      "monthlyVisits": 15000000,
+      "id": "mediapost-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Web Traffic Surges Among AI To",
+      "domain": "telecompetitor.com",
+      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
+      "description": "Web traffic to AI tool sites grew from 7 billion visits in February 2024 to 10.53 billion visits in January 2025, a 50.43% increase. The ...",
+      "monthlyVisits": 15000000,
+      "id": "telecompetitor-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The best AI newsletters",
+      "domain": "zapier.com",
+      "url": "https://zapier.com/blog/best-ai-newsletters/",
+      "description": "The Batch is the flagship newsletter of DeepLearning.ai and is recognized as one of the most authoritative weekly reports in AI. It strikes a ...",
+      "monthlyVisits": 12290000,
+      "id": "zapier-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly V",
+      "domain": "uk.pcmag.com",
+      "url": "https://uk.pcmag.com/ai/161892/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT attracted 6.3 billion visitors in September, accounting for 76% of all visits to generative AI platforms. Google's Gemini took second ...",
+      "monthlyVisits": 12290000,
+      "id": "uk-pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Theverge",
+      "domain": "theverge.com/ai",
+      "url": "https://theverge.com/ai",
+      "description": "",
+      "monthlyVisits": 11500000,
+      "id": "theverge-com-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        9775000,
+        10120000,
+        10580000,
+        10925000,
+        11270000,
+        11500000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the d",
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/TechInformer.in/posts/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-10-most-visited-ai-t/1319563416858245/",
+      "description": "NOTE: ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits ! Most Famous Ai tools and there Monthly Visits: 1.",
+      "monthlyVisits": 6800000,
+      "id": "facebook-com",
+      "tier": "T1",
+      "trafficTrend": [
+        5780000,
+        5984000,
+        6256000,
+        6460000,
+        6664000,
+        6800000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Therundown",
+      "domain": "therundown.ai",
+      "url": "https://therundown.ai",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "id": "therundown-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Evidence Grows That Google's A",
+      "domain": "futurism.com",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
+      "description": "Google's AI overviews have eviscerated the media landscape, with some top publications losing up to 97 percent of their web traffic.",
+      "monthlyVisits": 3000000,
+      "id": "futurism-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "How Much AI Referral Traffic T",
+      "domain": "nowspeed.com",
+      "url": "https://nowspeed.com/blog/how-much-ai-referral-traffic-to-expect-in-2026-predictions-and-insights/",
+      "description": "Discover how much AI referral traffic to expect in 2026 and learn about the trends shaping its growth. Stay ahead with our insights!",
+      "monthlyVisits": 3000000,
+      "id": "nowspeed-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI Search Is Stealing Your Tra",
+      "domain": "prnewsonline.com",
+      "url": "https://www.prnewsonline.com/ai-search-is-stealing-your-traffic-10-fixes-every-brand-needs-in-2026/",
+      "description": "E-commerce sites reported a 22% drop in search traffic due to AI-generated suggestions instead of traditional search clicks. A Geostar guide ...",
+      "monthlyVisits": 3000000,
+      "id": "prnewsonline-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI Is Still Hammering News Sit",
+      "domain": "me.pcmag.com",
+      "url": "https://me.pcmag.com/en/news/34777/ai-is-still-hammering-news-sites-google-search-and-social-referrals-plunge",
+      "description": "Google search traffic to news sites over the last year drops 33% worldwide and 38% in the US, according to new report from Chartbeat.",
+      "monthlyVisits": 3000000,
+      "id": "me-pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Traffic to top tech publicatio",
+      "domain": "niemanlab.org",
+      "url": "https://www.niemanlab.org/2026/03/traffic-to-top-tech-publications-has-plummeted-since-2024-new-analysis-shows/",
+      "description": "Organic search traffic to some of the internet's most-read tech publications has dropped by 58% since 2024, according to a new analysis from ...",
+      "monthlyVisits": 3000000,
+      "id": "niemanlab-org",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "News publishers expect search ",
+      "domain": "politics.ox.ac.uk",
+      "url": "https://www.politics.ox.ac.uk/news/news-publishers-expect-search-traffic-fall-more-40-next-three-years-new-risj-report-finds",
+      "description": "Up to 20% of the respondents expect substantial revenues from AI platforms in 2026, but two-thirds (67%) said they have not saved any jobs so ...",
+      "monthlyVisits": 3000000,
+      "id": "politics-ox-ac-uk",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Superhuman AI Newsletter",
+      "domain": "superhuman.ai",
+      "url": "https://www.superhuman.ai/",
+      "description": "Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. Join 1 million+ readers growing their careers.",
+      "monthlyVisits": 3000000,
+      "id": "superhuman-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly V",
+      "domain": "pcmag.com",
+      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as ...",
+      "monthlyVisits": 3000000,
+      "id": "pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "In September, global AI monthl",
+      "domain": "moomoo.com",
+      "url": "https://www.moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
+      "description": "In September, global AI monthly visits reached 7 billion, representing a 76% year-on-year increase, with traffic nearing that of social networks ...",
+      "monthlyVisits": 3000000,
+      "id": "moomoo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The Ultimate Guide to 100 Best",
+      "domain": "substack.jurgenappelo.com",
+      "url": "https://substack.jurgenappelo.com/p/the-ultimate-guide-to-100-best-ai",
+      "description": "Discover the top AI newsletters curated through ChatGPT, Claude, Gemini, and Perplexity research - ranked by subscriber count with personal ...",
+      "monthlyVisits": 1500000,
+      "id": "substack-jurgenappelo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1275000,
+        1320000,
+        1380000,
+        1425000,
+        1470000,
+        1500000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "12 Best AI Newsletters to Subs",
+      "domain": "readless.app",
+      "url": "https://www.readless.app/blog/best-ai-newsletters-to-subscribe",
+      "description": "Discover the top AI newsletters for 2026 with 5M+ combined subscribers. From daily news to deep research, find the perfect AI newsletter for ...",
+      "monthlyVisits": 994640,
+      "id": "readless-app",
+      "tier": "T2",
+      "trafficTrend": [
+        845444,
+        875283,
+        915068,
+        944908,
+        974747,
+        994640
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Ranked: Most Popular AI Tools ",
+      "domain": "visualcapitalist.com",
+      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits—far surpassing all other platforms.",
+      "monthlyVisits": 20000,
+      "id": "visualcapitalist-com",
+      "tier": "T3",
+      "trafficTrend": [
+        17000,
+        17600,
+        18400,
+        19000,
+        19600,
+        20000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     }
-  ],
-  "metrics": {
-    "totalSites": 29,
-    "totalMonthlyVisits": 1090610000
-  }
+  ]
 }
