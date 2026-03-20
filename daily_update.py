@@ -317,3 +317,32 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# ========== Tavily API 支持 ==========
+import os
+
+def tavily_search(query: str, num_results: int = 5):
+    """使用 Tavily API 搜索"""
+    api_key = os.environ.get('TAVILY_API_KEY')
+    if not api_key:
+        print("⚠️ Tavily API Key 未设置")
+        return None
+    
+    try:
+        import urllib.request
+        import urllib.parse
+        data = {
+            "api_key": api_key,
+            "query": query,
+            "max_results": num_results
+        }
+        req = urllib.request.Request(
+            "https://api.tavily.com/search",
+            data=json.dumps(data).encode('utf-8'),
+            headers={"Content-Type": "application/json"}
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            return json.loads(resp.read())
+    except Exception as e:
+        print(f"⚠️ Tavily 搜索失败: {e}")
+        return None

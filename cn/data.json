@@ -1,10 +1,32 @@
 {
-  "lastUpdated": "2026-03-20T10:20:13.614098+08:00",
+  "lastUpdated": "2026-03-20T11:55:19.393259+08:00",
   "config": {
     "category": "cn",
     "autoUpdate": true
   },
   "competitors": [
+    {
+      "name": "hello-ai/home/navigation.md at",
+      "domain": "github.com",
+      "url": "https://github.com/xxxily/hello-ai/blob/main/home/navigation.md",
+      "description": "Futurepedia 一个在线最大的人工智能AIGC工具目录,网站在线收录各种人工智能AI工具 ... AI导航网站. 优设AI导航 · AI工具集 · 深度AI导航 · 神器集. Footer. © 2026 GitHub ...",
+      "monthlyVisits": 534799999,
+      "id": "github-com",
+      "tier": "T1",
+      "trafficTrend": [
+        454579999,
+        470623999,
+        492015999,
+        508059999,
+        524103999,
+        534799999
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
     {
       "name": "Ai-Nav",
       "domain": "ai-nav.net",
@@ -28,12 +50,12 @@
       ]
     },
     {
-      "name": "Ai",
-      "domain": "ai.dreamthere.cn",
-      "url": "https://ai.dreamthere.cn",
-      "description": "",
+      "name": "AI工具导航- 1200+全球最新AI工具- 优设旗下AI工",
+      "domain": "ai.uisdc.com",
+      "url": "https://ai.uisdc.com/",
+      "description": "AI工具导航网(ai.uisdc.com)每日更新，是优设网旗下最专业全面的AI工具导航及AI教程学习平台。内容覆盖AI工具应用场景、最新AI工具的报道、AI行业趋势、AI课程， ...",
       "monthlyVisits": 200000000,
-      "id": "ai-dreamthere-cn",
+      "id": "ai-uisdc-com",
       "tier": "T1",
       "trafficTrend": [
         170000000,
@@ -42,6 +64,50 @@
         190000000,
         196000000,
         200000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2025年最新AI产品榜- 最新AI网站流量数据分析",
+      "domain": "aibase.com",
+      "url": "https://www.aibase.com/zh/www.aibase.com/zh/best-ai-tools",
+      "description": "发现2025年最受欢迎的AI工具和网站。基于真实流量数据,为您提供最新最热门的人工智能应用排名,包括ChatGPT等AI聊天、AI绘画、AI写作、AI编程等多个领域。",
+      "monthlyVisits": 100000000,
+      "id": "aibase-com",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "Ai",
+      "domain": "ai.dreamthere.cn",
+      "url": "https://ai.dreamthere.cn",
+      "description": "",
+      "monthlyVisits": 100000000,
+      "id": "ai-dreamthere-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
       ],
       "type": "cn",
       "features": [
@@ -94,64 +160,20 @@
       ]
     },
     {
-      "name": "2026年必学AI工具推荐_新浪新闻",
-      "domain": "sina.cn",
-      "url": "https://www.sina.cn/news/detail/5270506758737568.html",
-      "description": "介绍2026年需要掌握的10个AI工具，包括豆包、DeepSeek、Midjourney等，涵盖资料查询、图像生成、视频编辑等功能.",
-      "monthlyVisits": 21400000,
-      "id": "sina-cn",
+      "name": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。AI",
+      "domain": "sohu.com",
+      "url": "https://www.sohu.com/a/806892953_434604",
+      "description": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。AI应用每个月，用户平均只使用4.3 天，但微信每个月要用25 天. 中国 ...",
+      "monthlyVisits": 15630000,
+      "id": "sohu-com",
       "tier": "T1",
       "trafficTrend": [
-        18190000,
-        18832000,
-        19688000,
-        20330000,
-        20972000,
-        21400000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "十大最佳AI编码工具：2026年开发者的终极工具包",
-      "domain": "manus.im",
-      "url": "https://manus.im/zh-cn/blog/best-ai-coding-assistant-tools",
-      "description": "十大最佳AI编码工具概览（比较表） ; Manus. 端到端自动化任务. 通用AI Agent，研究+编码 ; GitHub Copilot. 通用AI辅助. 代码补全及Agent模式 ; Cursor. AI原生 ...",
-      "monthlyVisits": 21100000,
-      "id": "manus-im",
-      "tier": "T1",
-      "trafficTrend": [
-        17935000,
-        18568000,
-        19412000,
-        20045000,
-        20678000,
-        21100000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "新手如何做网站教程｜2026 年最好用的AI 建站工具测评（",
-      "domain": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=BljA1IKMJTE",
-      "description": "Hostinger： 最好用的AI建站平台➜https://bit.ly/3BysRqP ▻向有风咨询，加入我的知识星球圈子： ➜https://t.zsxq.com/16QP9JP8b 本期用到的工具： ...",
-      "monthlyVisits": 12290000,
-      "id": "youtube-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
+        13285500,
+        13754400,
+        14379600,
+        14848500,
+        15317400,
+        15630000
       ],
       "type": "cn",
       "features": [
@@ -182,6 +204,28 @@
       ]
     },
     {
+      "name": "AI工具箱| 1000+ AI工具集合，国内外AI工具集导航",
+      "domain": "ai-bio.cn",
+      "url": "https://ai-bio.cn/",
+      "description": "AI工具箱导航官网汇集了来自国内外的数百款AI工具。包含AI写作、AI图像生成与背景移除、AI视频制作、AI音频转录、AI编程辅助、AI音乐生成、AI绘画设计、AI对话聊天等 ...",
+      "monthlyVisits": 6000000,
+      "id": "ai-bio-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        5100000,
+        5280000,
+        5520000,
+        5700000,
+        5880000,
+        6000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
       "name": "连涨5个月、全球TOP5，成都团队做的AI工具突破3000万",
       "domain": "m.36kr.com",
       "url": "https://m.36kr.com/p/3552777239313538",
@@ -204,12 +248,12 @@
       ]
     },
     {
-      "name": "AI已经彻底变了！2026年全球最强AI工具汇总优势以及费用",
-      "domain": "zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/1995604652704698993",
-      "description": "AI已经彻底变了！2026年全球最强AI工具汇总优势以及费用. 2 个月前. iThinkAi. 一站式AI研发平台，AI写作、图文、绘画生成器、AI导航站. 关注. AI ...",
+      "name": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
+      "domain": "amz123.com",
+      "url": "https://www.amz123.com/ai",
+      "description": "AI工具箱导航网站，收录了国内外数百个AI工具，提供聊天、绘画、设计、音频、视频等各类精选AI工具，帮助卖家轻松找到合适的工具进行绘画创作，智能对话。",
       "monthlyVisits": 3000000,
-      "id": "zhuanlan-zhihu-com",
+      "id": "amz123-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -226,12 +270,12 @@
       ]
     },
     {
-      "name": "2026四大AI工具+Cursor/Midjourney低成",
-      "domain": "cloud.tencent.com",
-      "url": "https://cloud.tencent.com/developer/article/2638823",
-      "description": "AI工具成本优化方案：通过腾讯云轻量服务器搭建代理层，实现ChatGPT、Claude、Gemini等AI工具统一运行环境，月成本仅80元。采用独享密钥+随机延迟调用 ...",
+      "name": "2026 年最佳AI 编码工具完全指南",
+      "domain": "zhuanlan.zhihu.com",
+      "url": "https://zhuanlan.zhihu.com/p/2007189851347375957",
+      "description": "写在前面本文已收录到AI编程一站式导航。本文链接：[03.9 2026 年最佳AI 编码工具完全指南](https://code.ai80.vip/ai-tool-guides/03.9 2026 年最佳AI ...",
       "monthlyVisits": 3000000,
-      "id": "cloud-tencent-com",
+      "id": "zhuanlan-zhihu-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -270,56 +314,12 @@
       ]
     },
     {
-      "name": "非凡产研：2024年11月全球AI应用流量报告",
-      "domain": "news.qq.com",
-      "url": "https://news.qq.com/rain/a/20250102A04MWT00",
-      "description": "11月份，全球用户对AI产品的访问量为111.03亿次。同时，11月份用户在AI产品上的总访问时长为11.71亿小时，数据较上月均实现大幅上涨。",
+      "name": "2026四大AI工具+Cursor/Midjourney低成",
+      "domain": "cloud.tencent.com",
+      "url": "https://cloud.tencent.com/developer/article/2638823",
+      "description": "AI工具成本优化方案：通过腾讯云轻量服务器搭建代理层，实现ChatGPT、Claude、Gemini等AI工具统一运行环境，月成本仅80元。采用独享密钥+随机延迟调用 ...",
       "monthlyVisits": 3000000,
-      "id": "news-qq-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AIGCRank：2024年6月国内AI网站流量排行榜",
-      "domain": "aigcrank.cn",
-      "url": "https://aigcrank.cn/top/202406cn",
-      "description": "AI工具集, 导航网站, ai-bot.cn, 122.5, 11.65%. 18, 同花顺问财, 金融, iwencai.com, 115.7, -21.72%. 19, 魔搭社区, AI训练模型, modelscope.cn, 107.2 ...",
-      "monthlyVisits": 3000000,
-      "id": "aigcrank-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。 .",
-      "domain": "sohu.com",
-      "url": "https://www.sohu.com/a/806892953_434604",
-      "description": "AI产品榜｜AI 应用月活超1000 万的国内只有2个。AI应用每个月，用户平均只使用4.3 天，但微信每个月要用25 天. 中国 ...",
-      "monthlyVisits": 3000000,
-      "id": "sohu-com",
+      "id": "cloud-tencent-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -358,6 +358,28 @@
       ]
     },
     {
+      "name": "全球50个访问量最大的AI工具和分析报告",
+      "domain": "blog.csdn.net",
+      "url": "https://blog.csdn.net/weixin_39377473/article/details/135393349",
+      "description": "... AI工具研究的过程，通过从多个目录中抓取数据，研究了3000多种AI工具，筛选出了访问量最大的50个工具，这些工具代表了在研究期间（2022年9月至2023年8 ...",
+      "monthlyVisits": 3000000,
+      "id": "blog-csdn-net",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
       "name": "AI工具50強出爐！企業都買哪些AI工具？「這款」狂吸45億",
       "domain": "businessweekly.com.tw",
       "url": "https://www.businessweekly.com.tw/focus/blog/3019702",
@@ -380,7 +402,29 @@
       ]
     },
     {
-      "name": "AI工具库",
+      "name": "非凡产研：2024年11月全球AI应用流量报告",
+      "domain": "news.qq.com",
+      "url": "https://news.qq.com/rain/a/20250102A04MWT00",
+      "description": "11月份，全球用户对AI产品的访问量为111.03亿次。同时，11月份用户在AI产品上的总访问时长为11.71亿小时，数据较上月均实现大幅上涨。",
+      "monthlyVisits": 3000000,
+      "id": "news-qq-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI工具导航",
       "domain": "toolai.io",
       "url": "https://toolai.io/zh/ranking-top",
       "description": "工具, 介绍, 月访问量, 增长率, 操作. OpenAI, OpenAI 是营利性公司OpenAI LP，其母公司是非营利组织OpenAI Inc，从事人工智能领域的研究，其既定目标是促进和发展友好的人工 ...",
@@ -402,12 +446,12 @@
       ]
     },
     {
-      "name": "DeepSeek月访问量超ChatGPT，市场份额全球第三",
-      "domain": "finance.sina.com.cn",
-      "url": "https://finance.sina.com.cn/jjxw/2025-03-31/doc-inerpiyw1326544.shtml",
-      "description": "报告显示，2025年2月，DeepSeek的访问量达到5.25亿次，超过ChatGPT的5亿次。 目前，DeepSeek市场份额6.58%，仅次于ChatGPT和Canva，二者分别占比43.16%和8.27%。",
+      "name": "AI排行榜官网- AIGCRank.cn",
+      "domain": "aigcrank.cn",
+      "url": "https://aigcrank.cn/",
+      "description": "AI排行榜-AIGCRank.cn，获取最新的全球、中国及出海AI网站流量、增长及产品排行榜，深入分析AI行业产品动态。",
       "monthlyVisits": 3000000,
-      "id": "finance-sina-com-cn",
+      "id": "aigcrank-cn",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -430,28 +474,6 @@
       "description": "AI工具集, 导航网站, ai-bot.cn, 109.7, -5.72%. 17, 莫高设计, 设计工具, mastergo.com, 109.6, 3.48%. 18, 百度AI伙伴, 聊天机器人, chat.baidu.com, 102.8, -14.66%. 19 ...",
       "monthlyVisits": 3000000,
       "id": "ai138-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
-      "domain": "amz123.com",
-      "url": "https://www.amz123.com/ai",
-      "description": "AI工具箱导航网站，收录了国内外数百个AI工具，提供聊天、绘画、设计、音频、视频等各类精选AI工具，帮助卖家轻松找到合适的工具进行绘画创作，智能对话。",
-      "monthlyVisits": 3000000,
-      "id": "amz123-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -578,12 +600,12 @@
       ]
     },
     {
-      "name": "2025年最新AI产品榜- 最新AI网站流量数据分析",
-      "domain": "aibase.com",
-      "url": "https://www.aibase.com/zh/www.aibase.com/zh/best-ai-tools",
-      "description": "发现2025年最受欢迎的AI工具和网站。基于真实流量数据,为您提供最新最热门的人工智能应用排名,包括ChatGPT等AI聊天、AI绘画、AI写作、AI编程等多个领域。",
+      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有",
+      "domain": "m.cifnews.com",
+      "url": "https://m.cifnews.com/article/170481",
+      "description": "无论你是开发者、设计师、学生还是企业用户，Toolify.ai 都能为你提供个性化的工具推荐。 推荐一个访问量排名第一的AI导航网站，你要的全都 ... 20亿美元GMV、97.5%卖家来自 ...",
       "monthlyVisits": 1300000,
-      "id": "aibase-com",
+      "id": "m-cifnews-com",
       "tier": "T1",
       "trafficTrend": [
         1105000,
@@ -620,28 +642,6 @@
         "AI",
         "cn"
       ]
-    },
-    {
-      "name": "全球流量Top50的“AI网站”出炉：C端用户都愿意用AI干",
-      "domain": "dny123.com",
-      "url": "https://www.dny123.com/t/nAK4xGdu",
-      "description": "总体来看，虽然名列Top50 的榜单，但是排名第一的ChatGPT 占据了60% 的流量，然后流量断崖式下跌，排名第二的character.ai 的流量只有ChatGPT 的21%，其他产品 ...",
-      "monthlyVisits": 1200000,
-      "id": "dny123-com",
-      "tier": "T1",
-      "trafficTrend": [
-        1020000,
-        1056000,
-        1104000,
-        1140000,
-        1176000,
-        1200000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
     }
   ],
   "insights": [
@@ -652,12 +652,12 @@
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 875.9M",
+      "content": "收录网站月访问总量 1573.3M",
       "color": "green"
     }
   ],
   "metrics": {
     "totalSites": 29,
-    "totalMonthlyVisits": 875910000
+    "totalMonthlyVisits": 1573349999
   }
 }

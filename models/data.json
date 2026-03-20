@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T10:25:07.341812+08:00",
+  "lastUpdated": "2026-03-20T11:59:49.615313+08:00",
   "config": {
     "category": "models",
     "autoUpdate": true
@@ -94,6 +94,72 @@
       ]
     },
     {
+      "name": "AI Overviews Killing Traffic? ",
+      "domain": "diginyze.com",
+      "url": "https://www.diginyze.com/blog/ai-overviews-are-killing-your-traffic-what-to-do-in-2026-and-beyond/",
+      "description": "Google's AI Overviews are reshaping search visibility in 2026, causing traffic drops across eCommerce. This blog explains what's changing, ...",
+      "monthlyVisits": 200000000,
+      "id": "diginyze-com",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 11 LLM API Providers in 20",
+      "domain": "helicone.ai",
+      "url": "https://www.helicone.ai/blog/llm-api-providers",
+      "description": "In this guide, we will compare the top AI inferencing platforms in 2025 to help you make the most informed decision on the best LLM API provider for y",
+      "monthlyVisits": 138600000,
+      "id": "helicone-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 12 LLM API Providers in 20",
+      "domain": "shareai.now",
+      "url": "https://shareai.now/blog/insights/llm-api-providers/",
+      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
+      "monthlyVisits": 100000000,
+      "id": "shareai-now",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "huggingface.co Traffic Analyti",
       "domain": "similarweb.com",
       "url": "https://www.similarweb.com/website/huggingface.co/",
@@ -138,6 +204,28 @@
       ]
     },
     {
+      "name": "Best Free AI APIs for 2025: Bu",
+      "domain": "madappgang.com",
+      "url": "https://madappgang.com/blog/best-free-ai-apis-for-2025-build-with-llms-without/",
+      "description": "Top 5 free LLM API providers for developers in 2025 · Google AI Studio is your high-volume workhorse, pumping out up to one million tokens per minute ",
+      "monthlyVisits": 45000000,
+      "id": "madappgang-com",
+      "tier": "T1",
+      "trafficTrend": [
+        38250000,
+        39600000,
+        41400000,
+        42750000,
+        44100000,
+        45000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "LLM provider with real time AP",
       "domain": "datascience.stackexchange.com",
       "url": "https://datascience.stackexchange.com/questions/131595/llm-provider-with-real-time-api-access-to-internet",
@@ -160,10 +248,10 @@
       ]
     },
     {
-      "name": "26 AI SEO Statistics for 2026 ",
+      "name": "huggingface.co Website Traffic",
       "domain": "semrush.com",
-      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
-      "description": "AI search traffic went up 527% in just a year. Here are some more AI SEO statistics—with sources.",
+      "url": "https://www.semrush.com/website/huggingface.co/overview/",
+      "description": "Huggingface.co's traffic has dropped by -6.55% month-on-month down to current organic search traffic. In addition, paid search traffic stays ...",
       "monthlyVisits": 27520000,
       "id": "semrush-com",
       "tier": "T1",
@@ -182,20 +270,20 @@
       ]
     },
     {
-      "name": "Artificial Intelligence (AI) C",
-      "domain": "natlawreview.com",
-      "url": "https://natlawreview.com/press-releases/artificial-intelligence-ai-content-generation-market-2026-explore-disruptive",
-      "description": "According to our research, OpenAI led global sales in 2024 with a 4% market share. The AI Research And Development division of the company ...",
-      "monthlyVisits": 25000000,
-      "id": "natlawreview-com",
+      "name": "Openai",
+      "domain": "openai.com",
+      "url": "https://openai.com",
+      "description": "",
+      "monthlyVisits": 24400000,
+      "id": "openai-com",
       "tier": "T1",
       "trafficTrend": [
-        21250000,
-        22000000,
-        23000000,
-        23750000,
-        24500000,
-        25000000
+        20740000,
+        21472000,
+        22448000,
+        23180000,
+        23912000,
+        24400000
       ],
       "type": "models",
       "features": [
@@ -204,32 +292,10 @@
       ]
     },
     {
-      "name": "Monthly Payment",
-      "domain": "discuss.huggingface.co",
-      "url": "https://discuss.huggingface.co/t/monthly-payment/146634",
-      "description": "The $9 payment is made on a monthly basis. I think you can cancel on a monthly basis. Also, as a common point of caution, payments will fail if ...",
-      "monthlyVisits": 25000000,
-      "id": "discuss-huggingface-co",
-      "tier": "T1",
-      "trafficTrend": [
-        21250000,
-        22000000,
-        23000000,
-        23750000,
-        24500000,
-        25000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Storage limits",
+      "name": "Pricing and Billing",
       "domain": "huggingface.co",
-      "url": "https://huggingface.co/docs/hub/storage-limits",
-      "description": "Public Storage add-on ; 1 TB, $12/month, $12/TB/month ; 5 TB, $60/month, $12/TB/month ; 10 TB, $120/month, $12/TB/month ; 20 TB, $240/month, $12/TB/mo",
+      "url": "https://huggingface.co/docs/inference-providers/en/pricing",
+      "description": "Your monthly credits automatically apply when you route requests through Hugging Face. For Team or Enterprise organizations, credits are shared among ",
       "monthlyVisits": 23300000,
       "id": "huggingface-co",
       "tier": "T1",
@@ -248,12 +314,56 @@
       ]
     },
     {
-      "name": "Openai",
-      "domain": "openai.com",
-      "url": "https://openai.com",
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "url": "https://anthropic.com",
       "description": "",
+      "monthlyVisits": 16100000,
+      "id": "anthropic-com",
+      "tier": "T1",
+      "trafficTrend": [
+        13685000,
+        14168000,
+        14812000,
+        15295000,
+        15778000,
+        16100000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "35 AI Stats for 2026: Adoption",
+      "domain": "thedigitalelevator.com",
+      "url": "https://thedigitalelevator.com/blog/ai-stats/",
+      "description": "AI Overviews reduce clicks to websites by 34.5% (as cited). Source: SE Ranking. 68.94% of websites receive AI traffic (in the cited dataset).",
       "monthlyVisits": 15000000,
-      "id": "openai-com",
+      "id": "thedigitalelevator-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "A flat-rate API for open LLMs ",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2u7yk/a_flatrate_api_for_open_llms_20mo_for_100/",
+      "description": "For the $20/month plan, they do beat us on pricing: their rate limits are 5k/day, whereas ours 600/day. But for coding agents, I think most ...",
+      "monthlyVisits": 15000000,
+      "id": "reddit-com",
       "tier": "T1",
       "trafficTrend": [
         12750000,
@@ -314,12 +424,12 @@
       ]
     },
     {
-      "name": "AI Agency Predictions 2026: Wh",
-      "domain": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=TKnjpW0ltM4",
-      "description": "... platforms and what it means for anyone building in AI. ⏱️ ... models (LLM, image gen, and video gen). If they figure out the coding ...",
+      "name": "The 6 AI Trends That Will Actu",
+      "domain": "progress.com",
+      "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026",
+      "description": "The 6 AI Trends That Will Actually Matter in 2026 · Agentic AI Orchestration: · AI Coding: · Scaling Valuable AI: · Security, Governance & Controls:.",
       "monthlyVisits": 12290000,
-      "id": "youtube-com",
+      "id": "progress-com",
       "tier": "T1",
       "trafficTrend": [
         10446500,
@@ -350,50 +460,6 @@
         11675500,
         12044200,
         12290000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Top 12 LLM API Providers in 20",
-      "domain": "shareai.now",
-      "url": "https://shareai.now/blog/insights/llm-api-providers/",
-      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
-      "monthlyVisits": 12000000,
-      "id": "shareai-now",
-      "tier": "T1",
-      "trafficTrend": [
-        10200000,
-        10560000,
-        11040000,
-        11400000,
-        11760000,
-        12000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "A flat-rate API for open LLMs ",
-      "domain": "reddit.com",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2u7yk/a_flatrate_api_for_open_llms_20mo_for_100/",
-      "description": "For the $20/month plan, they do beat us on pricing: their rate limits are 5k/day, whereas ours 600/day. But for coding agents, I think most ...",
-      "monthlyVisits": 10000000,
-      "id": "reddit-com",
-      "tier": "T1",
-      "trafficTrend": [
-        8500000,
-        8800000,
-        9200000,
-        9500000,
-        9800000,
-        10000000
       ],
       "type": "models",
       "features": [
@@ -446,28 +512,6 @@
       ]
     },
     {
-      "name": "Hugging Face Pricing 2026: Is ",
-      "domain": "metacto.com",
-      "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
-      "description": "The Hugging Face Hub (Free) · PRO Account ($9/month) · Team Plan ($20/user/month) · Enterprise Hub Plan (Starting at $50/user/month).",
-      "monthlyVisits": 5000000,
-      "id": "metacto-com",
-      "tier": "T1",
-      "trafficTrend": [
-        4250000,
-        4400000,
-        4600000,
-        4750000,
-        4900000,
-        5000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "A Broke B**ch's Guide to Tech ",
       "domain": "medium.com",
       "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
@@ -512,56 +556,34 @@
       ]
     },
     {
-      "name": "Top 11 LLM API Providers in 20",
-      "domain": "helicone.ai",
-      "url": "https://www.helicone.ai/blog/llm-api-providers",
-      "description": "In this guide, we will compare the top AI inferencing platforms in 2025 to help you make the most informed decision on the best LLM API provider for y",
-      "monthlyVisits": 3000000,
-      "id": "helicone-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Anthropic",
-      "domain": "anthropic.com",
-      "url": "https://anthropic.com",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "anthropic-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "Together",
       "domain": "together.ai",
       "url": "https://together.ai",
       "description": "",
       "monthlyVisits": 3000000,
       "id": "together-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Replicate",
+      "domain": "replicate.com",
+      "url": "https://replicate.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "replicate-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -592,6 +614,28 @@
         2850000,
         2940000,
         3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Every Hugging Face Statistics ",
+      "domain": "automatorslab.ai",
+      "url": "https://automatorslab.ai/blog/guide/huggingface-statistics/",
+      "description": "18.9 Million visits in per month. (Source); 75.25% of website visitors are male; 24.75% are female. (Source); Age group 25-34 makes up 36.87 ...",
+      "monthlyVisits": 2000000,
+      "id": "automatorslab-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1700000,
+        1760000,
+        1840000,
+        1900000,
+        1960000,
+        2000000
       ],
       "type": "models",
       "features": [
@@ -644,28 +688,6 @@
       ]
     },
     {
-      "name": "Replicate",
-      "domain": "replicate.com",
-      "url": "https://replicate.com",
-      "description": "",
-      "monthlyVisits": 1300000,
-      "id": "replicate-com",
-      "tier": "T1",
-      "trafficTrend": [
-        1105000,
-        1144000,
-        1196000,
-        1235000,
-        1274000,
-        1300000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "HuggingFace Statistics",
       "domain": "originality.ai",
       "url": "https://originality.ai/blog/huggingface-statistics",
@@ -691,17 +713,17 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 31 个，占据主要流量",
+      "content": "T1 级别 32 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 1978.6M",
+      "content": "收录网站月访问总量 2438.4M",
       "color": "green"
     }
   ],
   "metrics": {
-    "totalSites": 31,
-    "totalMonthlyVisits": 1978599999
+    "totalSites": 32,
+    "totalMonthlyVisits": 2438399999
   }
 }

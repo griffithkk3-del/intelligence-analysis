@@ -1,61 +1,193 @@
 {
-  "lastUpdated": "2026-03-20T10:25:02.054840+08:00",
+  "lastUpdated": "2026-03-20T11:58:20.033253+08:00",
   "config": {
     "category": "news",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Evidence Grows That Google's A",
-      "domain": "futurism.com",
-      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
-      "description": "Google's AI overviews have eviscerated the media landscape, with some top publications losing up to 97 percent of their web traffic.",
-      "monthlyVisits": 706000000,
-      "id": "futurism-com",
-      "tier": "T1",
-      "trafficTrend": [
-        600100000,
-        621280000,
-        649520000,
-        670700000,
-        691880000,
-        706000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Web Traffic Surges Among AI To",
-      "domain": "telecompetitor.com",
-      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
-      "description": "Web traffic to AI tool sites grew from 7 billion visits in February 2024 to 10.53 billion visits in January 2025, a 50.43% increase. The ...",
-      "monthlyVisits": 300000000,
-      "id": "telecompetitor-com",
-      "tier": "T1",
-      "trafficTrend": [
-        255000000,
-        264000000,
-        276000000,
-        285000000,
-        294000000,
-        300000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Therundown",
-      "domain": "therundown.ai",
-      "url": "https://therundown.ai",
+      "name": "Jiqizhixin",
+      "domain": "jiqizhixin.com",
+      "url": "https://jiqizhixin.com",
       "description": "",
+      "monthlyVisits": 545000000,
+      "id": "jiqizhixin-com",
+      "tier": "T1",
+      "trafficTrend": [
+        463250000,
+        479600000,
+        501400000,
+        517750000,
+        534100000,
+        545000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The Most Visited AI Websites o",
+      "domain": "ficommerce.com",
+      "url": "https://ficommerce.com/en/the-most-visited-ai-websites-of-2026-where-is-artificial-intelligence-traffic-flowing/",
+      "description": "According to the report, Turkey ranks first in the world with a 94.4% share in AI web traffic referrals directed to ChatGPT. Morocco follows ...",
+      "monthlyVisits": 500000000,
+      "id": "ficommerce-com",
+      "tier": "T1",
+      "trafficTrend": [
+        425000000,
+        440000000,
+        460000000,
+        475000000,
+        490000000,
+        500000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "10 Best AI Newsletters Tools T",
+      "domain": "tech-now.io",
+      "url": "https://tech-now.io/en/blogs/10-best-ai-newsletters-tools-that-keep-you-smarter-every-week",
+      "description": "In the list of best AI newsletter tools, Rundown AI will always be on top, as it is globally known for its efficiency. It has reached over ...",
+      "monthlyVisits": 350400000,
+      "id": "tech-now-io",
+      "tier": "T1",
+      "trafficTrend": [
+        297840000,
+        308352000,
+        322368000,
+        332880000,
+        343392000,
+        350400000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly V",
+      "domain": "uk.pcmag.com",
+      "url": "https://uk.pcmag.com/ai/161892/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT attracted 6.3 billion visitors in September, accounting for 76% of all visits to generative AI platforms. Google's Gemini took second ...",
+      "monthlyVisits": 204000000,
+      "id": "uk-pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        173400000,
+        179520000,
+        187680000,
+        193800000,
+        199920000,
+        204000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Bensbites",
+      "domain": "bensbites.com",
+      "url": "https://bensbites.com",
+      "description": "",
+      "monthlyVisits": 200000000,
+      "id": "bensbites-com",
+      "tier": "T1",
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "12 Best AI Newsletters to Subs",
+      "domain": "readless.app",
+      "url": "https://www.readless.app/blog/best-ai-newsletters-to-subscribe",
+      "description": "Discover the top AI newsletters for 2026 with 5M+ combined subscribers. From daily news to deep research, find the perfect AI newsletter for ...",
+      "monthlyVisits": 145800000,
+      "id": "readless-app",
+      "tier": "T1",
+      "trafficTrend": [
+        123930000,
+        128304000,
+        134136000,
+        138510000,
+        142884000,
+        145800000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the d",
+      "domain": "threads.com",
+      "url": "https://www.threads.com/@thetechinformer/post/DUibrCyCfTS/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-most-visited-ai",
+      "description": "Here are the top 10 most visited AI tools by monthly traffic, and as expected, ChatGPT leads the list. May be a Twitter screenshot of calendar ...",
+      "monthlyVisits": 130199999,
+      "id": "threads-com",
+      "tier": "T1",
+      "trafficTrend": [
+        110669999,
+        114575999,
+        119783999,
+        123689999,
+        127595999,
+        130199999
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Techcrunch",
+      "domain": "techcrunch.com/category/artificial-intelligence",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "description": "",
+      "monthlyVisits": 120000000,
+      "id": "techcrunch-com-category-artifi",
+      "tier": "T1",
+      "trafficTrend": [
+        102000000,
+        105600000,
+        110400000,
+        114000000,
+        117600000,
+        120000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "How Much AI Referral Traffic T",
+      "domain": "nowspeed.com",
+      "url": "https://nowspeed.com/blog/how-much-ai-referral-traffic-to-expect-in-2026-predictions-and-insights/",
+      "description": "Discover how much AI referral traffic to expect in 2026 and learn about the trends shaping its growth. Stay ahead with our insights!",
       "monthlyVisits": 100000000,
-      "id": "therundown-ai",
+      "id": "nowspeed-com",
       "tier": "T1",
       "trafficTrend": [
         85000000,
@@ -72,188 +204,320 @@
       ]
     },
     {
-      "name": "Ranked: Most Popular AI Tools ",
-      "domain": "visualcapitalist.com",
-      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
-      "description": "ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits—far surpassing all other platforms.",
-      "monthlyVisits": 53000000,
-      "id": "visualcapitalist-com",
-      "tier": "T1",
-      "trafficTrend": [
-        45050000,
-        46640000,
-        48760000,
-        50350000,
-        51940000,
-        53000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "News publishers expect search ",
-      "domain": "politics.ox.ac.uk",
-      "url": "https://www.politics.ox.ac.uk/news/news-publishers-expect-search-traffic-fall-more-40-next-three-years-new-risj-report-finds",
-      "description": "Up to 20% of the respondents expect substantial revenues from AI platforms in 2026, but two-thirds (67%) said they have not saved any jobs so ...",
-      "monthlyVisits": 47000000,
-      "id": "politics-ox-ac-uk",
-      "tier": "T1",
-      "trafficTrend": [
-        39950000,
-        41360000,
-        43240000,
-        44650000,
-        46060000,
-        47000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Arxiv",
-      "domain": "arxiv.org/list/cs.AI",
-      "url": "https://arxiv.org/list/cs.AI",
-      "description": "",
-      "monthlyVisits": 13000000,
-      "id": "arxiv-org-list-cs-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        11050000,
-        11440000,
-        11960000,
-        12350000,
-        12740000,
-        13000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Bensbites",
-      "domain": "bensbites.com",
-      "url": "https://bensbites.com",
-      "description": "",
-      "monthlyVisits": 10000000,
-      "id": "bensbites-com",
-      "tier": "T1",
-      "trafficTrend": [
-        8500000,
-        8800000,
-        9200000,
-        9500000,
-        9800000,
-        10000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "ChatGPT Now Has More Monthly V",
-      "domain": "pcmag.com",
-      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
-      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as ...",
-      "monthlyVisits": 6000000,
-      "id": "pcmag-com",
-      "tier": "T1",
-      "trafficTrend": [
-        5100000,
-        5280000,
-        5520000,
-        5700000,
-        5880000,
-        6000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "AI Search Is Stealing Your Tra",
-      "domain": "prnewsonline.com",
-      "url": "https://www.prnewsonline.com/ai-search-is-stealing-your-traffic-10-fixes-every-brand-needs-in-2026/",
-      "description": "E-commerce sites reported a 22% drop in search traffic due to AI-generated suggestions instead of traditional search clicks. A Geostar guide ...",
-      "monthlyVisits": 5000000,
-      "id": "prnewsonline-com",
-      "tier": "T1",
-      "trafficTrend": [
-        4250000,
-        4400000,
-        4600000,
-        4750000,
-        4900000,
-        5000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Techcrunch",
-      "domain": "techcrunch.com/category/artificial-intelligence",
-      "url": "https://techcrunch.com/category/artificial-intelligence",
-      "description": "",
-      "monthlyVisits": 5000000,
-      "id": "techcrunch-com-category-artifi",
-      "tier": "T1",
-      "trafficTrend": [
-        4250000,
-        4400000,
-        4600000,
-        4750000,
-        4900000,
-        5000000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Can't ignore the data: Google'",
-      "domain": "mediacopilot.ai",
-      "url": "https://mediacopilot.ai/google-ai-overviews-news-traffic/",
-      "description": "At their peak, the ten outlets combined received 112 million monthly visits from US Google users. By January of this year, that number had fallen to j",
-      "monthlyVisits": 4099999,
-      "id": "mediacopilot-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        3484999,
-        3607999,
-        3771999,
-        3894999,
-        4017999,
-        4099999
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
       "name": "Superhuman AI Newsletter",
       "domain": "superhuman.ai",
       "url": "https://www.superhuman.ai/",
       "description": "Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. Join 1 million+ readers growing their careers.",
-      "monthlyVisits": 3000000,
+      "monthlyVisits": 100000000,
       "id": "superhuman-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "26 AI SEO Statistics for 2026 ",
+      "domain": "semrush.com",
+      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
+      "description": "AI platforms are expected to drive more website visits than traditional search engines in the next three years. Projected annual visitors by ...",
+      "monthlyVisits": 27520000,
+      "id": "semrush-com",
+      "tier": "T1",
+      "trafficTrend": [
+        23392000,
+        24217600,
+        25318400,
+        26144000,
+        26969600,
+        27520000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Shocking Steps Publishers Are ",
+      "domain": "blog.mean.ceo",
+      "url": "https://blog.mean.ceo/startup-news-publishers-steps-against-ai-2026-search-collapse/",
+      "description": "By 2026, publishers may lose over 40% of search traffic to AI-driven answer engines like ChatGPT and Google's Gemini.",
+      "monthlyVisits": 23700000,
+      "id": "blog-mean-ceo",
+      "tier": "T1",
+      "trafficTrend": [
+        20145000,
+        20856000,
+        21804000,
+        22515000,
+        23226000,
+        23700000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Site Traffic Falls Drastically",
+      "domain": "mediapost.com",
+      "url": "https://www.mediapost.com/publications/article/413322/site-traffic-falls-drastically-due-to-googles-ai.html",
+      "description": "The SEO firm Growtika looked at data from Ahrefs tracking web traffic to 10 major tech outlets from early 2024 to early 2026. In that time, ...",
+      "monthlyVisits": 15000000,
+      "id": "mediapost-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "BEST AI Newsletters? : r/datae",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/dataengineering/comments/1qnmyiz/best_ai_newsletters/",
+      "description": "Subscribe to the TLDR newsletters, daily summary emails.",
+      "monthlyVisits": 15000000,
+      "id": "reddit-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Web Traffic Surges Among AI To",
+      "domain": "telecompetitor.com",
+      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
+      "description": "Web traffic to AI tool sites grew from 7 billion visits in February 2024 to 10.53 billion visits in January 2025, a 50.43% increase. The ...",
+      "monthlyVisits": 15000000,
+      "id": "telecompetitor-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The best AI newsletters",
+      "domain": "zapier.com",
+      "url": "https://zapier.com/blog/best-ai-newsletters/",
+      "description": "The Zapier newsletter is an ideal choice for professionals seeking actionable guidance on integrating AI into their existing workflows, rather ...",
+      "monthlyVisits": 12290000,
+      "id": "zapier-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "My Top 5 AI Newsletters for 20",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=i9gwyvoi3Pk",
+      "description": "If you're looking to break into AI governance in 2026, these are the 5 newsletters you MUST subscribe to right away. 1️⃣ The Neuron - AI News ...",
+      "monthlyVisits": 12290000,
+      "id": "youtube-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI Is Still Hammering News Sit",
+      "domain": "yahoo.com",
+      "url": "https://www.yahoo.com/news/articles/ai-still-hammering-news-sites-201239871.html",
+      "description": "Google search traffic to news sites over the last year drops 33% worldwide and 38% in the US, according to new report from Chartbeat.",
+      "monthlyVisits": 12000000,
+      "id": "yahoo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Theverge",
+      "domain": "theverge.com/ai",
+      "url": "https://theverge.com/ai",
+      "description": "",
+      "monthlyVisits": 11500000,
+      "id": "theverge-com-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        9775000,
+        10120000,
+        10580000,
+        10925000,
+        11270000,
+        11500000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the d",
+      "domain": "facebook.com",
+      "url": "https://www.facebook.com/TechInformer.in/posts/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-10-most-visited-ai-t/1319563416858245/",
+      "description": "NOTE: ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits ! Most Famous Ai tools and there Monthly Visits: 1.",
+      "monthlyVisits": 6800000,
+      "id": "facebook-com",
+      "tier": "T1",
+      "trafficTrend": [
+        5780000,
+        5984000,
+        6256000,
+        6460000,
+        6664000,
+        6800000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Therundown",
+      "domain": "therundown.ai",
+      "url": "https://therundown.ai",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "id": "therundown-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "100 Best AI Newsletters on Sub",
+      "domain": "substack.jurgenappelo.com",
+      "url": "https://substack.jurgenappelo.com/p/the-ultimate-guide-to-100-best-ai",
+      "description": "Discover the top AI newsletters curated through ChatGPT, Claude, Gemini, and Perplexity research - ranked by subscriber count with personal ...",
+      "monthlyVisits": 3909000,
+      "id": "substack-jurgenappelo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        3322650,
+        3439920,
+        3596280,
+        3713550,
+        3830820,
+        3909000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "6 AI Newsletters That Save Me ",
+      "domain": "medium.com",
+      "url": "https://medium.com/@toddlarsen/6-ai-newsletters-that-save-me-hours-every-week-8f8dd2e81ca9",
+      "description": "6 AI Newsletters That Save Me Hours Every Week · 1. TLDR AI · 2. AI Adopters Club · 3. The Rundown AI · 4. AI Leadership Edge · 5. The Neuron · 6.",
+      "monthlyVisits": 3120000,
+      "id": "medium-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2652000,
+        2745600,
+        2870400,
+        2964000,
+        3057600,
+        3120000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Evidence Grows That Google's A",
+      "domain": "futurism.com",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
+      "description": "Google's AI overviews have eviscerated the media landscape, with some top publications losing up to 97 percent of their web traffic.",
+      "monthlyVisits": 3000000,
+      "id": "futurism-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -270,20 +534,196 @@
       ]
     },
     {
-      "name": "Theverge",
-      "domain": "theverge.com/ai",
-      "url": "https://theverge.com/ai",
+      "name": "AI Search Is Stealing Your Tra",
+      "domain": "prnewsonline.com",
+      "url": "https://www.prnewsonline.com/ai-search-is-stealing-your-traffic-10-fixes-every-brand-needs-in-2026/",
+      "description": "E-commerce sites reported a 22% drop in search traffic due to AI-generated suggestions instead of traditional search clicks. A Geostar guide ...",
+      "monthlyVisits": 3000000,
+      "id": "prnewsonline-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "News publishers expect search ",
+      "domain": "politics.ox.ac.uk",
+      "url": "https://www.politics.ox.ac.uk/news/news-publishers-expect-search-traffic-fall-more-40-next-three-years-new-risj-report-finds",
+      "description": "Up to 20% of the respondents expect substantial revenues from AI platforms in 2026, but two-thirds (67%) said they have not saved any jobs so ...",
+      "monthlyVisits": 3000000,
+      "id": "politics-ox-ac-uk",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The future of AI search: What ",
+      "domain": "searchengineland.com",
+      "url": "https://searchengineland.com/ai-search-visibility-seo-predictions-2026-468042",
+      "description": "AI search now handles discovery, decisioning, and transactions. Here's what that means for SEO strategy in 2026.",
+      "monthlyVisits": 3000000,
+      "id": "searchengineland-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly V",
+      "domain": "pcmag.com",
+      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as ...",
+      "monthlyVisits": 3000000,
+      "id": "pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "In September, global AI monthl",
+      "domain": "moomoo.com",
+      "url": "https://www.moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
+      "description": "In September, global AI monthly visits reached 7 billion, representing a 76% year-on-year increase, with traffic nearing that of social networks ...",
+      "monthlyVisits": 3000000,
+      "id": "moomoo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Infographic: “Ranked: Most Pop",
+      "domain": "larryferlazzo.edublogs.org",
+      "url": "https://larryferlazzo.edublogs.org/2025/04/17/infographic-ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "Infographic: “Ranked: Most Popular AI Tools by Monthly Site Visits” ... This is a pretty interesting infographic from Visual Capitalist. Share:.",
+      "monthlyVisits": 3000000,
+      "id": "larryferlazzo-edublogs-org",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Arxiv",
+      "domain": "arxiv.org/list/cs.AI",
+      "url": "https://arxiv.org/list/cs.AI",
       "description": "",
-      "monthlyVisits": 90000,
-      "id": "theverge-com-ai",
+      "monthlyVisits": 3000000,
+      "id": "arxiv-org-list-cs-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI search platforms double sha",
+      "domain": "warc.com",
+      "url": "https://www.warc.com/article/ai-search-platforms-double-share-of-monthly-webpage-visits-b9ef4b15bd5f4b4daeac3bca4b380641",
+      "description": "In November 2025, 0.8% of total monthly desktop webpage visits in the US were to AI platforms – up from 0.41% a year earlier. Large publishers blockin",
+      "monthlyVisits": 1800000,
+      "id": "warc-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Ranked: Most Popular AI Tools ",
+      "domain": "visualcapitalist.com",
+      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits—far surpassing all other platforms.",
+      "monthlyVisits": 20000,
+      "id": "visualcapitalist-com",
       "tier": "T3",
       "trafficTrend": [
-        76500,
-        79200,
-        82800,
-        85500,
-        88200,
-        90000
+        17000,
+        17600,
+        18400,
+        19000,
+        19600,
+        20000
       ],
       "type": "news",
       "features": [
@@ -295,17 +735,17 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 12 个，占据主要流量",
+      "content": "T1 级别 32 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 1252.2M",
+      "content": "收录网站月访问总量 2584.3M",
       "color": "green"
     }
   ],
   "metrics": {
-    "totalSites": 13,
-    "totalMonthlyVisits": 1252189999
+    "totalSites": 33,
+    "totalMonthlyVisits": 2584348999
   }
 }
