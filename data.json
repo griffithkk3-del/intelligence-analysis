@@ -1,694 +1,290 @@
 {
-  "lastUpdated": "2026-03-20T19:10:00+08:00",
+  "lastUpdated": "2026-03-21T02:45:00+08:00",
   "config": {
-    "category": "AI Tools Directory / AI 聚合网页",
-    "description": "专门收集、分类、展示各种 AI 工具的目录网站",
+    "category": "AI Tools Directory",
     "autoUpdate": true,
-    "updateInterval": "daily",
-    "totalSites": 31
+    "totalSites": 28
   },
   "competitors": [
     {
-      "name": "Top AI Tools Marketers Use to ",
-      "domain": "botstacks.ai",
-      "url": "https://www.botstacks.ai/blog/marketers-are-using-these-ai-tools-to-10x-their-traffic",
-      "description": "Top Tools. Botstacks: A no-code platform for building omnichannel AI Assistants that integrate with your CRM, email, and analytics tools.",
-      "monthlyVisits": 314000000,
-      "id": "botstacks-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        266900000,
-        276320000,
-        288880000,
-        298300000,
-        307720000,
-        314000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
+      "id": "theresanaiforthat-com",
+      "domain": "theresanaiforthat.com",
+      "name": "theresanaiforthat.com",
+      "type": "AI Directory",
+      "url": "https://theresanaiforthat.com",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Best AI Tools Directory 2026",
-      "domain": "max-productive.ai",
-      "url": "https://max-productive.ai/ai-tools/",
-      "description": "Explore 500+ hand-picked AI tools directory across 8 categories. Find the best, free, and premium apps for every need in 2026.",
-      "monthlyVisits": 138600000,
-      "id": "max-productive-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Similarweb: AI-Powered Digital",
-      "domain": "similarweb.com",
-      "url": "https://www.similarweb.com/",
-      "description": "Similarweb is an AI-powered digital data company providing real-time market intelligence, competitive insights, and consumer trends to accelerate busi",
-      "monthlyVisits": 100000000,
-      "id": "similarweb-com",
-      "tier": "T1",
-      "trafficTrend": [
-        85000000,
-        88000000,
-        92000000,
-        95000000,
-        98000000,
-        100000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best AI Tools Directory",
-      "domain": "aitoolsdirectory.net",
-      "url": "https://aitoolsdirectory.net/",
-      "description": "Looking for the right AI tool? Browse through our collection of 226+ carefully selected tools with honest reviews and real user ratings.",
-      "monthlyVisits": 35300000,
-      "id": "aitoolsdirectory-net",
-      "tier": "T1",
-      "trafficTrend": [
-        30005000,
-        31064000,
-        32476000,
-        33535000,
-        34594000,
-        35300000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best AI Tools by Category 2026",
-      "domain": "tldl.io",
-      "url": "https://www.tldl.io/resources/best-ai-tools-by-category-2026",
-      "description": "Curated directory of best AI tools 2026 by category - productivity, coding, design, marketing. Updated March 2026. Published February 22, 2026 ·3 min ",
-      "monthlyVisits": 30000000,
-      "id": "tldl-io",
-      "tier": "T1",
-      "trafficTrend": [
-        25500000,
-        26400000,
-        27600000,
-        28500000,
-        29400000,
-        30000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory (2026) — Di",
-      "domain": "aitools-directory.com",
-      "url": "https://www.aitools-directory.com/",
-      "description": "AI Tools Directory is a curated platform built to help you discover, compare, and submit the best AI tools available today. Whether you're a founder .",
-      "monthlyVisits": 12290000,
-      "id": "aitools-directory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Futuretools",
-      "domain": "futuretools.io",
-      "url": "https://futuretools.io",
-      "description": "",
-      "monthlyVisits": 12290000,
-      "id": "futuretools-io",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Aitools",
-      "domain": "aitools.fyi",
-      "url": "https://aitools.fyi",
-      "description": "",
-      "monthlyVisits": 12290000,
-      "id": "aitools-fyi",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Aitoolsdirectory",
-      "domain": "aitoolsdirectory.com",
-      "url": "https://aitoolsdirectory.com",
-      "description": "",
-      "monthlyVisits": 12290000,
-      "id": "aitoolsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best Free AI Tools Directories",
-      "domain": "logicballs.com",
-      "url": "https://logicballs.com/blog/best-free-ai-tools-directories-2026",
-      "description": "Which AI tools directory is best? Several good options exist, including AIChief, Futurepedia, FutureTools, Toolify, and There's An AI For That.",
-      "monthlyVisits": 3000000,
-      "id": "logicballs-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Topai",
-      "domain": "topai.tools",
-      "url": "https://topai.tools",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "topai-tools",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Futurepedia",
-      "domain": "futurepedia.io",
-      "url": "https://futurepedia.io",
-      "description": "",
-      "monthlyVisits": 2000000,
-      "id": "futurepedia-io",
-      "tier": "T1",
-      "trafficTrend": [
-        1700000,
-        1760000,
-        1840000,
-        1900000,
-        1960000,
-        2000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Toolify",
-      "domain": "toolify.ai",
-      "url": "https://toolify.ai",
-      "description": "",
-      "monthlyVisits": 1500000,
       "id": "toolify-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        1275000,
-        1320000,
-        1380000,
-        1425000,
-        1470000,
-        1500000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
+      "domain": "toolify.ai",
+      "name": "toolify.ai",
+      "type": "AI Directory",
+      "url": "https://toolify.ai",
+      "monthlyVisits": 30139,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Aicpb",
-      "domain": "aicpb.com",
-      "url": "https://aicpb.com",
-      "description": "",
-      "monthlyVisits": 75000000,
-      "id": "aicpb-com",
-      "tier": "T1",
-      "trafficTrend": [
-        63750000,
-        66000000,
-        69000000,
-        71250000,
-        73500000,
-        75000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
+      "id": "futurepedia-io",
+      "domain": "futurepedia.io",
+      "name": "futurepedia.io",
+      "type": "AI Directory",
+      "url": "https://futurepedia.io",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Ai-Nav",
-      "domain": "ai-nav.net",
-      "url": "https://ai-nav.net",
-      "description": "",
-      "monthlyVisits": 12290000,
-      "id": "ai-nav-net",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
+      "id": "futuretools-io",
+      "domain": "futuretools.io",
+      "name": "futuretools.io",
+      "type": "AI Directory",
+      "url": "https://futuretools.io",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "AI排行榜官网- AIGCRank.cn",
-      "domain": "aigcrank.cn",
-      "url": "https://aigcrank.cn/",
-      "description": "AI排行榜-AIGCRank.cn，获取最新的全球、中国及出海AI网站流量、增长及产品排行榜，深入分析AI行业产品动态。",
-      "monthlyVisits": 3000000,
-      "id": "aigcrank-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
+      "id": "aitoolsdirectory-com",
+      "domain": "aitoolsdirectory.com",
+      "name": "aitoolsdirectory.com",
+      "type": "AI Directory",
+      "url": "https://aitoolsdirectory.com",
+      "monthlyVisits": 193386,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Aigc",
-      "domain": "aigc.cn",
-      "url": "https://aigc.cn",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "aigc-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "Aihub",
-      "domain": "aihub.cn",
-      "url": "https://aihub.cn",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "aihub-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI工具集官网| 1000+ AI工具集合，国内外AI工具集",
-      "domain": "ai-bot.cn",
-      "url": "https://ai-bot.cn/",
-      "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天 ...",
-      "monthlyVisits": 1600000,
       "id": "ai-bot-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        1360000,
-        1408000,
-        1472000,
-        1520000,
-        1568000,
-        1600000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
+      "domain": "ai-bot.cn",
+      "name": "ai-bot.cn",
+      "type": "AI Directory",
+      "url": "https://ai-bot.cn",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Toolify",
-      "domain": "toolify.ai/zh",
-      "url": "https://toolify.ai/zh",
-      "description": "",
-      "monthlyVisits": 1500000,
-      "id": "toolify-ai-zh",
-      "tier": "T1",
-      "trafficTrend": [
-        1275000,
-        1320000,
-        1380000,
-        1425000,
-        1470000,
-        1500000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
+      "id": "aihub-cn",
+      "domain": "aihub.cn",
+      "name": "aihub.cn",
+      "type": "AI Directory",
+      "url": "https://aihub.cn",
+      "monthlyVisits": 10508,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Organising Claude Code Skills ",
-      "domain": "scottspence.com",
-      "url": "https://scottspence.com/posts/organising-claude-code-skills-into-plugin-marketplaces",
-      "description": "Use ccrecall to sync your transcripts, query them with mcp-sqlite-tools , search the web with mcp-omnisearch , and manage which MCPs are active ...",
-      "monthlyVisits": 307000000,
-      "id": "scottspence-com",
-      "tier": "T1",
-      "trafficTrend": [
-        260950000,
-        270160000,
-        282440000,
-        291650000,
-        300860000,
-        307000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "aihub-com",
+      "domain": "aihub.com",
+      "name": "aihub.com",
+      "type": "AI Directory",
+      "url": "https://aihub.com",
+      "monthlyVisits": 1423,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Claude Skills Marketplace",
-      "domain": "claudeskills.info",
-      "url": "https://claudeskills.info/skills/",
-      "description": "The largest Claude Skills marketplace with 140+ free skills. Browse, download, and install Claude Code skills from the official skill marketplace.",
-      "monthlyVisits": 138600000,
-      "id": "claudeskills-info",
+      "id": "aicpb-com",
+      "domain": "aicpb.com",
+      "name": "aicpb.com",
+      "type": "AI Directory",
+      "url": "https://aicpb.com",
+      "monthlyVisits": 240000000,
       "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "trafficTrend": []
     },
     {
-      "name": "Create and distribute a plugin",
-      "domain": "code.claude.com",
-      "url": "https://code.claude.com/docs/en/plugin-marketplaces",
-      "description": "A plugin marketplace is a catalog that lets you distribute plugins to others. Marketplaces provide centralized discovery, version tracking, ...",
-      "monthlyVisits": 138600000,
-      "id": "code-claude-com",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "aigc-cn",
+      "domain": "aigc.cn",
+      "name": "aigc.cn",
+      "type": "AI Directory",
+      "url": "https://aigc.cn",
+      "monthlyVisits": 3737,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Agent Skills",
-      "domain": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
-      "description": "Agent Skills are modular capabilities that extend Claude's functionality. Each Skill packages instructions, metadata, and optional resources (scripts,",
-      "monthlyVisits": 138600000,
-      "id": "platform-claude-com",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "aigc-love",
+      "domain": "aigc.love",
+      "name": "aigc.love",
+      "type": "AI Directory",
+      "url": "https://aigc.love",
+      "monthlyVisits": 3737,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Agent Skills",
-      "domain": "developers.openai.com",
-      "url": "https://developers.openai.com/codex/skills/",
-      "description": "A skill is a directory with a SKILL.md file plus optional scripts and references. The SKILL.md file must include name and description .",
-      "monthlyVisits": 40000000,
-      "id": "developers-openai-com",
-      "tier": "T1",
-      "trafficTrend": [
-        34000000,
-        35200000,
-        36800000,
-        38000000,
-        39200000,
-        40000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "topai-tools",
+      "domain": "topai.tools",
+      "name": "topai.tools",
+      "type": "AI Directory",
+      "url": "https://topai.tools",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Use Agent Skills in VS Code",
-      "domain": "code.visualstudio.com",
-      "url": "https://code.visualstudio.com/docs/copilot/customization/agent-skills",
-      "description": "Agent Skills is an open standard that enables portability across different AI agents. Skills you create in VS Code work with multiple agents, includin",
-      "monthlyVisits": 3000000,
-      "id": "code-visualstudio-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "maxai-tools",
+      "domain": "maxai.tools",
+      "name": "maxai.tools",
+      "type": "AI Directory",
+      "url": "https://maxai.tools",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "AI Agents Directory Launches N",
-      "domain": "aiagentsdirectory.com",
-      "url": "https://aiagentsdirectory.com/blog/ai-agents-directory-launches-skill-hub",
-      "description": "By focusing on skill-based discovery, the AI Agents Directory allows users to chain together small, highly effective agents to build a robust ...",
-      "monthlyVisits": 3000000,
-      "id": "aiagentsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "aidirectory-io",
+      "domain": "aidirectory.io",
+      "name": "aidirectory.io",
+      "type": "AI Directory",
+      "url": "https://aidirectory.io",
+      "monthlyVisits": 50158,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Skills Directory",
-      "domain": "skillsdirectory.com",
-      "url": "https://skillsdirectory.com/",
-      "description": "Discover security-tested agent skills for Claude AI. Every skill scanned for malware, prompt injection, and credential theft. Browse verified, grade-A",
-      "monthlyVisits": 1000000,
-      "id": "skillsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        850000,
-        880000,
-        920000,
-        950000,
-        980000,
-        1000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
+      "id": "ailib-io",
+      "domain": "ailib.io",
+      "name": "ailib.io",
+      "type": "AI Directory",
+      "url": "https://ailib.io",
+      "monthlyVisits": 4188,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "10 AI Tools Businesses Are Usi",
-      "domain": "socialtraffic.ca",
-      "url": "https://socialtraffic.ca/blog/10-ai-tools-businesses-using-2026",
-      "description": "The businesses scaling in 2026 aren't just using AI, they're deploying it strategically to eliminate bottlenecks. Start with one tool that ...",
-      "monthlyVisits": 200000000,
-      "id": "socialtraffic-ca",
-      "tier": "T1",
-      "trafficTrend": [
-        170000000,
-        176000000,
-        184000000,
-        190000000,
-        196000000,
-        200000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
+      "id": "maga-ai",
+      "domain": "maga.ai",
+      "name": "maga.ai",
+      "type": "AI Directory",
+      "url": "https://maga.ai",
+      "monthlyVisits": 2025,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "10 Best AI Newsletters Tools T",
-      "domain": "tech-now.io",
-      "url": "https://tech-now.io/en/blogs/10-best-ai-newsletters-tools-that-keep-you-smarter-every-week",
-      "description": "Streamline your AI research. Discover the Best AI Newsletter Tools for automated, insightful digests. Find and subscribe in minutes.",
-      "monthlyVisits": 350400000,
-      "id": "tech-now-io",
-      "tier": "T1",
-      "trafficTrend": [
-        297840000,
-        308352000,
-        322368000,
-        332880000,
-        343392000,
-        350400000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
+      "id": "gptdemo-net",
+      "domain": "gptdemo.net",
+      "name": "gptdemo.net",
+      "type": "AI Directory",
+      "url": "https://gptdemo.net",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     },
     {
-      "name": "Ranked: Most Popular AI Tools ",
-      "domain": "visualcapitalist.com",
-      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
-      "description": "ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits—far surpassing all other platforms.",
-      "monthlyVisits": 20000,
-      "id": "visualcapitalist-com",
-      "tier": "T3",
-      "trafficTrend": [
-        17000,
-        17600,
-        18400,
-        19000,
-        19600,
-        20000
-      ],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
+      "id": "chatgptdemo-net",
+      "domain": "chatgptdemo.net",
+      "name": "chatgptdemo.net",
+      "type": "AI Directory",
+      "url": "https://chatgptdemo.net",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "easywithai-com",
+      "domain": "easywithai.com",
+      "name": "easywithai.com",
+      "type": "AI Directory",
+      "url": "https://easywithai.com",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "ai-collection-org",
+      "domain": "ai-collection.org",
+      "name": "ai-collection.org",
+      "type": "AI Directory",
+      "url": "https://ai-collection.org",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "allthingsai-com",
+      "domain": "allthingsai.com",
+      "name": "allthingsai.com",
+      "type": "AI Directory",
+      "url": "https://allthingsai.com",
+      "monthlyVisits": 2025,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "therundown-ai",
+      "domain": "therundown.ai",
+      "name": "therundown.ai",
+      "type": "AI Directory",
+      "url": "https://therundown.ai",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "bensbites-com",
+      "domain": "bensbites.com",
+      "name": "bensbites.com",
+      "type": "AI Directory",
+      "url": "https://bensbites.com",
+      "monthlyVisits": 2025,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "ai-directory",
+      "domain": "ai.directory",
+      "name": "ai.directory",
+      "type": "AI Directory",
+      "url": "https://ai.directory",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "glama-ai",
+      "domain": "glama.ai",
+      "name": "glama.ai",
+      "type": "AI Directory",
+      "url": "https://glama.ai",
+      "monthlyVisits": 1047,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "smithery-ai",
+      "domain": "smithery.ai",
+      "name": "smithery.ai",
+      "type": "AI Directory",
+      "url": "https://smithery.ai",
+      "monthlyVisits": 1800000,
+      "tier": "T1",
+      "trafficTrend": []
+    },
+    {
+      "id": "mcpmarket-com",
+      "domain": "mcpmarket.com",
+      "name": "mcpmarket.com",
+      "type": "AI Directory",
+      "url": "https://mcpmarket.com",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
+    },
+    {
+      "id": "clawhub-ai",
+      "domain": "clawhub.ai",
+      "name": "clawhub.ai",
+      "type": "AI Directory",
+      "url": "https://clawhub.ai",
+      "monthlyVisits": 2026,
+      "tier": "T2",
+      "trafficTrend": []
     }
   ]
 }
