@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T11:53:52.959388+08:00",
+  "lastUpdated": "2026-03-20T14:51:06.973460+08:00",
   "config": {
     "category": "global",
     "autoUpdate": true
@@ -50,12 +50,56 @@
       ]
     },
     {
+      "name": "Best AI Tools Directory 2026",
+      "domain": "max-productive.ai",
+      "url": "https://max-productive.ai/ai-tools/",
+      "description": "Explore 500+ hand-picked AI tools directory across 8 categories. Find the best, free, and premium apps for every need in 2026.",
+      "monthlyVisits": 138600000,
+      "id": "max-productive-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
       "name": "Similarweb: AI-Powered Digital",
       "domain": "similarweb.com",
       "url": "https://www.similarweb.com/",
       "description": "Similarweb is an AI-powered digital data company providing real-time market intelligence, competitive insights, and consumer trends to accelerate busi",
       "monthlyVisits": 100000000,
       "id": "similarweb-com",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI referrals to top websites w",
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/ai-referrals-top-websites-were-201108191.html",
+      "description": "Similarweb found that June's AI referrals to news and media websites were up 770% since June 2024. Some sites will naturally rank higher than ...",
+      "monthlyVisits": 100000000,
+      "id": "finance-yahoo-com",
       "tier": "T1",
       "trafficTrend": [
         85000000,
@@ -94,28 +138,6 @@
       ]
     },
     {
-      "name": "AI Tools Directory",
-      "domain": "aitoolsdirectory.com",
-      "url": "https://aitoolsdirectory.com/",
-      "description": "Explore AI-related communities. Find marketplaces to buy and sell AI businesses. Check out the best AI tool Black Friday deals for 2026. Follow us on ",
-      "monthlyVisits": 35300000,
-      "id": "aitoolsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        30005000,
-        31064000,
-        32476000,
-        33535000,
-        34594000,
-        35300000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
       "name": "Best AI Tools Directory",
       "domain": "aitoolsdirectory.net",
       "url": "https://aitoolsdirectory.net/",
@@ -138,12 +160,12 @@
       ]
     },
     {
-      "name": "Futuretools",
-      "domain": "futuretools.io",
-      "url": "https://futuretools.io",
-      "description": "",
+      "name": "Best AI Tools by Category 2026",
+      "domain": "tldl.io",
+      "url": "https://www.tldl.io/resources/best-ai-tools-by-category-2026",
+      "description": "Curated directory of best AI tools 2026 by category - productivity, coding, design, marketing. Updated March 2026. Published February 22, 2026 ·3 min ",
       "monthlyVisits": 30000000,
-      "id": "futuretools-io",
+      "id": "tldl-io",
       "tier": "T1",
       "trafficTrend": [
         25500000,
@@ -152,6 +174,28 @@
         28500000,
         29400000,
         30000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Tools Directory 2025 vs 202",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/AIToolsPromptWorkflow/comments/1rwumtw/ai_tools_directory_2025_vs_2026/",
+      "description": "Discover and share the best AI tools for business. A community for founders, startups, marketers, and small business owners to find AI tools for ...",
+      "monthlyVisits": 15000000,
+      "id": "reddit-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
       ],
       "type": "global",
       "features": [
@@ -182,56 +226,78 @@
       ]
     },
     {
-      "name": "Best AI Tools by Category 2026",
-      "domain": "tldl.io",
-      "url": "https://www.tldl.io/resources/best-ai-tools-by-category-2026",
-      "description": "Curated directory of best AI tools 2026 by category - productivity, coding, design, marketing. Updated March 2026. Published February 22, 2026 ·3 min ",
-      "monthlyVisits": 12290000,
-      "id": "tldl-io",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "The 39 Best Free AI Tools in 2",
-      "domain": "datacamp.com",
-      "url": "https://www.datacamp.com/blog/free-ai-tools",
-      "description": "Discover the best free AI tools of 2026. Explore top-rated free AI video generation tools, free AI image generation tools, coding assistants, ...",
-      "monthlyVisits": 12290000,
-      "id": "datacamp-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
       "name": "AI Tools Directory (2026) — Di",
       "domain": "aitools-directory.com",
       "url": "https://www.aitools-directory.com/",
       "description": "AI Tools Directory is a curated platform built to help you discover, compare, and submit the best AI tools available today. Whether you're a founder .",
       "monthlyVisits": 12290000,
       "id": "aitools-directory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Conductor AI: Get Found in AI ",
+      "domain": "conductor.com",
+      "url": "https://www.conductor.com/",
+      "description": "Get found in AI search with enterprise AEO + enterprise SEO intelligence, AI content generation, and 24/7 website monitoring in Conductor.",
+      "monthlyVisits": 12290000,
+      "id": "conductor-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Built Different: Introducing S",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=uoMlTlHQCZw",
+      "description": "... similarweb.com/3B4izvy - Similarweb Digital Marketing Intelligence – drive more traffic to your website and boost user acquisition across ...",
+      "monthlyVisits": 12290000,
+      "id": "youtube-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Futuretools",
+      "domain": "futuretools.io",
+      "url": "https://futuretools.io",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "futuretools-io",
       "tier": "T1",
       "trafficTrend": [
         10446500,
@@ -270,42 +336,20 @@
       ]
     },
     {
-      "name": "AI referrals to top websites w",
-      "domain": "finance.yahoo.com",
-      "url": "https://finance.yahoo.com/news/ai-referrals-top-websites-were-201108191.html",
-      "description": "Similarweb found that June's AI referrals to news and media websites were up 770% since June 2024. Some sites will naturally rank higher than ...",
-      "monthlyVisits": 12000000,
-      "id": "finance-yahoo-com",
+      "name": "Aitoolsdirectory",
+      "domain": "aitoolsdirectory.com",
+      "url": "https://aitoolsdirectory.com",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "aitoolsdirectory-com",
       "tier": "T1",
       "trafficTrend": [
-        10200000,
-        10560000,
-        11040000,
-        11400000,
-        11760000,
-        12000000
-      ],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory 2025 vs 202",
-      "domain": "reddit.com",
-      "url": "https://www.reddit.com/r/AIToolsPromptWorkflow/comments/1rwumtw/ai_tools_directory_2025_vs_2026/",
-      "description": "Discover and share the best AI tools for business. A community for founders, startups, marketers, and small business owners to find AI tools for ...",
-      "monthlyVisits": 10000000,
-      "id": "reddit-com",
-      "tier": "T1",
-      "trafficTrend": [
-        8500000,
-        8800000,
-        9200000,
-        9500000,
-        9800000,
-        10000000
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
       ],
       "type": "global",
       "features": [
@@ -336,10 +380,10 @@
       ]
     },
     {
-      "name": "The Best AI Tools for 2026",
+      "name": "The Best AI Tools for 2026: A ",
       "domain": "medium.com",
-      "url": "https://medium.com/artificial-corner/the-best-ai-tools-for-2026-933535a44f8b",
-      "description": "Without a doubt, ChatGPT, Gemini, and Claude are the best AI tools to date. They can provide answers to your everyday questions, do web searches ...",
+      "url": "https://medium.com/@amresh.kumar11/the-best-ai-tools-for-2026-a-comprehensive-guide-across-all-sectors-d3395633551e",
+      "description": "The Best AI Tools for 2026: A Comprehensive Guide Across All Sectors · The Foundation: General-Purpose AI Assistants · Creative and Content ...",
       "monthlyVisits": 3120000,
       "id": "medium-com",
       "tier": "T1",
@@ -358,12 +402,12 @@
       ]
     },
     {
-      "name": "I tried 70+ best AI tools in 2",
-      "domain": "techradar.com",
-      "url": "https://www.techradar.com/best/best-ai-tools",
-      "description": "I went deep into each tool, from image generation to email automation, chatbot building to scheduling assistants.",
+      "name": "Best Free AI Tools Directories",
+      "domain": "logicballs.com",
+      "url": "https://logicballs.com/blog/best-free-ai-tools-directories-2026",
+      "description": "Which AI tools directory is best? Several good options exist, including AIChief, Futurepedia, FutureTools, Toolify, and There's An AI For That.",
       "monthlyVisits": 3000000,
-      "id": "techradar-com",
+      "id": "logicballs-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -446,12 +490,12 @@
       ]
     },
     {
-      "name": "AI traffic winners by industry",
-      "domain": "linkedin.com",
-      "url": "https://www.linkedin.com/posts/davidfcarr_ai-referrals-to-top-websites-were-up-357-activity-7356004842462404612-H3pv",
-      "description": "AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B. AI ...",
+      "name": "AI Traffic Analytics",
+      "domain": "seranking.com",
+      "url": "https://seranking.com/ai-traffic-analytics.html",
+      "description": "AI Traffic Analytics by SE Ranking lets you track and analyze website traffic from AI chatbots like ChatGPT, Gemini, Perplexity, Claude, and more. It ",
       "monthlyVisits": 3000000,
-      "id": "linkedin-com",
+      "id": "seranking-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -538,16 +582,16 @@
       "domain": "futurepedia.io",
       "url": "https://futurepedia.io",
       "description": "",
-      "monthlyVisits": 2400000,
+      "monthlyVisits": 2000000,
       "id": "futurepedia-io",
       "tier": "T1",
       "trafficTrend": [
-        2040000,
-        2112000,
-        2208000,
-        2280000,
-        2352000,
-        2400000
+        1700000,
+        1760000,
+        1840000,
+        1900000,
+        1960000,
+        2000000
       ],
       "type": "global",
       "features": [
@@ -603,17 +647,17 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 27 个，占据主要流量",
+      "content": "T1 级别 29 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 870.1M",
+      "content": "收录网站月访问总量 1090.6M",
       "color": "green"
     }
   ],
   "metrics": {
-    "totalSites": 27,
-    "totalMonthlyVisits": 870130000
+    "totalSites": 29,
+    "totalMonthlyVisits": 1090610000
   }
 }

@@ -1,47 +1,25 @@
 {
-  "lastUpdated": "2026-03-20T11:59:49.615313+08:00",
+  "lastUpdated": "2026-03-20T14:57:59.851060+08:00",
   "config": {
     "category": "models",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "cheahjs/free-llm-api-resources",
-      "domain": "github.com",
-      "url": "https://github.com/cheahjs/free-llm-api-resources",
-      "description": "Monthly subscription based; Requires phone number verification. Limits: 30 requests/minute, 2,000 requests/day. Codestral. HuggingFace Inference Provi",
-      "monthlyVisits": 534799999,
-      "id": "github-com",
+      "name": "Openai",
+      "domain": "openai.com",
+      "url": "https://openai.com",
+      "description": "",
+      "monthlyVisits": 530000000,
+      "id": "openai-com",
       "tier": "T1",
       "trafficTrend": [
-        454579999,
-        470623999,
-        492015999,
-        508059999,
-        524103999,
-        534799999
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "The Most Visited AI Websites o",
-      "domain": "ficommerce.com",
-      "url": "https://ficommerce.com/en/the-most-visited-ai-websites-of-2026-where-is-artificial-intelligence-traffic-flowing/",
-      "description": "According to the report, Turkey ranks first in the world with a 94.4% share in AI web traffic referrals directed to ChatGPT. Morocco follows ...",
-      "monthlyVisits": 500000000,
-      "id": "ficommerce-com",
-      "tier": "T1",
-      "trafficTrend": [
-        425000000,
-        440000000,
-        460000000,
-        475000000,
-        490000000,
-        500000000
+        450500000,
+        466400000,
+        487600000,
+        503500000,
+        519400000,
+        530000000
       ],
       "type": "models",
       "features": [
@@ -72,20 +50,20 @@
       ]
     },
     {
-      "name": "10 AI Tools Businesses Are Usi",
-      "domain": "socialtraffic.ca",
-      "url": "https://socialtraffic.ca/blog/10-ai-tools-businesses-using-2026",
-      "description": "The businesses scaling in 2026 aren't just using AI, they're deploying it strategically to eliminate bottlenecks. Start with one tool that ...",
-      "monthlyVisits": 200000000,
-      "id": "socialtraffic-ca",
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "url": "https://anthropic.com",
+      "description": "",
+      "monthlyVisits": 290300000,
+      "id": "anthropic-com",
       "tier": "T1",
       "trafficTrend": [
-        170000000,
-        176000000,
-        184000000,
-        190000000,
-        196000000,
-        200000000
+        246755000,
+        255464000,
+        267076000,
+        275785000,
+        284494000,
+        290300000
       ],
       "type": "models",
       "features": [
@@ -94,12 +72,12 @@
       ]
     },
     {
-      "name": "AI Overviews Killing Traffic? ",
-      "domain": "diginyze.com",
-      "url": "https://www.diginyze.com/blog/ai-overviews-are-killing-your-traffic-what-to-do-in-2026-and-beyond/",
-      "description": "Google's AI Overviews are reshaping search visibility in 2026, causing traffic drops across eCommerce. This blog explains what's changing, ...",
+      "name": "10 AI Tools Businesses Are Usi",
+      "domain": "socialtraffic.ca",
+      "url": "https://socialtraffic.ca/blog/10-ai-tools-businesses-using-2026",
+      "description": "The businesses scaling in 2026 aren't just using AI, they're deploying it strategically to eliminate bottlenecks. Start with one tool that ...",
       "monthlyVisits": 200000000,
-      "id": "diginyze-com",
+      "id": "socialtraffic-ca",
       "tier": "T1",
       "trafficTrend": [
         170000000,
@@ -130,28 +108,6 @@
         131670000,
         135828000,
         138600000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Top 12 LLM API Providers in 20",
-      "domain": "shareai.now",
-      "url": "https://shareai.now/blog/insights/llm-api-providers/",
-      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
-      "monthlyVisits": 100000000,
-      "id": "shareai-now",
-      "tier": "T1",
-      "trafficTrend": [
-        85000000,
-        88000000,
-        92000000,
-        95000000,
-        98000000,
-        100000000
       ],
       "type": "models",
       "features": [
@@ -204,28 +160,6 @@
       ]
     },
     {
-      "name": "Best Free AI APIs for 2025: Bu",
-      "domain": "madappgang.com",
-      "url": "https://madappgang.com/blog/best-free-ai-apis-for-2025-build-with-llms-without/",
-      "description": "Top 5 free LLM API providers for developers in 2025 · Google AI Studio is your high-volume workhorse, pumping out up to one million tokens per minute ",
-      "monthlyVisits": 45000000,
-      "id": "madappgang-com",
-      "tier": "T1",
-      "trafficTrend": [
-        38250000,
-        39600000,
-        41400000,
-        42750000,
-        44100000,
-        45000000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "LLM provider with real time AP",
       "domain": "datascience.stackexchange.com",
       "url": "https://datascience.stackexchange.com/questions/131595/llm-provider-with-real-time-api-access-to-internet",
@@ -248,10 +182,10 @@
       ]
     },
     {
-      "name": "huggingface.co Website Traffic",
+      "name": "26 AI SEO Statistics for 2026 ",
       "domain": "semrush.com",
-      "url": "https://www.semrush.com/website/huggingface.co/overview/",
-      "description": "Huggingface.co's traffic has dropped by -6.55% month-on-month down to current organic search traffic. In addition, paid search traffic stays ...",
+      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
+      "description": "AI search traffic went up 527% in just a year. Here are some more AI SEO statistics—with sources.",
       "monthlyVisits": 27520000,
       "id": "semrush-com",
       "tier": "T1",
@@ -270,20 +204,20 @@
       ]
     },
     {
-      "name": "Openai",
-      "domain": "openai.com",
-      "url": "https://openai.com",
-      "description": "",
-      "monthlyVisits": 24400000,
-      "id": "openai-com",
+      "name": "Artificial Intelligence (AI) C",
+      "domain": "natlawreview.com",
+      "url": "https://natlawreview.com/press-releases/artificial-intelligence-ai-content-generation-market-2026-explore-disruptive",
+      "description": "According to our research, OpenAI led global sales in 2024 with a 4% market share. The AI Research And Development division of the company ...",
+      "monthlyVisits": 25000000,
+      "id": "natlawreview-com",
       "tier": "T1",
       "trafficTrend": [
-        20740000,
-        21472000,
-        22448000,
-        23180000,
-        23912000,
-        24400000
+        21250000,
+        22000000,
+        23000000,
+        23750000,
+        24500000,
+        25000000
       ],
       "type": "models",
       "features": [
@@ -306,50 +240,6 @@
         22135000,
         22834000,
         23300000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Anthropic",
-      "domain": "anthropic.com",
-      "url": "https://anthropic.com",
-      "description": "",
-      "monthlyVisits": 16100000,
-      "id": "anthropic-com",
-      "tier": "T1",
-      "trafficTrend": [
-        13685000,
-        14168000,
-        14812000,
-        15295000,
-        15778000,
-        16100000
-      ],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "35 AI Stats for 2026: Adoption",
-      "domain": "thedigitalelevator.com",
-      "url": "https://thedigitalelevator.com/blog/ai-stats/",
-      "description": "AI Overviews reduce clicks to websites by 34.5% (as cited). Source: SE Ranking. 68.94% of websites receive AI traffic (in the cited dataset).",
-      "monthlyVisits": 15000000,
-      "id": "thedigitalelevator-com",
-      "tier": "T1",
-      "trafficTrend": [
-        12750000,
-        13200000,
-        13800000,
-        14250000,
-        14700000,
-        15000000
       ],
       "type": "models",
       "features": [
@@ -402,12 +292,12 @@
       ]
     },
     {
-      "name": "The Best AI Visibility Platfor",
-      "domain": "lseo.com",
-      "url": "https://lseo.com/blog/uncategorized/the-best-ai-visibility-platforms-of-2026/",
-      "description": "Statistics from early 2026 suggest that organic click-through rates (CTR) decline by approximately 70% when an AI Overview is present, as users increa",
+      "name": "AI Overviews Killing Traffic? ",
+      "domain": "diginyze.com",
+      "url": "https://www.diginyze.com/blog/ai-overviews-are-killing-your-traffic-what-to-do-in-2026-and-beyond/",
+      "description": "Google's AI Overviews are reshaping search visibility in 2026, causing traffic drops across eCommerce. This blog explains what's changing, ...",
       "monthlyVisits": 12290000,
-      "id": "lseo-com",
+      "id": "diginyze-com",
       "tier": "T1",
       "trafficTrend": [
         10446500,
@@ -424,12 +314,12 @@
       ]
     },
     {
-      "name": "The 6 AI Trends That Will Actu",
-      "domain": "progress.com",
-      "url": "https://www.progress.com/blogs/the-6-ai-trends-that-will-actually-matter-in-2026",
-      "description": "The 6 AI Trends That Will Actually Matter in 2026 · Agentic AI Orchestration: · AI Coding: · Scaling Valuable AI: · Security, Governance & Controls:.",
+      "name": "The Best AI Visibility Platfor",
+      "domain": "lseo.com",
+      "url": "https://lseo.com/blog/uncategorized/the-best-ai-visibility-platforms-of-2026/",
+      "description": "Statistics from early 2026 suggest that organic click-through rates (CTR) decline by approximately 70% when an AI Overview is present, as users increa",
       "monthlyVisits": 12290000,
-      "id": "progress-com",
+      "id": "lseo-com",
       "tier": "T1",
       "trafficTrend": [
         10446500,
@@ -468,20 +358,64 @@
       ]
     },
     {
-      "name": "10 AI trends for 2026: Market ",
-      "domain": "xenoss.io",
-      "url": "https://xenoss.io/blog/ai-trends-2026",
-      "description": "Explore 10 AI trends for 2026. Get insights on market signals, technical innovations, and strategies to stay ahead of the curve.",
-      "monthlyVisits": 8000000,
-      "id": "xenoss-io",
+      "name": "AI Digital's 2026 Media Trends",
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/ai-digitals-2026-media-trends-171000636.html",
+      "description": "AI Digital's 2026 Media Trends Report Shows Industry at Inflection Point as AI Search Scales Faster Than Any Channel in History.",
+      "monthlyVisits": 12000000,
+      "id": "finance-yahoo-com",
       "tier": "T1",
       "trafficTrend": [
-        6800000,
-        7040000,
-        7360000,
-        7600000,
-        7840000,
-        8000000
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 12 LLM API Providers in 20",
+      "domain": "shareai.now",
+      "url": "https://shareai.now/blog/insights/llm-api-providers/",
+      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
+      "monthlyVisits": 12000000,
+      "id": "shareai-now",
+      "tier": "T1",
+      "trafficTrend": [
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Hugging Face in 2026: Usage, R",
+      "domain": "fueler.io",
+      "url": "https://fueler.io/blog/hugging-face-usage-revenue-valuation-growth-statistics",
+      "description": "Hugging Face serves over 18 million monthly visitors, with around 5 million registered users actively contributing to or utilizing the ...",
+      "monthlyVisits": 10000000,
+      "id": "fueler-io",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
       ],
       "type": "models",
       "features": [
@@ -515,7 +449,7 @@
       "name": "A Broke B**ch's Guide to Tech ",
       "domain": "medium.com",
       "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
-      "description": "For serverless endpoints, LLM service providers (like OpenAI, Anyscale etc.) charges you by the number of total tokens (roughly 0.75 words) ...",
+      "description": "For this article, I will focus on text based LLMs and the one thing that start-up founders sweat beyond all means: operating cost.",
       "monthlyVisits": 3120000,
       "id": "medium-com",
       "tier": "T1",
@@ -534,12 +468,34 @@
       ]
     },
     {
-      "name": "10 AI Predictions For 2026",
-      "domain": "forbes.com",
-      "url": "https://www.forbes.com/sites/robtoews/2025/12/22/10-ai-predictions-for-2026/",
-      "description": "In 2026, Anthropic will debut on public markets. It will be one of the biggest and most highly anticipated IPOs of all-time. Anthropic has ...",
+      "name": "Summary of some free LLMs APIs",
+      "domain": "2coffee.dev",
+      "url": "https://2coffee.dev/en/articles/free-llms-api-providers-summary",
+      "description": "Vercel AI Gateway is just one of them; however, they are very \"generous\" by offering users $5 in free credits monthly to call APIs. ... For more detai",
       "monthlyVisits": 3000000,
-      "id": "forbes-com",
+      "id": "2coffee-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "domain": "github.com",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "Monthly subscription based; Requires phone number verification. Limits: 30 requests/minute, 2,000 requests/day. Codestral. HuggingFace Inference Provi",
+      "monthlyVisits": 3000000,
+      "id": "github-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -622,12 +578,12 @@
       ]
     },
     {
-      "name": "Every Hugging Face Statistics ",
-      "domain": "automatorslab.ai",
-      "url": "https://automatorslab.ai/blog/guide/huggingface-statistics/",
-      "description": "18.9 Million visits in per month. (Source); 75.25% of website visitors are male; 24.75% are female. (Source); Age group 25-34 makes up 36.87 ...",
+      "name": "The Most Visited AI Websites o",
+      "domain": "ficommerce.com",
+      "url": "https://ficommerce.com/en/the-most-visited-ai-websites-of-2026-where-is-artificial-intelligence-traffic-flowing/",
+      "description": "According to the report, Turkey ranks first in the world with a 94.4% share in AI web traffic referrals directed to ChatGPT. Morocco follows ...",
       "monthlyVisits": 2000000,
-      "id": "automatorslab-ai",
+      "id": "ficommerce-com",
       "tier": "T1",
       "trafficTrend": [
         1700000,
@@ -636,6 +592,28 @@
         1900000,
         1960000,
         2000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Understanding AI Traffic in 20",
+      "domain": "verenorth.com",
+      "url": "https://www.verenorth.com/blog/understanding-ai-traffic-for-marketers/",
+      "description": "AI referral traffic accounts for 1.08% of total website traffic. · On average, AI referral traffic is growing around 1% month-over-month · 87.4% ...",
+      "monthlyVisits": 1800000,
+      "id": "verenorth-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
       ],
       "type": "models",
       "features": [
@@ -713,17 +691,17 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 32 个，占据主要流量",
+      "content": "T1 级别 31 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 2438.4M",
+      "content": "收录网站月访问总量 1879.2M",
       "color": "green"
     }
   ],
   "metrics": {
-    "totalSites": 32,
-    "totalMonthlyVisits": 2438399999
+    "totalSites": 31,
+    "totalMonthlyVisits": 1879200000
   }
 }

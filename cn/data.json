@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T11:55:19.393259+08:00",
+  "lastUpdated": "2026-03-20T14:52:44.484113+08:00",
   "config": {
     "category": "cn",
     "autoUpdate": true
@@ -20,28 +20,6 @@
         508059999,
         524103999,
         534799999
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "Ai-Nav",
-      "domain": "ai-nav.net",
-      "url": "https://ai-nav.net",
-      "description": "",
-      "monthlyVisits": 442900000,
-      "id": "ai-nav-net",
-      "tier": "T1",
-      "trafficTrend": [
-        376465000,
-        389752000,
-        407468000,
-        420755000,
-        434042000,
-        442900000
       ],
       "type": "cn",
       "features": [
@@ -138,20 +116,20 @@
       ]
     },
     {
-      "name": "AI工具集官网| 1000+ AI工具集合，国内外AI工具集",
-      "domain": "ai-bot.cn",
-      "url": "https://ai-bot.cn/",
-      "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天 ...",
-      "monthlyVisits": 37900000,
-      "id": "ai-bot-cn",
+      "name": "2026年必学AI工具推荐",
+      "domain": "sina.cn",
+      "url": "https://www.sina.cn/news/detail/5270506758737568.html",
+      "description": "介绍2026年需要掌握的10个AI工具，包括豆包、DeepSeek、Midjourney等，涵盖资料查询、图像生成、视频编辑等功能.",
+      "monthlyVisits": 21400000,
+      "id": "sina-cn",
       "tier": "T1",
       "trafficTrend": [
-        32215000,
-        33352000,
-        34868000,
-        36005000,
-        37142000,
-        37900000
+        18190000,
+        18832000,
+        19688000,
+        20330000,
+        20972000,
+        21400000
       ],
       "type": "cn",
       "features": [
@@ -182,6 +160,28 @@
       ]
     },
     {
+      "name": "Ai-Nav",
+      "domain": "ai-nav.net",
+      "url": "https://ai-nav.net",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "ai-nav-net",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
       "name": "2026全球10款最强AI工具推荐（免费、好用易上手）",
       "domain": "adspower.net",
       "url": "https://www.adspower.net/zh/blog/top-ai-tools-2026",
@@ -196,28 +196,6 @@
         8550000,
         8820000,
         9000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI工具箱| 1000+ AI工具集合，国内外AI工具集导航",
-      "domain": "ai-bio.cn",
-      "url": "https://ai-bio.cn/",
-      "description": "AI工具箱导航官网汇集了来自国内外的数百款AI工具。包含AI写作、AI图像生成与背景移除、AI视频制作、AI音频转录、AI编程辅助、AI音乐生成、AI绘画设计、AI对话聊天等 ...",
-      "monthlyVisits": 6000000,
-      "id": "ai-bio-cn",
-      "tier": "T1",
-      "trafficTrend": [
-        5100000,
-        5280000,
-        5520000,
-        5700000,
-        5880000,
-        6000000
       ],
       "type": "cn",
       "features": [
@@ -248,12 +226,12 @@
       ]
     },
     {
-      "name": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
-      "domain": "amz123.com",
-      "url": "https://www.amz123.com/ai",
-      "description": "AI工具箱导航网站，收录了国内外数百个AI工具，提供聊天、绘画、设计、音频、视频等各类精选AI工具，帮助卖家轻松找到合适的工具进行绘画创作，智能对话。",
+      "name": "2026 年最佳AI 编码工具完全指南",
+      "domain": "zhuanlan.zhihu.com",
+      "url": "https://zhuanlan.zhihu.com/p/2007189851347375957",
+      "description": "写在前面本文已收录到AI编程一站式导航。本文链接：[03.9 2026 年最佳AI 编码工具完全指南](https://code.ai80.vip/ai-tool-guides/03.9 2026 年最佳AI ...",
       "monthlyVisits": 3000000,
-      "id": "amz123-com",
+      "id": "zhuanlan-zhihu-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -270,12 +248,12 @@
       ]
     },
     {
-      "name": "2026 年最佳AI 编码工具完全指南",
-      "domain": "zhuanlan.zhihu.com",
-      "url": "https://zhuanlan.zhihu.com/p/2007189851347375957",
-      "description": "写在前面本文已收录到AI编程一站式导航。本文链接：[03.9 2026 年最佳AI 编码工具完全指南](https://code.ai80.vip/ai-tool-guides/03.9 2026 年最佳AI ...",
+      "name": "国内外AI工具导航合集",
+      "domain": "amz123.com",
+      "url": "https://www.amz123.com/ai",
+      "description": "AI工具箱导航网站，收录了国内外数百个AI工具，提供聊天、绘画、设计、音频、视频等各类精选AI工具，帮助卖家轻松找到合适的工具进行绘画创作，智能对话。",
       "monthlyVisits": 3000000,
-      "id": "zhuanlan-zhihu-com",
+      "id": "amz123-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -320,6 +298,28 @@
       "description": "AI工具成本优化方案：通过腾讯云轻量服务器搭建代理层，实现ChatGPT、Claude、Gemini等AI工具统一运行环境，月成本仅80元。采用独享密钥+随机延迟调用 ...",
       "monthlyVisits": 3000000,
       "id": "cloud-tencent-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "非凡产研：2024年11月全球AI应用流量报告",
+      "domain": "news.qq.com",
+      "url": "https://news.qq.com/rain/a/20250102A04MWT00",
+      "description": "11月份，全球用户对AI产品的访问量为111.03亿次。同时，11月份用户在AI产品上的总访问时长为11.71亿小时，数据较上月均实现大幅上涨。",
+      "monthlyVisits": 3000000,
+      "id": "news-qq-com",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -386,50 +386,6 @@
       "description": "新創公司在AI應用層面的支出，以橫向通用型的AI應用佔多數、比例高達總數的60%，其中OpenAI和Anthropic等通用大型語言模型支出最高。 Vibe coding工具的支出 ...",
       "monthlyVisits": 3000000,
       "id": "businessweekly-com-tw",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "非凡产研：2024年11月全球AI应用流量报告",
-      "domain": "news.qq.com",
-      "url": "https://news.qq.com/rain/a/20250102A04MWT00",
-      "description": "11月份，全球用户对AI产品的访问量为111.03亿次。同时，11月份用户在AI产品上的总访问时长为11.71亿小时，数据较上月均实现大幅上涨。",
-      "monthlyVisits": 3000000,
-      "id": "news-qq-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI工具导航",
-      "domain": "toolai.io",
-      "url": "https://toolai.io/zh/ranking-top",
-      "description": "工具, 介绍, 月访问量, 增长率, 操作. OpenAI, OpenAI 是营利性公司OpenAI LP，其母公司是非营利组织OpenAI Inc，从事人工智能领域的研究，其既定目标是促进和发展友好的人工 ...",
-      "monthlyVisits": 3000000,
-      "id": "toolai-io",
       "tier": "T1",
       "trafficTrend": [
         2550000,
@@ -578,6 +534,50 @@
       ]
     },
     {
+      "name": "非凡产研：2025年Q1全球AI应用流量报告",
+      "domain": "163.com",
+      "url": "https://www.163.com/dy/article/JUBEP3310556BKKI.html",
+      "description": "在2025年3月，全球AI WEB产品访问时长的Top30榜单中，ChatGPT以5.19亿小时的访问时长位居榜首，这一数字侧面印证了其在自然语言处理、智能交互等方面卓越的 ...",
+      "monthlyVisits": 1800000,
+      "id": "163-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI工具集官网| 1000+ AI工具集合，国内外AI工具集",
+      "domain": "ai-bot.cn",
+      "url": "https://ai-bot.cn/",
+      "description": "AI工具集官网收录了国内外数百个AI工具，该导航网站包括AI写作工具、AI图像生成和背景移除、AI视频制作、AI音频转录、AI辅助编程、AI音乐生成、AI绘画设计、AI对话聊天 ...",
+      "monthlyVisits": 1600000,
+      "id": "ai-bot-cn",
+      "tier": "T1",
+      "trafficTrend": [
+        1360000,
+        1408000,
+        1472000,
+        1520000,
+        1568000,
+        1600000
+      ],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
       "name": "Toolify",
       "domain": "toolify.ai/zh",
       "url": "https://toolify.ai/zh",
@@ -652,12 +652,12 @@
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 1573.3M",
+      "content": "收录网站月访问总量 1120.6M",
       "color": "green"
     }
   ],
   "metrics": {
     "totalSites": 29,
-    "totalMonthlyVisits": 1573349999
+    "totalMonthlyVisits": 1120639999
   }
 }
