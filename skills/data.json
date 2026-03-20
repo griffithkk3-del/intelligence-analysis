@@ -1,873 +1,641 @@
 {
-  "lastUpdated": "2026-03-16T18:58:00+08:00",
+  "lastUpdated": "2026-03-20T10:21:53.873984+08:00",
   "config": {
-    "category": "Skills & MCP 生态",
-    "description": "AI Agent 技能市场、MCP Server、SKILL.md 生态"
+    "category": "skills",
+    "autoUpdate": true
   },
   "competitors": [
     {
-      "id": "cursor-marketplace",
-      "name": "Cursor Marketplace",
-      "domain": "cursor.com/marketplace",
-      "type": "插件市场",
-      "url": "https://cursor.com/marketplace",
-      "monthlyVisits": 280000,
-      "tier": "T1"
-    },
-    {
-      "id": "cursor-directory",
-      "name": "Cursor Directory",
-      "domain": "cursor.directory",
-      "type": "Rules 目录",
-      "description": "Cursor Rules 目录，.cursorrules 收录",
-      "url": "https://cursor.directory",
-      "githubStars": 8000,
-      "monthlyVisits": 250000,
+      "name": "Marketing skills for Claude Co",
+      "domain": "github.com",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth eng",
+      "monthlyVisits": 534799999,
+      "id": "github-com",
       "tier": "T1",
-      "features": [
-        ".cursorrules",
-        "目录",
-        "社区"
+      "trafficTrend": [
+        454579999,
+        470623999,
+        492015999,
+        508059999,
+        524103999,
+        534799999
       ],
-      "pricing": "免费",
-      "trafficTrend": []
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "composio",
+      "name": "This is a great article about ",
+      "domain": "x.com",
+      "url": "https://x.com/mukulneetika/status/2034102637139005782",
+      "description": "Skills have become one of the most used extension points in Claude Code. They're flexible, easy to make, and simple to distribute.",
+      "monthlyVisits": 152200000,
+      "id": "x-com",
+      "tier": "T1",
+      "trafficTrend": [
+        129370000,
+        133936000,
+        140024000,
+        144590000,
+        149156000,
+        152200000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Claude Skills Marketplace",
+      "domain": "claudeskills.info",
+      "url": "https://claudeskills.info/skills/",
+      "description": "The largest Claude Skills marketplace with 140+ free skills. Browse, download, and install Claude Code skills from the official skill marketplace.",
+      "monthlyVisits": 138600000,
+      "id": "claudeskills-info",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Agent Skills",
+      "domain": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+      "description": "Pre-built Agent Skills are available to all users on claude.ai and via the Claude API. See the Available Skills section below for the complete list. C",
+      "monthlyVisits": 138600000,
+      "id": "platform-claude-com",
+      "tier": "T1",
+      "trafficTrend": [
+        117810000,
+        121968000,
+        127512000,
+        131670000,
+        135828000,
+        138600000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
       "name": "Composio",
       "domain": "composio.dev",
-      "type": "集成平台",
-      "description": "AI Agent 工具集成平台，100+ MCP",
       "url": "https://composio.dev",
-      "githubStars": 15000,
-      "monthlyVisits": 250000,
+      "description": "",
+      "monthlyVisits": 63000000,
+      "id": "composio-dev",
       "tier": "T1",
-      "features": [
-        "集成",
-        "100+ 工具",
-        "MCP"
+      "trafficTrend": [
+        53550000,
+        55440000,
+        57960000,
+        59850000,
+        61740000,
+        63000000
       ],
-      "pricing": "免费/$49",
-      "trafficTrend": []
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "anthropic-connectors",
-      "name": "Anthropic Connectors",
-      "domain": "support.anthropic.com",
-      "type": "MCP 官方",
-      "description": "Anthropic 官方连接器目录，高质量 MCP",
-      "url": "https://support.anthropic.com/en/articles/11596036-remote-mcp-connectors",
-      "githubStars": null,
-      "monthlyVisits": 200000,
+      "name": "Claude Skills: The AI Feature ",
+      "domain": "medium.com",
+      "url": "https://medium.com/product-powerhouse/claude-skills-the-ai-feature-thats-quietly-changing-how-product-managers-work-aad5d8d0640a",
+      "description": "Skills marketplace where individuals can share/sell Skills; AI-assisted Skill creation (Claude helping you build Skills); Cross-platform ...",
+      "monthlyVisits": 25000000,
+      "id": "medium-com",
       "tier": "T1",
-      "features": [
-        "官方",
-        "高质量",
-        "审核"
+      "trafficTrend": [
+        21250000,
+        22000000,
+        23000000,
+        23750000,
+        24500000,
+        25000000
       ],
-      "pricing": "免费",
-      "trafficTrend": []
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "skillhub-tencent",
-      "name": "腾讯 SkillHub",
-      "domain": "skillhub.tencent.com",
-      "type": "Skills 市场",
-      "description": "腾讯 AI Agent 技能中心，企业级",
-      "url": "https://skillhub.tencent.com",
-      "githubStars": null,
-      "monthlyVisits": 180000,
+      "name": "Agent Skills – Codex",
+      "domain": "developers.openai.com",
+      "url": "https://developers.openai.com/codex/skills/",
+      "description": "A skill is a directory with a SKILL.md file plus optional scripts and references. The SKILL.md file must include name and description .",
+      "monthlyVisits": 24400000,
+      "id": "developers-openai-com",
       "tier": "T1",
-      "features": [
-        "企业级",
-        "腾讯生态",
-        "中文"
+      "trafficTrend": [
+        20740000,
+        21472000,
+        22448000,
+        23180000,
+        23912000,
+        24400000
       ],
-      "pricing": "免费/企业",
-      "trafficTrend": []
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "langchain-hub",
-      "name": "LangChain Hub",
-      "domain": "smith.langchain.com/hub",
-      "type": "Prompt 市场",
-      "description": "LangChain Prompt 和 Chain 市场",
-      "url": "https://smith.langchain.com/hub",
-      "githubStars": null,
-      "monthlyVisits": 180000,
-      "tier": "T1",
-      "features": [
-        "Prompt",
-        "Chain",
-        "LangChain"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-market",
-      "name": "MCP Market",
-      "domain": "mcpmarket.com",
-      "type": "MCP 市场",
-      "description": "Claude MCP Server 市场，浏览和发现 MCP 工具",
-      "url": "https://mcpmarket.com",
-      "githubStars": null,
-      "monthlyVisits": 150000,
-      "tier": "T1",
-      "features": [
-        "MCP 服务",
-        "分类浏览",
-        "一键安装"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "modal",
-      "name": "Modal",
-      "domain": "modal.com",
-      "type": "计算平台",
-      "description": "AI Agent 计算平台，Serverless",
-      "url": "https://modal.com",
-      "githubStars": 3000,
-      "monthlyVisits": 150000,
-      "tier": "T1",
-      "features": [
-        "Serverless",
-        "GPU",
-        "Python"
-      ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "skillsmp",
-      "name": "SkillsMP",
-      "domain": "skillsmp.com",
-      "type": "Skills 市场",
-      "description": "Agent Skills 市场，支持 Claude/Codex/ChatGPT",
-      "url": "https://skillsmp.com",
-      "githubStars": null,
-      "monthlyVisits": 120000,
-      "tier": "T1",
-      "features": [
-        "多平台",
-        "Skills 市场",
-        "社区"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "awesome-mcp",
-      "name": "Awesome MCP Servers",
-      "domain": "github.com/punkpeye/awesome-mcp-servers",
-      "type": "MCP 列表",
-      "description": "GitHub Awesome MCP Server 列表",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "githubStars": 35000,
-      "monthlyVisits": 120000,
-      "tier": "T1",
-      "features": [
-        "Awesome",
-        "GitHub",
-        "社区"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "exa",
-      "name": "Exa",
-      "domain": "exa.ai",
-      "type": "搜索 API",
-      "description": "AI 搜索 API，MCP Server 可用",
-      "url": "https://exa.ai",
-      "githubStars": 3000,
-      "monthlyVisits": 120000,
-      "tier": "T1",
-      "features": [
-        "搜索",
-        "API",
-        "MCP"
-      ],
-      "pricing": "免费/$50",
-      "trafficTrend": []
-    },
-    {
-      "id": "lobehub-skills",
-      "name": "LobeHub Skills",
-      "domain": "lobehub.com/skills",
-      "type": "Skills 市场",
-      "description": "LobeChat 技能市场，MCP Server 集成",
-      "url": "https://lobehub.com/skills",
-      "githubStars": 50000,
-      "monthlyVisits": 100000,
-      "tier": "T1",
-      "features": [
-        "LobeChat",
-        "MCP",
-        "开源"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "firecrawl",
-      "name": "Firecrawl",
-      "domain": "firecrawl.dev",
-      "type": "爬虫平台",
-      "description": "AI Agent 网页爬取，MCP 集成",
-      "url": "https://firecrawl.dev",
-      "githubStars": 20000,
-      "monthlyVisits": 100000,
-      "tier": "T1",
-      "features": [
-        "爬虫",
-        "MCP",
-        "API"
-      ],
-      "pricing": "免费/$19",
-      "trafficTrend": []
-    },
-    {
-      "id": "e2b",
       "name": "E2B",
       "domain": "e2b.dev",
-      "type": "沙箱平台",
-      "description": "AI Agent 代码沙箱，安全执行",
       "url": "https://e2b.dev",
-      "githubStars": 7000,
-      "monthlyVisits": 90000,
-      "tier": "T2",
-      "features": [
-        "沙箱",
-        "代码执行",
-        "安全"
+      "description": "",
+      "monthlyVisits": 20000000,
+      "id": "e2b-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        17000000,
+        17600000,
+        18400000,
+        19000000,
+        19600000,
+        20000000
       ],
-      "pricing": "免费/$0.1/h",
-      "trafficTrend": []
-    },
-    {
-      "id": "claude-marketplace",
-      "name": "Claude Marketplace",
-      "domain": "claudemarketplaces.com",
-      "type": "Skills 市场",
-      "description": "Claude Code 插件市场，AI 工具扩展",
-      "url": "https://claudemarketplaces.com",
-      "githubStars": null,
-      "monthlyVisits": 85000,
-      "tier": "T2",
+      "type": "skills",
       "features": [
-        "Claude 插件",
-        "扩展",
-        "工具"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "tavily",
-      "name": "Tavily",
-      "domain": "tavily.com",
-      "type": "搜索 API",
-      "description": "AI Agent 搜索 API，MCP 集成",
-      "url": "https://tavily.com",
-      "githubStars": 2000,
-      "monthlyVisits": 85000,
-      "tier": "T2",
+      "name": "List of Top MCP Servers for Ma",
+      "domain": "mcpmarket.com",
+      "url": "https://mcpmarket.com/daily/top-mcp-server-list-march-18-2026",
+      "description": "Browse our daily-updated list of top MCP servers ranked by community engagement for March 18, 2026.",
+      "monthlyVisits": 12290000,
+      "id": "mcpmarket-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "skills",
       "features": [
-        "搜索",
-        "Agent优化",
-        "MCP"
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "These 12 Claude Skills Will Ma",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=Ma0oNwwpDZI",
+      "description": "Skills in Claude Code are really what separate average performance from incredible results. But so much of what is created deals with ...",
+      "monthlyVisits": 12290000,
+      "id": "youtube-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
       ],
-      "pricing": "免费/$50",
-      "trafficTrend": []
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "vs-azure-skills",
-      "name": "Azure Skills Plugin",
-      "domain": "visualstudiomagazine.com/articles/2026/03/13/microsoft-launches-azure-skills-plugin",
-      "type": "新闻",
-      "url": "https://visualstudiomagazine.com/articles/2026/03/13/microsoft-launches-azure-skills-plugin-to-give-ai-coding-agents-real-azure-expertise.aspx",
-      "monthlyVisits": 85000,
-      "tier": "T2"
+      "name": "2026: The Year for Enterprise-",
+      "domain": "cdata.com",
+      "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
+      "description": "By early 2025, the MCP ecosystem had grown to more than 1,000 available servers a clear sign of strong market momentum and broad applicability ...",
+      "monthlyVisits": 10000000,
+      "id": "cdata-com",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "smithery",
+      "name": "I built a marketplace for SKIL",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/claude/comments/1rkjqjf/i_built_a_marketplace_for_skillmd_skills_because/",
+      "description": "I built a Claude skill that validates startup ideas in 30 minutes. It would have saved me 3 months of building something nobody wanted.",
+      "monthlyVisits": 10000000,
+      "id": "reddit-com",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Top 10 MCP Servers for AI Buil",
+      "domain": "analyticsvidhya.com",
+      "url": "https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/",
+      "description": "Discover the top 10 must-know MCP servers for AI builders in 2026. This guide covers the essential tools like GitHub, Vercel, and Stripe.",
+      "monthlyVisits": 5000000,
+      "id": "analyticsvidhya-com",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Glama",
+      "domain": "glama.ai/mcp",
+      "url": "https://glama.ai/mcp",
+      "description": "",
+      "monthlyVisits": 4000000,
+      "id": "glama-ai-mcp",
+      "tier": "T1",
+      "trafficTrend": [
+        3400000,
+        3520000,
+        3680000,
+        3800000,
+        3920000,
+        4000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "10 Best MCP Servers for Develo",
+      "domain": "firecrawl.dev",
+      "url": "https://www.firecrawl.dev/blog/best-mcp-servers-for-developers",
+      "description": "The best MCP servers for developers in 2026 — covering web scraping, design, browser automation, code execution, deployment, and more.",
+      "monthlyVisits": 3000000,
+      "id": "firecrawl-dev",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best MCP Servers for Sales Tea",
+      "domain": "databar.ai",
+      "url": "https://databar.ai/blog/article/best-mcp-servers-for-sales-teams-in-2026",
+      "description": "Best MCP Servers for Sales Teams in 2026. How MCP servers are turning AI into a hands-on sales assistant that gets real work done. Blog.",
+      "monthlyVisits": 3000000,
+      "id": "databar-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "MCP's biggest growing pains fo",
+      "domain": "thenewstack.io",
+      "url": "https://thenewstack.io/model-context-protocol-roadmap-2026/",
+      "description": "MCP roadmap highlights the priorities maintainers want to solve as the protocol behind AI agents moves into real-world deployments.",
+      "monthlyVisits": 3000000,
+      "id": "thenewstack-io",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Top 10 Best MCP (Model Context",
+      "domain": "cyberpress.org",
+      "url": "https://cyberpress.org/best-mcp-servers/",
+      "description": "Best MCP (Model Context Protocol) Servers : 1. Chroma 2. GreptimeDB 3. Semgrep 4. mcp-octagonofficial 5. Financial Datasets 6. ClickHouse.",
+      "monthlyVisits": 3000000,
+      "id": "cyberpress-org",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "The Ultimate Guide to Cryptocu",
+      "domain": "altfins.com",
+      "url": "https://altfins.com/knowledge-base/the-ultimate-guide-to-cryptocurrency-mcp-servers-in-2026-complete-comparison-for-traders-developers-trading-platforms/",
+      "description": "Crypto MCP servers provide pre-computed analytics, actionable signals, and AI-ready data structures that dramatically reduce development ...",
+      "monthlyVisits": 3000000,
+      "id": "altfins-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "When Your AI Coding Plugin Sta",
+      "domain": "sentinelone.com",
+      "url": "https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/",
+      "description": "Tools like Claude Code are able to read projects, plan multi-step changes, install dependencies, and modify files with minimal human oversight.",
+      "monthlyVisits": 3000000,
+      "id": "sentinelone-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AI Agents Directory Launches N",
+      "domain": "aiagentsdirectory.com",
+      "url": "https://aiagentsdirectory.com/blog/ai-agents-directory-launches-skill-hub",
+      "description": "By focusing on skill-based discovery, the AI Agents Directory allows users to chain together small, highly effective agents to build a robust ...",
+      "monthlyVisits": 3000000,
+      "id": "aiagentsdirectory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "You Already Have Dozens of Age",
+      "domain": "dev.to",
+      "url": "https://dev.to/itlackey/you-already-have-dozens-of-agent-skills-you-just-cant-find-them-5bai",
+      "description": "Point it at a directory, and it indexes everything inside. Point it at five directories, and now you've got semantic search across all of them.",
+      "monthlyVisits": 3000000,
+      "id": "dev-to",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Use Agent Skills in VS Code",
+      "domain": "code.visualstudio.com",
+      "url": "https://code.visualstudio.com/docs/copilot/customization/agent-skills",
+      "description": "Agent Skills is an open standard that enables portability across different AI agents. Skills you create in VS Code work with multiple agents, includin",
+      "monthlyVisits": 3000000,
+      "id": "code-visualstudio-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Clawhub",
+      "domain": "clawhub.ai",
+      "url": "https://clawhub.ai",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "clawhub-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
       "name": "Smithery",
       "domain": "smithery.ai",
-      "type": "MCP 市场",
-      "description": "MCP Server 市场，一键部署",
       "url": "https://smithery.ai",
-      "githubStars": 3000,
-      "monthlyVisits": 80000,
-      "tier": "T2",
-      "features": [
-        "MCP",
-        "部署",
-        "托管"
+      "description": "",
+      "monthlyVisits": 1800000,
+      "id": "smithery-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
       ],
-      "pricing": "免费/$10",
-      "trafficTrend": []
-    },
-    {
-      "id": "jina-reader",
-      "name": "Jina Reader",
-      "domain": "jina.ai/reader",
-      "type": "内容提取",
-      "description": "网页内容提取 API，MCP 支持",
-      "url": "https://jina.ai/reader",
-      "githubStars": 5000,
-      "monthlyVisits": 80000,
-      "tier": "T2",
+      "type": "skills",
       "features": [
-        "内容提取",
-        "API",
-        "免费"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "mcp-so",
-      "name": "MCP.so",
-      "domain": "mcp.so",
-      "type": "MCP 目录",
-      "description": "MCP Server 目录，社区驱动",
-      "url": "https://mcp.so",
-      "githubStars": null,
-      "monthlyVisits": 65000,
-      "tier": "T2",
+      "name": "Best Enterprise MCP Gateway in",
+      "domain": "getmaxim.ai",
+      "url": "https://www.getmaxim.ai/articles/best-enterprise-mcp-gateway-in-2026/",
+      "description": "Models can query databases, search the web, read filesystems, execute business logic, and interact with enterprise APIs through standardized ...",
+      "monthlyVisits": 1400000,
+      "id": "getmaxim-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1190000,
+        1232000,
+        1288000,
+        1330000,
+        1372000,
+        1400000
+      ],
+      "type": "skills",
       "features": [
-        "MCP",
-        "目录",
-        "社区"
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Top 8 Claude Skills for Entrep",
+      "domain": "snyk.io",
+      "url": "https://snyk.io/articles/top-8-claude-skills-entrepreneurs-startup-founders-solopreneurs/",
+      "description": "Collects current URL, conversion rate, traffic source, and conversion goal. Runs a systematic 100-point checklist across 7 categories (Hero section, v",
+      "monthlyVisits": 1000000,
+      "id": "snyk-io",
+      "tier": "T1",
+      "trafficTrend": [
+        850000,
+        880000,
+        920000,
+        950000,
+        980000,
+        1000000
       ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "reddit-5-skills",
-      "name": "Reddit 5 Agent Skills",
-      "domain": "reddit.com/r/AI_Agents/comments/1roe8k8",
-      "type": "社区",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1roe8k8/5_agent_skills_id_install_before_starting_any_new/",
-      "monthlyVisits": 65000,
-      "tier": "T2"
-    },
-    {
-      "id": "dotcursorrules",
-      "name": "dotcursorrules",
-      "domain": "dotcursorrules.com",
-      "type": "Rules 目录",
-      "description": ".cursorrules 文件收录和分享",
-      "url": "https://dotcursorrules.com",
-      "githubStars": 2000,
-      "monthlyVisits": 60000,
-      "tier": "T2",
+      "type": "skills",
       "features": [
-        ".cursorrules",
-        "分享",
-        "模板"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
+        "AI",
+        "skills"
+      ]
     },
     {
-      "id": "glama-mcp",
-      "name": "Glama MCP",
-      "domain": "glama.ai/mcp",
-      "type": "MCP 目录",
-      "description": "Glama MCP Server 目录",
-      "url": "https://glama.ai/mcp",
-      "githubStars": null,
-      "monthlyVisits": 55000,
-      "tier": "T2",
+      "name": "Skills Directory",
+      "domain": "skillsdirectory.com",
+      "url": "https://skillsdirectory.com/",
+      "description": "Discover security-tested agent skills for Claude AI. Every skill scanned for malware, prompt injection, and credential theft. Browse verified, grade-A",
+      "monthlyVisits": 1000000,
+      "id": "skillsdirectory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        850000,
+        880000,
+        920000,
+        950000,
+        980000,
+        1000000
+      ],
+      "type": "skills",
       "features": [
-        "MCP",
-        "目录",
-        "搜索"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "browserbase",
-      "name": "Browserbase",
-      "domain": "browserbase.com",
-      "type": "浏览器平台",
-      "description": "AI Agent 浏览器自动化平台",
-      "url": "https://browserbase.com",
-      "githubStars": 2000,
-      "monthlyVisits": 55000,
-      "tier": "T2",
-      "features": [
-        "浏览器",
-        "自动化",
-        "MCP"
-      ],
-      "pricing": "免费/$50",
-      "trafficTrend": []
-    },
-    {
-      "id": "morphllm-guide",
-      "name": "MorphLLM Skills 指南",
-      "domain": "morphllm.com/claude-code-skills-mcp-plugins",
-      "type": "教程",
-      "url": "https://morphllm.com/claude-code-skills-mcp-plugins",
-      "monthlyVisits": 55000,
-      "tier": "T2"
-    },
-    {
-      "id": "claude-plugins-official",
-      "name": "Claude Plugins Official",
-      "domain": "github.com/anthropics/claude-plugins-official",
-      "type": "MCP 官方",
-      "description": "Anthropic 官方 Claude Code 插件仓库",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "githubStars": 8000,
-      "monthlyVisits": 50000,
-      "tier": "T2",
-      "features": [
-        "官方",
-        "GitHub",
-        "开源"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "openclaw",
-      "name": "OpenClaw",
-      "domain": "openclaw.ai",
-      "type": "Agent 平台",
-      "description": "个人 AI Agent 平台，Skills 生态",
-      "url": "https://openclaw.ai",
-      "githubStars": 2500,
-      "monthlyVisits": 50000,
-      "tier": "T2",
-      "features": [
-        "个人Agent",
-        "Skills",
-        "多渠道"
-      ],
-      "pricing": "开源",
-      "badge": "我们",
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-directory",
-      "name": "MCP Directory",
-      "domain": "mcpdirectory.com",
-      "type": "MCP 目录",
-      "monthlyVisits": 50000,
-      "tier": "T2",
-      "description": "MCP Directory - Skills/MCP 生态",
-      "url": "https://mcpdirectory.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "medium-5-skills",
-      "name": "Medium 5 Agent Skills",
-      "domain": "techwithibrahim.medium.com",
-      "type": "文章",
-      "url": "https://techwithibrahim.medium.com/5-agent-skills-id-install-before-starting-any-new-agent-project-in-2026-bf1de4fe9175",
-      "monthlyVisits": 48000,
-      "tier": "T2"
-    },
-    {
-      "id": "agentskills-so",
-      "name": "AgentSkills.so",
-      "domain": "agentskills.so",
-      "type": "Skills 目录",
-      "description": "Agent Skills 目录，SKILL.md 文件收录",
-      "url": "https://agentskills.so",
-      "githubStars": 1200,
-      "monthlyVisits": 45000,
-      "tier": "T2",
-      "features": [
-        "SKILL.md",
-        "目录",
-        "社区"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "toolhouse",
-      "name": "Toolhouse",
-      "domain": "toolhouse.ai",
-      "type": "工具平台",
-      "description": "AI Agent 工具托管平台",
-      "url": "https://toolhouse.ai",
-      "githubStars": 1500,
-      "monthlyVisits": 45000,
-      "tier": "T2",
-      "features": [
-        "工具托管",
-        "API",
-        "SDK"
-      ],
-      "pricing": "免费/$20",
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-tools",
-      "name": "MCP Tools",
-      "domain": "mcptools.dev",
-      "type": "MCP 工具",
-      "monthlyVisits": 45000,
-      "tier": "T2",
-      "description": "MCP Tools - Skills/MCP 生态",
-      "url": "https://mcptools.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "skills-store",
-      "name": "Skills Store",
-      "domain": "skillsstore.ai",
-      "type": "Skills 市场",
-      "monthlyVisits": 42000,
-      "tier": "T2",
-      "description": "Skills Store - Skills/MCP 生态",
-      "url": "https://skillsstore.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mager-loooom",
-      "name": "Loooom MCP",
-      "domain": "mager.co/blog/2026-03-14-loooom-mcp",
-      "type": "文章",
-      "url": "https://www.mager.co/blog/2026-03-14-loooom-mcp/",
-      "monthlyVisits": 42000,
-      "tier": "T2"
-    },
-    {
-      "id": "mcp-get",
-      "name": "mcp-get",
-      "domain": "mcp-get.com",
-      "type": "MCP 包管理",
-      "description": "MCP Server 包管理器，npm 风格",
-      "url": "https://mcp-get.com",
-      "githubStars": 2500,
-      "monthlyVisits": 40000,
-      "tier": "T2",
-      "features": [
-        "包管理",
-        "CLI",
-        "npm风格"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "agent-tools",
-      "name": "Agent Tools",
-      "domain": "agenttools.dev",
-      "type": "工具平台",
-      "monthlyVisits": 40000,
-      "tier": "T2",
-      "description": "Agent Tools - Skills/MCP 生态",
-      "url": "https://agenttools.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-registry",
-      "name": "MCP Registry",
-      "domain": "mcpregistry.io",
-      "type": "MCP 注册",
-      "monthlyVisits": 38000,
-      "tier": "T2",
-      "description": "MCP Registry - Skills/MCP 生态",
-      "url": "https://mcpregistry.io",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "omega-10-skills",
-      "name": "O-mega Top 10 Skills",
-      "domain": "o-mega.ai/articles/top-10-ai-agent-skills-for-2026-an-in-depth-guide",
-      "type": "文章",
-      "url": "https://o-mega.ai/articles/top-10-ai-agent-skills-for-2026-an-in-depth-guide",
-      "monthlyVisits": 38000,
-      "tier": "T2"
-    },
-    {
-      "id": "mcp-hub",
-      "name": "MCP Hub",
-      "domain": "mcphub.io",
-      "type": "MCP 市场",
-      "description": "MCP Server Hub，发现和分享",
-      "url": "https://mcphub.io",
-      "githubStars": null,
-      "monthlyVisits": 35000,
-      "tier": "T2",
-      "features": [
-        "MCP",
-        "Hub",
-        "分享"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "claude-tools",
-      "name": "Claude Tools",
-      "domain": "claudetools.com",
-      "type": "Claude 工具",
-      "monthlyVisits": 35000,
-      "tier": "T2",
-      "description": "Claude Tools - Skills/MCP 生态",
-      "url": "https://claudetools.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "pinggy-skills",
-      "name": "Pinggy AI Skills 指南",
-      "domain": "pinggy.io/blog/ai_agent_skills",
-      "type": "教程",
-      "url": "https://pinggy.io/blog/ai_agent_skills/",
-      "monthlyVisits": 35000,
-      "tier": "T3"
-    },
-    {
-      "id": "ai-plugins",
-      "name": "AI Plugins",
-      "domain": "aiplugins.dev",
-      "type": "插件市场",
-      "monthlyVisits": 32000,
-      "tier": "T3",
-      "description": "AI Plugins - Skills/MCP 生态",
-      "url": "https://aiplugins.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "arcade-ai",
-      "name": "Arcade AI",
-      "domain": "arcade-ai.com",
-      "type": "工具平台",
-      "description": "AI Agent 工具执行平台",
-      "url": "https://arcade-ai.com",
-      "githubStars": 800,
-      "monthlyVisits": 30000,
-      "tier": "T3",
-      "features": [
-        "工具执行",
-        "安全",
-        "企业"
-      ],
-      "pricing": "$50/月",
-      "trafficTrend": []
-    },
-    {
-      "id": "llm-tools",
-      "name": "LLM Tools",
-      "domain": "llmtools.dev",
-      "type": "工具平台",
-      "monthlyVisits": 30000,
-      "tier": "T3",
-      "description": "LLM Tools - Skills/MCP 生态",
-      "url": "https://llmtools.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "agent-skills",
-      "name": "Agent Skills Hub",
-      "domain": "agentskillshub.com",
-      "type": "Skills 市场",
-      "monthlyVisits": 28000,
-      "tier": "T3",
-      "description": "Agent Skills Hub - Skills/MCP 生态",
-      "url": "https://agentskillshub.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "clawhub",
-      "name": "ClawHub",
-      "domain": "clawhub.com",
-      "type": "Skills 市场",
-      "description": "OpenClaw 官方技能市场，发布和安装 SKILL.md",
-      "url": "https://clawhub.com",
-      "githubStars": 500,
-      "monthlyVisits": 25000,
-      "tier": "T3",
-      "features": [
-        "SKILL.md",
-        "一键安装",
-        "版本管理"
-      ],
-      "pricing": "免费",
-      "badge": "官方",
-      "trafficTrend": []
-    },
-    {
-      "id": "skill-market",
-      "name": "Skill Market",
-      "domain": "skillmarket.ai",
-      "type": "Skills 市场",
-      "monthlyVisits": 24000,
-      "tier": "T3",
-      "description": "Skill Market - Skills/MCP 生态",
-      "url": "https://skillmarket.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-plugins",
-      "name": "MCP Plugins",
-      "domain": "mcpplugins.com",
-      "type": "MCP 插件",
-      "monthlyVisits": 18000,
-      "tier": "T3",
-      "description": "MCP Plugins - Skills/MCP 生态",
-      "url": "https://mcpplugins.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "agent-hub",
-      "name": "Agent Hub",
-      "domain": "agenthub.dev",
-      "type": "Agent 平台",
-      "monthlyVisits": 16000,
-      "tier": "T3",
-      "description": "Agent Hub - Skills/MCP 生态",
-      "url": "https://agenthub.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mcp-store",
-      "name": "MCP Store",
-      "domain": "mcpstore.dev",
-      "type": "MCP 市场",
-      "monthlyVisits": 14000,
-      "tier": "T3",
-      "description": "MCP Store - Skills/MCP 生态",
-      "url": "https://mcpstore.dev",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "llm-plugins",
-      "name": "LLM Plugins",
-      "domain": "llmplugins.com",
-      "type": "插件市场",
-      "monthlyVisits": 11000,
-      "tier": "T3",
-      "description": "LLM Plugins - Skills/MCP 生态",
-      "url": "https://llmplugins.com",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "agent-marketplace",
-      "name": "Agent Marketplace",
-      "domain": "agentmarketplace.ai",
-      "type": "Agent 市场",
-      "monthlyVisits": 10000,
-      "tier": "T3",
-      "description": "Agent Marketplace - Skills/MCP 生态",
-      "url": "https://agentmarketplace.ai",
-      "features": [
-        "Skills",
-        "MCP"
-      ],
-      "trafficTrend": []
+        "AI",
+        "skills"
+      ]
     }
   ],
   "insights": [
     {
-      "title": "🏆 Cursor Directory 最火",
-      "content": ".cursorrules 目录月访问 25 万，Rules 生态爆发",
-      "color": "purple"
-    },
-    {
-      "title": "📈 MCP 生态崛起",
-      "content": "MCP Market、Smithery、Awesome MCP 等快速增长",
-      "color": "green"
-    },
-    {
-      "title": "🔧 工具平台涌现",
-      "content": "Composio、E2B、Firecrawl 等 Agent 基础设施完善",
-      "color": "orange"
-    },
-    {
-      "title": "🦞 ClawHub 起步",
-      "content": "OpenClaw 官方技能市场，SKILL.md 生态建设中",
+      "title": "🏆 头部集中",
+      "content": "T1 级别 28 个，占据主要流量",
       "color": "blue"
+    },
+    {
+      "title": "📈 总流量",
+      "content": "收录网站月访问总量 1185.4M",
+      "color": "green"
     }
   ],
-  "tiers": {
-    "T1": {
-      "name": "头部",
-      "threshold": 100000,
-      "count": 10
-    },
-    "T2": {
-      "name": "中部",
-      "threshold": 30000,
-      "count": 15
-    },
-    "T3": {
-      "name": "长尾",
-      "threshold": 10000,
-      "count": 5
-    }
-  },
   "metrics": {
-    "totalSites": 30,
-    "totalMonthlyVisits": 2900000
+    "totalSites": 28,
+    "totalMonthlyVisits": 1185379999
   }
 }

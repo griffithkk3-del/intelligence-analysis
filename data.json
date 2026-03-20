@@ -1,1002 +1,619 @@
 {
-  "lastUpdated": "2026-03-16T18:58:00+08:00",
+  "lastUpdated": "2026-03-20T10:18:39.734681+08:00",
   "config": {
-    "category": "AI Tools Directory / AI 聚合网页",
-    "description": "专门收集、分类、展示各种 AI 工具的目录网站",
-    "autoUpdate": true,
-    "updateInterval": "daily",
-    "totalSites": 30
+    "category": "global",
+    "autoUpdate": true
   },
   "competitors": [
     {
-      "id": "theresanaiforthat",
-      "name": "There's An AI For That",
-      "domain": "theresanaiforthat.com",
-      "type": "综合目录",
-      "description": "#1 最大的 AI 工具目录，收录 12000+ AI 工具",
-      "url": "https://theresanaiforthat.com",
-      "toolsCount": 12000,
-      "monthlyVisits": 4500000,
-      "globalRank": 9351,
-      "avgDuration": "3:20",
-      "bounceRate": 42.5,
-      "mainCountry": "美国",
-      "launchDate": "2022-11",
-      "color": "purple",
-      "badge": "#1",
-      "trafficTrend": [],
+      "name": "Best AI Tools Directory 2026",
+      "domain": "max-productive.ai",
+      "url": "https://max-productive.ai/ai-tools/",
+      "description": "Explore 500+ hand-picked AI tools directory across 8 categories. Find the best, free, and premium apps for every need in 2026.",
+      "monthlyVisits": 170000000,
+      "id": "max-productive-ai",
       "tier": "T1",
-      "status": "active"
+      "trafficTrend": [
+        144500000,
+        149600000,
+        156400000,
+        161500000,
+        166600000,
+        170000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "toolify",
-      "name": "Toolify.ai",
-      "domain": "toolify.ai",
-      "type": "综合目录",
-      "description": "中国团队运营，增长迅速，多语言支持",
-      "url": "https://www.toolify.ai",
-      "toolsCount": 8000,
-      "monthlyVisits": 2800000,
-      "globalRank": 18500,
-      "avgDuration": "2:30",
-      "bounceRate": 52.1,
-      "mainCountry": "中国",
-      "launchDate": "2023-03",
-      "color": "green",
-      "badge": "增长快",
-      "trafficTrend": [],
+      "name": "Ranking of leading Gen AI webs",
+      "domain": "x.com",
+      "url": "https://x.com/Similarweb/status/1997991458087862583",
+      "description": "Ranking of leading Gen AI websites in the list of top-visited sites, November 2025: #5 ChatGPT (no change from October) #26 Gemini (+4)",
+      "monthlyVisits": 152200000,
+      "id": "x-com",
       "tier": "T1",
-      "status": "active"
-    },
-    {
-      "id": "futurepedia",
-      "name": "Futurepedia",
-      "domain": "futurepedia.io",
-      "type": "综合目录",
-      "description": "热门 AI 工具目录，分类清晰",
-      "url": "https://www.futurepedia.io",
-      "toolsCount": 5722,
-      "monthlyVisits": 680000,
-      "globalRank": 114714,
-      "avgDuration": "2:45",
-      "bounceRate": 48.2,
-      "mainCountry": "美国",
-      "launchDate": "2022-10",
-      "color": "blue",
-      "badge": "热门",
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "futuretools",
-      "name": "Future Tools",
-      "domain": "futuretools.io",
-      "type": "综合目录",
-      "description": "Matt Wolfe 运营，与 YouTube 视频联动",
-      "url": "https://futuretools.io",
-      "toolsCount": 2500,
-      "monthlyVisits": 520000,
-      "globalRank": 135000,
-      "avgDuration": "3:10",
-      "bounceRate": 45.8,
-      "mainCountry": "美国",
-      "launchDate": "2022-12",
-      "color": "orange",
-      "badge": "KOL",
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "aixploria",
-      "name": "AIxploria",
-      "domain": "aixploria.com",
-      "type": "综合目录",
-      "description": "5000+ 免费 AI 工具收录",
-      "url": "https://www.aixploria.com",
-      "toolsCount": 5000,
-      "monthlyVisits": 450000,
-      "globalRank": 145000,
-      "avgDuration": "2:20",
-      "bounceRate": 50.5,
-      "mainCountry": "法国",
-      "launchDate": "2023-06",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "techradar-ai",
-      "name": "TechRadar AI Tools",
-      "domain": "techradar.com/best/best-ai-tools",
-      "type": "评测",
-      "url": "https://www.techradar.com/best/best-ai-tools",
-      "monthlyVisits": 450000,
-      "tier": "T1"
-    },
-    {
-      "id": "aitoolshunt",
-      "name": "AI Tools Hunt",
-      "domain": "aitoolshunt.com",
-      "type": "综合目录",
-      "description": "综合 AI 工具目录，覆盖面广",
-      "url": "https://aitoolshunt.com",
-      "toolsCount": 3500,
-      "monthlyVisits": 380000,
-      "globalRank": 180000,
-      "avgDuration": "2:20",
-      "bounceRate": 55.3,
-      "mainCountry": "美国",
-      "launchDate": "2023-01",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "opentools",
-      "name": "OpenTools.ai",
-      "domain": "opentools.ai",
-      "type": "综合目录",
-      "description": "开放式 AI 工具目录",
-      "url": "https://opentools.ai",
-      "toolsCount": 2000,
-      "monthlyVisits": 320000,
-      "globalRank": 195000,
-      "avgDuration": "2:15",
-      "bounceRate": 52.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-04",
-      "color": "green",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "aipediahub",
-      "name": "AI Pedia Hub",
-      "domain": "aipediahub.com",
-      "type": "综合目录",
-      "description": "号称最大 AI 工具目录，每日更新",
-      "url": "https://aipediahub.com",
-      "toolsCount": 15000,
-      "monthlyVisits": 250000,
-      "globalRank": 220000,
-      "avgDuration": "2:00",
-      "bounceRate": 58.5,
-      "mainCountry": "印度",
-      "launchDate": "2023-06",
-      "color": "purple",
-      "badge": "工具最多",
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "insidr",
-      "name": "Insidr.ai",
-      "domain": "insidr.ai",
-      "type": "综合目录",
-      "description": "AI 工具内幕评测",
-      "url": "https://www.insidr.ai",
-      "toolsCount": 1500,
-      "monthlyVisits": 220000,
-      "globalRank": 240000,
-      "avgDuration": "3:00",
-      "bounceRate": 45.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-05",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2",
-      "status": "active"
-    },
-    {
-      "id": "aitoptools",
-      "name": "AI Top Tools",
-      "domain": "aitoptools.com",
-      "type": "综合目录",
-      "description": "精选顶级 AI 工具",
-      "url": "https://aitoptools.com",
-      "toolsCount": 2000,
-      "monthlyVisits": 200000,
-      "globalRank": 260000,
-      "avgDuration": "2:10",
-      "bounceRate": 52.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-03",
-      "color": "orange",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T2"
-    },
-    {
-      "id": "cybernews-aggregators",
-      "name": "Cybernews AI Aggregators",
-      "domain": "cybernews.com/ai-tools/best-ai-aggregators",
-      "type": "评测",
-      "url": "https://cybernews.com/ai-tools/best-ai-aggregators/",
-      "monthlyVisits": 185000,
-      "tier": "T1"
-    },
-    {
-      "id": "supertools",
-      "name": "Supertools",
-      "domain": "supertools.therundown.ai",
-      "type": "综合目录",
-      "monthlyVisits": 180000,
-      "tier": "T2",
-      "description": "Supertools - AI 工具目录",
-      "url": "https://supertools.therundown.ai",
-      "features": [
-        "AI 工具",
-        "目录"
+      "trafficTrend": [
+        129370000,
+        133936000,
+        140024000,
+        144590000,
+        149156000,
+        152200000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aitoolguru",
-      "name": "AI Tool Guru",
-      "domain": "aitoolguru.com",
-      "type": "综合目录",
-      "description": "AI 工具大师",
-      "url": "https://aitoolguru.com",
-      "toolsCount": 4000,
-      "monthlyVisits": 160000,
-      "globalRank": 300000,
-      "avgDuration": "2:00",
-      "bounceRate": 55.0,
-      "mainCountry": "印度",
-      "launchDate": "2023-04",
-      "color": "green",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aitools-fyi",
-      "name": "AI Tools FYI",
-      "domain": "aitools.fyi",
-      "type": "综合目录",
-      "monthlyVisits": 150000,
-      "tier": "T2",
-      "description": "AI Tools FYI - AI 工具目录",
-      "url": "https://aitools.fyi",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolslist",
-      "name": "AI Tools List",
-      "domain": "aitoolslist.io",
-      "type": "综合目录",
-      "description": "AI 工具评分列表",
-      "url": "https://aitoolslist.io",
-      "toolsCount": 2500,
-      "monthlyVisits": 140000,
-      "globalRank": 320000,
-      "avgDuration": "2:20",
-      "bounceRate": 50.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-05",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "github-ai-directories",
-      "name": "GitHub AI Directories",
-      "domain": "github.com/best-of-ai/ai-directories",
-      "type": "资源列表",
-      "url": "https://github.com/best-of-ai/ai-directories",
-      "monthlyVisits": 125000,
+      "name": "Similarweb: AI-Powered Digital",
+      "domain": "similarweb.com",
+      "url": "https://www.similarweb.com/",
+      "description": "Similarweb is an AI-powered digital data company providing real-time market intelligence, competitive insights, and consumer trends to accelerate busi",
+      "monthlyVisits": 100000000,
+      "id": "similarweb-com",
       "tier": "T1",
-      "githubStars": 3500
-    },
-    {
-      "id": "aihubs",
-      "name": "AI Hubs",
-      "domain": "aihubs.ai",
-      "type": "综合目录",
-      "description": "AI 工具中心",
-      "url": "https://aihubs.ai",
-      "toolsCount": 1800,
-      "monthlyVisits": 120000,
-      "globalRank": 350000,
-      "avgDuration": "2:10",
-      "bounceRate": 53.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-06",
-      "color": "purple",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "startuptools",
-      "name": "Startup AI Tools",
-      "domain": "startupaitools.com",
-      "type": "创业向",
-      "monthlyVisits": 120000,
-      "tier": "T2",
-      "description": "Startup AI Tools - AI 工具目录",
-      "url": "https://startupaitools.com",
-      "features": [
-        "AI 工具",
-        "目录"
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "toolpilot",
-      "name": "Tool Pilot",
-      "domain": "toolpilot.ai",
-      "type": "综合目录",
-      "description": "AI 工具导航",
-      "url": "https://www.toolpilot.ai",
-      "toolsCount": 1500,
-      "monthlyVisits": 110000,
-      "globalRank": 380000,
-      "avgDuration": "2:00",
-      "bounceRate": 55.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-07",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "gpthunter",
-      "name": "GPT Hunter",
-      "domain": "gpthunter.com",
-      "type": "GPT 目录",
-      "monthlyVisits": 100000,
-      "tier": "T2",
-      "description": "GPT Hunter - AI 工具目录",
-      "url": "https://gpthunter.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Best AI Tools Directory",
+      "domain": "aitoolsdirectory.net",
+      "url": "https://aitoolsdirectory.net/",
+      "description": "Looking for the right AI tool? Browse through our collection of 226+ carefully selected tools with honest reviews and real user ratings.",
+      "monthlyVisits": 35300000,
+      "id": "aitoolsdirectory-net",
+      "tier": "T1",
+      "trafficTrend": [
+        30005000,
+        31064000,
+        32476000,
+        33535000,
+        34594000,
+        35300000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "bestofai",
-      "name": "Best of AI",
-      "domain": "bestofai.io",
-      "type": "综合目录",
-      "description": "精选最佳 AI 工具",
-      "url": "https://bestofai.io",
-      "toolsCount": 1000,
-      "monthlyVisits": 95000,
-      "globalRank": 420000,
-      "avgDuration": "2:30",
-      "bounceRate": 48.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-08",
-      "color": "orange",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "gptstore-ai",
-      "name": "GPTStore.ai",
-      "domain": "gptstore.ai",
-      "type": "GPT 目录",
-      "monthlyVisits": 95000,
-      "tier": "T3",
-      "description": "GPTStore.ai - AI 工具目录",
-      "url": "https://gptstore.ai",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "bestaitools-directories",
-      "name": "Best AI Tools Directories",
-      "domain": "directories.bestaitools.com",
-      "type": "AI 导航",
-      "url": "https://directories.bestaitools.com/",
-      "monthlyVisits": 95000,
-      "tier": "T2"
-    },
-    {
-      "id": "aitoolsmagazine",
-      "name": "AI Tools Magazine",
-      "domain": "aitoolsmagazine.com",
-      "type": "综合目录",
-      "description": "AI 工具杂志",
-      "url": "https://aitoolsmagazine.com",
-      "toolsCount": 1200,
-      "monthlyVisits": 85000,
-      "globalRank": 450000,
-      "avgDuration": "2:40",
-      "bounceRate": 46.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-04",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aifindy",
-      "name": "AI Findy",
-      "domain": "aifindy.com",
-      "type": "综合目录",
-      "monthlyVisits": 85000,
-      "tier": "T3",
-      "description": "AI Findy - AI 工具目录",
-      "url": "https://aifindy.com",
-      "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "logicballs",
-      "name": "LogicBalls AI Directory",
-      "domain": "logicballs.com/blog/best-free-ai-tools-directories-2026",
-      "type": "AI 导航",
-      "url": "https://logicballs.com/blog/best-free-ai-tools-directories-2026",
-      "monthlyVisits": 85000,
-      "tier": "T2"
-    },
-    {
-      "id": "aitoolboard",
-      "name": "AI Tool Board",
-      "domain": "aitoolboard.com",
-      "type": "综合目录",
-      "monthlyVisits": 80000,
-      "tier": "T3",
-      "description": "AI Tool Board - AI 工具目录",
-      "url": "https://aitoolboard.com",
-      "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "findmyaitool",
-      "name": "Find My AI Tool",
-      "domain": "findmyaitool.com",
-      "type": "综合目录",
-      "description": "AI 工具搜索引擎",
-      "url": "https://findmyaitool.com",
-      "toolsCount": 2000,
-      "monthlyVisits": 75000,
-      "globalRank": 500000,
-      "avgDuration": "1:50",
-      "bounceRate": 58.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-09",
-      "color": "green",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aitools-directory",
       "name": "AI Tools Directory",
       "domain": "aitoolsdirectory.com",
-      "type": "综合目录",
-      "monthlyVisits": 75000,
-      "tier": "T3",
-      "description": "AI Tools Directory - AI 工具目录",
-      "url": "https://aitoolsdirectory.com",
-      "features": [
-        "AI 工具",
-        "目录"
+      "url": "https://aitoolsdirectory.com/",
+      "description": "Explore AI-related communities. Find marketplaces to buy and sell AI businesses. Check out the best AI tool Black Friday deals for 2026. Follow us on ",
+      "monthlyVisits": 35300000,
+      "id": "aitoolsdirectory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        30005000,
+        31064000,
+        32476000,
+        33535000,
+        34594000,
+        35300000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "lookkle",
-      "name": "Lookkle AI Tools",
-      "domain": "lookkle.com/ai-tools-directory-list-2026",
-      "type": "AI 导航",
-      "url": "https://www.lookkle.com/ai-tools-directory-list-2026",
-      "monthlyVisits": 72000,
-      "tier": "T2"
-    },
-    {
-      "id": "tldv-directories",
-      "name": "tl;dv AI Directories",
-      "domain": "tldv.io/blog/ai-tools-directories",
-      "type": "文章",
-      "url": "https://tldv.io/blog/ai-tools-directories/",
-      "monthlyVisits": 72000,
-      "tier": "T2"
-    },
-    {
-      "id": "theaigeneration",
-      "name": "The AI Generation",
-      "domain": "theaigeneration.com",
-      "type": "综合目录",
-      "monthlyVisits": 70000,
-      "tier": "T3",
-      "description": "The AI Generation - AI 工具目录",
-      "url": "https://theaigeneration.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Best AI Tools by Category 2026",
+      "domain": "tldl.io",
+      "url": "https://www.tldl.io/resources/best-ai-tools-by-category-2026",
+      "description": "Curated directory of best AI tools 2026 by category - productivity, coding, design, marketing. Updated March 2026. Published February 22, 2026 ·3 min ",
+      "monthlyVisits": 30000000,
+      "id": "tldl-io",
+      "tier": "T1",
+      "trafficTrend": [
+        25500000,
+        26400000,
+        27600000,
+        28500000,
+        29400000,
+        30000000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ainave",
-      "name": "AI Nave",
-      "domain": "ainave.com",
-      "type": "综合目录",
-      "description": "AI 导航",
-      "url": "https://www.ainave.com",
-      "toolsCount": 1500,
-      "monthlyVisits": 65000,
-      "globalRank": 550000,
-      "avgDuration": "2:00",
-      "bounceRate": 52.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-05",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aisecret",
-      "name": "AI Secret",
-      "domain": "aisecret.us",
-      "type": "综合目录",
-      "monthlyVisits": 65000,
-      "tier": "T3",
-      "description": "AI Secret - AI 工具目录",
-      "url": "https://aisecret.us",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Tools Directory 2025 vs 202",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/AIToolsPromptWorkflow/comments/1rwumtw/ai_tools_directory_2025_vs_2026/",
+      "description": "Best AI Tools to Use in 2026 by Category ... Discover and share the best AI tools for business. A community for founders, startups, marketers, and ...",
+      "monthlyVisits": 15000000,
+      "id": "reddit-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aiaggregator",
-      "name": "AI Aggregator",
-      "domain": "aiaggregator.top",
-      "type": "AI 导航",
-      "url": "https://aiaggregator.top/",
-      "monthlyVisits": 65000,
-      "tier": "T2"
-    },
-    {
-      "id": "momen-ai-directory",
-      "name": "Momen AI Directory",
-      "domain": "momen.app/blogs/best-ai-tool-directory-list-top-places-to-find-ai-tools-2025",
-      "type": "文章",
-      "url": "https://momen.app/blogs/best-ai-tool-directory-list-top-places-to-find-ai-tools-2025/",
-      "monthlyVisits": 65000,
-      "tier": "T2"
-    },
-    {
-      "id": "ailib",
-      "name": "AI Lib",
-      "domain": "ailib.io",
-      "type": "综合目录",
-      "monthlyVisits": 60000,
-      "tier": "T3",
-      "description": "AI Lib - AI 工具目录",
-      "url": "https://ailib.io",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Website Traffic Analysis GP",
+      "domain": "taskade.com",
+      "url": "https://www.taskade.com/agents/data/website-traffic-analysis",
+      "description": "An AI website traffic analysis agent is a cutting-edge digital assistant designed to monitor, evaluate, and interpret the complex data associated with",
+      "monthlyVisits": 15000000,
+      "id": "taskade-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "productivity",
-      "name": "Productivity Directory",
-      "domain": "productivity.directory",
-      "type": "效率工具",
-      "description": "AI 效率工具目录",
-      "url": "https://productivity.directory",
-      "toolsCount": 800,
-      "monthlyVisits": 55000,
-      "globalRank": 600000,
-      "avgDuration": "2:20",
-      "bounceRate": 50.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-06",
-      "color": "green",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aicollection",
-      "name": "AI Collection",
-      "domain": "aicollection.org",
-      "type": "综合目录",
-      "monthlyVisits": 55000,
-      "tier": "T3",
-      "description": "AI Collection - AI 工具目录",
-      "url": "https://aicollection.org",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Web Traffic Surges Among AI To",
+      "domain": "telecompetitor.com",
+      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
+      "description": "Web traffic to AI tool sites grew from 7 billion visits in February 2024 to 10.53 billion visits in January 2025, a 50.43% increase. The ...",
+      "monthlyVisits": 15000000,
+      "id": "telecompetitor-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "cubeo-directories",
-      "name": "Cubeo AI Directories",
-      "domain": "cubeo.ai/the-best-ai-tool-directories-in-2025-where-to-find-compare-and-choose-ai-tools",
-      "type": "文章",
-      "url": "https://www.cubeo.ai/the-best-ai-tool-directories-in-2025-where-to-find-compare-and-choose-ai-tools/",
-      "monthlyVisits": 55000,
-      "tier": "T2"
-    },
-    {
-      "id": "aitoolmate",
-      "name": "AI Tool Mate",
-      "domain": "aitoolmate.com",
-      "type": "综合目录",
-      "monthlyVisits": 50000,
-      "tier": "T3",
-      "description": "AI Tool Mate - AI 工具目录",
-      "url": "https://aitoolmate.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolfinder",
-      "name": "AI Tool Finder",
-      "domain": "aitoolfinder.co",
-      "type": "综合目录",
-      "monthlyVisits": 48000,
-      "tier": "T3",
-      "description": "AI Tool Finder - AI 工具目录",
-      "url": "https://aitoolfinder.co",
+      "name": "AI Tools Directory (2026) — Di",
+      "domain": "aitools-directory.com",
+      "url": "https://www.aitools-directory.com/",
+      "description": "AI Tools Directory is a curated platform built to help you discover, compare, and submit the best AI tools available today. Whether you're a founder .",
+      "monthlyVisits": 12290000,
+      "id": "aitools-directory-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Built Different: Introducing S",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=uoMlTlHQCZw",
+      "description": "... similarweb.com/3B4izvy - Similarweb Digital Marketing Intelligence – drive more traffic to your website and boost user acquisition across ...",
+      "monthlyVisits": 12290000,
+      "id": "youtube-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "promptreach",
-      "name": "PromptReach AI Directories",
-      "domain": "promptreach.ai/best-ai-directories-list-business-2026",
-      "type": "AI 导航",
-      "url": "https://promptreach.ai/best-ai-directories-list-business-2026/",
-      "monthlyVisits": 48000,
-      "tier": "T2"
-    },
-    {
-      "id": "getleadwave-directories",
-      "name": "GetLeadWave 190+ Directories",
-      "domain": "getleadwave.io/list-of-ai-directories",
-      "type": "资源列表",
-      "url": "https://getleadwave.io/list-of-ai-directories",
-      "monthlyVisits": 48000,
-      "tier": "T2"
-    },
-    {
-      "id": "aiagentsdirectory",
-      "name": "AI Agents Directory",
-      "domain": "aiagentsdirectory.com",
-      "type": "Agent 专注",
-      "description": "专注 AI Agent 的垂直目录",
-      "url": "https://aiagentsdirectory.com",
-      "toolsCount": 500,
-      "monthlyVisits": 45000,
-      "globalRank": 700000,
-      "avgDuration": "2:30",
-      "bounceRate": 52.0,
-      "mainCountry": "美国",
-      "launchDate": "2024-06",
-      "color": "green",
-      "badge": "Agent",
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aitoolnet",
-      "name": "AI Tool Net",
-      "domain": "aitoolnet.com",
-      "type": "综合目录",
-      "monthlyVisits": 45000,
-      "tier": "T3",
-      "description": "AI Tool Net - AI 工具目录",
-      "url": "https://aitoolnet.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolsclub",
-      "name": "AI Tools Club",
-      "domain": "aitoolsclub.com",
-      "type": "综合目录",
-      "monthlyVisits": 40000,
-      "tier": "T3",
-      "description": "AI Tools Club - AI 工具目录",
-      "url": "https://aitoolsclub.com",
+      "name": "Futuretools",
+      "domain": "futuretools.io",
+      "url": "https://futuretools.io",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "futuretools-io",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Aitools",
+      "domain": "aitools.fyi",
+      "url": "https://aitools.fyi",
+      "description": "",
+      "monthlyVisits": 12290000,
+      "id": "aitools-fyi",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aiagentstore",
-      "name": "AI Agent Store",
-      "domain": "aiagentstore.ai",
-      "type": "Agent 专注",
-      "description": "AI Agent 商店",
-      "url": "https://aiagentstore.ai",
-      "toolsCount": 300,
-      "monthlyVisits": 38000,
-      "globalRank": 780000,
-      "avgDuration": "2:40",
-      "bounceRate": 48.0,
-      "mainCountry": "美国",
-      "launchDate": "2024-03",
-      "color": "purple",
-      "badge": "Agent",
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aitoolsguide",
-      "name": "AI Tools Guide",
-      "domain": "aitoolsguide.com",
-      "type": "综合目录",
-      "monthlyVisits": 38000,
-      "tier": "T3",
-      "description": "AI Tools Guide - AI 工具目录",
-      "url": "https://aitoolsguide.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolsworld",
-      "name": "AI Tools World",
-      "domain": "aitoolsworld.com",
-      "type": "综合目录",
-      "monthlyVisits": 35000,
-      "tier": "T3",
-      "description": "AI Tools World - AI 工具目录",
-      "url": "https://aitoolsworld.com",
+      "name": "AI referrals to top websites w",
+      "domain": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/news/ai-referrals-top-websites-were-201108191.html",
+      "description": "In terms of methodology, Similarweb counts AI referrals as web referrals to a domain from an AI platform like ChatGPT, Gemini, DeepSeek ...",
+      "monthlyVisits": 12000000,
+      "id": "finance-yahoo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Producthunt",
+      "domain": "producthunt.com/topics/artificial-intelligence",
+      "url": "https://producthunt.com/topics/artificial-intelligence",
+      "description": "",
+      "monthlyVisits": 6500000,
+      "id": "producthunt-com-topics-artific",
+      "tier": "T1",
+      "trafficTrend": [
+        5525000,
+        5720000,
+        5980000,
+        6175000,
+        6370000,
+        6500000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "eliteai",
-      "name": "Elite AI Tools",
-      "domain": "eliteai.tools",
-      "type": "综合目录",
-      "description": "精英 AI 工具",
-      "url": "https://eliteai.tools",
-      "toolsCount": 1000,
-      "monthlyVisits": 32000,
-      "globalRank": 850000,
-      "avgDuration": "2:10",
-      "bounceRate": 54.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-10",
-      "color": "orange",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
-    },
-    {
-      "id": "aitoolszone",
-      "name": "AI Tools Zone",
-      "domain": "aitoolszone.com",
-      "type": "综合目录",
-      "monthlyVisits": 32000,
-      "tier": "T3",
-      "description": "AI Tools Zone - AI 工具目录",
-      "url": "https://aitoolszone.com",
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
-      ],
-      "trafficTrend": []
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolsbase",
-      "name": "AI Tools Base",
-      "domain": "aitoolsbase.com",
-      "type": "综合目录",
-      "monthlyVisits": 30000,
-      "tier": "T3",
-      "description": "AI Tools Base - AI 工具目录",
-      "url": "https://aitoolsbase.com",
+      "name": "The Best AI Tools for 2026",
+      "domain": "medium.com",
+      "url": "https://medium.com/artificial-corner/the-best-ai-tools-for-2026-933535a44f8b",
+      "description": "Without a doubt, ChatGPT, Gemini, and Claude are the best AI tools to date. They can provide answers to your everyday questions, do web searches ...",
+      "monthlyVisits": 3120000,
+      "id": "medium-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2652000,
+        2745600,
+        2870400,
+        2964000,
+        3057600,
+        3120000
+      ],
+      "type": "global",
       "features": [
-        "AI 工具",
-        "目录"
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "I tried 70+ best AI tools in 2",
+      "domain": "techradar.com",
+      "url": "https://www.techradar.com/best/best-ai-tools",
+      "description": "I went deep into each tool, from image generation to email automation, chatbot building to scheduling assistants.",
+      "monthlyVisits": 3000000,
+      "id": "techradar-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
       ],
-      "trafficTrend": []
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "toptools",
-      "name": "Top Tools AI",
-      "domain": "toptools.ai",
-      "type": "综合目录",
-      "description": "顶级 AI 工具",
-      "url": "https://www.toptools.ai",
-      "toolsCount": 1200,
-      "monthlyVisits": 28000,
-      "globalRank": 900000,
-      "avgDuration": "2:00",
-      "bounceRate": 55.0,
-      "mainCountry": "美国",
-      "launchDate": "2023-11",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
+      "name": "AI Bots Are Now a Significant ",
+      "domain": "wired.com",
+      "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
+      "description": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
+      "monthlyVisits": 3000000,
+      "id": "wired-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "coglist",
-      "name": "CogList",
-      "domain": "coglist.com",
-      "type": "综合目录",
-      "description": "AI 工具认知列表",
-      "url": "https://coglist.com",
-      "toolsCount": 600,
-      "monthlyVisits": 22000,
-      "globalRank": 980000,
-      "avgDuration": "2:20",
-      "bounceRate": 50.0,
-      "mainCountry": "美国",
-      "launchDate": "2024-01",
-      "color": "green",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
+      "name": "How to Drive Website Traffic f",
+      "domain": "benchmarkemail.com",
+      "url": "https://www.benchmarkemail.com/blog/drive-website-traffic-from-chatgpt/",
+      "description": "AI-driven tools like ChatGPT often pull content from websites to generate summaries. Optimizing your content specifically for AI tools is ...",
+      "monthlyVisits": 3000000,
+      "id": "benchmarkemail-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "navtools",
-      "name": "Nav Tools",
-      "domain": "navtools.ai",
-      "type": "综合目录",
-      "description": "AI 工具导航",
-      "url": "https://navtools.ai",
-      "toolsCount": 800,
-      "monthlyVisits": 18000,
-      "globalRank": 1100000,
-      "avgDuration": "1:50",
-      "bounceRate": 58.0,
-      "mainCountry": "中国",
-      "launchDate": "2024-02",
-      "color": "blue",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
+      "name": "Theresanaiforthat",
+      "domain": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "theresanaiforthat-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "freeaitool",
-      "name": "Free AI Tool",
-      "domain": "freeaitool.ai",
-      "type": "综合目录",
-      "description": "免费 AI 工具目录",
-      "url": "https://freeaitool.ai",
-      "toolsCount": 1000,
-      "monthlyVisits": 15000,
-      "globalRank": 1200000,
-      "avgDuration": "1:40",
-      "bounceRate": 60.0,
-      "mainCountry": "印度",
-      "launchDate": "2024-04",
-      "color": "green",
-      "badge": "免费",
-      "trafficTrend": [],
-      "tier": "T3"
+      "name": "Topai",
+      "domain": "topai.tools",
+      "url": "https://topai.tools",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "topai-tools",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aitoolsarena",
-      "name": "AI Tools Arena",
-      "domain": "aitoolsarena.com",
-      "type": "综合目录",
-      "description": "AI 工具竞技场",
-      "url": "https://aitoolsarena.com",
-      "toolsCount": 900,
-      "monthlyVisits": 12000,
-      "globalRank": 1350000,
-      "avgDuration": "2:00",
-      "bounceRate": 55.0,
-      "mainCountry": "美国",
-      "launchDate": "2024-05",
-      "color": "orange",
-      "badge": null,
-      "trafficTrend": [],
-      "tier": "T3"
+      "name": "Alternativeto",
+      "domain": "alternativeto.net/category/ai-machine-learning",
+      "url": "https://alternativeto.net/category/ai-machine-learning",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "alternativeto-net-category-ai-",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Futurepedia",
+      "domain": "futurepedia.io",
+      "url": "https://futurepedia.io",
+      "description": "",
+      "monthlyVisits": 2000000,
+      "id": "futurepedia-io",
+      "tier": "T1",
+      "trafficTrend": [
+        1700000,
+        1760000,
+        1840000,
+        1900000,
+        1960000,
+        2000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "G2",
+      "domain": "g2.com/categories/ai-writing-assistant",
+      "url": "https://g2.com/categories/ai-writing-assistant",
+      "description": "",
+      "monthlyVisits": 2000000,
+      "id": "g2-com-categories-ai-writing-a",
+      "tier": "T1",
+      "trafficTrend": [
+        1700000,
+        1760000,
+        1840000,
+        1900000,
+        1960000,
+        2000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Toolify",
+      "domain": "toolify.ai",
+      "url": "https://toolify.ai",
+      "description": "",
+      "monthlyVisits": 1500000,
+      "id": "toolify-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1275000,
+        1320000,
+        1380000,
+        1425000,
+        1470000,
+        1500000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "The Ultimate List of Best AI T",
+      "domain": "aixploria.com",
+      "url": "https://www.aixploria.com/en/ultimate-list-ai/",
+      "description": "The ultimate full AI list of all the tools available in the world in a ranking. List updated daily and Top 10 by category available.",
+      "monthlyVisits": 1160000,
+      "id": "aixploria-com",
+      "tier": "T1",
+      "trafficTrend": [
+        986000,
+        1020800,
+        1067200,
+        1102000,
+        1136800,
+        1160000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "The 39 Best Free AI Tools in 2",
+      "domain": "datacamp.com",
+      "url": "https://www.datacamp.com/blog/free-ai-tools",
+      "description": "Discover the best free AI tools of 2026. Explore top-rated free AI video generation tools, free AI image generation tools, coding assistants, ...",
+      "monthlyVisits": 1000000,
+      "id": "datacamp-com",
+      "tier": "T1",
+      "trafficTrend": [
+        850000,
+        880000,
+        920000,
+        950000,
+        980000,
+        1000000
+      ],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     }
   ],
   "insights": [
     {
-      "title": "🏆 TAAFT 稳居第一",
-      "content": "There's An AI For That 月访问 450 万，是第二名 Toolify 的 1.6 倍",
-      "color": "purple"
-    },
-    {
-      "title": "📈 Toolify 增长最快",
-      "content": "中国团队运营，6 个月增长 87%，SEO 策略激进",
-      "color": "green"
-    },
-    {
-      "title": "📉 Futurepedia 下滑",
-      "content": "流量从 85 万降至 68 万，下滑 20%",
-      "color": "orange"
-    },
-    {
-      "title": "🎯 Agent 垂直化",
-      "content": "AI Agents Directory 等垂直目录兴起，专注细分领域",
+      "title": "🏆 头部集中",
+      "content": "T1 级别 27 个，占据主要流量",
       "color": "blue"
+    },
+    {
+      "title": "📈 总流量",
+      "content": "收录网站月访问总量 664.2M",
+      "color": "green"
     }
   ],
-  "categories": [
-    {
-      "id": "general",
-      "name": "综合目录",
-      "count": 25
-    },
-    {
-      "id": "agent",
-      "name": "Agent 专注",
-      "count": 2
-    },
-    {
-      "id": "productivity",
-      "name": "效率工具",
-      "count": 1
-    }
-  ],
-  "tiers": {
-    "T1": {
-      "name": "头部",
-      "threshold": 1000000,
-      "count": 2
-    },
-    "T2": {
-      "name": "中部",
-      "threshold": 100000,
-      "count": 10
-    },
-    "T3": {
-      "name": "长尾",
-      "threshold": 10000,
-      "count": 18
-    }
-  },
   "metrics": {
-    "totalSites": 50
+    "totalSites": 27,
+    "totalMonthlyVisits": 664240000
   }
 }

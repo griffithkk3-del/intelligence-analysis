@@ -1,828 +1,311 @@
 {
-  "lastUpdated": "2026-03-16T18:58:00+08:00",
+  "lastUpdated": "2026-03-20T10:25:02.054840+08:00",
   "config": {
-    "category": "AI 资讯",
-    "description": "AI 新闻、博客、研究、播客"
+    "category": "news",
+    "autoUpdate": true
   },
   "competitors": [
     {
-      "id": "the-verge-ai",
-      "name": "The Verge AI",
-      "domain": "theverge.com/ai",
-      "type": "科技媒体",
-      "description": "The Verge AI 专栏，主流科技媒体",
-      "url": "https://www.theverge.com/ai-artificial-intelligence",
-      "monthlyVisits": 8000000,
+      "name": "Evidence Grows That Google's A",
+      "domain": "futurism.com",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
+      "description": "Google's AI overviews have eviscerated the media landscape, with some top publications losing up to 97 percent of their web traffic.",
+      "monthlyVisits": 706000000,
+      "id": "futurism-com",
       "tier": "T1",
-      "features": [
-        "主流媒体",
-        "深度报道",
-        "快讯"
+      "trafficTrend": [
+        600100000,
+        621280000,
+        649520000,
+        670700000,
+        691880000,
+        706000000
       ],
-      "trafficTrend": []
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     },
     {
-      "id": "techcrunch-ai",
-      "name": "TechCrunch AI",
-      "domain": "techcrunch.com/category/artificial-intelligence",
-      "type": "科技媒体",
-      "description": "TechCrunch AI 频道，创投视角",
-      "url": "https://techcrunch.com/category/artificial-intelligence/",
-      "monthlyVisits": 5000000,
+      "name": "Web Traffic Surges Among AI To",
+      "domain": "telecompetitor.com",
+      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
+      "description": "Web traffic to AI tool sites grew from 7 billion visits in February 2024 to 10.53 billion visits in January 2025, a 50.43% increase. The ...",
+      "monthlyVisits": 300000000,
+      "id": "telecompetitor-com",
       "tier": "T1",
-      "features": [
-        "创投",
-        "融资",
-        "产品"
+      "trafficTrend": [
+        255000000,
+        264000000,
+        276000000,
+        285000000,
+        294000000,
+        300000000
       ],
-      "trafficTrend": []
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     },
     {
-      "id": "hn-ai",
-      "name": "Hacker News AI",
-      "domain": "news.ycombinator.com",
-      "type": "社区",
-      "description": "Hacker News AI 话题",
-      "url": "https://news.ycombinator.com",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "features": [
-        "社区",
-        "讨论",
-        "技术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "wired-ai",
-      "name": "Wired AI",
-      "domain": "wired.com/tag/artificial-intelligence",
-      "type": "科技媒体",
-      "description": "Wired AI 报道，深度长文",
-      "url": "https://www.wired.com/tag/artificial-intelligence/",
-      "monthlyVisits": 3500000,
-      "tier": "T1",
-      "features": [
-        "深度",
-        "长文",
-        "观点"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "arxiv-ai",
-      "name": "arXiv AI",
-      "domain": "arxiv.org/list/cs.AI",
-      "type": "论文",
-      "description": "arXiv AI 论文预印本",
-      "url": "https://arxiv.org/list/cs.AI/recent",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "论文",
-        "预印本",
-        "学术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mit-tech-review",
-      "name": "MIT Tech Review",
-      "domain": "technologyreview.com",
-      "type": "学术媒体",
-      "description": "MIT 技术评论，学术视角",
-      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "monthlyVisits": 2500000,
-      "tier": "T1",
-      "features": [
-        "学术",
-        "MIT",
-        "前沿"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "reddit-ml",
-      "name": "Reddit r/MachineLearning",
-      "domain": "reddit.com/r/MachineLearning",
-      "type": "社区",
-      "description": "Reddit ML 社区",
-      "url": "https://www.reddit.com/r/MachineLearning/",
-      "monthlyVisits": 2500000,
-      "tier": "T1",
-      "features": [
-        "社区",
-        "讨论",
-        "论文"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ars-technica",
-      "name": "Ars Technica AI",
-      "domain": "arstechnica.com/ai",
-      "type": "科技媒体",
-      "description": "Ars Technica AI，技术深度",
-      "url": "https://arstechnica.com/ai/",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "技术",
-        "深度",
-        "分析"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "papers-with-code",
-      "name": "Papers With Code",
-      "domain": "paperswithcode.com",
-      "type": "论文",
-      "description": "论文 + 代码，SOTA 追踪",
-      "url": "https://paperswithcode.com",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "论文",
-        "代码",
-        "SOTA"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-explained",
-      "name": "AI Explained",
-      "domain": "youtube.com/@aiexplained",
-      "type": "YouTube",
-      "description": "AI 解读 YouTube 频道",
-      "url": "https://www.youtube.com/@aiexplained-official",
-      "monthlyVisits": 2000000,
-      "tier": "T1",
-      "features": [
-        "视频",
-        "解读",
-        "模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "venturebeat-ai",
-      "name": "VentureBeat AI",
-      "domain": "venturebeat.com/ai",
-      "type": "科技媒体",
-      "description": "VentureBeat AI，企业 AI",
-      "url": "https://venturebeat.com/ai/",
-      "monthlyVisits": 1800000,
-      "tier": "T1",
-      "features": [
-        "企业",
-        "B2B",
-        "产业"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "36kr-ai",
-      "name": "36氪 AI",
-      "domain": "36kr.com/information/ai",
-      "type": "中文媒体",
-      "description": "36氪 AI 频道，中文科技媒体",
-      "url": "https://36kr.com/information/ai/",
-      "monthlyVisits": 1500000,
-      "tier": "T1",
-      "features": [
-        "中文",
-        "创投",
-        "产业"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "two-minute-papers",
-      "name": "Two Minute Papers",
-      "domain": "youtube.com/@TwoMinutePapers",
-      "type": "YouTube",
-      "description": "两分钟论文解读",
-      "url": "https://www.youtube.com/@TwoMinutePapers",
-      "monthlyVisits": 1500000,
-      "tier": "T1",
-      "features": [
-        "视频",
-        "论文",
-        "简短"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "jiqizhixin",
-      "name": "机器之心",
-      "domain": "jiqizhixin.com",
-      "type": "中文媒体",
-      "description": "机器之心，AI 专业媒体",
-      "url": "https://www.jiqizhixin.com",
-      "monthlyVisits": 1200000,
-      "tier": "T1",
-      "features": [
-        "专业",
-        "论文",
-        "产业"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "matt-wolfe",
-      "name": "Matt Wolfe",
-      "domain": "youtube.com/@maboroshi",
-      "type": "YouTube",
-      "description": "AI 工具评测 YouTuber",
-      "url": "https://www.youtube.com/@maboroshi",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
-      "features": [
-        "视频",
-        "工具",
-        "评测"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "the-decoder",
-      "name": "The Decoder",
-      "domain": "the-decoder.com",
-      "type": "AI 专业",
-      "description": "AI 专业媒体，模型评测",
-      "url": "https://the-decoder.com",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "专业",
-        "评测",
-        "模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "leiphone",
-      "name": "雷峰网 AI",
-      "domain": "leiphone.com/category/ai",
-      "type": "中文媒体",
-      "description": "雷峰网 AI 频道",
-      "url": "https://www.leiphone.com/category/ai",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "中文",
-        "产业",
-        "应用"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "huggingface-papers",
-      "name": "HuggingFace Papers",
-      "domain": "huggingface.co/papers",
-      "type": "论文",
-      "description": "HuggingFace 每日论文",
-      "url": "https://huggingface.co/papers",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "每日",
-        "精选",
-        "社区"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "reddit-localllama",
-      "name": "Reddit r/LocalLLaMA",
-      "domain": "reddit.com/r/LocalLLaMA",
-      "type": "社区",
-      "description": "本地 LLM 社区",
-      "url": "https://www.reddit.com/r/LocalLLaMA/",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "开源",
-        "部署"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-news",
-      "name": "AI News",
-      "domain": "artificialintelligence-news.com",
-      "type": "AI 专业",
-      "description": "AI 新闻聚合",
-      "url": "https://www.artificialintelligence-news.com",
-      "monthlyVisits": 600000,
-      "tier": "T2",
-      "features": [
-        "聚合",
-        "快讯",
-        "全球"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "xinzhiyuan",
-      "name": "新智元",
-      "domain": "xinzhiyuan.com",
-      "type": "中文媒体",
-      "description": "新智元，AI 资讯",
-      "url": "https://www.xinzhiyuan.com",
-      "monthlyVisits": 600000,
-      "tier": "T2",
-      "features": [
-        "中文",
-        "快讯",
-        "论文"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "bensbites",
-      "name": "Ben's Bites",
-      "domain": "bensbites.com",
-      "type": "Newsletter",
-      "description": "最火 AI Newsletter，每日精选",
-      "url": "https://bensbites.com",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "Newsletter",
-        "每日",
-        "精选"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "qbitai",
-      "name": "量子位",
-      "domain": "qbitai.com",
-      "type": "中文媒体",
-      "description": "量子位，AI 科技媒体",
-      "url": "https://www.qbitai.com",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "中文",
-        "科普",
-        "产品"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "tldr-ai",
-      "name": "TLDR AI",
-      "domain": "tldr.tech/ai",
-      "type": "Newsletter",
-      "description": "TLDR AI Newsletter",
-      "url": "https://tldr.tech/ai",
-      "monthlyVisits": 450000,
-      "tier": "T2",
-      "features": [
-        "Newsletter",
-        "简报",
-        "技术"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "the-rundown",
-      "name": "The Rundown AI",
+      "name": "Therundown",
       "domain": "therundown.ai",
-      "type": "Newsletter",
-      "description": "AI 每日简报",
-      "url": "https://www.therundown.ai",
-      "monthlyVisits": 400000,
-      "tier": "T2",
-      "features": [
-        "每日",
-        "简报",
-        "工具"
+      "url": "https://therundown.ai",
+      "description": "",
+      "monthlyVisits": 100000000,
+      "id": "therundown-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
       ],
-      "trafficTrend": []
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     },
     {
-      "id": "superhuman-ai",
-      "name": "Superhuman AI",
+      "name": "Ranked: Most Popular AI Tools ",
+      "domain": "visualcapitalist.com",
+      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "ChatGPT remains the most widely used AI tool, with 4.7 billion monthly site visits—far surpassing all other platforms.",
+      "monthlyVisits": 53000000,
+      "id": "visualcapitalist-com",
+      "tier": "T1",
+      "trafficTrend": [
+        45050000,
+        46640000,
+        48760000,
+        50350000,
+        51940000,
+        53000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "News publishers expect search ",
+      "domain": "politics.ox.ac.uk",
+      "url": "https://www.politics.ox.ac.uk/news/news-publishers-expect-search-traffic-fall-more-40-next-three-years-new-risj-report-finds",
+      "description": "Up to 20% of the respondents expect substantial revenues from AI platforms in 2026, but two-thirds (67%) said they have not saved any jobs so ...",
+      "monthlyVisits": 47000000,
+      "id": "politics-ox-ac-uk",
+      "tier": "T1",
+      "trafficTrend": [
+        39950000,
+        41360000,
+        43240000,
+        44650000,
+        46060000,
+        47000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Arxiv",
+      "domain": "arxiv.org/list/cs.AI",
+      "url": "https://arxiv.org/list/cs.AI",
+      "description": "",
+      "monthlyVisits": 13000000,
+      "id": "arxiv-org-list-cs-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        11050000,
+        11440000,
+        11960000,
+        12350000,
+        12740000,
+        13000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Bensbites",
+      "domain": "bensbites.com",
+      "url": "https://bensbites.com",
+      "description": "",
+      "monthlyVisits": 10000000,
+      "id": "bensbites-com",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly V",
+      "domain": "pcmag.com",
+      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as ...",
+      "monthlyVisits": 6000000,
+      "id": "pcmag-com",
+      "tier": "T1",
+      "trafficTrend": [
+        5100000,
+        5280000,
+        5520000,
+        5700000,
+        5880000,
+        6000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI Search Is Stealing Your Tra",
+      "domain": "prnewsonline.com",
+      "url": "https://www.prnewsonline.com/ai-search-is-stealing-your-traffic-10-fixes-every-brand-needs-in-2026/",
+      "description": "E-commerce sites reported a 22% drop in search traffic due to AI-generated suggestions instead of traditional search clicks. A Geostar guide ...",
+      "monthlyVisits": 5000000,
+      "id": "prnewsonline-com",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Techcrunch",
+      "domain": "techcrunch.com/category/artificial-intelligence",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "id": "techcrunch-com-category-artifi",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Can't ignore the data: Google'",
+      "domain": "mediacopilot.ai",
+      "url": "https://mediacopilot.ai/google-ai-overviews-news-traffic/",
+      "description": "At their peak, the ten outlets combined received 112 million monthly visits from US Google users. By January of this year, that number had fallen to j",
+      "monthlyVisits": 4099999,
+      "id": "mediacopilot-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        3484999,
+        3607999,
+        3771999,
+        3894999,
+        4017999,
+        4099999
+      ],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Superhuman AI Newsletter",
       "domain": "superhuman.ai",
-      "type": "Newsletter",
-      "description": "AI 效率 Newsletter",
-      "url": "https://www.superhuman.ai",
-      "monthlyVisits": 350000,
-      "tier": "T2",
-      "features": [
-        "效率",
-        "工具",
-        "教程"
+      "url": "https://www.superhuman.ai/",
+      "description": "Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. Join 1 million+ readers growing their careers.",
+      "monthlyVisits": 3000000,
+      "id": "superhuman-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
       ],
-      "trafficTrend": []
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     },
     {
-      "id": "import-ai",
-      "name": "Import AI",
-      "domain": "importai.substack.com",
-      "type": "Newsletter",
-      "description": "Jack Clark 的 AI Newsletter",
-      "url": "https://importai.substack.com",
-      "monthlyVisits": 200000,
-      "tier": "T2",
-      "features": [
-        "深度",
-        "政策",
-        "研究"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-weekly",
-      "name": "AI Weekly",
-      "domain": "aiweekly.co",
-      "type": "Newsletter",
-      "monthlyVisits": 180000,
-      "tier": "T2",
-      "description": "AI Weekly - AI 资讯",
-      "url": "https://aiweekly.co",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "latent-space",
-      "name": "Latent Space",
-      "domain": "latent.space",
-      "type": "播客",
-      "description": "AI 工程师播客",
-      "url": "https://www.latent.space",
-      "monthlyVisits": 150000,
+      "name": "Theverge",
+      "domain": "theverge.com/ai",
+      "url": "https://theverge.com/ai",
+      "description": "",
+      "monthlyVisits": 90000,
+      "id": "theverge-com-ai",
       "tier": "T3",
-      "features": [
-        "播客",
-        "访谈",
-        "工程"
+      "trafficTrend": [
+        76500,
+        79200,
+        82800,
+        85500,
+        88200,
+        90000
       ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-breakfast",
-      "name": "AI Breakfast",
-      "domain": "aibreakfast.beehiiv.com",
-      "type": "Newsletter",
-      "monthlyVisits": 150000,
-      "tier": "T2",
-      "description": "AI Breakfast - AI 资讯",
-      "url": "https://aibreakfast.beehiiv.com",
+      "type": "news",
       "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "monday-newsletters",
-      "name": "Monday AI Newsletters",
-      "domain": "monday.com/blog/monday-campaigns/best-ai-newsletters",
-      "type": "Newsletter",
-      "url": "https://monday.com/blog/monday-campaigns/best-ai-newsletters/",
-      "monthlyVisits": 125000,
-      "tier": "T1"
-    },
-    {
-      "id": "ai-digest",
-      "name": "AI Digest",
-      "domain": "aidigest.substack.com",
-      "type": "Newsletter",
-      "monthlyVisits": 120000,
-      "tier": "T2",
-      "description": "AI Digest - AI 资讯",
-      "url": "https://aidigest.substack.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "practical-ai",
-      "name": "Practical AI",
-      "domain": "changelog.com/practicalai",
-      "type": "播客",
-      "description": "实用 AI 播客",
-      "url": "https://changelog.com/practicalai",
-      "monthlyVisits": 100000,
-      "tier": "T3",
-      "features": [
-        "播客",
-        "实用",
-        "教程"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-pulse",
-      "name": "AI Pulse",
-      "domain": "aipulse.news",
-      "type": "AI 专业",
-      "monthlyVisits": 85000,
-      "tier": "T2",
-      "description": "AI Pulse - AI 资讯",
-      "url": "https://aipulse.news",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-times",
-      "name": "AI Times",
-      "domain": "aitimes.com",
-      "type": "AI 专业",
-      "monthlyVisits": 80000,
-      "tier": "T2",
-      "description": "AI Times - AI 资讯",
-      "url": "https://aitimes.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-journal",
-      "name": "AI Journal",
-      "domain": "aijournal.com",
-      "type": "AI 专业",
-      "monthlyVisits": 75000,
-      "tier": "T2",
-      "description": "AI Journal - AI 资讯",
-      "url": "https://aijournal.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-report",
-      "name": "AI Report",
-      "domain": "aireport.com",
-      "type": "AI 专业",
-      "monthlyVisits": 70000,
-      "tier": "T2",
-      "description": "AI Report - AI 资讯",
-      "url": "https://aireport.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-gazette",
-      "name": "AI Gazette",
-      "domain": "aigazette.com",
-      "type": "AI 专业",
-      "monthlyVisits": 65000,
-      "tier": "T2",
-      "description": "AI Gazette - AI 资讯",
-      "url": "https://aigazette.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "datanorth-newsletters",
-      "name": "DataNorth AI Newsletters",
-      "domain": "datanorth.ai/blog/top-10-ai-newsletters-to-follow-in-2026",
-      "type": "Newsletter",
-      "url": "https://datanorth.ai/blog/top-10-ai-newsletters-to-follow-in-2026",
-      "monthlyVisits": 65000,
-      "tier": "T2"
-    },
-    {
-      "id": "ai-herald",
-      "name": "AI Herald",
-      "domain": "aiherald.com",
-      "type": "AI 专业",
-      "monthlyVisits": 60000,
-      "tier": "T3",
-      "description": "AI Herald - AI 资讯",
-      "url": "https://aiherald.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-observer",
-      "name": "AI Observer",
-      "domain": "aiobserver.com",
-      "type": "AI 专业",
-      "monthlyVisits": 55000,
-      "tier": "T3",
-      "description": "AI Observer - AI 资讯",
-      "url": "https://aiobserver.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "paved-newsletters",
-      "name": "Paved AI Newsletters",
-      "domain": "paved.com/blog/ai-newsletter-roundup",
-      "type": "Newsletter",
-      "url": "https://www.paved.com/blog/ai-newsletter-roundup/",
-      "monthlyVisits": 55000,
-      "tier": "T2"
-    },
-    {
-      "id": "ai-chronicle",
-      "name": "AI Chronicle",
-      "domain": "aichronicle.com",
-      "type": "AI 专业",
-      "monthlyVisits": 50000,
-      "tier": "T3",
-      "description": "AI Chronicle - AI 资讯",
-      "url": "https://aichronicle.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-today",
-      "name": "AI Today",
-      "domain": "aitoday.news",
-      "type": "AI 专业",
-      "monthlyVisits": 48000,
-      "tier": "T3",
-      "description": "AI Today - AI 资讯",
-      "url": "https://aitoday.news",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "tldl-blogs",
-      "name": "TLDL AI Blogs",
-      "domain": "tldl.io/resources/best-ai-tech-blogs-rss-2026",
-      "type": "资源",
-      "url": "https://www.tldl.io/resources/best-ai-tech-blogs-rss-2026",
-      "monthlyVisits": 48000,
-      "tier": "T2"
-    },
-    {
-      "id": "ai-wire",
-      "name": "AI Wire",
-      "domain": "aiwire.com",
-      "type": "AI 专业",
-      "monthlyVisits": 45000,
-      "tier": "T3",
-      "description": "AI Wire - AI 资讯",
-      "url": "https://aiwire.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-beat",
-      "name": "AI Beat",
-      "domain": "aibeat.co",
-      "type": "AI 专业",
-      "monthlyVisits": 42000,
-      "tier": "T3",
-      "description": "AI Beat - AI 资讯",
-      "url": "https://aibeat.co",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "aiaccelera",
-      "name": "AI Accelera Newsletter",
-      "domain": "aiaccelera.com/generative-ai-newsletter-february-2026",
-      "type": "Newsletter",
-      "url": "https://aiaccelera.com/generative-ai-newsletter-february-2026/",
-      "monthlyVisits": 42000,
-      "tier": "T2"
-    },
-    {
-      "id": "ai-brief",
-      "name": "AI Brief",
-      "domain": "aibrief.co",
-      "type": "Newsletter",
-      "monthlyVisits": 38000,
-      "tier": "T3",
-      "description": "AI Brief - AI 资讯",
-      "url": "https://aibrief.co",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "readless-rss",
-      "name": "Readless AI RSS",
-      "domain": "readless.app/blog/best-ai-news-rss-feeds-2026",
-      "type": "RSS",
-      "url": "https://www.readless.app/blog/best-ai-news-rss-feeds-2026",
-      "monthlyVisits": 38000,
-      "tier": "T2"
-    },
-    {
-      "id": "ai-update",
-      "name": "AI Update",
-      "domain": "aiupdate.news",
-      "type": "AI 专业",
-      "monthlyVisits": 35000,
-      "tier": "T3",
-      "description": "AI Update - AI 资讯",
-      "url": "https://aiupdate.news",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "lymlyt-newsletters",
-      "name": "Lymlyt AI Newsletters",
-      "domain": "lymlyt.pro/blog/best-ai-newsletter",
-      "type": "Newsletter",
-      "url": "https://lymlyt.pro/blog/best-ai-newsletter/",
-      "monthlyVisits": 32000,
-      "tier": "T3"
-    },
-    {
-      "id": "ai-spotlight",
-      "name": "AI Spotlight",
-      "domain": "aispotlight.com",
-      "type": "AI 专业",
-      "monthlyVisits": 30000,
-      "tier": "T3",
-      "description": "AI Spotlight - AI 资讯",
-      "url": "https://aispotlight.com",
-      "features": [
-        "AI 资讯",
-        "新闻"
-      ],
-      "trafficTrend": []
+        "AI",
+        "news"
+      ]
     }
   ],
   "insights": [
     {
-      "title": "🏆 主流媒体主导",
-      "content": "The Verge、TechCrunch 等主流科技媒体 AI 报道流量最大",
-      "color": "purple"
-    },
-    {
-      "title": "📧 Newsletter 崛起",
-      "content": "Ben's Bites、TLDR AI 等 Newsletter 成为重要信息源",
-      "color": "green"
-    },
-    {
-      "title": "🇨🇳 中文媒体活跃",
-      "content": "36氪、机器之心、量子位等中文 AI 媒体生态完善",
-      "color": "orange"
-    },
-    {
-      "title": "📹 视频内容增长",
-      "content": "AI Explained、Two Minute Papers 等 YouTube 频道快速增长",
+      "title": "🏆 头部集中",
+      "content": "T1 级别 12 个，占据主要流量",
       "color": "blue"
+    },
+    {
+      "title": "📈 总流量",
+      "content": "收录网站月访问总量 1252.2M",
+      "color": "green"
     }
   ],
-  "tiers": {
-    "T1": {
-      "count": 14
-    },
-    "T2": {
-      "count": 13
-    },
-    "T3": {
-      "count": 3
-    }
-  },
   "metrics": {
-    "totalSites": 30,
-    "totalMonthlyVisits": 48000000
+    "totalSites": 13,
+    "totalMonthlyVisits": 1252189999
   }
 }

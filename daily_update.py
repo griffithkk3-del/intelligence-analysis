@@ -16,7 +16,7 @@ from pathlib import Path
 import time
 
 SITE_DIR = Path(__file__).parent
-SERPER_API_KEY = os.environ.get('SERPER_API_KEY', '374959ea28cae888d8049ea2e34d8acc156c602b')
+SERPER_API_KEY = os.environ.get('SERPER_API_KEY', '983d5b3e27262621a4c87633448a3079b74e5f59')
 
 # 数据源配置
 DATA_SOURCES = {
@@ -105,8 +105,8 @@ def search_site_info(query):
 def get_traffic_from_search(domain):
     """搜索获取网站流量数据"""
     queries = [
-        f'"{domain}" monthly visits traffic similarweb',
-        f'"{domain}" website traffic statistics 2026',
+        f'{domain} monthly visits traffic similarweb',
+        f'{domain} website traffic statistics 2026',
         f'site:{domain} traffic analytics'
     ]
     

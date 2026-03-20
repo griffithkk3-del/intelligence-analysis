@@ -1,887 +1,707 @@
 {
-  "lastUpdated": "2026-03-16T18:58:00+08:00",
+  "lastUpdated": "2026-03-20T10:25:07.341812+08:00",
   "config": {
-    "category": "AI 模型",
-    "description": "大模型、开源模型、模型平台、API 服务"
+    "category": "models",
+    "autoUpdate": true
   },
   "competitors": [
     {
-      "id": "openai",
-      "name": "OpenAI",
-      "domain": "openai.com",
-      "type": "闭源模型",
-      "description": "GPT-4o、o1、o3 系列，最强闭源模型",
-      "url": "https://openai.com",
-      "monthlyVisits": 50000000,
+      "name": "cheahjs/free-llm-api-resources",
+      "domain": "github.com",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "Monthly subscription based; Requires phone number verification. Limits: 30 requests/minute, 2,000 requests/day. Codestral. HuggingFace Inference Provi",
+      "monthlyVisits": 534799999,
+      "id": "github-com",
       "tier": "T1",
-      "features": [
-        "GPT-4o",
-        "o1/o3",
-        "API"
+      "trafficTrend": [
+        454579999,
+        470623999,
+        492015999,
+        508059999,
+        524103999,
+        534799999
       ],
-      "pricing": "$20/月",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "huggingface",
-      "name": "HuggingFace",
-      "domain": "huggingface.co",
-      "type": "模型平台",
-      "description": "最大开源模型平台，100 万+ 模型",
-      "url": "https://huggingface.co",
-      "monthlyVisits": 25000000,
+      "name": "The Most Visited AI Websites o",
+      "domain": "ficommerce.com",
+      "url": "https://ficommerce.com/en/the-most-visited-ai-websites-of-2026-where-is-artificial-intelligence-traffic-flowing/",
+      "description": "According to the report, Turkey ranks first in the world with a 94.4% share in AI web traffic referrals directed to ChatGPT. Morocco follows ...",
+      "monthlyVisits": 500000000,
+      "id": "ficommerce-com",
       "tier": "T1",
-      "features": [
-        "平台",
-        "开源",
-        "社区"
+      "trafficTrend": [
+        425000000,
+        440000000,
+        460000000,
+        475000000,
+        490000000,
+        500000000
       ],
-      "pricing": "免费/$9",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "perplexity",
-      "name": "Perplexity",
-      "domain": "perplexity.ai",
-      "type": "搜索模型",
-      "description": "AI 搜索引擎，实时信息",
-      "url": "https://perplexity.ai",
-      "monthlyVisits": 20000000,
-      "tier": "T1",
-      "features": [
-        "搜索",
-        "实时",
-        "引用"
-      ],
-      "pricing": "免费/$20",
-      "trafficTrend": []
-    },
-    {
-      "id": "anthropic",
-      "name": "Anthropic",
-      "domain": "anthropic.com",
-      "type": "闭源模型",
-      "description": "Claude 3.5/4 系列，编程能力强",
-      "url": "https://anthropic.com",
-      "monthlyVisits": 15000000,
-      "tier": "T1",
-      "features": [
-        "Claude",
-        "编程",
-        "安全"
-      ],
-      "pricing": "$20/月",
-      "trafficTrend": []
-    },
-    {
-      "id": "midjourney",
-      "name": "Midjourney",
-      "domain": "midjourney.com",
-      "type": "图像模型",
-      "description": "最强 AI 绘画",
-      "url": "https://www.midjourney.com",
-      "monthlyVisits": 15000000,
-      "tier": "T1",
-      "features": [
-        "图像",
-        "艺术",
-        "Discord"
-      ],
-      "pricing": "$10/月",
-      "trafficTrend": []
-    },
-    {
-      "id": "character",
-      "name": "Character.AI",
-      "domain": "character.ai",
-      "type": "角色模型",
-      "monthlyVisits": 15000000,
-      "tier": "T1",
-      "description": "Character.AI - AI 模型",
-      "url": "https://character.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "google-ai",
-      "name": "Google AI",
-      "domain": "ai.google",
-      "type": "闭源模型",
-      "description": "Gemini 系列，多模态能力强",
-      "url": "https://ai.google",
-      "monthlyVisits": 12000000,
-      "tier": "T1",
-      "features": [
-        "Gemini",
-        "多模态",
-        "搜索"
-      ],
-      "pricing": "免费/$20",
-      "trafficTrend": []
-    },
-    {
-      "id": "meta-ai",
-      "name": "Meta AI",
-      "domain": "ai.meta.com",
-      "type": "开源模型",
-      "description": "Llama 系列，最强开源模型",
-      "url": "https://ai.meta.com",
-      "monthlyVisits": 8000000,
-      "tier": "T1",
-      "features": [
-        "Llama",
-        "开源",
-        "免费"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "poe",
-      "name": "Poe",
-      "domain": "poe.com",
-      "type": "模型聚合",
-      "description": "Quora 多模型聚合平台",
-      "url": "https://poe.com",
-      "monthlyVisits": 8000000,
-      "tier": "T1",
-      "features": [
-        "聚合",
-        "多模型",
-        "Bot"
-      ],
-      "pricing": "免费/$20",
-      "trafficTrend": []
-    },
-    {
-      "id": "civitai",
-      "name": "Civitai",
-      "domain": "civitai.com",
-      "type": "模型社区",
-      "monthlyVisits": 8000000,
-      "tier": "T1",
-      "description": "Civitai - AI 模型",
-      "url": "https://civitai.com",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "deepseek",
-      "name": "DeepSeek",
-      "domain": "deepseek.com",
-      "type": "开源模型",
-      "description": "DeepSeek V3/R1，中国开源模型",
-      "url": "https://deepseek.com",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "features": [
-        "开源",
-        "中国",
-        "便宜"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "xai",
-      "name": "xAI Grok",
-      "domain": "x.ai",
-      "type": "闭源模型",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "description": "xAI Grok - AI 模型",
-      "url": "https://x.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "elevenlabs",
-      "name": "ElevenLabs",
-      "domain": "elevenlabs.io",
-      "type": "语音模型",
-      "monthlyVisits": 5000000,
-      "tier": "T1",
-      "description": "ElevenLabs - AI 模型",
-      "url": "https://elevenlabs.io",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "moonshot",
-      "name": "月之暗面 Kimi",
-      "domain": "moonshot.cn",
-      "type": "闭源模型",
-      "description": "Kimi，长上下文能力强",
-      "url": "https://www.moonshot.cn",
-      "monthlyVisits": 4000000,
-      "tier": "T1",
-      "features": [
-        "长上下文",
-        "中国",
-        "对话"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "suno",
-      "name": "Suno",
-      "domain": "suno.ai",
-      "type": "音乐模型",
-      "monthlyVisits": 4000000,
-      "tier": "T1",
-      "description": "Suno - AI 模型",
-      "url": "https://suno.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "mistral",
-      "name": "Mistral AI",
-      "domain": "mistral.ai",
-      "type": "开源模型",
-      "description": "Mistral/Mixtral 系列，欧洲 AI",
-      "url": "https://mistral.ai",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "Mistral",
-        "开源",
-        "欧洲"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "qwen",
-      "name": "通义千问 Qwen",
-      "domain": "qwen.ai",
-      "type": "开源模型",
-      "description": "阿里 Qwen 系列，中文能力强",
-      "url": "https://qwen.ai",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "开源",
-        "阿里",
-        "中文"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "you-com",
-      "name": "You.com",
-      "domain": "you.com",
-      "type": "搜索模型",
-      "description": "AI 搜索，多模型",
-      "url": "https://you.com",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "搜索",
-        "多模型",
-        "隐私"
-      ],
-      "pricing": "免费/$15",
-      "trafficTrend": []
-    },
-    {
-      "id": "ollama",
-      "name": "Ollama",
-      "domain": "ollama.com",
-      "type": "本地部署",
-      "description": "本地运行 LLM，一键部署",
-      "url": "https://ollama.com",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "本地",
-        "一键",
-        "开源"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "stability-ai",
-      "name": "Stability AI",
-      "domain": "stability.ai",
-      "type": "图像模型",
-      "description": "Stable Diffusion 系列",
-      "url": "https://stability.ai",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "features": [
-        "图像",
-        "开源",
-        "SD"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "runway",
-      "name": "Runway",
-      "domain": "runway.ml",
-      "type": "视频模型",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "description": "Runway - AI 模型",
-      "url": "https://runway.ml",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "heygen",
-      "name": "HeyGen",
-      "domain": "heygen.com",
-      "type": "视频模型",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "description": "HeyGen - AI 模型",
-      "url": "https://heygen.com",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "leonardo",
-      "name": "Leonardo.AI",
-      "domain": "leonardo.ai",
-      "type": "图像模型",
-      "monthlyVisits": 3000000,
-      "tier": "T1",
-      "description": "Leonardo.AI - AI 模型",
-      "url": "https://leonardo.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "udio",
-      "name": "Udio",
-      "domain": "udio.com",
-      "type": "音乐模型",
-      "monthlyVisits": 2500000,
-      "tier": "T1",
-      "description": "Udio - AI 模型",
-      "url": "https://udio.com",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "groq",
       "name": "Groq",
       "domain": "groq.com",
-      "type": "推理平台",
-      "description": "超快推理，LPU 芯片",
       "url": "https://groq.com",
-      "monthlyVisits": 2000000,
+      "description": "",
+      "monthlyVisits": 298600000,
+      "id": "groq-com",
       "tier": "T1",
-      "features": [
-        "超快",
-        "LPU",
-        "免费"
+      "trafficTrend": [
+        253810000,
+        262768000,
+        274712000,
+        283670000,
+        292628000,
+        298600000
       ],
-      "pricing": "免费/API",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "zhipu",
-      "name": "智谱 GLM",
-      "domain": "zhipuai.cn",
-      "type": "闭源模型",
-      "description": "智谱 GLM-4 系列",
-      "url": "https://www.zhipuai.cn",
-      "monthlyVisits": 2000000,
+      "name": "10 AI Tools Businesses Are Usi",
+      "domain": "socialtraffic.ca",
+      "url": "https://socialtraffic.ca/blog/10-ai-tools-businesses-using-2026",
+      "description": "The businesses scaling in 2026 aren't just using AI, they're deploying it strategically to eliminate bottlenecks. Start with one tool that ...",
+      "monthlyVisits": 200000000,
+      "id": "socialtraffic-ca",
       "tier": "T1",
-      "features": [
-        "GLM",
-        "中国",
-        "API"
+      "trafficTrend": [
+        170000000,
+        176000000,
+        184000000,
+        190000000,
+        196000000,
+        200000000
       ],
-      "pricing": "API 计费",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "chatbot-arena",
-      "name": "Chatbot Arena",
-      "domain": "lmarena.ai",
-      "type": "评测平台",
-      "description": "LLM 盲测排行榜",
-      "url": "https://lmarena.ai",
-      "monthlyVisits": 2000000,
+      "name": "huggingface.co Traffic Analyti",
+      "domain": "similarweb.com",
+      "url": "https://www.similarweb.com/website/huggingface.co/",
+      "description": "huggingface.co Traffic & Engagement Analysis. huggingface.co's web traffic has decreased by 6.42% compared to last month. See all traffic & engagement",
+      "monthlyVisits": 100000000,
+      "id": "similarweb-com",
       "tier": "T1",
-      "features": [
-        "评测",
-        "排行",
-        "盲测"
+      "trafficTrend": [
+        85000000,
+        88000000,
+        92000000,
+        95000000,
+        98000000,
+        100000000
       ],
-      "pricing": "免费",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "inflection",
-      "name": "Inflection Pi",
-      "domain": "inflection.ai",
-      "type": "闭源模型",
-      "monthlyVisits": 2000000,
+      "name": "Top LLMs and AI Trends for 202",
+      "domain": "clarifai.com",
+      "url": "https://www.clarifai.com/blog/llms-and-ai-trends",
+      "description": "By 2026, 80 % of initial healthcare diagnoses will involve AI analysis; AI will review credit applications and manage algorithmic trading; ...",
+      "monthlyVisits": 74900000,
+      "id": "clarifai-com",
       "tier": "T1",
-      "description": "Inflection Pi - AI 模型",
-      "url": "https://inflection.ai",
-      "features": [
-        "AI 模型"
+      "trafficTrend": [
+        63665000,
+        65912000,
+        68908000,
+        71155000,
+        73402000,
+        74900000
       ],
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "pika",
-      "name": "Pika",
-      "domain": "pika.art",
-      "type": "视频模型",
-      "monthlyVisits": 2000000,
+      "name": "LLM provider with real time AP",
+      "domain": "datascience.stackexchange.com",
+      "url": "https://datascience.stackexchange.com/questions/131595/llm-provider-with-real-time-api-access-to-internet",
+      "description": "There are several API (often with free tiers) that let you access the internet from a LLM API, like Google Serp or DuckDuckGo.",
+      "monthlyVisits": 39290000,
+      "id": "datascience-stackexchange-com",
       "tier": "T1",
-      "description": "Pika - AI 模型",
-      "url": "https://pika.art",
-      "features": [
-        "AI 模型"
+      "trafficTrend": [
+        33396500,
+        34575200,
+        36146800,
+        37325500,
+        38504200,
+        39290000
       ],
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "ideogram",
-      "name": "Ideogram",
-      "domain": "ideogram.ai",
-      "type": "图像模型",
-      "monthlyVisits": 2000000,
+      "name": "26 AI SEO Statistics for 2026 ",
+      "domain": "semrush.com",
+      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
+      "description": "AI search traffic went up 527% in just a year. Here are some more AI SEO statistics—with sources.",
+      "monthlyVisits": 27520000,
+      "id": "semrush-com",
       "tier": "T1",
-      "description": "Ideogram - AI 模型",
-      "url": "https://ideogram.ai",
-      "features": [
-        "AI 模型"
+      "trafficTrend": [
+        23392000,
+        24217600,
+        25318400,
+        26144000,
+        26969600,
+        27520000
       ],
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "tensorart",
-      "name": "Tensor.Art",
-      "domain": "tensor.art",
-      "type": "图像模型",
-      "monthlyVisits": 2000000,
+      "name": "Artificial Intelligence (AI) C",
+      "domain": "natlawreview.com",
+      "url": "https://natlawreview.com/press-releases/artificial-intelligence-ai-content-generation-market-2026-explore-disruptive",
+      "description": "According to our research, OpenAI led global sales in 2024 with a 4% market share. The AI Research And Development division of the company ...",
+      "monthlyVisits": 25000000,
+      "id": "natlawreview-com",
       "tier": "T1",
-      "description": "Tensor.Art - AI 模型",
-      "url": "https://tensor.art",
-      "features": [
-        "AI 模型"
+      "trafficTrend": [
+        21250000,
+        22000000,
+        23000000,
+        23750000,
+        24500000,
+        25000000
       ],
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "together-ai",
-      "name": "Together AI",
+      "name": "Monthly Payment",
+      "domain": "discuss.huggingface.co",
+      "url": "https://discuss.huggingface.co/t/monthly-payment/146634",
+      "description": "The $9 payment is made on a monthly basis. I think you can cancel on a monthly basis. Also, as a common point of caution, payments will fail if ...",
+      "monthlyVisits": 25000000,
+      "id": "discuss-huggingface-co",
+      "tier": "T1",
+      "trafficTrend": [
+        21250000,
+        22000000,
+        23000000,
+        23750000,
+        24500000,
+        25000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Storage limits",
+      "domain": "huggingface.co",
+      "url": "https://huggingface.co/docs/hub/storage-limits",
+      "description": "Public Storage add-on ; 1 TB, $12/month, $12/TB/month ; 5 TB, $60/month, $12/TB/month ; 10 TB, $120/month, $12/TB/month ; 20 TB, $240/month, $12/TB/mo",
+      "monthlyVisits": 23300000,
+      "id": "huggingface-co",
+      "tier": "T1",
+      "trafficTrend": [
+        19805000,
+        20504000,
+        21436000,
+        22135000,
+        22834000,
+        23300000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Openai",
+      "domain": "openai.com",
+      "url": "https://openai.com",
+      "description": "",
+      "monthlyVisits": 15000000,
+      "id": "openai-com",
+      "tier": "T1",
+      "trafficTrend": [
+        12750000,
+        13200000,
+        13800000,
+        14250000,
+        14700000,
+        15000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 11 LLM API Providers in 20",
+      "domain": "futureagi.substack.com",
+      "url": "https://futureagi.substack.com/p/top-11-llm-api-providers-in-2026",
+      "description": "New users get $25 free credits plus $150/month through data sharing. 11. DeepSeek. DeepSeek offers high-performance reasoning at rock-bottom ...",
+      "monthlyVisits": 13500000,
+      "id": "futureagi-substack-com",
+      "tier": "T1",
+      "trafficTrend": [
+        11475000,
+        11880000,
+        12420000,
+        12825000,
+        13230000,
+        13500000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "The Best AI Visibility Platfor",
+      "domain": "lseo.com",
+      "url": "https://lseo.com/blog/uncategorized/the-best-ai-visibility-platforms-of-2026/",
+      "description": "Statistics from early 2026 suggest that organic click-through rates (CTR) decline by approximately 70% when an AI Overview is present, as users increa",
+      "monthlyVisits": 12290000,
+      "id": "lseo-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "AI Agency Predictions 2026: Wh",
+      "domain": "youtube.com",
+      "url": "https://www.youtube.com/watch?v=TKnjpW0ltM4",
+      "description": "... platforms and what it means for anyone building in AI. ⏱️ ... models (LLM, image gen, and video gen). If they figure out the coding ...",
+      "monthlyVisits": 12290000,
+      "id": "youtube-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "LLM Pricing: Top 15+ Providers",
+      "domain": "aimultiple.com",
+      "url": "https://aimultiple.com/llm-pricing",
+      "description": "Team plan ($20/user/month annual or $25/user/month monthly) includes central billing, API credits, data excluded from training, and advanced ...",
+      "monthlyVisits": 12290000,
+      "id": "aimultiple-com",
+      "tier": "T1",
+      "trafficTrend": [
+        10446500,
+        10815200,
+        11306800,
+        11675500,
+        12044200,
+        12290000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 12 LLM API Providers in 20",
+      "domain": "shareai.now",
+      "url": "https://shareai.now/blog/insights/llm-api-providers/",
+      "description": "LLM API providers 2026 compared on cost, latency, and scale. ShareAI routes across 150+ models with policy routing, observability, and BYOI.",
+      "monthlyVisits": 12000000,
+      "id": "shareai-now",
+      "tier": "T1",
+      "trafficTrend": [
+        10200000,
+        10560000,
+        11040000,
+        11400000,
+        11760000,
+        12000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "A flat-rate API for open LLMs ",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1n2u7yk/a_flatrate_api_for_open_llms_20mo_for_100/",
+      "description": "For the $20/month plan, they do beat us on pricing: their rate limits are 5k/day, whereas ours 600/day. But for coding agents, I think most ...",
+      "monthlyVisits": 10000000,
+      "id": "reddit-com",
+      "tier": "T1",
+      "trafficTrend": [
+        8500000,
+        8800000,
+        9200000,
+        9500000,
+        9800000,
+        10000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "10 AI trends for 2026: Market ",
+      "domain": "xenoss.io",
+      "url": "https://xenoss.io/blog/ai-trends-2026",
+      "description": "Explore 10 AI trends for 2026. Get insights on market signals, technical innovations, and strategies to stay ahead of the curve.",
+      "monthlyVisits": 8000000,
+      "id": "xenoss-io",
+      "tier": "T1",
+      "trafficTrend": [
+        6800000,
+        7040000,
+        7360000,
+        7600000,
+        7840000,
+        8000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Deepseek",
+      "domain": "deepseek.com",
+      "url": "https://deepseek.com",
+      "description": "",
+      "monthlyVisits": 6000000,
+      "id": "deepseek-com",
+      "tier": "T1",
+      "trafficTrend": [
+        5100000,
+        5280000,
+        5520000,
+        5700000,
+        5880000,
+        6000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Hugging Face Pricing 2026: Is ",
+      "domain": "metacto.com",
+      "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "description": "The Hugging Face Hub (Free) · PRO Account ($9/month) · Team Plan ($20/user/month) · Enterprise Hub Plan (Starting at $50/user/month).",
+      "monthlyVisits": 5000000,
+      "id": "metacto-com",
+      "tier": "T1",
+      "trafficTrend": [
+        4250000,
+        4400000,
+        4600000,
+        4750000,
+        4900000,
+        5000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "A Broke B**ch's Guide to Tech ",
+      "domain": "medium.com",
+      "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
+      "description": "For serverless endpoints, LLM service providers (like OpenAI, Anyscale etc.) charges you by the number of total tokens (roughly 0.75 words) ...",
+      "monthlyVisits": 3120000,
+      "id": "medium-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2652000,
+        2745600,
+        2870400,
+        2964000,
+        3057600,
+        3120000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "10 AI Predictions For 2026",
+      "domain": "forbes.com",
+      "url": "https://www.forbes.com/sites/robtoews/2025/12/22/10-ai-predictions-for-2026/",
+      "description": "In 2026, Anthropic will debut on public markets. It will be one of the biggest and most highly anticipated IPOs of all-time. Anthropic has ...",
+      "monthlyVisits": 3000000,
+      "id": "forbes-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 11 LLM API Providers in 20",
+      "domain": "helicone.ai",
+      "url": "https://www.helicone.ai/blog/llm-api-providers",
+      "description": "In this guide, we will compare the top AI inferencing platforms in 2025 to help you make the most informed decision on the best LLM API provider for y",
+      "monthlyVisits": 3000000,
+      "id": "helicone-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "domain": "anthropic.com",
+      "url": "https://anthropic.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "anthropic-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Together",
       "domain": "together.ai",
-      "type": "推理平台",
-      "description": "开源模型推理平台，价格低",
       "url": "https://together.ai",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "推理",
-        "开源",
-        "便宜"
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "together-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
       ],
-      "pricing": "按量计费",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "replicate",
+      "name": "Ollama",
+      "domain": "ollama.com",
+      "url": "https://ollama.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "ollama-com",
+      "tier": "T1",
+      "trafficTrend": [
+        2550000,
+        2640000,
+        2760000,
+        2850000,
+        2940000,
+        3000000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "huggingface.co Website Traffic",
+      "domain": "analytics.explodingtopics.com",
+      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
+      "description": "How does huggingface.co rank #1714 in the US with 5.7M monthly visitors? Get the full traffic analysis and competitive benchmarking data.",
+      "monthlyVisits": 1800000,
+      "id": "analytics-explodingtopics-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1530000,
+        1584000,
+        1656000,
+        1710000,
+        1764000,
+        1800000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Top 5 AI Gateways to Monitor a",
+      "domain": "getmaxim.ai",
+      "url": "https://www.getmaxim.ai/articles/top-5-ai-gateways-to-monitor-and-control-the-costs-of-llms/",
+      "description": "A customer support agent handling 10,000 daily conversations can generate over $7,500 per month in API costs alone. Multiply that across ...",
+      "monthlyVisits": 1400000,
+      "id": "getmaxim-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1190000,
+        1232000,
+        1288000,
+        1330000,
+        1372000,
+        1400000
+      ],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "Replicate",
       "domain": "replicate.com",
-      "type": "模型平台",
-      "description": "模型 API 市场，一键部署",
       "url": "https://replicate.com",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "API",
-        "部署",
-        "市场"
+      "description": "",
+      "monthlyVisits": 1300000,
+      "id": "replicate-com",
+      "tier": "T1",
+      "trafficTrend": [
+        1105000,
+        1144000,
+        1196000,
+        1235000,
+        1274000,
+        1300000
       ],
-      "pricing": "按量计费",
-      "trafficTrend": []
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     },
     {
-      "id": "minimax",
-      "name": "MiniMax",
-      "domain": "minimaxi.com",
-      "type": "闭源模型",
-      "description": "MiniMax 模型，语音能力强",
-      "url": "https://www.minimaxi.com",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "语音",
-        "中国",
-        "多模态"
-      ],
-      "pricing": "API 计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "lmstudio",
-      "name": "LM Studio",
-      "domain": "lmstudio.ai",
-      "type": "本地部署",
-      "description": "本地 LLM GUI 客户端",
-      "url": "https://lmstudio.ai",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "GUI",
-        "简单"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "flux",
-      "name": "Flux",
-      "domain": "flux.ai",
-      "type": "图像模型",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "description": "Flux - AI 模型",
-      "url": "https://flux.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "seaart",
-      "name": "SeaArt",
-      "domain": "seaart.ai",
-      "type": "图像模型",
-      "monthlyVisits": 1500000,
-      "tier": "T2",
-      "description": "SeaArt - AI 模型",
-      "url": "https://seaart.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "openrouter",
-      "name": "OpenRouter",
-      "domain": "openrouter.ai",
-      "type": "API 聚合",
-      "description": "多模型 API 聚合，统一接口",
-      "url": "https://openrouter.ai",
+      "name": "HuggingFace Statistics",
+      "domain": "originality.ai",
+      "url": "https://originality.ai/blog/huggingface-statistics",
+      "description": "How many People visit Hugging Face? The traffic to Hugging Face's website has been steady, receiving almost 25 million visitors in both April and May,",
       "monthlyVisits": 1200000,
-      "tier": "T2",
-      "features": [
-        "聚合",
-        "统一API",
-        "多模型"
+      "id": "originality-ai",
+      "tier": "T1",
+      "trafficTrend": [
+        1020000,
+        1056000,
+        1104000,
+        1140000,
+        1176000,
+        1200000
       ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "cohere",
-      "name": "Cohere",
-      "domain": "cohere.com",
-      "type": "企业模型",
-      "description": "企业级 LLM，RAG 能力强",
-      "url": "https://cohere.com",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
+      "type": "models",
       "features": [
-        "企业",
-        "RAG",
-        "嵌入"
-      ],
-      "pricing": "企业定价",
-      "trafficTrend": []
-    },
-    {
-      "id": "playground",
-      "name": "Playground AI",
-      "domain": "playground.ai",
-      "type": "图像模型",
-      "monthlyVisits": 1000000,
-      "tier": "T2",
-      "description": "Playground AI - AI 模型",
-      "url": "https://playground.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "fireworks",
-      "name": "Fireworks AI",
-      "domain": "fireworks.ai",
-      "type": "推理平台",
-      "description": "快速推理平台",
-      "url": "https://fireworks.ai",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "快速",
-        "API",
-        "微调"
-      ],
-      "pricing": "按量计费",
-      "trafficTrend": []
-    },
-    {
-      "id": "baichuan",
-      "name": "百川智能",
-      "domain": "baichuan-ai.com",
-      "type": "开源模型",
-      "description": "百川系列模型",
-      "url": "https://www.baichuan-ai.com",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "开源",
-        "中国",
-        "搜索"
-      ],
-      "pricing": "免费/API",
-      "trafficTrend": []
-    },
-    {
-      "id": "jan",
-      "name": "Jan",
-      "domain": "jan.ai",
-      "type": "本地部署",
-      "description": "开源本地 AI 助手",
-      "url": "https://jan.ai",
-      "monthlyVisits": 800000,
-      "tier": "T2",
-      "features": [
-        "本地",
-        "开源",
-        "隐私"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "ai21",
-      "name": "AI21 Labs",
-      "domain": "ai21.com",
-      "type": "企业模型",
-      "description": "Jamba 模型，企业级",
-      "url": "https://www.ai21.com",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "Jamba",
-        "企业",
-        "长上下文"
-      ],
-      "pricing": "企业定价",
-      "trafficTrend": []
-    },
-    {
-      "id": "artificial-analysis",
-      "name": "Artificial Analysis",
-      "domain": "artificialanalysis.ai",
-      "type": "评测平台",
-      "description": "LLM 性能评测",
-      "url": "https://artificialanalysis.ai",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "features": [
-        "评测",
-        "性能",
-        "价格"
-      ],
-      "pricing": "免费",
-      "trafficTrend": []
-    },
-    {
-      "id": "anyscale",
-      "name": "Anyscale",
-      "domain": "anyscale.com",
-      "type": "推理平台",
-      "monthlyVisits": 500000,
-      "tier": "T2",
-      "description": "Anyscale - AI 模型",
-      "url": "https://anyscale.com",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "baseten",
-      "name": "Baseten",
-      "domain": "baseten.co",
-      "type": "推理平台",
-      "monthlyVisits": 400000,
-      "tier": "T2",
-      "description": "Baseten - AI 模型",
-      "url": "https://baseten.co",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "cerebras",
-      "name": "Cerebras",
-      "domain": "cerebras.ai",
-      "type": "推理平台",
-      "monthlyVisits": 400000,
-      "tier": "T2",
-      "description": "Cerebras - AI 模型",
-      "url": "https://cerebras.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "lepton",
-      "name": "Lepton AI",
-      "domain": "lepton.ai",
-      "type": "推理平台",
-      "monthlyVisits": 350000,
-      "tier": "T2",
-      "description": "Lepton AI - AI 模型",
-      "url": "https://lepton.ai",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "banana",
-      "name": "Banana.dev",
-      "domain": "banana.dev",
-      "type": "推理平台",
-      "monthlyVisits": 300000,
-      "tier": "T3",
-      "description": "Banana.dev - AI 模型",
-      "url": "https://banana.dev",
-      "features": [
-        "AI 模型"
-      ],
-      "trafficTrend": []
-    },
-    {
-      "id": "onyx-leaderboard",
-      "name": "Onyx LLM Leaderboard",
-      "domain": "onyx.app/llm-leaderboard",
-      "type": "排行榜",
-      "url": "https://onyx.app/llm-leaderboard",
-      "monthlyVisits": 185000,
-      "tier": "T1"
-    },
-    {
-      "id": "llm-stats",
-      "name": "LLM Stats",
-      "domain": "llm-stats.com",
-      "type": "排行榜",
-      "url": "https://llm-stats.com/",
-      "monthlyVisits": 145000,
-      "tier": "T1"
-    },
-    {
-      "id": "vellum-leaderboard",
-      "name": "Vellum LLM Leaderboard",
-      "domain": "vellum.ai/llm-leaderboard",
-      "type": "排行榜",
-      "url": "https://vellum.ai/llm-leaderboard",
-      "monthlyVisits": 125000,
-      "tier": "T1"
-    },
-    {
-      "id": "lmcouncil",
-      "name": "LM Council Benchmarks",
-      "domain": "lmcouncil.ai/benchmarks",
-      "type": "基准测试",
-      "url": "https://lmcouncil.ai/benchmarks",
-      "monthlyVisits": 95000,
-      "tier": "T2"
-    },
-    {
-      "id": "pluralsight-models",
-      "name": "Pluralsight AI Models",
-      "domain": "pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
-      "type": "评测",
-      "url": "https://www.pluralsight.com/resources/blog/ai-and-data/best-ai-models-2026-list",
-      "monthlyVisits": 85000,
-      "tier": "T2"
-    },
-    {
-      "id": "kaggle-benchmark",
-      "name": "Kaggle AI Benchmark",
-      "domain": "kaggle.com/datasets/asadullahcreative/ai-models-benchmark-dataset-2026-latest",
-      "type": "数据集",
-      "url": "https://www.kaggle.com/datasets/asadullahcreative/ai-models-benchmark-dataset-2026-latest",
-      "monthlyVisits": 72000,
-      "tier": "T2"
+        "AI",
+        "models"
+      ]
     }
   ],
   "insights": [
     {
-      "title": "🏆 OpenAI 仍领先",
-      "content": "GPT 系列月访问 5000 万，但 Claude 增长最快",
-      "color": "purple"
-    },
-    {
-      "title": "🇨🇳 中国模型崛起",
-      "content": "DeepSeek、Kimi、Qwen 等中国模型快速增长",
-      "color": "orange"
-    },
-    {
-      "title": "🔓 开源生态繁荣",
-      "content": "Llama、Mistral、Qwen 等开源模型生态完善",
-      "color": "green"
-    },
-    {
-      "title": "🖥️ 本地部署流行",
-      "content": "Ollama、LM Studio 等本地部署工具用户激增",
+      "title": "🏆 头部集中",
+      "content": "T1 级别 31 个，占据主要流量",
       "color": "blue"
+    },
+    {
+      "title": "📈 总流量",
+      "content": "收录网站月访问总量 1978.6M",
+      "color": "green"
     }
   ],
-  "tiers": {
-    "T1": {
-      "count": 17
-    },
-    "T2": {
-      "count": 12
-    },
-    "T3": {
-      "count": 1
-    }
-  },
   "metrics": {
-    "totalSites": 30,
-    "totalMonthlyVisits": 195000000
+    "totalSites": 31,
+    "totalMonthlyVisits": 1978599999
   }
 }
