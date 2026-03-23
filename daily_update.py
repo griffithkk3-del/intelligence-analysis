@@ -16,7 +16,7 @@ from pathlib import Path
 import time
 
 SITE_DIR = Path(__file__).parent
-SERPER_API_KEY = os.environ.get('SERPER_API_KEY', '983d5b3e27262621a4c87633448a3079b74e5f59')
+TAVILY_API_KEY = os.environ.get('TAVILY_API_KEY', '983d5b3e27262621a4c87633448a3079b74e5f59')
 
 # 数据源配置
 DATA_SOURCES = {
@@ -89,10 +89,10 @@ def search_site_info(query):
     try:
         data = json.dumps({"q": query, "num": 10}).encode('utf-8')
         req = urllib.request.Request(
-            "https://google.serper.dev/search",
+            "https://api.tavily.com/search",
             data=data,
             headers={
-                "X-API-KEY": SERPER_API_KEY,
+                "X-API-Key": TAVILY_API_KEY,
                 "Content-Type": "application/json"
             }
         )
