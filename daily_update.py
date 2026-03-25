@@ -2,7 +2,8 @@
 """
 AI 情报中心每日自动更新脚本
 - 删除旧数据，重新获取所有数据
-- 使用真实数据源（Tavily 搜索）
+- 使用多来源发现（Tavily / Exa / Serper / 结构化来源）
+- 无流量数据也可收录，但默认靠后，不抢热力图
 - 不使用模拟数据
 """
 import json
@@ -28,6 +29,47 @@ if ENV_FILE.exists():
         os.environ.setdefault(k.strip(), v.strip())
 
 TAVILY_API_KEY = os.environ.get('TAVILY_API_KEY', '')
+EXA_API_KEY = os.environ.get('EXA_API_KEY', '')
+SERPER_API_KEY = os.environ.get('SERPER_API_KEY', '')
+
+STRUCTURED_SOURCES = {
+    'global': [
+        'https://github.com/topics/ai-tools',
+        'https://www.producthunt.com/topics/artificial-intelligence',
+        'https://alternativeto.net/category/ai-machine-learning',
+        'https://www.futuretools.io',
+        'https://www.futurepedia.io',
+    ],
+    'cn': [
+        'https://ai-bot.cn',
+        'https://www.aigc.cn',
+        'https://www.aihub.cn',
+        'https://toolify.ai/zh',
+    ],
+    'skills': [
+        'https://github.com/topics/model-context-protocol',
+        'https://github.com/topics/mcp',
+        'https://smithery.ai',
+        'https://glama.ai/mcp',
+        'https://mcp.so',
+        'https://clawhub.ai',
+    ],
+    'news': [
+        'https://news.ycombinator.com',
+        'https://huggingface.co/papers',
+        'https://www.therundown.ai',
+        'https://www.bensbites.com',
+        'https://www.techcrunch.com/category/artificial-intelligence/',
+    ],
+    'models': [
+        'https://huggingface.co',
+        'https://openai.com',
+        'https://www.anthropic.com',
+        'https://www.together.ai',
+        'https://groq.com',
+        'https://replicate.com',
+    ],
+}
 
 # 数据源配置
 DATA_SOURCES = {
@@ -95,10 +137,33 @@ DATA_SOURCES = {
     }
 }
 
-def search_site_info(query):
-    """通过 Tavily 搜索获取网站信息"""
+def request_json(url, data=None, headers=None, timeout=20):
+    req = urllib.request.Request(url, data=data, headers=headers or {})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read())
+
+def normalize_domain(url):
+    match = re.search(r'https?://(?:www\.)?([^/]+(?:/[^?#]+)?)', url)
+    if not match:
+        return None
+    domain = match.group(1).rstrip('/')
+    return domain[:120]
+
+def add_site_candidate(sites, url, title='', snippet=''):
+    domain = normalize_domain(url)
+    if not domain:
+        return
+    if domain not in sites:
+        sites[domain] = {
+            'name': (title or domain.split('/')[0]).split(' - ')[0].split(' | ')[0][:60],
+            'domain': domain,
+            'url': url,
+            'description': (snippet or '')[:180],
+        }
+
+
+def search_tavily(query):
     if not TAVILY_API_KEY:
-        print("  搜索失败: 缺少 TAVILY_API_KEY")
         return None
     try:
         data = json.dumps({
@@ -109,19 +174,97 @@ def search_site_info(query):
             "include_raw_content": False,
             "topic": "general"
         }).encode('utf-8')
-        req = urllib.request.Request(
+        return request_json(
             "https://api.tavily.com/search",
             data=data,
             headers={
                 "Authorization": f"Bearer {TAVILY_API_KEY}",
                 "Content-Type": "application/json"
-            }
+            },
+            timeout=20,
         )
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            return json.loads(resp.read())
     except Exception as e:
-        print(f"  搜索失败: {e}")
+        print(f"  Tavily 搜索失败: {e}")
         return None
+
+
+def search_exa(query):
+    if not EXA_API_KEY:
+        return None
+    try:
+        data = json.dumps({
+            "query": query,
+            "numResults": 10,
+            "type": "keyword"
+        }).encode('utf-8')
+        return request_json(
+            "https://api.exa.ai/search",
+            data=data,
+            headers={
+                "x-api-key": EXA_API_KEY,
+                "Content-Type": "application/json"
+            },
+            timeout=20,
+        )
+    except Exception as e:
+        print(f"  Exa 搜索失败: {e}")
+        return None
+
+
+def search_serper(query):
+    if not SERPER_API_KEY:
+        return None
+    try:
+        data = json.dumps({"q": query, "num": 10}).encode('utf-8')
+        return request_json(
+            "https://google.serper.dev/search",
+            data=data,
+            headers={
+                "X-API-KEY": SERPER_API_KEY,
+                "Content-Type": "application/json"
+            },
+            timeout=20,
+        )
+    except Exception as e:
+        print(f"  Serper 搜索失败: {e}")
+        return None
+
+
+def search_site_info(query):
+    """并行多来源搜索，统一成标准结果"""
+    merged = {"results": []}
+
+    tav = search_tavily(query)
+    if tav:
+        for item in tav.get('results', []):
+            merged['results'].append({
+                'url': item.get('url', ''),
+                'title': item.get('title', ''),
+                'content': item.get('content', ''),
+                'source': 'tavily',
+            })
+
+    exa = search_exa(query)
+    if exa:
+        for item in exa.get('results', []):
+            merged['results'].append({
+                'url': item.get('url', ''),
+                'title': item.get('title', ''),
+                'content': item.get('text', '')[:300],
+                'source': 'exa',
+            })
+
+    serper = search_serper(query)
+    if serper:
+        for item in serper.get('organic', []):
+            merged['results'].append({
+                'url': item.get('link', ''),
+                'title': item.get('title', ''),
+                'content': item.get('snippet', ''),
+                'source': 'serper',
+            })
+
+    return merged if merged['results'] else None
 
 def get_traffic_from_search(domain):
     """搜索获取网站流量数据"""
@@ -166,34 +309,26 @@ def discover_sites(category, config):
     """发现并获取网站数据"""
     print(f"\n🔍 发现 {category} 站点...")
     sites = {}
-    
-    # 1. 搜索发现新网站
-    for query in config['search_queries'][:3]:  # 限制搜索次数
+
+    # 1. 搜索发现新网站（多来源）
+    for query in config['search_queries'][:5]:
         print(f"  搜索: {query[:40]}...")
         result = search_site_info(query)
-        if not result:
-            continue
-        
-        for item in result.get('results', []):
-            url = item.get('url', '')
-            title = item.get('title', '')
-            snippet = item.get('content', '')
-            
-            # 提取域名
-            match = re.search(r'https?://(?:www\.)?([^/]+)', url)
-            if match:
-                domain = match.group(1)
-                if domain not in sites and len(domain) < 50:
-                    sites[domain] = {
-                        'name': title.split(' - ')[0].split(' | ')[0][:30],
-                        'domain': domain,
-                        'url': url,
-                        'description': snippet[:150] if snippet else '',
-                    }
-        
-        time.sleep(0.5)
-    
-    # 2. 添加已知网站
+        if result:
+            for item in result.get('results', []):
+                add_site_candidate(
+                    sites,
+                    item.get('url', ''),
+                    item.get('title', ''),
+                    item.get('content', ''),
+                )
+        time.sleep(0.4)
+
+    # 2. 结构化来源种子
+    for url in STRUCTURED_SOURCES.get(category, []):
+        add_site_candidate(sites, url, url.split('//')[-1], 'structured-source')
+
+    # 3. 添加已知网站
     for domain in config['known_sites']:
         if domain not in sites:
             sites[domain] = {
@@ -202,44 +337,44 @@ def discover_sites(category, config):
                 'url': f'https://{domain}',
                 'description': ''
             }
-    
+
     return sites
 
 def get_site_details(sites, category):
     """获取网站详细数据"""
     print(f"\n📊 获取 {category} 流量数据...")
     results = []
-    
-    for domain, info in list(sites.items())[:50]:  # 限制 50 个
+
+    for domain, info in list(sites.items())[:80]:  # 放宽发现上限
         print(f"  {info['name'][:20]}...", end='', flush=True)
-        
+
         traffic = get_traffic_from_search(domain)
-        
+        info['monthlyVisits'] = traffic or 0
+        info['hasTraffic'] = bool(traffic and traffic > 0)
+        info['id'] = re.sub(r'[^a-z0-9]', '-', domain.lower())[:30]
+
+        # 无流量也收录，但排在后面、不抢热力图
+        if info['monthlyVisits'] >= 1000000:
+            info['tier'] = 'T1'
+        elif info['monthlyVisits'] >= 100000:
+            info['tier'] = 'T2'
+        elif info['monthlyVisits'] > 0:
+            info['tier'] = 'T3'
+        else:
+            info['tier'] = 'T4'
+
+        info['trafficTrend'] = []
+        info['type'] = category
+        info['features'] = ['AI', category]
+
+        results.append(info)
         if traffic and traffic > 0:
-            info['monthlyVisits'] = traffic
-            info['id'] = re.sub(r'[^a-z0-9]', '-', domain.lower())[:30]
-            
-            # 确定层级
-            if traffic >= 1000000:
-                info['tier'] = 'T1'
-            elif traffic >= 100000:
-                info['tier'] = 'T2'
-            else:
-                info['tier'] = 'T3'
-            
-            # 无真实数据时不生成模拟趋势
-            info['trafficTrend'] = []
-            
-            info['type'] = category
-            info['features'] = ['AI', category]
-            
-            results.append(info)
             print(f" ✓ {traffic:,}")
         else:
-            print(f" ✗ 无数据")
-        
-        time.sleep(0.3)
-    
+            print(" · 收录(无流量)")
+
+        time.sleep(0.2)
+
     return results
 
 def update_site(site_name, json_path, config):
@@ -254,22 +389,24 @@ def update_site(site_name, json_path, config):
     
     # 2. 获取详细数据
     competitors = get_site_details(sites, site_name)
-    print(f"  获取到 {len(competitors)} 个有效数据")
-    
+    print(f"  获取到 {len(competitors)} 个候选数据")
+
     if len(competitors) < 10:
         print(f"  ⚠️ 数据不足，保留旧数据")
         return False
-    
-    # 3. 排序
-    competitors.sort(key=lambda x: x.get('monthlyVisits', 0), reverse=True)
+
+    # 3. 排序：有流量优先，无流量靠后
+    competitors.sort(key=lambda x: (1 if x.get('hasTraffic') else 0, x.get('monthlyVisits', 0)), reverse=True)
     
     # 4. 生成洞察
     t1_count = len([c for c in competitors if c.get('tier') == 'T1'])
     total_visits = sum(c.get('monthlyVisits', 0) for c in competitors)
-    
+    no_traffic_count = len([c for c in competitors if not c.get('hasTraffic')])
+
     insights = [
         {"title": f"🏆 头部集中", "content": f"T1 级别 {t1_count} 个，占据主要流量", "color": "blue"},
-        {"title": f"📈 总流量", "content": f"收录网站月访问总量 {total_visits/1e6:.1f}M", "color": "green"},
+        {"title": f"📈 总流量", "content": f"有流量网站月访问总量 {total_visits/1e6:.1f}M", "color": "green"},
+        {"title": f"🧩 长尾补充", "content": f"另收录 {no_traffic_count} 个暂无流量数据的网站，默认靠后展示", "color": "purple"},
     ]
     
     # 5. 保存数据
