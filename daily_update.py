@@ -2,7 +2,7 @@
 """
 AI 情报中心每日自动更新脚本
 - 删除旧数据，重新获取所有数据
-- 使用真实数据源（SimilarWeb API / Serper 搜索）
+- 使用真实数据源（Tavily 搜索）
 - 不使用模拟数据
 """
 import json
@@ -16,7 +16,18 @@ from pathlib import Path
 import time
 
 SITE_DIR = Path(__file__).parent
-TAVILY_API_KEY = os.environ.get('TAVILY_API_KEY', '983d5b3e27262621a4c87633448a3079b74e5f59')
+
+# 读取本地 .env，避免定时任务/手动执行时环境变量未注入
+ENV_FILE = SITE_DIR / '.env'
+if ENV_FILE.exists():
+    for line in ENV_FILE.read_text(encoding='utf-8').splitlines():
+        line = line.strip()
+        if not line or line.startswith('#') or '=' not in line:
+            continue
+        k, v = line.split('=', 1)
+        os.environ.setdefault(k.strip(), v.strip())
+
+TAVILY_API_KEY = os.environ.get('TAVILY_API_KEY', '')
 
 # 数据源配置
 DATA_SOURCES = {
@@ -85,18 +96,28 @@ DATA_SOURCES = {
 }
 
 def search_site_info(query):
-    """通过 Serper 搜索获取网站信息"""
+    """通过 Tavily 搜索获取网站信息"""
+    if not TAVILY_API_KEY:
+        print("  搜索失败: 缺少 TAVILY_API_KEY")
+        return None
     try:
-        data = json.dumps({"q": query, "num": 10}).encode('utf-8')
+        data = json.dumps({
+            "query": query,
+            "max_results": 10,
+            "search_depth": "basic",
+            "include_answer": False,
+            "include_raw_content": False,
+            "topic": "general"
+        }).encode('utf-8')
         req = urllib.request.Request(
             "https://api.tavily.com/search",
             data=data,
             headers={
-                "X-API-Key": TAVILY_API_KEY,
+                "Authorization": f"Bearer {TAVILY_API_KEY}",
                 "Content-Type": "application/json"
             }
         )
-        with urllib.request.urlopen(req, timeout=15) as resp:
+        with urllib.request.urlopen(req, timeout=20) as resp:
             return json.loads(resp.read())
     except Exception as e:
         print(f"  搜索失败: {e}")
@@ -115,8 +136,8 @@ def get_traffic_from_search(domain):
         if not result:
             continue
         
-        for item in result.get('organic', []):
-            snippet = (item.get('snippet', '') + ' ' + item.get('title', '')).lower()
+        for item in result.get('results', []):
+            snippet = (item.get('content', '') + ' ' + item.get('title', '')).lower()
             
             # 提取流量数字
             patterns = [
@@ -153,10 +174,10 @@ def discover_sites(category, config):
         if not result:
             continue
         
-        for item in result.get('organic', []):
-            url = item.get('link', '')
+        for item in result.get('results', []):
+            url = item.get('url', '')
             title = item.get('title', '')
-            snippet = item.get('snippet', '')
+            snippet = item.get('content', '')
             
             # 提取域名
             match = re.search(r'https?://(?:www\.)?([^/]+)', url)
@@ -206,12 +227,8 @@ def get_site_details(sites, category):
             else:
                 info['tier'] = 'T3'
             
-            # 生成趋势（基于当前数据的历史估算）
-            base = traffic
-            info['trafficTrend'] = [
-                int(base * 0.85), int(base * 0.88), int(base * 0.92),
-                int(base * 0.95), int(base * 0.98), traffic
-            ]
+            # 无真实数据时不生成模拟趋势
+            info['trafficTrend'] = []
             
             info['type'] = category
             info['features'] = ['AI', category]

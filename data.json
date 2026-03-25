@@ -1,276 +1,205 @@
 {
-  "lastUpdated": "2026-03-25T15:28:24+08:00",
+  "lastUpdated": "2026-03-25T19:08:40.440840+08:00",
   "config": {
-    "category": "AI Tools Directory",
-    "description": "AI 工具聚合网站导航",
-    "autoUpdate": true,
-    "totalSites": 26,
-    "dataSources": [
-      "Serper API",
-      "aibase.com",
-      "RankmyAI"
-    ]
+    "category": "global",
+    "autoUpdate": true
   },
   "competitors": [
     {
-      "id": "theresanaiforthat-com",
-      "domain": "theresanaiforthat.com",
-      "name": "There's An AI For That",
+      "name": "Aitools",
+      "domain": "aitools.fyi",
+      "url": "https://aitools.fyi",
+      "description": "",
+      "monthlyVisits": 352000000,
+      "id": "aitools-fyi",
+      "tier": "T1",
+      "trafficTrend": [],
       "type": "global",
-      "url": "https://theresanaiforthat.com",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "toolify-ai",
-      "domain": "toolify.ai",
-      "name": "Toolify AI",
+      "name": "Best AI Tools Directory",
+      "domain": "aitoolsdirectory.net",
+      "url": "https://aitoolsdirectory.net/",
+      "description": "Code Assistant Paid](https://aitoolsdirectory.net/tool/dall-e-3)[🔥 Trending Claude AI Claude AI is an advanced AI-powered solution that helps professi",
+      "monthlyVisits": 100000000,
+      "id": "aitoolsdirectory-net",
+      "tier": "T1",
+      "trafficTrend": [],
       "type": "global",
-      "url": "https://toolify.ai",
-      "monthlyVisits": 30139,
-      "tier": "T2",
-      "trafficTrend": []
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "futurepedia-io",
-      "domain": "futurepedia.io",
-      "name": "Futurepedia",
+      "name": "AI Tools Directory (2026) — Di",
+      "domain": "aitools-directory.com",
+      "url": "https://www.aitools-directory.com/",
+      "description": "## AI Tools Directory — Discover, Compare & Submit the Best AI Tools in 2026. AI Tools Directory is a curated platform built to help you discover, com",
+      "monthlyVisits": 100000000,
+      "id": "aitools-directory-com",
+      "tier": "T1",
+      "trafficTrend": [],
       "type": "global",
-      "url": "https://futurepedia.io",
-      "monthlyVisits": 91196,
-      "tier": "T2",
-      "trafficTrend": []
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "futuretools-io",
-      "domain": "futuretools.io",
-      "name": "Future Tools",
-      "type": "global",
-      "url": "https://futuretools.io",
-      "monthlyVisits": 88135,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "aitoolsdirectory-com",
-      "domain": "aitoolsdirectory.com",
       "name": "AI Tools Directory",
-      "type": "global",
-      "url": "https://aitoolsdirectory.com",
-      "monthlyVisits": 193386,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "aidirectory-io",
-      "domain": "aidirectory.io",
-      "name": "AI Directory",
-      "type": "global",
-      "url": "https://aidirectory.io",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-collection-org",
-      "domain": "ai-collection.org",
-      "name": "AI Collection",
-      "type": "global",
-      "url": "https://ai-collection.org",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "allthingsai-com",
-      "domain": "allthingsai.com",
-      "name": "All Things AI",
-      "type": "global",
-      "url": "https://allthingsai.com",
-      "monthlyVisits": 2025,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "gptdemo-net",
-      "domain": "gptdemo.net",
-      "name": "GPT Demo",
-      "type": "global",
-      "url": "https://gptdemo.net",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-directory",
-      "domain": "ai.directory",
-      "name": "AI Directory",
-      "type": "global",
-      "url": "https://ai.directory",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "ai-bot-cn",
-      "domain": "ai-bot.cn",
-      "name": "AI Bot 中文",
-      "type": "cn",
-      "url": "https://ai-bot.cn",
-      "monthlyVisits": 42663,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "aihub-cn",
-      "domain": "aihub.cn",
-      "name": "AI Hub 中文",
-      "type": "cn",
-      "url": "https://aihub.cn",
-      "monthlyVisits": 10508,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "aicpb-com",
-      "domain": "aicpb.com",
-      "name": "AI 产品榜",
-      "type": "cn",
-      "url": "https://aicpb.com",
-      "monthlyVisits": 240000000,
+      "domain": "aitoolsdirectory.com",
+      "url": "https://aitoolsdirectory.com/",
+      "description": "A free, no-signup AI creative platform for generating videos from images or text, creating AI art, and editing photos. A web-based tool that scans tex",
+      "monthlyVisits": 100000000,
+      "id": "aitoolsdirectory-com",
       "tier": "T1",
-      "trafficTrend": []
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "aigc-cn",
-      "domain": "aigc.cn",
-      "name": "AIGC 中文",
-      "type": "cn",
-      "url": "https://aigc.cn",
-      "monthlyVisits": 3737,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "maga-ai",
-      "domain": "maga.ai",
-      "name": "MAGA AI",
-      "type": "cn",
-      "url": "https://maga.ai",
-      "monthlyVisits": 2025,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "smithery-ai",
-      "domain": "smithery.ai",
-      "name": "Smithery",
-      "type": "skills",
-      "url": "https://smithery.ai",
-      "monthlyVisits": 1800000,
+      "name": "Producthunt",
+      "domain": "producthunt.com/topics/artificial-intelligence",
+      "url": "https://producthunt.com/topics/artificial-intelligence",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "id": "producthunt-com-topics-artific",
       "tier": "T1",
-      "trafficTrend": []
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "mcpmarket-com",
-      "domain": "mcpmarket.com",
-      "name": "MCP Market",
-      "type": "skills",
-      "url": "https://mcpmarket.com",
-      "monthlyVisits": 2389,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "glama-ai",
-      "domain": "glama.ai",
-      "name": "Glama AI",
-      "type": "skills",
-      "url": "https://glama.ai",
-      "monthlyVisits": 1047,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "clawhub-ai",
-      "domain": "clawhub.ai",
-      "name": "ClawHub",
-      "type": "skills",
-      "url": "https://clawhub.ai",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "openrouter-ai",
-      "domain": "openrouter.ai",
-      "name": "OpenRouter",
-      "type": "models",
-      "url": "https://openrouter.ai",
-      "monthlyVisits": 3808,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "huggingface-co",
-      "domain": "huggingface.co",
-      "name": "Hugging Face",
-      "type": "models",
-      "url": "https://huggingface.co",
-      "monthlyVisits": 23300000,
+      "name": "Theresanaiforthat",
+      "domain": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "theresanaiforthat-com",
       "tier": "T1",
-      "trafficTrend": []
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "cursor-sh",
-      "domain": "cursor.sh",
-      "name": "Cursor",
-      "type": "models",
-      "url": "https://cursor.sh",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
-    },
-    {
-      "id": "anthropic-com",
-      "domain": "anthropic.com",
-      "name": "Anthropic",
-      "type": "models",
-      "url": "https://anthropic.com",
-      "monthlyVisits": 16100000,
+      "name": "Futuretools",
+      "domain": "futuretools.io",
+      "url": "https://futuretools.io",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "futuretools-io",
       "tier": "T1",
-      "trafficTrend": []
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "chatgpt-com",
-      "domain": "chatgpt.com",
-      "name": "ChatGPT",
-      "type": "models",
-      "url": "https://chatgpt.com",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
+      "name": "Futurepedia",
+      "domain": "futurepedia.io",
+      "url": "https://futurepedia.io",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "futurepedia-io",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "deepseek-com",
-      "domain": "deepseek.com",
-      "name": "DeepSeek",
-      "type": "models",
-      "url": "https://deepseek.com",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
+      "name": "Topai",
+      "domain": "topai.tools",
+      "url": "https://topai.tools",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "topai-tools",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     },
     {
-      "id": "qwen-ai",
-      "domain": "qwen.ai",
-      "name": "Qwen",
-      "type": "models",
-      "url": "https://qwen.ai",
-      "monthlyVisits": 2026,
-      "tier": "T2",
-      "trafficTrend": []
+      "name": "Alternativeto",
+      "domain": "alternativeto.net/category/ai-machine-learning",
+      "url": "https://alternativeto.net/category/ai-machine-learning",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "id": "alternativeto-net-category-ai-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "G2",
+      "domain": "g2.com/categories/ai-writing-assistant",
+      "url": "https://g2.com/categories/ai-writing-assistant",
+      "description": "",
+      "monthlyVisits": 2000000,
+      "id": "g2-com-categories-ai-writing-a",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Toolify",
+      "domain": "toolify.ai",
+      "url": "https://toolify.ai",
+      "description": "",
+      "monthlyVisits": 1500000,
+      "id": "toolify-ai",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
     }
-  ]
+  ],
+  "insights": [
+    {
+      "title": "🧹 清洗完成",
+      "content": "过滤非目录站/文章页后保留 12 个有效站点",
+      "color": "blue"
+    },
+    {
+      "title": "🏆 头部集中",
+      "content": "T1 级别 12 个，占据主要流量",
+      "color": "green"
+    }
+  ],
+  "metrics": {
+    "totalSites": 12,
+    "totalMonthlyVisits": 675500000
+  }
 }
