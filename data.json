@@ -1,399 +1,15 @@
 {
-  "lastUpdated": "2026-03-25T19:38:15.446548+08:00",
+  "lastUpdated": "2026-03-30T09:38:20.186587+08:00",
   "config": {
     "category": "global",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Aitools",
-      "domain": "aitools.fyi",
-      "url": "https://aitools.fyi",
-      "description": "",
-      "monthlyVisits": 352000000,
-      "id": "aitools-fyi",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Best AI Tools Directory",
-      "domain": "aitoolsdirectory.net",
-      "url": "https://aitoolsdirectory.net/",
-      "description": "Code Assistant Paid](https://aitoolsdirectory.net/tool/dall-e-3)[🔥 Trending Claude AI Claude AI is an advanced AI-powered solution that helps professi",
-      "monthlyVisits": 100000000,
-      "id": "aitoolsdirectory-net",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "AI Tools Directory (2026) — Di",
-      "domain": "aitools-directory.com",
-      "url": "https://www.aitools-directory.com/",
-      "description": "## AI Tools Directory — Discover, Compare & Submit the Best AI Tools in 2026. AI Tools Directory is a curated platform built to help you discover, com",
-      "monthlyVisits": 100000000,
-      "id": "aitools-directory-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "AI Tools Directory",
-      "domain": "aitoolsdirectory.com",
-      "url": "https://aitoolsdirectory.com/",
-      "description": "A free, no-signup AI creative platform for generating videos from images or text, creating AI art, and editing photos. A web-based tool that scans tex",
-      "monthlyVisits": 100000000,
-      "id": "aitoolsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Producthunt",
-      "domain": "producthunt.com/topics/artificial-intelligence",
-      "url": "https://producthunt.com/topics/artificial-intelligence",
-      "description": "",
-      "monthlyVisits": 5000000,
-      "id": "producthunt-com-topics-artific",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Theresanaiforthat",
-      "domain": "theresanaiforthat.com",
-      "url": "https://theresanaiforthat.com",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "theresanaiforthat-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Futuretools",
-      "domain": "futuretools.io",
-      "url": "https://futuretools.io",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "futuretools-io",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Futurepedia",
-      "domain": "futurepedia.io",
-      "url": "https://futurepedia.io",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "futurepedia-io",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Topai",
-      "domain": "topai.tools",
-      "url": "https://topai.tools",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "topai-tools",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Alternativeto",
-      "domain": "alternativeto.net/category/ai-machine-learning",
-      "url": "https://alternativeto.net/category/ai-machine-learning",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "alternativeto-net-category-ai-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "G2",
-      "domain": "g2.com/categories/ai-writing-assistant",
-      "url": "https://g2.com/categories/ai-writing-assistant",
-      "description": "",
-      "monthlyVisits": 2000000,
-      "id": "g2-com-categories-ai-writing-a",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "Toolify",
-      "domain": "toolify.ai",
-      "url": "https://toolify.ai",
-      "description": "",
-      "monthlyVisits": 1500000,
-      "id": "toolify-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ],
-      "hasTraffic": true
-    },
-    {
-      "name": "AI Tool Hunt",
-      "domain": "aitoolhunt.com",
-      "url": "https://aitoolhunt.com",
-      "description": "AI tools directory and listing site",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aitoolhunt-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "FindMyAITool",
-      "domain": "findmyaitool.com",
-      "url": "https://findmyaitool.com",
-      "description": "Find and compare AI tools",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "findmyaitool-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Insidr AI Tools",
-      "domain": "insidr.ai/ai-tools",
-      "url": "https://www.insidr.ai/ai-tools",
-      "description": "AI tools collection",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "insidr-ai-ai-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Easy With AI",
-      "domain": "easywithai.com",
-      "url": "https://easywithai.com",
-      "description": "AI tools directory",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "easywithai-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "ToolPilot",
-      "domain": "toolpilot.ai",
-      "url": "https://www.toolpilot.ai",
-      "description": "AI tools discovery platform",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "toolpilot-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Dang.ai",
-      "domain": "dang.ai",
-      "url": "https://dang.ai",
-      "description": "AI tools and products discovery",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "dang-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "OpenFuture",
-      "domain": "openfuture.ai",
-      "url": "https://openfuture.ai",
-      "description": "AI tools directory and rankings",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "openfuture-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "All Things AI",
-      "domain": "allthingsai.com",
-      "url": "https://allthingsai.com",
-      "description": "AI tools and company listings",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "allthingsai-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Top Tools",
-      "domain": "aitoptools.com",
-      "url": "https://aitoptools.com",
-      "description": "AI tools directory",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aitoptools-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Powered by AI",
-      "domain": "poweredbyai.app",
-      "url": "https://poweredbyai.app",
-      "description": "AI products and tools listing",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "poweredbyai-app",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Startup AI Tools",
-      "domain": "startupaitools.com",
-      "url": "https://startupaitools.com",
-      "description": "AI startup tools listing",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "startupaitools-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Directories HQ AI",
-      "domain": "directorieshq.com/ai-tools",
-      "url": "https://directorieshq.com/ai-tools",
-      "description": "Directory collection for AI tools",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "directorieshq-com-ai-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub AI Tools Topic",
+      "name": "github.com/topics/ai-tools",
       "domain": "github.com/topics/ai-tools",
       "url": "https://github.com/topics/ai-tools",
-      "description": "GitHub topic page for AI tools",
+      "description": "structured-source",
       "monthlyVisits": 0,
       "hasTraffic": false,
       "id": "github-com-topics-ai-tools",
@@ -406,13 +22,13 @@
       ]
     },
     {
-      "name": "GitHub AI Topic",
-      "domain": "github.com/topics/artificial-intelligence",
-      "url": "https://github.com/topics/artificial-intelligence",
-      "description": "GitHub AI ecosystem topic page",
+      "name": "www.producthunt.com/topics/artificial-intelligence",
+      "domain": "producthunt.com/topics/artificial-intelligence",
+      "url": "https://www.producthunt.com/topics/artificial-intelligence",
+      "description": "structured-source",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "github-com-topics-artificial-i",
+      "id": "producthunt-com-topics-artific",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -422,13 +38,13 @@
       ]
     },
     {
-      "name": "MCP.so",
-      "domain": "mcp.so",
-      "url": "https://mcp.so",
-      "description": "MCP ecosystem listing",
+      "name": "alternativeto.net/category/ai-machine-learning",
+      "domain": "alternativeto.net/category/ai-machine-learning",
+      "url": "https://alternativeto.net/category/ai-machine-learning",
+      "description": "structured-source",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "mcp-so",
+      "id": "alternativeto-net-category-ai-",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -438,13 +54,13 @@
       ]
     },
     {
-      "name": "Smithery",
-      "domain": "smithery.ai",
-      "url": "https://smithery.ai",
-      "description": "Agent/MCP tools listing",
+      "name": "www.futuretools.io",
+      "domain": "futuretools.io",
+      "url": "https://www.futuretools.io",
+      "description": "structured-source",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "smithery-ai",
+      "id": "futuretools-io",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -454,13 +70,13 @@
       ]
     },
     {
-      "name": "Futurepedia AI Tools",
-      "domain": "futurepedia.io/ai-tools",
-      "url": "https://www.futurepedia.io/ai-tools",
-      "description": "Futurepedia tool index page",
+      "name": "www.futurepedia.io",
+      "domain": "futurepedia.io",
+      "url": "https://www.futurepedia.io",
+      "description": "structured-source",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "futurepedia-io-ai-tools",
+      "id": "futurepedia-io",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -470,13 +86,13 @@
       ]
     },
     {
-      "name": "Toolify Categories",
-      "domain": "toolify.ai/category/all",
-      "url": "https://www.toolify.ai/category/all",
-      "description": "Toolify category explorer",
+      "name": "Theresanaiforthat",
+      "domain": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "toolify-ai-category-all",
+      "id": "theresanaiforthat-com",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -486,13 +102,13 @@
       ]
     },
     {
-      "name": "Toolify Tasks",
-      "domain": "toolify.ai/tasks/all",
-      "url": "https://www.toolify.ai/tasks/all",
-      "description": "Toolify task-based discovery page",
+      "name": "Toolify",
+      "domain": "toolify.ai",
+      "url": "https://toolify.ai",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "toolify-ai-tasks-all",
+      "id": "toolify-ai",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -502,13 +118,13 @@
       ]
     },
     {
-      "name": "TAAFT AI Index",
-      "domain": "theresanaiforthat.com/ais",
-      "url": "https://theresanaiforthat.com/ais",
-      "description": "There’s An AI For That listing page",
+      "name": "Aitools",
+      "domain": "aitools.fyi",
+      "url": "https://aitools.fyi",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "theresanaiforthat-com-ais",
+      "id": "aitools-fyi",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -518,13 +134,13 @@
       ]
     },
     {
-      "name": "AlternativeTo ChatGPT",
-      "domain": "alternativeto.net/software/chatgpt",
-      "url": "https://alternativeto.net/software/chatgpt/",
-      "description": "AlternativeTo popular AI alternatives page",
+      "name": "Topai",
+      "domain": "topai.tools",
+      "url": "https://topai.tools",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "alternativeto-net-software-cha",
+      "id": "topai-tools",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -534,13 +150,13 @@
       ]
     },
     {
-      "name": "AlternativeTo AI Writing",
-      "domain": "alternativeto.net/category/productivity/ai-writing",
-      "url": "https://alternativeto.net/category/productivity/ai-writing/",
-      "description": "AlternativeTo AI writing tools category",
+      "name": "Aitoolsdirectory",
+      "domain": "aitoolsdirectory.com",
+      "url": "https://aitoolsdirectory.com",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "alternativeto-net-category-pro",
+      "id": "aitoolsdirectory-com",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -550,301 +166,13 @@
       ]
     },
     {
-      "name": "G2 Text-to-Image",
-      "domain": "g2.com/categories/text-to-image",
-      "url": "https://www.g2.com/categories/text-to-image",
-      "description": "G2 category page",
+      "name": "G2",
+      "domain": "g2.com/categories/ai-writing-assistant",
+      "url": "https://g2.com/categories/ai-writing-assistant",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "g2-com-categories-text-to-imag",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "G2 Chatbots",
-      "domain": "g2.com/categories/chatbots",
-      "url": "https://www.g2.com/categories/chatbots",
-      "description": "G2 chatbots category",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "g2-com-categories-chatbots",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "G2 AI Search",
-      "domain": "g2.com/categories/ai-search",
-      "url": "https://www.g2.com/categories/ai-search",
-      "description": "G2 AI search category",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "g2-com-categories-ai-search",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub Generative AI Topic",
-      "domain": "github.com/topics/generative-ai",
-      "url": "https://github.com/topics/generative-ai",
-      "description": "GitHub topic page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "github-com-topics-generative-a",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub LLM Topic",
-      "domain": "github.com/topics/llm",
-      "url": "https://github.com/topics/llm",
-      "description": "GitHub LLM topic page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "github-com-topics-llm",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub Prompt Engineering Topic",
-      "domain": "github.com/topics/prompt-engineering",
-      "url": "https://github.com/topics/prompt-engineering",
-      "description": "GitHub prompt engineering topic page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "github-com-topics-prompt-engin",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub Awesome AI Topic",
-      "domain": "github.com/topics/awesome-ai",
-      "url": "https://github.com/topics/awesome-ai",
-      "description": "GitHub awesome AI topic page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "github-com-topics-awesome-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Hugging Face Models",
-      "domain": "huggingface.co/models",
-      "url": "https://huggingface.co/models",
-      "description": "Model discovery hub",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "huggingface-co-models",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Hugging Face Spaces",
-      "domain": "huggingface.co/spaces",
-      "url": "https://huggingface.co/spaces",
-      "description": "AI app discovery hub",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "huggingface-co-spaces",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "FutureTools Productivity",
-      "domain": "www.futuretools.io/?tags=productivity",
-      "url": "https://www.futuretools.io/?tags=productivity",
-      "description": "FutureTools filtered collection",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "www-futuretools-io-?tags=produ",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "FutureTools Marketing",
-      "domain": "www.futuretools.io/?tags=marketing",
-      "url": "https://www.futuretools.io/?tags=marketing",
-      "description": "FutureTools filtered collection",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "www-futuretools-io-?tags=marke",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "FutureTools Code Assistant",
-      "domain": "www.futuretools.io/?tags=code-assistant",
-      "url": "https://www.futuretools.io/?tags=code-assistant",
-      "description": "FutureTools filtered collection",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "www-futuretools-io-?tags=code-",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "OpenFuture Tools",
-      "domain": "openfuture.ai/tools",
-      "url": "https://openfuture.ai/tools",
-      "description": "OpenFuture tools page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "openfuture-ai-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Dang AI Tools",
-      "domain": "dang.ai/tools",
-      "url": "https://dang.ai/tools",
-      "description": "Dang AI tools listing",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "dang-ai-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "All Things AI Tools",
-      "domain": "allthingsai.com/tools",
-      "url": "https://allthingsai.com/tools",
-      "description": "All Things AI tools listing",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "allthingsai-com-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "ToolPilot Collections",
-      "domain": "toolpilot.ai/collections",
-      "url": "https://www.toolpilot.ai/collections",
-      "description": "ToolPilot collections page",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "toolpilot-ai-collections",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tool Hunt Categories",
-      "domain": "aitoolhunt.com/categories",
-      "url": "https://aitoolhunt.com/categories",
-      "description": "AI Tool Hunt categories",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aitoolhunt-com-categories",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "FindMyAITool Categories",
-      "domain": "findmyaitool.com/categories",
-      "url": "https://findmyaitool.com/categories",
-      "description": "AI tool discovery categories",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "findmyaitool-com-categories",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Easy With AI Tools",
-      "domain": "easywithai.com/ai-tools",
-      "url": "https://easywithai.com/ai-tools",
-      "description": "Easy With AI tools listing",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "easywithai-com-ai-tools",
+      "id": "g2-com-categories-ai-writing-a",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -856,23 +184,23 @@
   ],
   "insights": [
     {
-      "title": "📚 收录扩充",
-      "content": "主站已扩充到 53 个来源（含无流量长尾）",
+      "title": "🏆 头部集中",
+      "content": "T1 级别 0 个，占据主要流量",
       "color": "blue"
     },
     {
-      "title": "🔥 热力图优先",
-      "content": "有流量站点优先展示，无流量站点靠后，不抢热力图",
+      "title": "📈 总流量",
+      "content": "有流量网站月访问总量 0.0M",
       "color": "green"
     },
     {
-      "title": "🕸️ 多来源发现",
-      "content": "已纳入目录站、分类页、集合页、GitHub/Hugging Face 等来源",
+      "title": "🧩 长尾补充",
+      "content": "另收录 11 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 53,
-    "totalMonthlyVisits": 675500000
+    "totalSites": 11,
+    "totalMonthlyVisits": 0
   }
 }

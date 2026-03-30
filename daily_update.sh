@@ -1,71 +1,71 @@
 #!/bin/bash
 # AI 情报中心 - 每日自动更新任务
-# 使用 OpenClaw 定时任务系统
+# 当前主链路：daily_update.py + validate_data.py
 
-set -e
+set -euo pipefail
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-LOG_FILE="$SCRIPT_DIR/logs/daily_update_$(date +%Y%m%d).log"
+LOG_DIR="$SCRIPT_DIR/logs"
+LOG_FILE="$LOG_DIR/daily_update_$(date +%Y%m%d).log"
 
-# 创建日志目录
-mkdir -p "$SCRIPT_DIR/logs"
-
-echo "========================================" | tee -a "$LOG_FILE"
-echo "AI 情报中心 - 每日自动更新" | tee -a "$LOG_FILE"
-echo "时间: $(date '+%Y-%m-%d %H:%M:%S')" | tee -a "$LOG_FILE"
-echo "========================================" | tee -a "$LOG_FILE"
-
-# 检查环境变量
-if [ -z "$SERPER_API_KEY" ]; then
-    echo "❌ 错误: SERPER_API_KEY 环境变量未设置" | tee -a "$LOG_FILE"
-    exit 1
-fi
-
-# 切换到项目目录
+mkdir -p "$LOG_DIR"
 cd "$SCRIPT_DIR"
 
-# 拉取最新代码
-echo "" | tee -a "$LOG_FILE"
-echo "📥 拉取最新代码..." | tee -a "$LOG_FILE"
+# 读取本地 .env（如存在）
+if [ -f "$SCRIPT_DIR/.env" ]; then
+  set -a
+  source "$SCRIPT_DIR/.env"
+  set +a
+fi
+
+log() {
+  echo "$1" | tee -a "$LOG_FILE"
+}
+
+log "========================================"
+log "AI 情报中心 - 每日自动更新"
+log "时间: $(date '+%Y-%m-%d %H:%M:%S')"
+log "目录: $SCRIPT_DIR"
+log "========================================"
+
+log ""
+log "🔐 环境检查..."
+for key in TAVILY_API_KEY EXA_API_KEY SERPER_API_KEY; do
+  if [ -n "${!key:-}" ]; then
+    log "  - $key: 已设置"
+  else
+    log "  - $key: 未设置"
+  fi
+done
+
+log ""
+log "📥 拉取最新代码..."
 git pull 2>&1 | tee -a "$LOG_FILE"
 
-# 运行数据更新脚本
-echo "" | tee -a "$LOG_FILE"
-echo "🔄 开始更新数据..." | tee -a "$LOG_FILE"
-python3 daily_update_v2.py 2>&1 | tee -a "$LOG_FILE"
+log ""
+log "🔄 开始更新数据（daily_update.py）..."
+python3 daily_update.py 2>&1 | tee -a "$LOG_FILE"
 
-# 验证数据
-echo "" | tee -a "$LOG_FILE"
-echo "✅ 验证数据..." | tee -a "$LOG_FILE"
-python3 validate_data_v2.py 2>&1 | tee -a "$LOG_FILE"
+log ""
+log "✅ 验证数据（validate_data.py）..."
+python3 validate_data.py 2>&1 | tee -a "$LOG_FILE"
 
-VALIDATION_EXIT_CODE=$?
-
-if [ $VALIDATION_EXIT_CODE -ne 0 ]; then
-    echo "" | tee -a "$LOG_FILE"
-    echo "❌ 数据验证失败，不推送到 GitHub" | tee -a "$LOG_FILE"
-    exit 1
-fi
-
-# 推送到 GitHub
-echo "" | tee -a "$LOG_FILE"
-echo "🚀 推送到 GitHub..." | tee -a "$LOG_FILE"
-
+log ""
+log "🚀 推送到 GitHub..."
 if git diff --quiet && git diff --cached --quiet; then
-    echo "📝 无变更，跳过提交" | tee -a "$LOG_FILE"
+  log "📝 无变更，跳过提交"
 else
-    git add . 2>&1 | tee -a "$LOG_FILE"
-    git commit -m "data: 每日自动更新 $(date '+%Y-%m-%d')" 2>&1 | tee -a "$LOG_FILE"
-    git push 2>&1 | tee -a "$LOG_FILE"
-    echo "✅ 推送成功" | tee -a "$LOG_FILE"
+  git add . 2>&1 | tee -a "$LOG_FILE"
+  git commit -m "data: 每日自动更新 $(date '+%Y-%m-%d')" 2>&1 | tee -a "$LOG_FILE"
+  git push 2>&1 | tee -a "$LOG_FILE"
+  log "✅ 推送成功"
 fi
 
-echo "" | tee -a "$LOG_FILE"
-echo "========================================" | tee -a "$LOG_FILE"
-echo "✅ 每日更新完成" | tee -a "$LOG_FILE"
-echo "========================================" | tee -a "$LOG_FILE"
+log ""
+log "========================================"
+log "✅ 每日更新完成"
+log "========================================"
 
-# 清理旧日志（保留最近 30 天）
-find "$SCRIPT_DIR/logs" -name "daily_update_*.log" -mtime +30 -delete
+find "$LOG_DIR" -name "daily_update_*.log" -mtime +30 -delete || true
 
 exit 0

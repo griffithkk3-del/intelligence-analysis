@@ -1,26 +1,20 @@
 {
-  "lastUpdated": "2026-03-20T14:54:36.880108+08:00",
+  "lastUpdated": "2026-03-30T09:41:12.728179+08:00",
   "config": {
     "category": "skills",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Marketing skills for Claude Co",
-      "domain": "github.com",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth eng",
-      "monthlyVisits": 534799999,
-      "id": "github-com",
-      "tier": "T1",
-      "trafficTrend": [
-        454579999,
-        470623999,
-        492015999,
-        508059999,
-        524103999,
-        534799999
-      ],
+      "name": "github.com/topics/model-context-protocol",
+      "domain": "github.com/topics/model-context-protocol",
+      "url": "https://github.com/topics/model-context-protocol",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "github-com-topics-model-contex",
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -28,21 +22,15 @@
       ]
     },
     {
-      "name": "Organising Claude Code Skills ",
-      "domain": "scottspence.com",
-      "url": "https://scottspence.com/posts/organising-claude-code-skills-into-plugin-marketplaces",
-      "description": "Use ccrecall to sync your transcripts, query them with mcp-sqlite-tools , search the web with mcp-omnisearch , and manage which MCPs are active ...",
-      "monthlyVisits": 307000000,
-      "id": "scottspence-com",
-      "tier": "T1",
-      "trafficTrend": [
-        260950000,
-        270160000,
-        282440000,
-        291650000,
-        300860000,
-        307000000
-      ],
+      "name": "github.com/topics/mcp",
+      "domain": "github.com/topics/mcp",
+      "url": "https://github.com/topics/mcp",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "github-com-topics-mcp",
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -50,21 +38,31 @@
       ]
     },
     {
-      "name": "Glama",
+      "name": "smithery.ai",
+      "domain": "smithery.ai",
+      "url": "https://smithery.ai",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "smithery-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "glama.ai/mcp",
       "domain": "glama.ai/mcp",
       "url": "https://glama.ai/mcp",
-      "description": "",
-      "monthlyVisits": 200000000,
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
       "id": "glama-ai-mcp",
-      "tier": "T1",
-      "trafficTrend": [
-        170000000,
-        176000000,
-        184000000,
-        190000000,
-        196000000,
-        200000000
-      ],
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -72,21 +70,15 @@
       ]
     },
     {
-      "name": "Claude Skills Marketplace",
-      "domain": "claudeskills.info",
-      "url": "https://claudeskills.info/skills/",
-      "description": "The largest Claude Skills marketplace with 140+ free skills. Browse, download, and install Claude Code skills from the official skill marketplace.",
-      "monthlyVisits": 138600000,
-      "id": "claudeskills-info",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
+      "name": "mcp.so",
+      "domain": "mcp.so",
+      "url": "https://mcp.so",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mcp-so",
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -94,21 +86,15 @@
       ]
     },
     {
-      "name": "Create and distribute a plugin",
-      "domain": "code.claude.com",
-      "url": "https://code.claude.com/docs/en/plugin-marketplaces",
-      "description": "A plugin marketplace is a catalog that lets you distribute plugins to others. Marketplaces provide centralized discovery, version tracking, ...",
-      "monthlyVisits": 138600000,
-      "id": "code-claude-com",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
+      "name": "clawhub.ai",
+      "domain": "clawhub.ai",
+      "url": "https://clawhub.ai",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "clawhub-ai",
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -116,21 +102,31 @@
       ]
     },
     {
-      "name": "Agent Skills",
-      "domain": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
-      "description": "Agent Skills are modular capabilities that extend Claude's functionality. Each Skill packages instructions, metadata, and optional resources (scripts,",
-      "monthlyVisits": 138600000,
-      "id": "platform-claude-com",
-      "tier": "T1",
-      "trafficTrend": [
-        117810000,
-        121968000,
-        127512000,
-        131670000,
-        135828000,
-        138600000
-      ],
+      "name": "Mcpmarket",
+      "domain": "mcpmarket.com",
+      "url": "https://mcpmarket.com",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mcpmarket-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "domain": "cursor.directory",
+      "url": "https://cursor.directory",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cursor-directory",
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -142,39 +138,11 @@
       "domain": "composio.dev",
       "url": "https://composio.dev",
       "description": "",
-      "monthlyVisits": 63000000,
+      "monthlyVisits": 0,
+      "hasTraffic": false,
       "id": "composio-dev",
-      "tier": "T1",
-      "trafficTrend": [
-        53550000,
-        55440000,
-        57960000,
-        59850000,
-        61740000,
-        63000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Agent Skills",
-      "domain": "developers.openai.com",
-      "url": "https://developers.openai.com/codex/skills/",
-      "description": "A skill is a directory with a SKILL.md file plus optional scripts and references. The SKILL.md file must include name and description .",
-      "monthlyVisits": 40000000,
-      "id": "developers-openai-com",
-      "tier": "T1",
-      "trafficTrend": [
-        34000000,
-        35200000,
-        36800000,
-        38000000,
-        39200000,
-        40000000
-      ],
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -186,391 +154,11 @@
       "domain": "e2b.dev",
       "url": "https://e2b.dev",
       "description": "",
-      "monthlyVisits": 20000000,
+      "monthlyVisits": 0,
+      "hasTraffic": false,
       "id": "e2b-dev",
-      "tier": "T1",
-      "trafficTrend": [
-        17000000,
-        17600000,
-        18400000,
-        19000000,
-        19600000,
-        20000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "What are the hot startups buil",
-      "domain": "reddit.com",
-      "url": "https://www.reddit.com/r/mcp/comments/1q6hf0a/what_are_the_hot_startups_building_with_mcp_in/",
-      "description": "With our drop-in OAuth layer, you can seamlessly expose your remote MCP servers to any kind of MCP client, in under 15 minutes. The good part is ...",
-      "monthlyVisits": 15000000,
-      "id": "reddit-com",
-      "tier": "T1",
-      "trafficTrend": [
-        12750000,
-        13200000,
-        13800000,
-        14250000,
-        14700000,
-        15000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "List of Top MCP Servers for Ma",
-      "domain": "mcpmarket.com",
-      "url": "https://mcpmarket.com/daily/top-mcp-server-list-march-18-2026",
-      "description": "Browse our daily-updated list of top MCP servers ranked by community engagement for March 18, 2026.",
-      "monthlyVisits": 12290000,
-      "id": "mcpmarket-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "2026: The Year for Enterprise-",
-      "domain": "cdata.com",
-      "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
-      "description": "By early 2025, the MCP ecosystem had grown to more than 1,000 available servers a clear sign of strong market momentum and broad applicability ...",
-      "monthlyVisits": 12290000,
-      "id": "cdata-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "These 12 Claude Skills Will Ma",
-      "domain": "youtube.com",
-      "url": "https://www.youtube.com/watch?v=Ma0oNwwpDZI",
-      "description": "Skills in Claude Code are really what separate average performance from incredible results. But so much of what is created deals with ...",
-      "monthlyVisits": 12290000,
-      "id": "youtube-com",
-      "tier": "T1",
-      "trafficTrend": [
-        10446500,
-        10815200,
-        11306800,
-        11675500,
-        12044200,
-        12290000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude Skills: The AI Feature ",
-      "domain": "medium.com",
-      "url": "https://medium.com/product-powerhouse/claude-skills-the-ai-feature-thats-quietly-changing-how-product-managers-work-aad5d8d0640a",
-      "description": "Skills marketplace where individuals can share/sell Skills; AI-assisted Skill creation (Claude helping you build Skills); Cross-platform ...",
-      "monthlyVisits": 3120000,
-      "id": "medium-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2652000,
-        2745600,
-        2870400,
-        2964000,
-        3057600,
-        3120000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "10 Best MCP Servers for Develo",
-      "domain": "firecrawl.dev",
-      "url": "https://www.firecrawl.dev/blog/best-mcp-servers-for-developers",
-      "description": "The best MCP servers for developers in 2026 — covering web scraping, design, browser automation, code execution, deployment, and more.",
-      "monthlyVisits": 3000000,
-      "id": "firecrawl-dev",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Servers for Sales Tea",
-      "domain": "databar.ai",
-      "url": "https://databar.ai/blog/article/best-mcp-servers-for-sales-teams-in-2026",
-      "description": "Best MCP Servers for Sales Teams in 2026. How MCP servers are turning AI into a hands-on sales assistant that gets real work done. Blog.",
-      "monthlyVisits": 3000000,
-      "id": "databar-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP's biggest growing pains fo",
-      "domain": "thenewstack.io",
-      "url": "https://thenewstack.io/model-context-protocol-roadmap-2026/",
-      "description": "MCP roadmap highlights the priorities maintainers want to solve as the protocol behind AI agents moves into real-world deployments.",
-      "monthlyVisits": 3000000,
-      "id": "thenewstack-io",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "The Ultimate Guide to Cryptocu",
-      "domain": "altfins.com",
-      "url": "https://altfins.com/knowledge-base/the-ultimate-guide-to-cryptocurrency-mcp-servers-in-2026-complete-comparison-for-traders-developers-trading-platforms/",
-      "description": "Crypto MCP servers provide pre-computed analytics, actionable signals, and AI-ready data structures that dramatically reduce development ...",
-      "monthlyVisits": 3000000,
-      "id": "altfins-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "This is a great article about ",
-      "domain": "x.com",
-      "url": "https://x.com/mukulneetika/status/2034102637139005782",
-      "description": "Skills have become one of the most used extension points in Claude Code. They're flexible, easy to make, and simple to distribute.",
-      "monthlyVisits": 3000000,
-      "id": "x-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "You Already Have Dozens of Age",
-      "domain": "dev.to",
-      "url": "https://dev.to/itlackey/you-already-have-dozens-of-agent-skills-you-just-cant-find-them-5bai",
-      "description": "It's telling akm where your stuff already lives. Add Your Existing Platform Directories. Here's what most people's machines actually look like.",
-      "monthlyVisits": 3000000,
-      "id": "dev-to",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Use Agent Skills in VS Code",
-      "domain": "code.visualstudio.com",
-      "url": "https://code.visualstudio.com/docs/copilot/customization/agent-skills",
-      "description": "Agent Skills is an open standard that enables portability across different AI agents. Skills you create in VS Code work with multiple agents, includin",
-      "monthlyVisits": 3000000,
-      "id": "code-visualstudio-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI Agents Directory Launches N",
-      "domain": "aiagentsdirectory.com",
-      "url": "https://aiagentsdirectory.com/blog/ai-agents-directory-launches-skill-hub",
-      "description": "By focusing on skill-based discovery, the AI Agents Directory allows users to chain together small, highly effective agents to build a robust ...",
-      "monthlyVisits": 3000000,
-      "id": "aiagentsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Clawhub",
-      "domain": "clawhub.ai",
-      "url": "https://clawhub.ai",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "id": "clawhub-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        2550000,
-        2640000,
-        2760000,
-        2850000,
-        2940000,
-        3000000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Smithery",
-      "domain": "smithery.ai",
-      "url": "https://smithery.ai",
-      "description": "",
-      "monthlyVisits": 1800000,
-      "id": "smithery-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        1530000,
-        1584000,
-        1656000,
-        1710000,
-        1764000,
-        1800000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best Enterprise MCP Gateway in",
-      "domain": "getmaxim.ai",
-      "url": "https://www.getmaxim.ai/articles/best-enterprise-mcp-gateway-in-2026/",
-      "description": "Models can query databases, search the web, read filesystems, execute business logic, and interact with enterprise APIs through standardized ...",
-      "monthlyVisits": 1400000,
-      "id": "getmaxim-ai",
-      "tier": "T1",
-      "trafficTrend": [
-        1190000,
-        1232000,
-        1288000,
-        1330000,
-        1372000,
-        1400000
-      ],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Skills Directory",
-      "domain": "skillsdirectory.com",
-      "url": "https://skillsdirectory.com/",
-      "description": "Discover security-tested agent skills for Claude AI. Every skill scanned for malware, prompt injection, and credential theft. Browse verified, grade-A",
-      "monthlyVisits": 1000000,
-      "id": "skillsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [
-        850000,
-        880000,
-        920000,
-        950000,
-        980000,
-        1000000
-      ],
+      "tier": "T4",
+      "trafficTrend": [],
       "type": "skills",
       "features": [
         "AI",
@@ -581,17 +169,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 26 个，占据主要流量",
+      "content": "T1 级别 0 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "收录网站月访问总量 1666.8M",
+      "content": "有流量网站月访问总量 0.0M",
       "color": "green"
+    },
+    {
+      "title": "🧩 长尾补充",
+      "content": "另收录 10 个暂无流量数据的网站，默认靠后展示",
+      "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 26,
-    "totalMonthlyVisits": 1666789999
+    "totalSites": 10,
+    "totalMonthlyVisits": 0
   }
 }
