@@ -1,6 +1,6 @@
 ========================================
 AI 情报中心 - 每日自动更新
-时间: 2026-03-31 09:00:05
+时间: 2026-04-01 09:00:04
 目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
 ========================================
 
@@ -15,7 +15,7 @@ Already up to date.
 🔄 开始更新数据（daily_update.py）...
 ============================================================
 🔄 AI 情报中心 - 每日全量更新
-   时间: 2026-03-31 09:00
+   时间: 2026-04-01 09:00
    模式: 删除旧数据，重新获取真实数据
 ============================================================
 
@@ -92,7 +92,7 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -129,7 +129,7 @@ Already up to date.
  · 收录(无流量)
   Topai...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -152,7 +152,7 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -172,7 +172,7 @@ Already up to date.
   搜索: AI工具集 月访问量...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   搜索: 国内AI导航站 流量排名...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -226,13 +226,13 @@ Already up to date.
  · 收录(无流量)
   Ai...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
  · 收录(无流量)
   Nav...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -273,7 +273,7 @@ Already up to date.
 
 🔍 发现 skills 站点...
   搜索: MCP server marketplace 2026...
-  Tavily 搜索失败: <urlopen error timed out>
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: Claude skills marketplace traffic...
@@ -282,7 +282,7 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: AI agent skills directory...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
+  Exa 搜索失败: <urlopen error timed out>
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: cursor rules directory...
   Tavily 搜索失败: HTTP Error 432: 
@@ -446,7 +446,7 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
  · 收录(无流量)
   www.bensbites.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -509,7 +509,7 @@ Already up to date.
   搜索: AI model platform traffic 2026...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   搜索: LLM API provider monthly visits...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -521,13 +521,13 @@ Already up to date.
   搜索: openai anthropic website visits...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: <urlopen error timed out>
   发现 8 个网站
 
 📊 获取 models 流量数据...
   huggingface.co...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: <urlopen error timed out>
+  Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -557,7 +557,7 @@ Already up to date.
  · 收录(无流量)
   www.together.ai...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: <urlopen error timed out>
+  Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -577,33 +577,16 @@ Already up to date.
  · 收录(无流量)
   replicate.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: <urlopen error timed out>
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Deepseek...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: <urlopen error timed out>
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Ollama...[main b093f1c] data: 每日全量更新 2026-03-31
- 6 files changed, 1220 insertions(+), 3 deletions(-)
- create mode 100644 logs/daily_update_20260331.log
- create mode 100644 logs/launchd.error.log
- create mode 100644 logs/launchd.log
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   bd01f91..b093f1c  main -> main
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -612,25 +595,4 @@ To github-fundarb:griffithkk3-del/intelligence-analysis.git
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  获取到 8 个候选数据
-  ⚠️ 数据不足，保留旧数据
-
-🚀 已推送到 GitHub
-
-============================================================
-✅ 更新完成: 2/5 个站点
-============================================================
-
-✅ 验证数据（validate_data.py）...
-✅ 所有数据校验通过！
-
-🚀 推送到 GitHub...
-[main 9b96a9c] data: 每日自动更新 2026-03-31
- 2 files changed, 60 insertions(+), 2 deletions(-)
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   b093f1c..9b96a9c  main -> main
-✅ 推送成功
-
-========================================
-✅ 每日更新完成
-========================================
+  Ollama...
