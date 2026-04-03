@@ -2382,3 +2382,610 @@ To github-fundarb:griffithkk3-del/intelligence-analysis.git
 ✅ 所有数据校验通过！
 
 🚀 推送到 GitHub...
+[main 23c1086] data: 每日自动更新 2026-04-02
+ 2 files changed, 42 insertions(+), 2 deletions(-)
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   892df12..23c1086  main -> main
+✅ 推送成功
+
+========================================
+✅ 每日更新完成
+========================================
+========================================
+AI 情报中心 - 每日自动更新
+时间: 2026-04-03 09:00:03
+目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
+========================================
+
+🔐 环境检查...
+  - TAVILY_API_KEY: 已设置
+  - EXA_API_KEY: 已设置
+  - SERPER_API_KEY: 已设置
+
+📥 拉取最新代码...
+Already up to date.
+
+🔄 开始更新数据（daily_update.py）...
+============================================================
+🔄 AI 情报中心 - 每日全量更新
+   时间: 2026-04-03 09:00
+   模式: 删除旧数据，重新获取真实数据
+============================================================
+
+==================================================
+📁 更新: global
+==================================================
+
+🔍 发现 global 站点...
+  搜索: best AI tools directory 2026...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI tools aggregator website traffic...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: top AI directory sites similarweb...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI tools finder website monthly visits...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: artificial intelligence tools directory ...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 11 个网站
+
+📊 获取 global 流量数据...
+  github.com/topics/ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.producthunt.com/...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  alternativeto.net/ca...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: <urlopen error timed out>
+ · 收录(无流量)
+  www.futuretools.io...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.futurepedia.io...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Theresanaiforthat...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Toolify...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Aitools...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Topai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Aitoolsdirectory...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  G2...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 11 个候选数据
+  ✅ 保存 11 个网站
+
+==================================================
+📁 更新: cn
+==================================================
+
+🔍 发现 cn 站点...
+  搜索: 中国AI工具导航网站 2026...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI工具集 月访问量...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: 国内AI导航站 流量排名...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI工具大全 中文网站...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: <urlopen error timed out>
+  发现 8 个网站
+
+📊 获取 cn 流量数据...
+  ai-bot.cn...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.aigc.cn...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: <urlopen error timed out>
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.aihub.cn...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  toolify.ai/zh...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Nav...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Ai-Nav...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: <urlopen error timed out>
+ · 收录(无流量)
+  Aicpb...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+
+==================================================
+📁 更新: skills
+==================================================
+
+🔍 发现 skills 站点...
+  搜索: MCP server marketplace 2026...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: Claude skills marketplace traffic...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI agent skills directory...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: cursor rules directory...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 10 个网站
+
+📊 获取 skills 流量数据...
+  github.com/topics/mo...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: <urlopen error timed out>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  github.com/topics/mc...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  smithery.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  glama.ai/mcp...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  mcp.so...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  clawhub.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Mcpmarket...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Cursor...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Composio...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  E2B...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 10 个候选数据
+  ✅ 保存 10 个网站
+
+==================================================
+📁 更新: news
+==================================================
+
+🔍 发现 news 站点...
+  搜索: AI news website traffic 2026...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: best AI newsletter subscribers...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI technology news site monthly visits...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: machine learning news website...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 8 个网站
+
+📊 获取 news 流量数据...
+  news.ycombinator.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  huggingface.co/paper...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: <urlopen error timed out>
+ · 收录(无流量)
+  www.therundown.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.bensbites.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.techcrunch.com/c...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Theverge...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Jiqizhixin...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Arxiv...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+
+==================================================
+📁 更新: models
+==================================================
+
+🔍 发现 models 站点...
+  搜索: AI model platform traffic 2026...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: LLM API provider monthly visits...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: huggingface monthly traffic...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: openai anthropic website visits...
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 8 个网站
+
+📊 获取 models 流量数据...
+  huggingface.co...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  openai.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.anthropic.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.together.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  groq.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  replicate.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Deepseek...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Ollama...
