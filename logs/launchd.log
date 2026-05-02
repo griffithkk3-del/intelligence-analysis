@@ -11383,4 +11383,25 @@ Already up to date.
   Deepseek...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 43,360,000
-  Ollama...
+  Ollama...[main 0e12cdd] data: 每日全量更新 2026-05-02
+ 9 files changed, 4294 insertions(+), 1954 deletions(-)
+ delete mode 100644 logs/daily_update_20260330.log
+ create mode 100644 logs/daily_update_20260502.log
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   060c513..0e12cdd  main -> main
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  获取到 46 个候选数据
+  ✅ 保存 46 个网站
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 5/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
