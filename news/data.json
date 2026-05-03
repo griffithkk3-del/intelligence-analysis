@@ -1,42 +1,10 @@
 {
-  "lastUpdated": "2026-05-02T09:19:47.789130+08:00",
+  "lastUpdated": "2026-05-03T09:20:33.702391+08:00",
   "config": {
     "category": "news",
     "autoUpdate": true
   },
   "competitors": [
-    {
-      "name": "Web Traffic Surges Among AI Tool Sites, Garnering 10.5B Mont",
-      "domain": "telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits",
-      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
-      "description": "# Web Traffic Surges Among AI Tool Sites, Garnering 10.5B Monthly Visits. The use of artificial intelligence (AI) tools has had a major impact on web traffic over the past year, ca",
-      "monthlyVisits": 886900000,
-      "hasTraffic": true,
-      "id": "telecompetitor-com-web-traffic",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "ChatGPT Now Has More Monthly Visitors Than These Top Platfor",
-      "domain": "pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
-      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
-      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as of September 2025, Similarweb finds. Chat",
-      "monthlyVisits": 780000000,
-      "hasTraffic": true,
-      "id": "pcmag-com-news-chatgpt-overtak",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
     {
       "name": "Measuring the AI-Driven Internet with The 2026 State of AI T",
       "domain": "humansecurity.com/learn/blog/ai-traffic-growth-2025-key-findings",
@@ -54,301 +22,13 @@
       ]
     },
     {
-      "name": "Top 15 AI Tools Ranked by Monthly Visits – Surprising Stats ",
-      "domain": "reddit.com/r/seogrowth/comments/1owsk0w/top_15_ai_tools_ranked_by_monthly_visits",
-      "url": "https://www.reddit.com/r/seogrowth/comments/1owsk0w/top_15_ai_tools_ranked_by_monthly_visits/",
-      "description": "Just came across a fascinating list ranking the most popular AI tools by monthly visits: ChatGPT: 5.6 Billion. Canva: 1.1 Billion.",
-      "monthlyVisits": 647600000,
-      "hasTraffic": true,
-      "id": "reddit-com-r-seogrowth-comment",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Is AI Actually Stealing Your Traffic? SEO + AI News 2026",
-      "domain": "youtube.com/watch",
-      "url": "https://www.youtube.com/watch?v=8cu0inxyHA4",
-      "description": "Gemini is throwing us a bone with a drastic increase in website citations (but traditional search still dominates by a ridiculous amount),",
-      "monthlyVisits": 500000000,
-      "hasTraffic": true,
-      "id": "youtube-com-watch",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "In September, global AI monthly visits reached 7 billion ...",
-      "domain": "moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
-      "url": "https://www.moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
-      "description": "Datashows that ChatGPT, with 5.9 billion visits, captures nearly 80% of the market share, ranking among the top five websites globally.",
-      "monthlyVisits": 462000000,
-      "hasTraffic": true,
-      "id": "moomoo-com-news-post-62515283-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Top 10 AI Tools Ranked by Monthly Site Visits",
-      "domain": "linkedin.com/pulse/top-10-ai-tools-ranked-monthly-site-visits-analytics-gbntc",
-      "url": "https://www.linkedin.com/pulse/top-10-ai-tools-ranked-monthly-site-visits-analytics-gbntc",
-      "description": "The top 10 AI tools of 2025, based on monthly site visits, offer a glimpse into the most widely used platforms that fuel innovation in the AI space.",
-      "monthlyVisits": 388000000,
-      "hasTraffic": true,
-      "id": "linkedin-com-pulse-top-10-ai-t",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Superhuman AI Newsletter",
-      "domain": "superhuman.ai",
-      "url": "https://www.superhuman.ai/",
-      "description": "Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. ALSO: How to set up and use Claude Design](/p/openai-s-iphone-competitor)[Zain",
-      "monthlyVisits": 200000000,
-      "hasTraffic": true,
-      "id": "superhuman-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Machine learning",
-      "domain": "news.mit.edu/topic/machine-learning",
-      "url": "https://news.mit.edu/topic/machine-learning",
-      "description": "[Skip to content ↓](https://news.mit.edu/topic/machine-learning#main). *   [News](https://news.mit.edu/). [Browse](https://news.mit.edu/topic/machine-learning#site-nav--browse). []",
-      "monthlyVisits": 200000000,
-      "hasTraffic": true,
-      "id": "news-mit-edu-topic-machine-lea",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Machine Learning ML & Generative AI News",
-      "domain": "reddit.com/r/machinelearningnews",
-      "url": "https://www.reddit.com/r/machinelearningnews/",
-      "description": "r/machinelearningnews: We are a community of AI/ ML/Generative AI enthusiasts/researchers/journalists/writers who share interesting news and",
-      "monthlyVisits": 110000000,
-      "hasTraffic": true,
-      "id": "reddit-com-r-machinelearningne",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
       "name": "Website traffic decline in 2026: Ryan Law on AI overviews, z",
       "domain": "themarketingmeetup.com/events/website-traffic-decline-2026",
       "url": "https://themarketingmeetup.com/events/website-traffic-decline-2026/",
-      "description": "Ryan Law, Director of Content Marketing at Ahrefs, shares practical advice on managing website traffic decline in 2026. Learn how AI Overviews,",
+      "description": "# Website traffic decline in 2026: Ryan Law on AI overviews, zero-click search and what to do next. It's always just an absolute delight, to see you all popping in the chat where y",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
       "id": "themarketingmeetup-com-events-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Compiled a list of 25 AI newsletters worth following as a di",
-      "domain": "reddit.com/r/MktgSupermarket/comments/1rf9u3h/compiled_a_list_of_25_ai_newsletters_worth",
-      "url": "https://www.reddit.com/r/MktgSupermarket/comments/1rf9u3h/compiled_a_list_of_25_ai_newsletters_worth/",
-      "description": "# Compiled a list of 25 AI newsletters worth following as a digital marketer in 2026 - organised by role : r/MktgSupermarket. [Skip to main content](https://www.reddit.com/r/MktgSu",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "reddit-com-r-mktgsupermarket-c",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "www.bensbites.com",
-      "domain": "bensbites.com",
-      "url": "https://www.bensbites.com",
-      "description": "structured-source",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "bensbites-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Ranked: Most Popular AI Tools by Monthly Site Visits",
-      "domain": "visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits",
-      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
-      "description": "Mapped: Where Gas Costs Are Highest—and Why. U.S. state-level heatmap showing the share of businesses reporting AI use in any function in 2026, ranging from 10.8% in West Virginia ",
-      "monthlyVisits": 65000000,
-      "hasTraffic": true,
-      "id": "visualcapitalist-com-ranked-mo",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Evidence Grows That Google's AI Overviews Have Eviscerated t",
-      "domain": "futurism.com/artificial-intelligence/google-ai-overviews-media",
-      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
-      "description": "# Evidence Grows That Google’s AI Overviews Have Eviscerated the Media Industry. In the center, a large flaming meteor with the Google logo on it is falling toward the ground. By J",
-      "monthlyVisits": 50000000,
-      "hasTraffic": true,
-      "id": "futurism-com-artificial-intell",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Machine Learning News",
-      "domain": "groups.google.com/g/ml-news",
-      "url": "https://groups.google.com/g/ml-news",
-      "description": "This group serves as a forum for notices and announcements of interest to the machine learning community. This includes events, calls for papers, employment-",
-      "monthlyVisits": 31500000,
-      "hasTraffic": true,
-      "id": "groups-google-com-g-ml-news",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Where can I get the hot or latest news about machine ...",
-      "domain": "reddit.com/r/learnmachinelearning/comments/vgh2y4/where_can_i_get_the_hot_or_latest_news_about",
-      "url": "https://www.reddit.com/r/learnmachinelearning/comments/vgh2y4/where_can_i_get_the_hot_or_latest_news_about/",
-      "description": "Medium is a good starting place. If you use Google news or Apple news, you can follow machine learning as a topic.",
-      "monthlyVisits": 30000000,
-      "hasTraffic": true,
-      "id": "reddit-com-r-learnmachinelearn",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Machine learning",
-      "domain": "nature.com/subjects/machine-learning",
-      "url": "https://www.nature.com/subjects/machine-learning",
-      "description": "You are using a browser version with limited support for CSS. In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Machine learni",
-      "monthlyVisits": 27000000,
-      "hasTraffic": true,
-      "id": "nature-com-subjects-machine-le",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Clicking Into Nowhere: Where Will Web Traffic Go in 2026?",
-      "domain": "danackerman.substack.com/p/clicking-into-nowhere-where-will",
-      "url": "https://danackerman.substack.com/p/clicking-into-nowhere-where-will",
-      "description": "“Media companies expect web traffic to their sites from online searches to plummet over the next three years, as AI summaries and chatbots",
-      "monthlyVisits": 24000000,
-      "hasTraffic": true,
-      "id": "danackerman-substack-com-p-cli",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "26 AI SEO Statistics for 2026 + Insights They Reveal",
-      "domain": "semrush.com/blog/ai-seo-statistics",
-      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
-      "description": "* Google [AI Overviews](https://www.semrush.com/blog/ai-overviews/) reach 2 billion monthly users. [AI Mode](https://www.semrush.com/blog/google-ai-mode/) is now in more than [200 ",
-      "monthlyVisits": 16670000,
-      "hasTraffic": true,
-      "id": "semrush-com-blog-ai-seo-statis",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Infographic: “Ranked: Most Popular AI Tools by Monthly Site ",
-      "domain": "larryferlazzo.edublogs.org/2025/04/17/infographic-ranked-most-popular-ai-tools-by-monthly-site-visits",
-      "url": "https://larryferlazzo.edublogs.org/2025/04/17/infographic-ranked-most-popular-ai-tools-by-monthly-site-visits/",
-      "description": "#### TRENDING:. Larry Ferlazzo's Websites of the Day... # Infographic: “Ranked: Most Popular AI Tools by Monthly Site Visits”. Posted by Larry Ferlazzo | Apr 17, 2025 | AI, infogra",
-      "monthlyVisits": 15000000,
-      "hasTraffic": true,
-      "id": "larryferlazzo-edublogs-org-202",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "The Information's 2026",
-      "domain": "theinformation.com",
-      "url": "https://www.theinformation.com/",
-      "description": "[The Information](https://www.theinformation.com/). [](https://www.theinformation.com/)Pro menu. *   [About Pro](https://www.theinformation.com/pro). *   [The Information 50 2025](",
-      "monthlyVisits": 15000000,
-      "hasTraffic": true,
-      "id": "theinformation-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "news",
@@ -374,54 +54,6 @@
       ]
     },
     {
-      "name": "AI Is Killing Web Traffic—Thriving Publishers Saw It Coming",
-      "domain": "mediacopilot.ai/ai-is-killing-web-traffic-the-publishers-who-thrive-already-saw-it-coming",
-      "url": "https://mediacopilot.ai/ai-is-killing-web-traffic-the-publishers-who-thrive-already-saw-it-coming/",
-      "description": "How AI is changing Media, journalism and content creation. AI is draining empty clicks from the web, and the only publishers thriving are the ones that already pivoted to loyal aud",
-      "monthlyVisits": 12000000,
-      "hasTraffic": true,
-      "id": "mediacopilot-ai-ai-is-killing-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "News on Artificial Intelligence and Machine Learning",
-      "domain": "techxplore.com/machine-learning-ai-news",
-      "url": "https://techxplore.com/machine-learning-ai-news/",
-      "description": "Machine learning & AI news ; End of black box AI? Scientists develop blueprint for transparent system that reveals how it learns and makes decisions. 19 hours",
-      "monthlyVisits": 12000000,
-      "hasTraffic": true,
-      "id": "techxplore-com-machine-learnin",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Theverge",
-      "domain": "theverge.com/ai",
-      "url": "https://theverge.com/ai",
-      "description": "",
-      "monthlyVisits": 11900000,
-      "hasTraffic": true,
-      "id": "theverge-com-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
       "name": "Gartner predicts 25% drop in website traffic by 2026 due to ",
       "domain": "linkedin.com/posts/dirk-nicol_gartner-predicts-search-engine-volume-will-activity-7366480681750773760-aPBa",
       "url": "https://www.linkedin.com/posts/dirk-nicol_gartner-predicts-search-engine-volume-will-activity-7366480681750773760-aPBa",
@@ -438,14 +70,14 @@
       ]
     },
     {
-      "name": "AI is rapidly growing in the digital world. Here are the top",
-      "domain": "instagram.com/p/DUibiVbEam5",
-      "url": "https://www.instagram.com/p/DUibiVbEam5/",
-      "description": "As of February 2026, ChatGPT is the most visited AI website globally, with 5.19 billion monthly visits. Gemini comes next with 808.85 million",
-      "monthlyVisits": 10000000,
-      "hasTraffic": true,
-      "id": "instagram-com-p-duibivbeam5",
-      "tier": "T1",
+      "name": "The 2026 State of AI Traffic & Cyberthreat Benchmark Report",
+      "domain": "benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
+      "url": "https://www.benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
+      "description": "# The 2026 State of AI Traffic & Cyberthreat Benchmark Report. Researchers analyzed that data to surface a fundamental shift in how the internet operates: automated traffic—all non",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "benton-org-headlines-2026-stat",
+      "tier": "T4",
       "trafficTrend": [],
       "type": "news",
       "features": [
@@ -454,190 +86,14 @@
       ]
     },
     {
-      "name": "10 AI Newsletters Founders Should Subscribe To in 2026",
-      "domain": "startupsavant.com/newsletters-entrepreneurs-should-subscribe-to/ai",
-      "url": "https://startupsavant.com/newsletters-entrepreneurs-should-subscribe-to/ai",
-      "description": "# 10 AI Newsletters Founders Should Subscribe To. Women reading on a computer. The Neuron is a newsletter ideal for startups wanting to stay updated with AI developments while unde",
-      "monthlyVisits": 8000000,
-      "hasTraffic": true,
-      "id": "startupsavant-com-newsletters-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "news.ycombinator.com",
-      "domain": "news.ycombinator.com",
-      "url": "https://news.ycombinator.com",
-      "description": "structured-source",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "news-ycombinator-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "The best AI newsletters",
-      "domain": "zapier.com/blog/best-ai-newsletters",
-      "url": "https://zapier.com/blog/best-ai-newsletters/",
-      "description": "# The best AI newsletters. But for anyone working in tech, marketing, or business strategy, staying current with AI developments isn't optional—it's essential for staying competiti",
-      "monthlyVisits": 5000000,
-      "hasTraffic": true,
-      "id": "zapier-com-blog-best-ai-newsle",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Top 15 AI tools by monthly visits",
-      "domain": "businessday.ng/news/article/top-15-ai-tools-by-monthly-visits",
-      "url": "https://businessday.ng/news/article/top-15-ai-tools-by-monthly-visits/",
-      "description": "# Top 15 AI tools by monthly visits. The start of 2025 saw major shifts in user engagement across leading artificial intelligence (AI) tools, highlighting changing interests and on",
-      "monthlyVisits": 4700000,
-      "hasTraffic": true,
-      "id": "businessday-ng-news-article-to",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Jiqizhixin",
-      "domain": "jiqizhixin.com",
-      "url": "https://jiqizhixin.com",
-      "description": "",
-      "monthlyVisits": 4000000,
-      "hasTraffic": true,
-      "id": "jiqizhixin-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Apple Machine Learning Research: Overview",
-      "domain": "machinelearning.apple.com",
-      "url": "https://machinelearning.apple.com/",
-      "description": "# Machine Learning Research at Apple. [Apple Machine Learning Research at ICLR 2026](/research/iclr-2026). Apple is advancing AI and ML with fundamental research, much of which is ",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "machinelearning-apple-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "huggingface.co/papers",
-      "domain": "huggingface.co/papers",
-      "url": "https://huggingface.co/papers",
-      "description": "structured-source",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "huggingface-co-papers",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "The Batch",
-      "domain": "deeplearning.ai/the-batch",
-      "url": "https://www.deeplearning.ai/the-batch/",
-      "description": "🗞️   Stay updated with weekly AI News and Insights delivered to your inbox. The Batch AI News and Insights: Coding agents are accelerating different types of software work to diffe",
-      "monthlyVisits": 2790000,
-      "hasTraffic": true,
-      "id": "deeplearning-ai-the-batch",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "www.techcrunch.com/category/artificial-intelligence/",
-      "domain": "techcrunch.com/category/artificial-intelligence",
-      "url": "https://www.techcrunch.com/category/artificial-intelligence/",
-      "description": "structured-source",
-      "monthlyVisits": 2300000,
-      "hasTraffic": true,
-      "id": "techcrunch-com-category-artifi",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "www.therundown.ai",
-      "domain": "therundown.ai",
-      "url": "https://www.therundown.ai",
-      "description": "structured-source",
-      "monthlyVisits": 1400000,
-      "hasTraffic": true,
-      "id": "therundown-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Machine Learning",
-      "domain": "arxiv.org/list/stat.ML/recent",
-      "url": "https://arxiv.org/list/stat.ML/recent",
-      "description": "## quick links. # Machine Learning. ## Authors and titles for recent submissions. See today's new changes. ### Fri, 1 May 2026 (showing 17 of 17 entries ). ### Wed, 29 Apr 2026 (sh",
-      "monthlyVisits": 1000000,
-      "hasTraffic": true,
-      "id": "arxiv-org-list-stat-ml-recent",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "news",
-      "features": [
-        "AI",
-        "news"
-      ]
-    },
-    {
-      "name": "Arxiv",
-      "domain": "arxiv.org/list/cs.AI",
-      "url": "https://arxiv.org/list/cs.AI",
-      "description": "",
-      "monthlyVisits": 1000000,
-      "hasTraffic": true,
-      "id": "arxiv-org-list-cs-ai",
-      "tier": "T1",
+      "name": "Clicking Into Nowhere: Where Will Web Traffic Go in 2026?",
+      "domain": "danackerman.substack.com/p/clicking-into-nowhere-where-will",
+      "url": "https://danackerman.substack.com/p/clicking-into-nowhere-where-will",
+      "description": "“Media companies expect web traffic to their sites from online searches to plummet over the next three years, as AI summaries and chatbots",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "danackerman-substack-com-p-cli",
+      "tier": "T4",
       "trafficTrend": [],
       "type": "news",
       "features": [
@@ -650,10 +106,74 @@
       "domain": "linkedin.com/posts/andrew-yan-200_seo-life-in-2026-the-bad-news-a-activity-7419729695702814721-bIXk",
       "url": "https://www.linkedin.com/posts/andrew-yan-200_seo-life-in-2026-the-bad-news-a-activity-7419729695702814721-bIXk",
       "description": "Visitors clicking through from AI responses expect to find substantial, authoritative content rather than basic landing pages so LLMs have started scraping P.S. You can now estimat",
-      "monthlyVisits": 3000,
-      "hasTraffic": true,
+      "monthlyVisits": 0,
+      "hasTraffic": false,
       "id": "linkedin-com-posts-andrew-yan-",
-      "tier": "T3",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "26 AI SEO Statistics for 2026 + Insights They Reveal",
+      "domain": "semrush.com/blog/ai-seo-statistics",
+      "url": "https://www.semrush.com/blog/ai-seo-statistics/",
+      "description": "* Google [AI Overviews](https://www.semrush.com/blog/ai-overviews/) reach 2 billion monthly users. [AI Mode](https://www.semrush.com/blog/google-ai-mode/) is now in more than [200 ",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "semrush-com-blog-ai-seo-statis",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI Is Killing Web Traffic—Thriving Publishers Saw It Coming",
+      "domain": "mediacopilot.ai/ai-is-killing-web-traffic-the-publishers-who-thrive-already-saw-it-coming",
+      "url": "https://mediacopilot.ai/ai-is-killing-web-traffic-the-publishers-who-thrive-already-saw-it-coming/",
+      "description": "How AI is changing Media, journalism and content creation. AI is draining empty clicks from the web, and the only publishers thriving are the ones that already pivoted to loyal aud",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mediacopilot-ai-ai-is-killing-",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Evidence Grows That Google's AI Overviews Have Eviscerated t",
+      "domain": "futurism.com/artificial-intelligence/google-ai-overviews-media",
+      "url": "https://futurism.com/artificial-intelligence/google-ai-overviews-media",
+      "description": "# Evidence Grows That Google’s AI Overviews Have Eviscerated the Media Industry. In the center, a large flaming meteor with the Google logo on it is falling toward the ground. By J",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "futurism-com-artificial-intell",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "10 AI Newsletters Founders Should Subscribe To in 2026",
+      "domain": "startupsavant.com/newsletters-entrepreneurs-should-subscribe-to/ai",
+      "url": "https://startupsavant.com/newsletters-entrepreneurs-should-subscribe-to/ai",
+      "description": "# 10 AI Newsletters Founders Should Subscribe To. Women reading on a computer. The Neuron is a newsletter ideal for startups wanting to stay updated with AI developments while unde",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "startupsavant-com-newsletters-",
+      "tier": "T4",
       "trafficTrend": [],
       "type": "news",
       "features": [
@@ -665,11 +185,11 @@
       "name": "Top AI Newslettters To Subscribe",
       "domain": "kaggle.com/general/414629",
       "url": "https://www.kaggle.com/general/414629",
-      "description": "Top AI Newslettters To Subscribe · Last Week in AI | by Skynet Today · Alphasignal | by Lior Sinclair · AI Weekly | by Essentials · TNW Neural | by Next Web · Paper",
-      "monthlyVisits": 2000,
-      "hasTraffic": true,
+      "description": "# Top AI Newslettters To Subscribe | Kaggle. # Top AI Newslettters To Subscribe. Newsletters are an excellent source of curated information that allows you to stay informed and up-",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
       "id": "kaggle-com-general-414629",
-      "tier": "T3",
+      "tier": "T4",
       "trafficTrend": [],
       "type": "news",
       "features": [
@@ -678,7 +198,7 @@
       ]
     },
     {
-      "name": "100 Best AI Newsletters on Substack in 2025 (Ranked)",
+      "name": "The Ultimate Guide to 100 Best AI Newsletters on Substack in",
       "domain": "substack.jurgenappelo.com/p/the-ultimate-guide-to-100-best-ai",
       "url": "https://substack.jurgenappelo.com/p/the-ultimate-guide-to-100-best-ai",
       "description": "# The Ultimate Guide to 100 Best AI Newsletters on Substack in 2025. **All the best reading on AI, right here, on Substack.**. ## 100 Best AI Newsletters on Substack. Agentic AI We",
@@ -710,6 +230,22 @@
       ]
     },
     {
+      "name": "The best AI newsletters",
+      "domain": "zapier.com/blog/best-ai-newsletters",
+      "url": "https://zapier.com/blog/best-ai-newsletters/",
+      "description": "# The best AI newsletters. But for anyone working in tech, marketing, or business strategy, staying current with AI developments isn't optional—it's essential for staying competiti",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "zapier-com-blog-best-ai-newsle",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
       "name": "Top AI Newsletters on Substack",
       "domain": "linkedin.com/pulse/top-ai-newsletters-substack-michael-spencer-1dpfc",
       "url": "https://www.linkedin.com/pulse/top-ai-newsletters-substack-michael-spencer-1dpfc",
@@ -717,6 +253,342 @@
       "monthlyVisits": 0,
       "hasTraffic": false,
       "id": "linkedin-com-pulse-top-ai-news",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Superhuman AI Newsletter",
+      "domain": "superhuman.ai",
+      "url": "https://www.superhuman.ai/",
+      "description": "Get the latest AI news, learn must-know AI tools, and keep up with tech news in just 3 minutes a day. ALSO: How to set up and use Claude Design](/p/openai-s-iphone-competitor)[Zain",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "superhuman-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Best AI Newsletters You're Not Reading Yet (2026)",
+      "domain": "youtube.com/watch",
+      "url": "https://www.youtube.com/watch?v=BAhAgSBn-l0",
+      "description": "... best AI newsletters to subscribe to https://clickup.com/blog/best-ai-newsletters/?utm_source=youtube&utm_medium=owned&utm_campaign",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "youtube-com-watch",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Compiled a list of 25 AI newsletters worth following as a di",
+      "domain": "reddit.com/r/MktgSupermarket/comments/1rf9u3h/compiled_a_list_of_25_ai_newsletters_worth",
+      "url": "https://www.reddit.com/r/MktgSupermarket/comments/1rf9u3h/compiled_a_list_of_25_ai_newsletters_worth/",
+      "description": "Compiled a list of 25 AI newsletters worth following as a digital marketer in 2026 - organised by role ; The Rundown AI, 2M+, Broadest daily AI",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "reddit-com-r-mktgsupermarket-c",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Top 10 AI Tools Ranked by Monthly Site Visits",
+      "domain": "linkedin.com/pulse/top-10-ai-tools-ranked-monthly-site-visits-analytics-gbntc",
+      "url": "https://www.linkedin.com/pulse/top-10-ai-tools-ranked-monthly-site-visits-analytics-gbntc",
+      "description": "The top 10 AI tools of 2025, based on monthly site visits, offer a glimpse into the most widely used platforms that fuel innovation in the AI space.",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "linkedin-com-pulse-top-10-ai-t",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the digital world. Here are the top",
+      "domain": "facebook.com/TechInformer.in/posts/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-10-most-visited-ai-t/1319",
+      "url": "https://www.facebook.com/TechInformer.in/posts/ai-is-rapidly-growing-in-the-digital-world-here-are-the-top-10-most-visited-ai-t/1319563416858245/",
+      "description": "Most Famous Ai tools and there Monthly Visits: 1. ChatGPT: 4.7 Billion 2. Canva: 887 Million 3. Google Translate: 595M 4. DeepSeek: 268M 5.",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "facebook-com-techinformer-in-p",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Top 15 AI Tools Ranked by Monthly Visits – Surprising Stats ",
+      "domain": "reddit.com/r/seogrowth/comments/1owsk0w/top_15_ai_tools_ranked_by_monthly_visits",
+      "url": "https://www.reddit.com/r/seogrowth/comments/1owsk0w/top_15_ai_tools_ranked_by_monthly_visits/",
+      "description": "Just came across a fascinating list ranking the most popular AI tools by monthly visits: ChatGPT: 5.6 Billion. Canva: 1.1 Billion.",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "reddit-com-r-seogrowth-comment",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "OpenAI's ChatGPT Hits Record 5.846 Billion Monthly Website V",
+      "domain": "voronoiapp.com/technology/OpenAIs-ChatGPT-Hits-Record-5846-Billion-Monthly-Website-Visits-in-August-2025-6532",
+      "url": "https://www.voronoiapp.com/technology/OpenAIs-ChatGPT-Hits-Record-5846-Billion-Monthly-Website-Visits-in-August-2025-6532",
+      "description": "OpenAI's ChatGPT Hits Record 5.846 Billion Monthly Website Visits in August 2025 - Voronoi. # OpenAI's ChatGPT Hits Record 5.846 Billion Monthly Website Visits in August 2025. Open",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "voronoiapp-com-technology-open",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "In September, global AI monthly visits reached 7 billion ...",
+      "domain": "moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
+      "url": "https://www.moomoo.com/news/post/62515283/in-september-global-ai-monthly-visits-reached-7-billion-representing",
+      "description": "Datashows that ChatGPT, with 5.9 billion visits, captures nearly 80% of the market share, ranking among the top five websites globally.",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "moomoo-com-news-post-62515283-",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Web Traffic Surges Among AI Tool Sites, Garnering 10.5B Mont",
+      "domain": "telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits",
+      "url": "https://www.telecompetitor.com/web-traffic-surges-among-ai-tool-sites-garnering-10-5b-monthly-visits/",
+      "description": "# Web Traffic Surges Among AI Tool Sites, Garnering 10.5B Monthly Visits. The use of artificial intelligence (AI) tools has had a major impact on web traffic over the past year, ca",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "telecompetitor-com-web-traffic",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI is rapidly growing in the digital world. Here are the top",
+      "domain": "instagram.com/p/DUibiVbEam5",
+      "url": "https://www.instagram.com/p/DUibiVbEam5/",
+      "description": "As of February 2026, ChatGPT is the most visited AI website globally, with 5.19 billion monthly visits. Gemini comes next with 808.85 million",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "instagram-com-p-duibivbeam5",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Infographic: “Ranked: Most Popular AI Tools by Monthly Site ",
+      "domain": "larryferlazzo.edublogs.org/2025/04/17/infographic-ranked-most-popular-ai-tools-by-monthly-site-visits",
+      "url": "https://larryferlazzo.edublogs.org/2025/04/17/infographic-ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "#### TRENDING:. Larry Ferlazzo's Websites of the Day... # Infographic: “Ranked: Most Popular AI Tools by Monthly Site Visits”. Posted by Larry Ferlazzo | Apr 17, 2025 | AI, infogra",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "larryferlazzo-edublogs-org-202",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Ranked: Most Popular AI Tools by Monthly Site Visits",
+      "domain": "visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits",
+      "url": "https://www.visualcapitalist.com/ranked-most-popular-ai-tools-by-monthly-site-visits/",
+      "description": "Mapped: Where Gas Costs Are Highest—and Why. U.S. state-level heatmap showing the share of businesses reporting AI use in any function in 2026, ranging from 10.8% in West Virginia ",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "visualcapitalist-com-ranked-mo",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "ChatGPT Now Has More Monthly Visitors Than These Top Platfor",
+      "domain": "pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "url": "https://www.pcmag.com/news/chatgpt-overtakes-amazon-x-reddit-whatsapp-and-wikipedia-in-visitors",
+      "description": "ChatGPT is now the fifth most popular website worldwide in terms of raw visitor numbers behind Google, YouTube, Facebook, and Instagram as of September 2025, Similarweb finds. Chat",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "pcmag-com-news-chatgpt-overtak",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Machine Learning News",
+      "domain": "groups.google.com/g/ml-news",
+      "url": "https://groups.google.com/g/ml-news",
+      "description": "This group serves as a forum for notices and announcements of interest to the machine learning community. This includes events, calls for papers, employment-",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "groups-google-com-g-ml-news",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "News on Artificial Intelligence and Machine Learning",
+      "domain": "techxplore.com/machine-learning-ai-news",
+      "url": "https://techxplore.com/machine-learning-ai-news/",
+      "description": "Machine learning & AI news ; End of black box AI? Scientists develop blueprint for transparent system that reveals how it learns and makes decisions. 19 hours",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "techxplore-com-machine-learnin",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Machine learning",
+      "domain": "news.mit.edu/topic/machine-learning",
+      "url": "https://news.mit.edu/topic/machine-learning",
+      "description": "[Skip to content ↓](https://news.mit.edu/topic/machine-learning#main). *   [News](https://news.mit.edu/). [Browse](https://news.mit.edu/topic/machine-learning#site-nav--browse). []",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "news-mit-edu-topic-machine-lea",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Machine learning",
+      "domain": "nature.com/subjects/machine-learning",
+      "url": "https://www.nature.com/subjects/machine-learning",
+      "description": "You are using a browser version with limited support for CSS. In the meantime, to ensure continued support, we are displaying the site without styles and JavaScript. Machine learni",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "nature-com-subjects-machine-le",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "AI News",
+      "domain": "artificialintelligence-news.com",
+      "url": "https://www.artificialintelligence-news.com/",
+      "description": "[![Image 1](https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News-White-1.png)](https://www.artificialintelligence-news.com/). *   [Categories](https://www",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "artificialintelligence-news-co",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI recent news",
+      "domain": "informationweek.com/machine-learning-ai",
+      "url": "https://www.informationweek.com/machine-learning-ai",
+      "description": "[![Image 40: A red flag flies against a blue sky with a few light clouds.](https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt9a865ff0fecea598/69d95a3025a5bc2996f7",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "informationweek-com-machine-le",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Apple Machine Learning Research: Overview",
+      "domain": "machinelearning.apple.com",
+      "url": "https://machinelearning.apple.com/",
+      "description": "# Machine Learning Research at Apple. [Apple Machine Learning Research at ICLR 2026](/research/iclr-2026). Apple is advancing AI and ML with fundamental research, much of which is ",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "machinelearning-apple-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "The Information",
+      "domain": "theinformation.com",
+      "url": "https://www.theinformation.com/",
+      "description": "[The Information](https://www.theinformation.com/). [](https://www.theinformation.com/)Pro menu. *   [About Pro](https://www.theinformation.com/pro). *   [The Information 50 2025](",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "theinformation-com",
       "tier": "T4",
       "trafficTrend": [],
       "type": "news",
@@ -740,27 +612,171 @@
         "AI",
         "news"
       ]
+    },
+    {
+      "name": "r/MachineLearning",
+      "domain": "reddit.com/r/MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/",
+      "description": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "reddit-com-r-machinelearning",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "news.ycombinator.com",
+      "domain": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "news-ycombinator-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "huggingface.co/papers",
+      "domain": "huggingface.co/papers",
+      "url": "https://huggingface.co/papers",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "huggingface-co-papers",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "www.therundown.ai",
+      "domain": "therundown.ai",
+      "url": "https://www.therundown.ai",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "therundown-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "www.bensbites.com",
+      "domain": "bensbites.com",
+      "url": "https://www.bensbites.com",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "bensbites-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "www.techcrunch.com/category/artificial-intelligence/",
+      "domain": "techcrunch.com/category/artificial-intelligence",
+      "url": "https://www.techcrunch.com/category/artificial-intelligence/",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "techcrunch-com-category-artifi",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Theverge",
+      "domain": "theverge.com/ai",
+      "url": "https://theverge.com/ai",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "theverge-com-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Jiqizhixin",
+      "domain": "jiqizhixin.com",
+      "url": "https://jiqizhixin.com",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "jiqizhixin-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
+    },
+    {
+      "name": "Arxiv",
+      "domain": "arxiv.org/list/cs.AI",
+      "url": "https://arxiv.org/list/cs.AI",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "arxiv-org-list-cs-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "news",
+      "features": [
+        "AI",
+        "news"
+      ]
     }
   ],
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 40 个，占据主要流量",
+      "content": "T1 级别 4 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 5626.8M",
+      "content": "有流量网站月访问总量 890.0M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 4 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 43 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 46,
-    "totalMonthlyVisits": 5626765000
+    "totalSites": 47,
+    "totalMonthlyVisits": 890000000
   }
 }

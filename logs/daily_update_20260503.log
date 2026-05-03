@@ -1,6 +1,6 @@
 ========================================
 AI 情报中心 - 每日自动更新
-时间: 2026-05-02 09:00:05
+时间: 2026-05-03 09:00:03
 目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
 ========================================
 
@@ -15,7 +15,7 @@ Already up to date.
 🔄 开始更新数据（daily_update.py）...
 ============================================================
 🔄 AI 情报中心 - 每日全量更新
-   时间: 2026-05-02 09:00
+   时间: 2026-05-03 09:00
    模式: 删除旧数据，重新获取真实数据
 ============================================================
 
@@ -39,31 +39,26 @@ Already up to date.
   搜索: artificial intelligence tools directory ...
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 55 个网站
+  发现 54 个网站
 
 📊 获取 global 流量数据...
   Best AI Tools Direct...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
+ ✓ 388,000,000
   I tried 70+ best AI ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 388,000,000
+  AI Tools Directory &...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 750,000,000
+  Top 30 Ai Tools Dire...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   1,000+ AI Tools Comp...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 75,000,000
-  Best AI Tools 2026...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  Top 30 Ai Tools Dire...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  AI Tools Directory &...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 769,000,000
+ ✓ 2,026,000,000
   The Best AI Tools fo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -76,28 +71,21 @@ Already up to date.
  ✓ 3,000,000
   The 20 Best AI Tools...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,000,000
-  I built a tool to ra...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 388,000,000
+  The 18 Best AI Platf...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 138,600,000
+  How To Track AI Webs...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AI Website Traffic A...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Similarweb: AI-Power...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 50,000,000
-  Web Traffic Surges A...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 886,900,000
-  Top AI Tools Markete...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,026,000,000
-  Siteimprove Help Cen...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 100,000,000
+  I built a tool to ra...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -109,23 +97,6 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 18,000,000
-  Free AI Traffic Chec...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  How To Track AI Webs...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Similarweb: AI-Power...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
   Website Traffic Chec...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -133,9 +104,37 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
+  Top AI Tools Markete...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Siteimprove Help Cen...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Website Traffic A...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 50,000,000
+  Web Traffic Surges A...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 35,300,000
+  14 Best AI SEO Tools...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 148,000,000
   Top AI Chatbots and ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 5,000,000
+  The Top 50 Sites Get...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,900,000
   Similarweb's Post...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -152,15 +151,12 @@ Already up to date.
   Top AI Tools: Most U...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 388,000,000
-  The Top 50 Sites Get...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 5,000,000
   How Gen AI sites ran...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 550,000,000
+ ✓ 16,399,999
   Similarweb AI Agents...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 326,300,000
+ ✓ 30,000,000
   Free AI Traffic Chec...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
@@ -168,35 +164,21 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
+ ✓ 647,600,000
   Ranked: Most Popular...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 65,000,000
-  22 Best AI Search Ra...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 887,000,000
+  Infographic: “Ranked...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  AI Search Monitoring...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 110,000,000
-  Website Traffic Chec...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,026,000,000
-  The 12 Best AI Visib...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
+ ✓ 15,000,000
   Top 15 Most Popular ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 15,000,000
+  AI Search Monitoring...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
   8 Best AI Visibility...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -204,10 +186,23 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Infographic: “Ranked...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Top 100 AI Tools by ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,000,000
-  AITopTools...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top 15 AI tools by m...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,700,000
+  Top 10 AI Tools Rank...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,000,000
+  Top AI tools Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  AI Tools Directory &...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   A huge list of ai to...  Exa 搜索失败: HTTP Error 403: Forbidden
@@ -217,32 +212,28 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AI Tools Directory &...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   Top AI Tools Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 388,000,000
   Find The Best AI Too...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 578,050
+ ✓ 12,000,000
   The top 100 AI tools...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 5,000,000
-  Top AI tools Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 14,910,000
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
   AI Tools...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   best-of-ai/ai-direct...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,700,000
+ ✓ 3,000,000
   github.com/topics/ai...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,700,000
+ ✓ 3,000,000
   www.producthunt.com/...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 69,790,000
@@ -251,13 +242,13 @@ Already up to date.
  ✓ 3,000,000
   www.futuretools.io...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 5,000,000
+ ✓ 16,670,000
   Theresanaiforthat...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   Toolify...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,400,000
+ ✓ 35,300,000
   Aitools...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 388,000,000
@@ -267,8 +258,8 @@ Already up to date.
   G2...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 2,000,000
-  获取到 55 个候选数据
-  ✅ 保存 55 个网站
+  获取到 54 个候选数据
+  ✅ 保存 54 个网站
 
 ==================================================
 📁 更新: cn
@@ -290,23 +281,6 @@ Already up to date.
   发现 42 个网站
 
 📊 获取 cn 流量数据...
-  2026最新国产AI工具合集（持续更新）...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  国内有哪些AI新闻网站？2026年最全人...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  最佳AI工具：国外最新人工智能工具一览（...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,700,000
-  AI工具导航网站，汇集1000+国内外A...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  2026 年最佳AI 编码工具完全指南...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   优设AI工具导航...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -314,6 +288,32 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
+  AI工具集官网...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 388,000,000
+  AI工具导航网站，汇集1000+国内外A...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,200,000
+  2026最新国产AI工具合集（持续更新）...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  国内有哪些AI新闻网站？2026年最全人...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AI工具箱...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
+  AI工具箱导航-国内外AI工具导航合集-...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  2026年一定要收藏的10个国产AI工具...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  最佳AI工具：国外最新人工智能工具一览（...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,900,000
   分享10个AI导航网站，里面有各种各样的...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -321,15 +321,6 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AI工具箱...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  AI工具箱导航-国内外AI工具导航合集-...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  2026中国AI大模型平台排行榜| 2月...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   AI行业分析：50款最常被访问的AI工具...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
@@ -343,19 +334,18 @@ Already up to date.
   揭秘AI行业：50个访问量最大的AI工具...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  AI行业分析：全球50个访问量最大的AI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 37,000,000
-  AI行业分析：全球50个访问量最大的AI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
   非凡产研：2025年Q1全球AI应用流量...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 167,480,000
+  AI行业分析：全球50个访问量最大的AI...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
   8月份AI应用月活盘点，离超级应用有多远...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -365,8 +355,17 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
+ ✓ 3,200,000
   AI产品榜｜AI 应用月活超1000 万...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AIGCRank：2024年6月国内AI...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  2025年AI导航网站最新排名！发现AI...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AIGCRank：2024年10月国内A...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   国内AI网站流量排行榜-2024年5月...  Exa 搜索失败: HTTP Error 403: Forbidden
@@ -376,26 +375,22 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AIGCRank：2024年6月国内AI...  Exa 搜索失败: HTTP Error 403: Forbidden
+  2025 年国内AI工具前十名最新排名【...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 3,000,000
+  AI排行榜官网- AIGCRank.cn...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  AIGCRank：2024年10月国内A...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 3,000,000
+  全球流量Top50的“AI网站”出炉：C...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  13个优秀的AI人工智能工具软件导航网站...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AI排行榜官网- AIGCRank.cn...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  非凡产研：2024年11月全球AI应用流...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,200,000
   推荐一个访问量排名第一的AI导航网站，你...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -403,33 +398,30 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  中国AI霸榜全球AI应用百强！DeepS...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   2025年最新AI产品榜- 最新AI网站...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 388,000,000
   Chat with Wiki...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
-  AI工具集官网...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 388,000,000
+ ✓ 16,670,000
   GitHub...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  全网最全的「人工智能·AI工具导航网站」...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   快灵-精选AI人工智能工具大全...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 16,670,000
+  AI工具合集导航...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   千库AI导航-热门AI助手大全-专业人工...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 200,000,000
-  AI工具合集导航...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  全网最全的「人工智能·AI工具导航网站」...  Exa 搜索失败: HTTP Error 403: Forbidden
+  AIHub...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   用了100 多个AI 工具，还是这10 ...  Exa 搜索失败: HTTP Error 403: Forbidden
@@ -438,12 +430,9 @@ Already up to date.
   www.aigc.cn...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  www.aihub.cn...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   toolify.ai/zh...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,400,000
+ ✓ 3,000,000
   Ai...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
@@ -455,7 +444,7 @@ Already up to date.
  ✓ 100,000,000
   Aicpb...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 138,600,000
+ ✓ 24,060,000
   获取到 42 个候选数据
   ✅ 保存 42 个网站
 
@@ -476,69 +465,77 @@ Already up to date.
   搜索: cursor rules directory...
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 46 个网站
+  发现 47 个网站
 
 📊 获取 skills 流量数据...
-  List of Top MCP Serv...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 50,000,000
-  Best MCP servers for...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,000,000
-  Top 12 MCP Servers: ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
   15 Best MCP Servers ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 5,000,000
-  Best MCP Servers 202...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Best MCP Servers in ...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
+  List of Top MCP Serv...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  My Top 5 Go-To MCP S...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 15,000,000
+  Best MCP servers for...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,900,000
   50 Most Popular MCP ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
-  Everything your team...  Exa 搜索失败: HTTP Error 403: Forbidden
+  10 Best MCP Servers ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  My Top 5 Go-To MCP S...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Everything your team...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Discover Top MCP Ser...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 25,000,000
+  MCP Market: Discover...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 6,000,000
   MCP Servers...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 6,000,000
-  The Claude Skills Ma...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Marketing & SEO Skil...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  Claude Skills Market...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 350,000,000
-  Publish Skill: Claud...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  Claude Skills Market...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 7,300,000
-  26% of Claude Code S...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 20,000,000
+  I built a marketplac...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Skills Marketplace...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Claude Skills Market...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 350,000,000
+  The Claude Skills Ma...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 29,800,000
+ ✓ 15,000,000
+  Awesome Claude Skill...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Skills Marketplace...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 24,000,000
+  Claude Skills Market...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 7,300,000
+  Claude Code Has a Sk...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 26,000,000
   Top 8 Claude Skills ...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -546,74 +543,66 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Claude Code Skills a...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 500,000,000
   BehiSecc/awesome-cla...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 64,000,000
-  Create and distribut...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 18,900,000
+ · 收录(无流量)
+  Agent Skills Marketp...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 7,000,000
   Skills Directory...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 2,000,000
+  AI Agent Skills...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 388,000,000
   Agent Skills Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 1,200,000
   Agent Skills Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 6,000,000
-  AI Agents Directory ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,000,000
-  Agent Skills Directo...  Exa 搜索失败: HTTP Error 403: Forbidden
+  GitHub...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  AI Agent Skills...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Open source director...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 388,000,000
-  Agent Skills Overvie...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 27,000,000
+ ✓ 76,000,000
   Agent Skills – Codex...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 200,000,000
-  built a directory to...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Agent Skills Overvie...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  Show HN: Cursor AI R...  Exa 搜索失败: HTTP Error 403: Forbidden
+ ✓ 4,000,000
+  Confused About Where...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  A Guide to understan...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
+ ✓ 902,000,000
   Cursor Directory...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 22,100,000
   Rules...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 16,670,000
+ ✓ 2,024,000,000
+  Show HN: Cursor AI R...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 62,000,000
   .CursorRules Rules...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 36,000,000
-  Cursor AI and Rules ...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Global .cursor/rules...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
@@ -627,9 +616,6 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Plugins...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
   What else can .curso...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
@@ -637,14 +623,20 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
+  How to Use Cursor's ...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 21,000,000
   GitHub...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 150,000,000
+  Free AI .cursorrules...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   github.com/topics/mo...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 326,300,000
+ ✓ 354,000,000
   github.com/topics/mc...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
@@ -653,9 +645,7 @@ Already up to date.
  ✓ 1,800,000
   glama.ai/mcp...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
+ ✓ 525,000,000
   clawhub.ai...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 38,000,000
@@ -664,9 +654,9 @@ Already up to date.
  ✓ 525,000,000
   E2B...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  获取到 46 个候选数据
-  ✅ 保存 46 个网站
+ ✓ 20,000,000
+  获取到 47 个候选数据
+  ✅ 保存 47 个网站
 
 ==================================================
 📁 更新: news
@@ -685,185 +675,448 @@ Already up to date.
   搜索: machine learning news website...
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 46 个网站
+  发现 47 个网站
 
 📊 获取 news 流量数据...
-  Is AI Actually Steal...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 500,000,000
   Gen AI Website Traff...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
+  The 2026 State of AI...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Gartner predicts 25%...  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,000,000
   Website traffic decl...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 100,000,000
   Measuring the AI-Dri...  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 767,000,000
-  Gartner predicts 25%...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Clicking Into Nowher...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,000,000
-  Clicking Into Nowher...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 24,000,000
-  26 AI SEO Statistics...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 16,670,000
-  AI Is Killing Web Tr...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  SEO in 2026: AI Over...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000
-  Evidence Grows That ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 50,000,000
-  10 AI Newsletters Fo...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 8,000,000
-  100 Best AI Newslett...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  6 AI Newsletters Tha...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  SEO in 2026: AI Over...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Top AI Newslettters ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,000
-  The best AI newslett...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 5,000,000
-  Compiled a list of 2...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  Top AI Newsletters o...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Superhuman AI Newsle...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  Top 15 AI tools by m...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,700,000
-  In September, global...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 462,000,000
-  Web Traffic Surges A...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 886,900,000
-  AI is rapidly growin...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  26 AI SEO Statistics...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,000,000
-  Infographic: “Ranked...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,000,000
-  Ranked: Most Popular...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 65,000,000
-  Top 10 AI Tools Rank...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 388,000,000
-  Top 15 AI Tools Rank...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 647,600,000
-  ChatGPT Now Has More...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 780,000,000
-  The Information's 20...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,000,000
-  Machine Learning New...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 31,500,000
-  Machine learning...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 27,000,000
-  Machine Learning ML ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 110,000,000
-  News on Artificial I...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  Machine learning...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  Where can I get the ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
-  Apple Machine Learni...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  10 Great Machine Lea...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Machine Learning...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000,000
-  The Batch...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,790,000
-  news.ycombinator.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  huggingface.co/paper...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  www.therundown.ai...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  AI Is Killing Web Tr...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,400,000
-  www.bensbites.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  www.techcrunch.com/c...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,300,000
-  Theverge...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,900,000
-  Jiqizhixin...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,000,000
-  Arxiv...  Exa 搜索失败: HTTP Error 403: Forbidden
+ · 收录(无流量)
+  Evidence Grows That ...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000,000
-  获取到 46 个候选数据
-  ✅ 保存 46 个网站
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  10 AI Newsletters Fo...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top AI Newslettters ...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  The Ultimate Guide t...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  6 AI Newsletters Tha...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  The best AI newslett...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top AI Newsletters o...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Superhuman AI Newsle...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Best AI Newsletters ...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Compiled a list of 2...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top 10 AI Tools Rank...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI is rapidly growin...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top 15 AI Tools Rank...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  OpenAI's ChatGPT Hit...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  In September, global...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Web Traffic Surges A...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI is rapidly growin...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Infographic: “Ranked...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Ranked: Most Popular...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  ChatGPT Now Has More...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Machine Learning New...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  News on Artificial I...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Machine learning...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Machine learning...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI News...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Machine Learning & A...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Apple Machine Learni...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  The Information...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  10 Great Machine Lea...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  r/MachineLearning...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  news.ycombinator.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  huggingface.co/paper...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.therundown.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.bensbites.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.techcrunch.com/c...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Theverge...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Jiqizhixin...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Arxiv...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 47 个候选数据
+  ✅ 保存 47 个网站
 
 ==================================================
 📁 更新: models
@@ -871,239 +1124,92 @@ Already up to date.
 
 🔍 发现 models 站点...
   搜索: AI model platform traffic 2026...
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: LLM API provider monthly visits...
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: huggingface monthly traffic...
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: openai anthropic website visits...
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 46 个网站
+  发现 8 个网站
 
 📊 获取 models 流量数据...
-  Gen AI Website Traff...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  The 2026 State of AI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  huggingface.co...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  How to Get Traffic F...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  The 2026 State of AI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  GenAI platform visit...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 226,800,000
-  Traffic Generator AI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  openai.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  State of AI in Marke...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  26 AI SEO Statistics...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 16,670,000
-  AI Traffic Is Outpac...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  List of free LLMs AP...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,700,000
-  11 Best LLM API Prov...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Awan LLM...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  www.anthropic.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,400,000
-  A flat-rate API for ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Top 11 LLM API Provi...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000,000
-  The 2025 LLM API Pla...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000,000
-  4 Best LLM APIs for ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 63,000,000
-  LLM API Providers Le...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  LLM Pricing: Top 15+...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 149,000,000
-  mnfst/awesome-free-l...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  huggingface.co Traff...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  huggingface.co Websi...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 16,670,000
-  huggingface.co Websi...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 25,000,000
-  Pricing and Billing...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
-  Analytics and Metric...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  www.together.ai...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  [PDF] Hugging Face...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  groq.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 300,000,000
-  HuggingFace Statisti...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 26,400,000
-  Why is HuggingFace &...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Pricing...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 25,000,000
-  Anthropic, OpenAI Cr...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 350,000,000
-  Anthropic Unleashes ...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  replicate.com...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 500,000,000
-  OpenAI's Web traffic...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Anthropic and OpenAI...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
-  Findings from a pilo...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 19,000,000
-  OpenAI owns the AI c...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 37,000,000
-  OpenAI vs Anthropic:...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
+  Deepseek...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  New Security Breache...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Anthropic Economic I...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,000,000
-  AI is starting to se...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,000,000
-  huggingface.co...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  openai.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
-  www.anthropic.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,500,000
-  www.together.ai...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  groq.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 16,670,000
-  replicate.com...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Deepseek...  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 43,360,000
-  Ollama...[main 0e12cdd] data: 每日全量更新 2026-05-02
- 9 files changed, 4294 insertions(+), 1954 deletions(-)
- delete mode 100644 logs/daily_update_20260330.log
- create mode 100644 logs/daily_update_20260502.log
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   060c513..0e12cdd  main -> main
-  Exa 搜索失败: HTTP Error 403: Forbidden
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  获取到 46 个候选数据
-  ✅ 保存 46 个网站
-
-🚀 已推送到 GitHub
-
-============================================================
-✅ 更新完成: 5/5 个站点
-============================================================
-
-✅ 验证数据（validate_data.py）...
-✅ 所有数据校验通过！
-
-🚀 推送到 GitHub...
-[main 8329fbe] data: 每日自动更新 2026-05-02
- 2 files changed, 44 insertions(+), 2 deletions(-)
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   0e12cdd..8329fbe  main -> main
-✅ 推送成功
-
-========================================
-✅ 每日更新完成
-========================================
+  Ollama...
