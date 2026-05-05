@@ -13898,4 +13898,32 @@ Already up to date.
   Exa 搜索失败: HTTP Error 403: Forbidden
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...
+  Ollama...[main b713984] data: 每日全量更新 2026-05-05
+ 6 files changed, 1216 insertions(+), 1125 deletions(-)
+ delete mode 100644 logs/daily_update_20260402.log
+ create mode 100644 logs/daily_update_20260505.log
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   d10b784..b713984  main -> main
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 403: Forbidden
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 2/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
