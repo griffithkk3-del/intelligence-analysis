@@ -21575,4 +21575,29 @@ Already up to date.
   Deepseek...  Tavily 搜索失败: HTTP Error 432: 
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 6,000,000
-  Ollama...
+  Ollama...[main 09e3e7f] data: 每日全量更新 2026-05-15
+ 9 files changed, 4072 insertions(+), 843 deletions(-)
+ delete mode 100644 logs/daily_update_20260413.log
+ create mode 100644 logs/daily_update_20260515.log
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   7fee1b9..09e3e7f  main -> main
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 47 个候选数据
+  ✅ 保存 47 个网站
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 5/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
