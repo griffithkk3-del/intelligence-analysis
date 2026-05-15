@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-05-14T09:15:42.062868+08:00",
+  "lastUpdated": "2026-05-15T09:15:53.554848+08:00",
   "config": {
     "category": "cn",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Nav",
-      "domain": "nav.6aiq.com",
-      "url": "https://nav.6aiq.com",
+      "name": "AI工具箱| 1000+ AI工具集合，国内外AI工具集导航大全",
+      "domain": "ai-bio.cn",
+      "url": "https://ai-bio.cn/",
       "description": "",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
-      "id": "nav-6aiq-com",
+      "id": "ai-bio-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -22,61 +22,13 @@
       ]
     },
     {
-      "name": "最佳AI工具：国外最新人工智能工具一览（2026）",
-      "domain": "fanqiangzhe.com/post/best-ai-tools",
-      "url": "https://www.fanqiangzhe.com/post/best-ai-tools/",
-      "description": "",
-      "monthlyVisits": 20000000,
+      "name": "www.aigc.cn",
+      "domain": "aigc.cn",
+      "url": "https://www.aigc.cn",
+      "description": "structured-source",
+      "monthlyVisits": 38000000,
       "hasTraffic": true,
-      "id": "fanqiangzhe-com-post-best-ai-t",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "全球AI月访问量达70亿次，同比增长76%，流量直逼社交网络- 知乎",
-      "domain": "zhuanlan.zhihu.com/p/1980580320404336683",
-      "url": "https://zhuanlan.zhihu.com/p/1980580320404336683",
-      "description": "",
-      "monthlyVisits": 20000000,
-      "hasTraffic": true,
-      "id": "zhuanlan-zhihu-com-p-198058032",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "全球AI排行榜",
-      "domain": "maomu.com/rank/visits",
-      "url": "https://maomu.com/rank/visits",
-      "description": "",
-      "monthlyVisits": 20000000,
-      "hasTraffic": true,
-      "id": "maomu-com-rank-visits",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "目前最强10个AI导航网站，发现AI导航排名第一",
-      "domain": "i.ifeng.com/c/8hTZqgRbOrj",
-      "url": "https://i.ifeng.com/c/8hTZqgRbOrj",
-      "description": "",
-      "monthlyVisits": 20000000,
-      "hasTraffic": true,
-      "id": "i-ifeng-com-c-8htzqgrborj",
+      "id": "aigc-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -150,23 +102,7 @@
       ]
     },
     {
-      "name": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
-      "domain": "amz123.com/ai",
-      "url": "https://www.amz123.com/ai",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "amz123-com-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "2026中国AI大模型平台排行榜| 3月-腾讯新闻",
+      "name": "2026中国AI大模型平台排行榜| 3月",
       "domain": "news.qq.com/rain/a/20260416A05FAQ00",
       "url": "https://news.qq.com/rain/a/20260416A05FAQ00",
       "description": "",
@@ -182,13 +118,13 @@
       ]
     },
     {
-      "name": "2026年实测分享：6个让我上网效率提升的导航网站，建议收藏",
-      "domain": "developer.aliyun.com/article/1734054",
-      "url": "https://developer.aliyun.com/article/1734054",
+      "name": "AI工具箱导航-国内外AI工具导航合集-AMZ123跨境导航",
+      "domain": "amz123.com/ai",
+      "url": "https://www.amz123.com/ai",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "developer-aliyun-com-article-1",
+      "id": "amz123-com-ai",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -230,22 +166,6 @@
       ]
     },
     {
-      "name": "热门AI工具每周更新",
-      "domain": "hao.uisdc.com/ai",
-      "url": "https://hao.uisdc.com/ai/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "hao-uisdc-com-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
       "name": "国内有哪些AI新闻网站？2026年最全人工智能资讯平台推荐",
       "domain": "sohu.com/a/997062754_122457270",
       "url": "https://www.sohu.com/a/997062754_122457270",
@@ -262,13 +182,45 @@
       ]
     },
     {
-      "name": "AI工具箱| 1000+ AI工具集合，国内外AI工具集导航大全",
-      "domain": "ai-bio.cn",
-      "url": "https://ai-bio.cn/",
+      "name": "最佳AI工具：国外最新人工智能工具一览（2026）",
+      "domain": "fanqiangzhe.com/post/best-ai-tools",
+      "url": "https://www.fanqiangzhe.com/post/best-ai-tools/",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "ai-bio-cn",
+      "id": "fanqiangzhe-com-post-best-ai-t",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "热门AI工具每周更新",
+      "domain": "hao.uisdc.com/ai",
+      "url": "https://hao.uisdc.com/ai/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "hao-uisdc-com-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AIHub",
+      "domain": "aihub.cn",
+      "url": "https://www.aihub.cn/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "aihub-cn",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -285,6 +237,38 @@
       "monthlyVisits": 0,
       "hasTraffic": false,
       "id": "reddit-com-r-seogrowth-comment",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI行业分析：50款最常被访问的AI工具及其24B+流量行为",
+      "domain": "zhuanlan.zhihu.com/p/676528051",
+      "url": "https://zhuanlan.zhihu.com/p/676528051",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "zhuanlan-zhihu-com-p-676528051",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI競爭｜DeepSeek增長強勁月訪問量增長超ChatGPT 全球市佔排第三",
+      "domain": "hk.finance.yahoo.com/news/ai%E7%AB%B6%E7%88%AD-deepseek%E5%A2%9E%E9%95%B7%E5%BC%B7%E5%8B%81-%E6%9C%88%E8%A8%AA%E5%95%8F%",
+      "url": "https://hk.finance.yahoo.com/news/ai%E7%AB%B6%E7%88%AD-deepseek%E5%A2%9E%E9%95%B7%E5%BC%B7%E5%8B%81-%E6%9C%88%E8%A8%AA%E5%95%8F%E9%87%8F%E5%A2%9E%E9%95%B7%E8%B6%85chatgpt-%E5%85%A8%E7%90%83%E5%B8%82%E4%BD%94%E6%8E%92%E7%AC%AC%E4%B8%89-063644545.html",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "hk-finance-yahoo-com-news-ai-e",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -342,22 +326,6 @@
       ]
     },
     {
-      "name": "AI行业分析：50款最常被访问的AI工具及其24B+流量行为",
-      "domain": "zhuanlan.zhihu.com/p/676528051",
-      "url": "https://zhuanlan.zhihu.com/p/676528051",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "zhuanlan-zhihu-com-p-676528051",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
       "name": "月访问量超ChatGPT DeepSeek正在重新定义AI竞赛",
       "domain": "finance.sina.com.cn/jjxw/2025-04-01/doc-inerraiw6527870.shtml",
       "url": "https://finance.sina.com.cn/jjxw/2025-04-01/doc-inerraiw6527870.shtml?froms=ggmp",
@@ -406,13 +374,13 @@
       ]
     },
     {
-      "name": "AI工具导航网站哪个好？2025年最受欢迎的6个AI导航平台",
-      "domain": "zhuanlan.zhihu.com/p/1987916497180444205",
-      "url": "https://zhuanlan.zhihu.com/p/1987916497180444205",
+      "name": "揭秘AI行业：50个访问量最大的AI工具及其24B+流量行为",
+      "domain": "zhuanlan.zhihu.com/p/669895105",
+      "url": "https://zhuanlan.zhihu.com/p/669895105",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "zhuanlan-zhihu-com-p-198791649",
+      "id": "zhuanlan-zhihu-com-p-669895105",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -422,13 +390,29 @@
       ]
     },
     {
-      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有",
-      "domain": "m.cifnews.com/article/170481",
-      "url": "https://m.cifnews.com/article/170481",
+      "name": "AIGCRank：2024年10月国内AI网站流量排行榜",
+      "domain": "aigcrank.cn/top/202410cn",
+      "url": "https://aigcrank.cn/top/202410cn",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "m-cifnews-com-article-170481",
+      "id": "aigcrank-cn-top-202410cn",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AIGCRank：2024年8月国内AI网站流量排行榜",
+      "domain": "aigcrank.cn/top/202408cn",
+      "url": "https://aigcrank.cn/top/202408cn",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "aigcrank-cn-top-202408cn",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -454,13 +438,13 @@
       ]
     },
     {
-      "name": "全球流量Top50的“AI网站”出炉：C端用户都愿意用AI干什么？",
-      "domain": "woshipm.com/ai/5916499.html",
-      "url": "https://www.woshipm.com/ai/5916499.html",
+      "name": "国内AI网站流量排行榜-2024年5月",
+      "domain": "ai138.com/ai-ranking/cn-ai-ranking-202405",
+      "url": "https://www.ai138.com/ai-ranking/cn-ai-ranking-202405",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "woshipm-com-ai-5916499-html",
+      "id": "ai138-com-ai-ranking-cn-ai-ran",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -470,13 +454,13 @@
       ]
     },
     {
-      "name": "2025年AI导航网站最新排名！发现AI第一，行业大佬都在用！",
-      "domain": "sohu.com/a/887079613_100137374",
-      "url": "https://www.sohu.com/a/887079613_100137374",
+      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有",
+      "domain": "m.cifnews.com/article/170481",
+      "url": "https://m.cifnews.com/article/170481",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "sohu-com-a-887079613-100137374",
+      "id": "m-cifnews-com-article-170481",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -486,13 +470,13 @@
       ]
     },
     {
-      "name": "国内AI产品排行榜【产品总榜】- 2026年03月出炉-华军软件园",
-      "domain": "ai.onlinedown.net",
-      "url": "https://ai.onlinedown.net/",
+      "name": "最强AI导航网站排行榜（2024年12月更新）",
+      "domain": "zhuanlan.zhihu.com/p/14345082431",
+      "url": "https://zhuanlan.zhihu.com/p/14345082431",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "ai-onlinedown-net",
+      "id": "zhuanlan-zhihu-com-p-143450824",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -502,13 +486,29 @@
       ]
     },
     {
-      "name": "国内AI排行榜",
-      "domain": "maomu.com/rank/visits-cn",
-      "url": "https://maomu.com/rank/visits-cn",
+      "name": "AI 工具最新排名",
+      "domain": "waytoagi.com/question/61576",
+      "url": "https://www.waytoagi.com/question/61576",
       "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "maomu-com-rank-visits-cn",
+      "id": "waytoagi-com-question-61576",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "13个优秀的AI人工智能工具软件导航网站推荐",
+      "domain": "cloud.tencent.com/developer/article/2256535",
+      "url": "https://cloud.tencent.com/developer/article/2256535",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cloud-tencent-com-developer-ar",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -582,38 +582,6 @@
       ]
     },
     {
-      "name": "www.aigc.cn",
-      "domain": "aigc.cn",
-      "url": "https://www.aigc.cn",
-      "description": "structured-source",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aigc-cn",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "www.aihub.cn",
-      "domain": "aihub.cn",
-      "url": "https://www.aihub.cn",
-      "description": "structured-source",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aihub-cn",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
       "name": "toolify.ai/zh",
       "domain": "toolify.ai/zh",
       "url": "https://toolify.ai/zh",
@@ -646,6 +614,22 @@
       ]
     },
     {
+      "name": "Nav",
+      "domain": "nav.6aiq.com",
+      "url": "https://nav.6aiq.com",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "nav-6aiq-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
       "name": "Aicpb",
       "domain": "aicpb.com",
       "url": "https://aicpb.com",
@@ -665,22 +649,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 8 个，占据主要流量",
+      "content": "T1 级别 5 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 221.0M",
+      "content": "有流量网站月访问总量 179.0M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 33 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 35 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 41,
-    "totalMonthlyVisits": 221000000
+    "totalSites": 40,
+    "totalMonthlyVisits": 179000000
   }
 }
