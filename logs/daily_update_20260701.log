@@ -595,4 +595,71 @@ Already up to date.
   Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...
+  Ollama...[main ec34ebe] data: 每日全量更新 2026-07-01
+ 43 files changed, 1235 insertions(+), 17467 deletions(-)
+ delete mode 100644 logs/daily_update_20260420.log
+ delete mode 100644 logs/daily_update_20260421.log
+ delete mode 100644 logs/daily_update_20260422.log
+ delete mode 100644 logs/daily_update_20260423.log
+ delete mode 100644 logs/daily_update_20260424.log
+ delete mode 100644 logs/daily_update_20260425.log
+ delete mode 100644 logs/daily_update_20260426.log
+ delete mode 100644 logs/daily_update_20260427.log
+ delete mode 100644 logs/daily_update_20260428.log
+ delete mode 100644 logs/daily_update_20260429.log
+ delete mode 100644 logs/daily_update_20260430.log
+ delete mode 100644 logs/daily_update_20260501.log
+ delete mode 100644 logs/daily_update_20260502.log
+ delete mode 100644 logs/daily_update_20260503.log
+ delete mode 100644 logs/daily_update_20260504.log
+ delete mode 100644 logs/daily_update_20260505.log
+ delete mode 100644 logs/daily_update_20260506.log
+ delete mode 100644 logs/daily_update_20260507.log
+ delete mode 100644 logs/daily_update_20260508.log
+ delete mode 100644 logs/daily_update_20260509.log
+ delete mode 100644 logs/daily_update_20260510.log
+ delete mode 100644 logs/daily_update_20260511.log
+ delete mode 100644 logs/daily_update_20260512.log
+ delete mode 100644 logs/daily_update_20260513.log
+ delete mode 100644 logs/daily_update_20260514.log
+ delete mode 100644 logs/daily_update_20260515.log
+ delete mode 100644 logs/daily_update_20260516.log
+ delete mode 100644 logs/daily_update_20260517.log
+ delete mode 100644 logs/daily_update_20260518.log
+ delete mode 100644 logs/daily_update_20260519.log
+ delete mode 100644 logs/daily_update_20260520.log
+ delete mode 100644 logs/daily_update_20260521.log
+ delete mode 100644 logs/daily_update_20260522.log
+ delete mode 100644 logs/daily_update_20260523.log
+ delete mode 100644 logs/daily_update_20260524.log
+ delete mode 100644 logs/daily_update_20260525.log
+ delete mode 100644 logs/daily_update_20260526.log
+ rename logs/{daily_update_20260419.log => daily_update_20260630.log} (86%)
+ create mode 100644 logs/daily_update_20260701.log
+Connection closed by 198.18.0.122 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+Traceback (most recent call last):
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 473, in <module>
+    main()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 466, in main
+    git_push()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 442, in git_push
+    subprocess.run(['git', 'push'], check=True)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'push']' returned non-zero exit status 128.
