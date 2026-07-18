@@ -595,4 +595,45 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...
+  Ollama...[main caf1402] data: 每日全量更新 2026-07-16
+ 17 files changed, 1741 insertions(+), 3 deletions(-)
+ create mode 100644 logs/daily_update_20260704.log
+ create mode 100644 logs/daily_update_20260705.log
+ create mode 100644 logs/daily_update_20260706.log
+ create mode 100644 logs/daily_update_20260707.log
+ create mode 100644 logs/daily_update_20260708.log
+ create mode 100644 logs/daily_update_20260709.log
+ create mode 100644 logs/daily_update_20260710.log
+ create mode 100644 logs/daily_update_20260711.log
+ create mode 100644 logs/daily_update_20260712.log
+ create mode 100644 logs/daily_update_20260713.log
+ create mode 100644 logs/daily_update_20260714.log
+ create mode 100644 logs/daily_update_20260715.log
+ create mode 100644 logs/daily_update_20260716.log
+Connection closed by 198.18.0.57 port 22
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+Traceback (most recent call last):
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 473, in <module>
+    main()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 466, in main
+    git_push()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 442, in git_push
+    subprocess.run(['git', 'push'], check=True)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'push']' returned non-zero exit status 128.
