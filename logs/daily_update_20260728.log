@@ -1,6 +1,6 @@
 ========================================
 AI 情报中心 - 每日自动更新
-时间: 2026-07-20 09:00:02
+时间: 2026-07-28 09:00:04
 目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
 ========================================
 
@@ -15,7 +15,7 @@ Already up to date.
 🔄 开始更新数据（daily_update.py）...
 ============================================================
 🔄 AI 情报中心 - 每日全量更新
-   时间: 2026-07-20 09:01
+   时间: 2026-07-28 09:00
    模式: 删除旧数据，重新获取真实数据
 ============================================================
 
@@ -507,122 +507,92 @@ Already up to date.
 
 🔍 发现 models 站点...
   搜索: AI model platform traffic 2026...
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: LLM API provider monthly visits...
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: huggingface monthly traffic...
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: openai anthropic website visits...
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
   发现 8 个网站
 
 📊 获取 models 流量数据...
-  huggingface.co...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  huggingface.co...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  openai.com...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  openai.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  www.anthropic.com...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  www.anthropic.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  www.together.ai...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  www.together.ai...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  groq.com...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  groq.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  replicate.com...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  replicate.com...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Deepseek...  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
+  Deepseek...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...[main 284f4d9] data: 每日全量更新 2026-07-20
- 6 files changed, 1308 insertions(+), 1152 deletions(-)
- create mode 100644 logs/daily_update_20260719.log
- create mode 100644 logs/daily_update_20260720.log
-Connection closed by 198.18.0.57 port 22
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Tavily 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Exa 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
-  Serper 搜索失败: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
- · 收录(无流量)
-  获取到 8 个候选数据
-  ⚠️ 数据不足，保留旧数据
-Traceback (most recent call last):
-  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 473, in <module>
-    main()
-  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 466, in main
-    git_push()
-  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 442, in git_push
-    subprocess.run(['git', 'push'], check=True)
-  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
-    raise CalledProcessError(retcode, process.args,
-subprocess.CalledProcessError: Command '['git', 'push']' returned non-zero exit status 128.
+  Ollama...
