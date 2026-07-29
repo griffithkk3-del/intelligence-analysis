@@ -595,4 +595,61 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...
+  Ollama...[main 96fa0db] data: 每日全量更新 2026-07-29
+ 35 files changed, 621 insertions(+), 1197 deletions(-)
+ delete mode 100644 logs/daily_update_20260527.log
+ delete mode 100644 logs/daily_update_20260528.log
+ delete mode 100644 logs/daily_update_20260529.log
+ delete mode 100644 logs/daily_update_20260530.log
+ delete mode 100644 logs/daily_update_20260531.log
+ delete mode 100644 logs/daily_update_20260601.log
+ delete mode 100644 logs/daily_update_20260602.log
+ delete mode 100644 logs/daily_update_20260603.log
+ delete mode 100644 logs/daily_update_20260604.log
+ delete mode 100644 logs/daily_update_20260605.log
+ delete mode 100644 logs/daily_update_20260606.log
+ delete mode 100644 logs/daily_update_20260607.log
+ delete mode 100644 logs/daily_update_20260608.log
+ delete mode 100644 logs/daily_update_20260609.log
+ delete mode 100644 logs/daily_update_20260610.log
+ delete mode 100644 logs/daily_update_20260611.log
+ delete mode 100644 logs/daily_update_20260612.log
+ delete mode 100644 logs/daily_update_20260613.log
+ delete mode 100644 logs/daily_update_20260614.log
+ delete mode 100644 logs/daily_update_20260615.log
+ delete mode 100644 logs/daily_update_20260616.log
+ delete mode 100644 logs/daily_update_20260617.log
+ delete mode 100644 logs/daily_update_20260618.log
+ delete mode 100644 logs/daily_update_20260619.log
+ delete mode 100644 logs/daily_update_20260620.log
+ delete mode 100644 logs/daily_update_20260621.log
+ delete mode 100644 logs/daily_update_20260622.log
+ delete mode 100644 logs/daily_update_20260623.log
+ delete mode 100644 logs/daily_update_20260624.log
+ delete mode 100644 logs/daily_update_20260625.log
+ rename logs/{daily_update_20260626.log => daily_update_20260729.log} (94%)
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   a73a315..96fa0db  main -> main
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 2/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
