@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T09:30:28.806251+08:00",
+  "lastUpdated": "2026-09-04T09:30:41.687480+08:00",
   "config": {
     "category": "models",
     "autoUpdate": true
@@ -13,6 +13,22 @@
       "monthlyVisits": 2027000000,
       "hasTraffic": true,
       "id": "linkedin-com-pulse-openais-web",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "How is Anthropic getting away with selling usage they do ...",
+      "domain": "reddit.com/r/ClaudeAI/comments/1i1mwkj/how_is_anthropic_getting_away_with_selling_usage",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1i1mwkj/how_is_anthropic_getting_away_with_selling_usage",
+      "description": "I thought the API was safe, but it seems even the usage that Anthropic has sold on the API is being limited.",
+      "monthlyVisits": 952600000,
+      "hasTraffic": true,
+      "id": "reddit-com-r-claudeai-comments",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -38,13 +54,13 @@
       ]
     },
     {
-      "name": "At a Glance: ChatGPT dominates AI web traffic, Claude leads ",
-      "domain": "theheadandtale.com/explainer/at-a-glance--chatgpt-dominates-ai-web-traffic-claude-leads-in-user-time",
-      "url": "https://theheadandtale.com/explainer/at-a-glance--chatgpt-dominates-ai-web-traffic-claude-leads-in-user-time",
-      "description": "[]( []( []( \n\nWhile OpenAI's ChatGPT accounted for almost half of the AI web traffic, Anthropic's Claude led in terms of the average usage time, according to The AI 'Big Bang' Stud",
-      "monthlyVisits": 900000000,
+      "name": "Google and OpenAI are making a run at Claude's desktop moat,",
+      "domain": "thenewstack.io/google-and-openai-are-making-a-run-at-claudes-desktop-moat-and-anthropic-is-making-it-easy",
+      "url": "https://thenewstack.io/google-and-openai-are-making-a-run-at-claudes-desktop-moat-and-anthropic-is-making-it-easy/",
+      "description": "",
+      "monthlyVisits": 952000000,
       "hasTraffic": true,
-      "id": "theheadandtale-com-explainer-a",
+      "id": "thenewstack-io-google-and-open",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -86,13 +102,93 @@
       ]
     },
     {
-      "name": "Every free LLM provider, ranked by how fast the free tier ..",
-      "domain": "reddit.com/r/better_claw/comments/1ue95bf/every_free_llm_provider_ranked_by_how_fast_the",
-      "url": "https://www.reddit.com/r/better_claw/comments/1ue95bf/every_free_llm_provider_ranked_by_how_fast_the",
-      "description": "Mistral (Experiment tier). Roughly 1 billion tokens per month. By far the most generous raw volume. The catch: you must opt into data training. Your prompts, your conversations, yo",
+      "name": "AI agents now make up the majority of web traffic: What deve",
+      "domain": "workos.com/blog/ai-agent-web-traffic-what-developers-need-to-change",
+      "url": "https://workos.com/blog/ai-agent-web-traffic-what-developers-need-to-change",
+      "description": "This isn't traditional bot traffic. Cloudflare distinguishes between old-school bots (crawlers, indexers, scrapers) and a new category: AI agents that browse the web on behalf of h",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "reddit-com-r-better-claw-comme",
+      "id": "workos-com-blog-ai-agent-web-t",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Cheaper LLM API providers compared to OpenAI, Anthropic and ",
+      "domain": "reddit.com/r/ArtificialInteligence/comments/1s7m06o/cheaper_llm_api_providers_compared_to_openai",
+      "url": "https://www.reddit.com/r/ArtificialInteligence/comments/1s7m06o/cheaper_llm_api_providers_compared_to_openai",
+      "description": "The high-signal hub for artificial intelligence! 388K Weekly visitors 7K Weekly contributions.",
+      "monthlyVisits": 655000000,
+      "hasTraffic": true,
+      "id": "reddit-com-r-artificialintelig",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "The 10 Best LLM API Providers: Which Fits Your AI Workflow?",
+      "domain": "datacamp.com/blog/best-llm-api-providers",
+      "url": "https://www.datacamp.com/blog/best-llm-api-providers",
+      "description": "",
+      "monthlyVisits": 655000000,
+      "hasTraffic": true,
+      "id": "datacamp-com-blog-best-llm-api",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "AI Search Traffic: Live Index and Measurement Guide (2026)",
+      "domain": "trakkr.ai/ai-search-traffic",
+      "url": "https://trakkr.ai/ai-search-traffic",
+      "description": "",
+      "monthlyVisits": 655000000,
+      "hasTraffic": true,
+      "id": "trakkr-ai-ai-search-traffic",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Anthropic vs OpenAI vs Google: Three Different Bets on the .",
+      "domain": "mindstudio.ai/blog/anthropic-vs-openai-vs-google-agent-strategy",
+      "url": "https://www.mindstudio.ai/blog/anthropic-vs-openai-vs-google-agent-strategy",
+      "description": "Cookie __hstc \n   Duration 6 months \n   Description Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (las",
+      "monthlyVisits": 614000000,
+      "hasTraffic": true,
+      "id": "mindstudio-ai-blog-anthropic-v",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Deepseek",
+      "domain": "deepseek.com",
+      "url": "https://deepseek.com",
+      "description": "",
+      "monthlyVisits": 614000000,
+      "hasTraffic": true,
+      "id": "deepseek-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -105,7 +201,7 @@
       "name": "LLM APIs: Tips for Bridging the Gap",
       "domain": "ibm.com/think/insights/llm-apis",
       "url": "https://www.ibm.com/think/insights/llm-apis",
-      "description": "",
+      "description": "### 2. Manage cost\n\nThe cost of using LLM APIs can stack up quickly, so keep an eye on your usage. Most providers have dashboards or tools to monitor token usage and set monthly sp",
       "monthlyVisits": 530000000,
       "hasTraffic": true,
       "id": "ibm-com-think-insights-llm-api",
@@ -134,13 +230,13 @@
       ]
     },
     {
-      "name": "AI agents now make up the majority of web traffic: What deve",
-      "domain": "workos.com/blog/ai-agent-web-traffic-what-developers-need-to-change",
-      "url": "https://workos.com/blog/ai-agent-web-traffic-what-developers-need-to-change",
-      "description": "This isn't traditional bot traffic. Cloudflare distinguishes between old-school bots (crawlers, indexers, scrapers) and a new category: AI agents that browse the web on behalf of h",
-      "monthlyVisits": 357600000,
+      "name": "ChatGPT Surpasses Claude in Web Traffic by 19x",
+      "domain": "linkedin.com/posts/sarahchan25_claude-chatgpt-activity-7439706267230711808-Msf7",
+      "url": "https://www.linkedin.com/posts/sarahchan25_claude-chatgpt-activity-7439706267230711808-Msf7",
+      "description": "",
+      "monthlyVisits": 320000000,
       "hasTraffic": true,
-      "id": "workos-com-blog-ai-agent-web-t",
+      "id": "linkedin-com-posts-sarahchan25",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -153,7 +249,7 @@
       "name": "Top 100 AI Tools by Traffic in July 2026",
       "domain": "rankmyai.com/rankings/top-100-ai-tools-by-traffic",
       "url": "https://www.rankmyai.com/rankings/top-100-ai-tools-by-traffic",
-      "description": "Large-context language model service delivers low hallucination rates, red-teamed safeguards, and document-scale reasoning, enabling enterprises to automate analysis, draft content",
+      "description": "Spain 51\n\nArena \n\nArena is a platform for comparing AI models through direct interaction. Users can chat with multiple models side-by-side, vote on responses, and view leaderboards",
       "monthlyVisits": 311620000,
       "hasTraffic": true,
       "id": "rankmyai-com-rankings-top-100-",
@@ -166,13 +262,13 @@
       ]
     },
     {
-      "name": "Pricing",
-      "domain": "huggingface.co/pricing",
-      "url": "https://huggingface.co/pricing",
-      "description": "## Do more with Hugging Face PRO\n\nUpgrade your HF experience for $9/month.\n\njulien-c\nthomwolf\nlysandre\nlvwerra\nclem\nmfuntowicz\npierric\nlhoestq\nlewtun\nvictor\nsayakpaul\ndavanstrien\np",
-      "monthlyVisits": 100000000,
+      "name": "Top 11 LLM API Providers 2026: Pricing, Latency, Context",
+      "domain": "futureagi.com/blog/top-11-llm-api-providers-2025",
+      "url": "https://futureagi.com/blog/top-11-llm-api-providers-2025/",
+      "description": "",
+      "monthlyVisits": 300000000,
       "hasTraffic": true,
-      "id": "huggingface-co-pricing",
+      "id": "futureagi-com-blog-top-11-llm-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -182,13 +278,45 @@
       ]
     },
     {
-      "name": "Deepseek",
-      "domain": "deepseek.com",
-      "url": "https://deepseek.com",
+      "name": "Anthropic, OpenAI Crawl the Web Even More, and Give Little B",
+      "domain": "businessinsider.com/anthropic-openai-google-perplexity-microsoft-mistral-crawling-web-referrals-cloudflare-2026-1",
+      "url": "https://www.businessinsider.com/anthropic-openai-google-perplexity-microsoft-mistral-crawling-web-referrals-cloudflare-2026-1",
+      "description": "As you can see, Anthropic stands out like a sore thumb. According to Cloudflare data, it crawls sites way more than it sends users out to the web. Anthropic actually crawled even m",
+      "monthlyVisits": 140000000,
+      "hasTraffic": true,
+      "id": "businessinsider-com-anthropic-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Best Flat-Rate LLM API Providers",
+      "domain": "aimultiple.com/flat-rate-llm-api",
+      "url": "https://aimultiple.com/flat-rate-llm-api",
+      "description": "| Provider | Focus | Models | Concurrency | Price |\n ---  --- \n| Giotto.ai | EU-hosted sovereign deployment | Giotto 1 (own model) | 1 request at a time | 49.90 CHF/mo |\n| Featherl",
+      "monthlyVisits": 120000000,
+      "hasTraffic": true,
+      "id": "aimultiple-com-flat-rate-llm-a",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+      "domain": "newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+      "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
       "description": "",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
-      "id": "deepseek-com",
+      "id": "newsletter-pragmaticengineer-c",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -198,13 +326,13 @@
       ]
     },
     {
-      "name": "huggingface.co Website Traffic",
-      "domain": "analytics.explodingtopics.com/website/huggingface.co",
-      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
-      "description": "Create a Project\n\nDomain OverviewTraffic AnalyticsTop PagesSources & DestinationsAudience OverlapMarket OverviewAI Visibility ToolkitKeyword ResearchKeyword Gap\n\nStart 14-day free ",
-      "monthlyVisits": 46300000,
+      "name": "Why is the monthly download count for my uploaded models sti",
+      "domain": "discuss.huggingface.co/t/why-is-the-monthly-download-count-for-my-uploaded-models-still-showing-zero/170175",
+      "url": "https://discuss.huggingface.co/t/why-is-the-monthly-download-count-for-my-uploaded-models-still-showing-zero/170175",
+      "description": "| Topic |  | Replies | Views | Activity |\n ---  --- \n| HuggingFace model downloads are not counted  🤗Hub | 3 | 787 | September 25, 2024 |\n| Downloads counter error for models in hu",
+      "monthlyVisits": 69200000,
       "hasTraffic": true,
-      "id": "analytics-explodingtopics-com-",
+      "id": "discuss-huggingface-co-t-why-i",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -214,7 +342,7 @@
       ]
     },
     {
-      "name": "HuggingFace Statistics",
+      "name": "HuggingFace Statistics – Originality.AI",
       "domain": "originality.ai/blog/huggingface-statistics",
       "url": "https://originality.ai/blog/huggingface-statistics",
       "description": "The traffic to Hugging Face's website has been steady, receiving almost 25 million visitors in both April and May, 2023. That's an increase of 25% over the 20 million visits in Mar",
@@ -230,11 +358,27 @@
       ]
     },
     {
+      "name": "How OpenAI Competitors Drive Traffic to Their Site",
+      "domain": "foundationinc.co/lab/openai-competitors-strategy",
+      "url": "https://foundationinc.co/lab/openai-competitors-strategy",
+      "description": "As a well-funded, well–established company (at least, in AI years), it’s no surprise that Anthropic is leading all OpenAI competitors in terms of organic traffic. As of May 2023, i",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "foundationinc-co-lab-openai-co",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "Every Hugging Face Statistics You Need To Know (2024)",
       "domain": "weam.ai/blog/guide/huggingface-statistics",
-      "url": "https://weam.ai/blog/guide/huggingface-statistics",
-      "description": "## Website Traffic and User Demographics\n\n### How Much Website Traffic Hugging Face Attracts?\n\nHugging Face, a prominent AI platform and community, has maintained consistent traffi",
-      "monthlyVisits": 35790000,
+      "url": "https://weam.ai/blog/guide/huggingface-statistics/",
+      "description": "",
+      "monthlyVisits": 28810000,
       "hasTraffic": true,
       "id": "weam-ai-blog-guide-huggingface",
       "tier": "T1",
@@ -249,7 +393,7 @@
       "name": "7 best unified LLM API providers in 2026",
       "domain": "braintrust.dev/articles/best-unified-llm-api-providers-2026",
       "url": "https://www.braintrust.dev/articles/best-unified-llm-api-providers-2026",
-      "description": "",
+      "description": "Pros:\n\nCons:\n\nPricing: New accounts receive $5 in monthly credits to start, after which usage is pay-as-you-go at provider list price with no markup, including bring-your-own-key.\n",
       "monthlyVisits": 27000000,
       "hasTraffic": true,
       "id": "braintrust-dev-articles-best-u",
@@ -262,13 +406,13 @@
       ]
     },
     {
-      "name": "Hugging Face pricing explained: what you actually pay in 202",
-      "domain": "eesel.ai/blog/hugging-face-pricing",
-      "url": "https://www.eesel.ai/blog/hugging-face-pricing",
-      "description": "",
+      "name": "Hugging Face Pricing 2026: Is It Free? Complete Cost Breakdo",
+      "domain": "metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "description": "Hugging Face PRO costs $9 per month. This subscription includes highest priority in GPU queue for Spaces, 8x ZeroGPU usage quota with up to 25 minutes of H200 compute per day (with",
       "monthlyVisits": 25000000,
       "hasTraffic": true,
-      "id": "eesel-ai-blog-hugging-face-pri",
+      "id": "metacto-com-blogs-the-true-cos",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -278,13 +422,13 @@
       ]
     },
     {
-      "name": "Hugging Face Pricing 2026: The 5 Bills You Actually Pay",
-      "domain": "techjacksolutions.com/ai-tools/hugging-face/hugging-face-pricing",
-      "url": "https://techjacksolutions.com/ai-tools/hugging-face/hugging-face-pricing/",
-      "description": "",
-      "monthlyVisits": 25000000,
+      "name": "transformer.huggingface.co Traffic Analytics, Ranking & Audi",
+      "domain": "similarweb.com/website/transformer.huggingface.co",
+      "url": "https://www.similarweb.com/website/transformer.huggingface.co",
+      "description": "transformer.huggingface.co's web traffic has increased by 2.65% compared to last month.",
+      "monthlyVisits": 21810000,
       "hasTraffic": true,
-      "id": "techjacksolutions-com-ai-tools",
+      "id": "similarweb-com-website-transfo",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -294,13 +438,29 @@
       ]
     },
     {
-      "name": "Top 11 LLM API Providers in 2026",
-      "domain": "futureagi.substack.com/p/top-11-llm-api-providers-in-2026",
-      "url": "https://futureagi.substack.com/p/top-11-llm-api-providers-in-2026",
-      "description": "#### Discussion about this post\n\nMar 12\n\nSolid breakdown. One thing that's missing from most API provider comparisons like this is the proxy/aggregator layer that's emerged. Servic",
-      "monthlyVisits": 20000000,
+      "name": "Stop Overpaying for LLMs: One API, Every Provider, Lowest Co",
+      "domain": "youtube.com/watch",
+      "url": "https://www.youtube.com/watch?v=a3R0_ygdNXI",
+      "description": "So, it's just going to reject the call. And you can set it up per request, you can set it up daily, you can set it up monthly. All these different limits you can have as well. So, ",
+      "monthlyVisits": 15350000,
       "hasTraffic": true,
-      "id": "futureagi-substack-com-p-top-1",
+      "id": "youtube-com-watch",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Gen AI Website Traffic Share Report – Feb 2026",
+      "domain": "thedigitalbloom.com/learn/gen-ai-website-traffic-share-february-2026",
+      "url": "https://thedigitalbloom.com/learn/gen-ai-website-traffic-share-february-2026",
+      "description": "The more aggressive scenario  –  AI becoming a top-3 traffic source for Travel, Retail, and Financial Services by Q4 2026  –  hinges entirely on whether AI platforms loosen their z",
+      "monthlyVisits": 12000000,
+      "hasTraffic": true,
+      "id": "thedigitalbloom-com-learn-gen-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -326,13 +486,29 @@
       ]
     },
     {
-      "name": "AI Traffic Analytics for ChatGPT, Claude & Perplexity",
-      "domain": "loamly.ai/ai-website-traffic-analytics",
-      "url": "https://www.loamly.ai/ai-website-traffic-analytics",
-      "description": "The problem? Traditional analytics tools like Google Analytics cannot identify this traffic. AI chatbots don't send standard HTTP referrer headers, so your highest-converting traff",
-      "monthlyVisits": 11800000,
+      "name": "The 2026 State of AI Traffic & Cyberthreat Benchmark Report",
+      "domain": "benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
+      "url": "https://www.benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
+      "description": "Automated traffic grew 8x faster than human traffic, year over year.\n Monthly volumes of AI-driven traffic grew 187% from January to December 2025, nearly tripling over the calenda",
+      "monthlyVisits": 12000000,
       "hasTraffic": true,
-      "id": "loamly-ai-ai-website-traffic-a",
+      "id": "benton-org-headlines-2026-stat",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Ollama",
+      "domain": "ollama.com",
+      "url": "https://ollama.com",
+      "description": "",
+      "monthlyVisits": 11100000,
+      "hasTraffic": true,
+      "id": "ollama-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -358,13 +534,13 @@
       ]
     },
     {
-      "name": "AI Traffic Grew 6.5x Faster Than Human Traffic This Year",
-      "domain": "fastly.com/blog/ai-traffic-grew-6-5x-faster-than-human-traffic-this-year",
-      "url": "https://www.fastly.com/blog/ai-traffic-grew-6-5x-faster-than-human-traffic-this-year",
-      "description": "Artur Bergman\n\nFounder and Chief Technology Officer, Fastly\n\nHossein Lotfi\n\nSVP of Engineering, Fastly\n\nAICDN & DeliveryPerformance\n\nFastly has observed rapid growth of AI traffic ",
-      "monthlyVisits": 5000000,
+      "name": "LLM Gateway For All LLM Providers",
+      "domain": "llmapi.ai",
+      "url": "https://llmapi.ai/",
+      "description": "",
+      "monthlyVisits": 4400000,
       "hasTraffic": true,
-      "id": "fastly-com-blog-ai-traffic-gre",
+      "id": "llmapi-ai",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -374,13 +550,13 @@
       ]
     },
     {
-      "name": "What are free LLM APIs for infrequent use?",
-      "domain": "facebook.com/groups/698593531630485/posts/1163617108461456",
-      "url": "https://www.facebook.com/groups/698593531630485/posts/1163617108461456",
-      "description": "Likely a question asked before, but here goes. I am interested in communicating with LLMs by calling APIs, rather than by using a web browser chat interface.",
-      "monthlyVisits": 5000000,
+      "name": "GitHub",
+      "domain": "github.com/kb-labb/huggingface_stats",
+      "url": "https://github.com/kb-labb/huggingface_stats",
+      "description": "| whisper-large-rixvox | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | NA | 113 | 56 | 8 | 9 | 12 | 9 | 6 | 0 | 16 | 0 | 2 | 19 | 38 | 18 | 12 | 11 | 31 | 8 | 28 | 57",
+      "monthlyVisits": 3620000,
       "hasTraffic": true,
-      "id": "facebook-com-groups-6985935316",
+      "id": "github-com-kb-labb-huggingface",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -390,29 +566,13 @@
       ]
     },
     {
-      "name": "A Broke B**ch's Guide to Tech Start-up: Choosing LLM",
+      "name": "Medium",
       "domain": "medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
       "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
       "description": "For serverless endpoints, LLM service providers (like OpenAI, Anyscale etc.) charges you by the number of total tokens (roughly 0.75 words) where as dedicated endpoints tend to cha",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "medium-com-before-you-launch-a",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "huggingface.co Traffic Analytics, Ranking & Audience [July .",
-      "domain": "similarweb.com/website/huggingface.co",
-      "url": "https://www.similarweb.com/website/huggingface.co",
-      "description": "huggingface.co's web traffic has increased by 3.92% compared to last month. huggingface.co's audience is 73.35% male and 26.65% female. age group of visitors",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "similarweb-com-website-hugging",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -438,13 +598,13 @@
       ]
     },
     {
-      "name": "Pricing and Billing",
-      "domain": "huggingface.co/docs/inference-providers/en/pricing",
-      "url": "https://huggingface.co/docs/inference-providers/en/pricing",
-      "description": "Every Hugging Face user receives monthly credits to experiment with Inference Providers:\n\n| Account Type | Monthly Credits | Can be spent on | Extra usage (pay-as-you-go) |\n ---  -",
+      "name": "huggingface.co Traffic Analytics, Ranking & Audience [May 20",
+      "domain": "similarweb.com/website/huggingface.co",
+      "url": "https://www.similarweb.com/website/huggingface.co",
+      "description": "... Category RankComputers Electronics and Technology - Other (In United States)Country RankIn United StatesGlobal Rank ... huggingface.co's web traffic has decreased by 9.6% compa",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "huggingface-co-docs-inference-",
+      "id": "similarweb-com-website-hugging",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -454,13 +614,45 @@
       ]
     },
     {
-      "name": "Download Analytics",
-      "domain": "huggingface.co/docs/hub/en/download-analytics",
-      "url": "https://huggingface.co/docs/hub/en/download-analytics",
-      "description": "The page shows a daily egress (download bandwidth) graph, along with your month-to-date total compared against your plan's included egress allowance.",
+      "name": "huggingface.co Website Traffic",
+      "domain": "analytics.explodingtopics.com/website/huggingface.co",
+      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
+      "description": "Create a Project\n\nDomain OverviewTraffic AnalyticsTop PagesSources & DestinationsAudience OverlapMarket OverviewAI Visibility ToolkitKeyword ResearchKeyword Gap\n\nStart 14-day free ",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "huggingface-co-docs-hub-en-dow",
+      "id": "analytics-explodingtopics-com-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "fmops/ai-traffic-flows · Datasets at Hugging Face",
+      "domain": "huggingface.co/datasets/fmops/ai-traffic-flows",
+      "url": "https://huggingface.co/datasets/fmops/ai-traffic-flows",
+      "description": "Downloads last month · 8 · Size of downloaded dataset files: 1.53 MB · Size of the auto-converted Parquet files: 1.53 MB ·",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "huggingface-co-datasets-fmops-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Depositphotos/traffic · Datasets at Hugging Face",
+      "domain": "huggingface.co/datasets/Depositphotos/traffic",
+      "url": "https://huggingface.co/datasets/Depositphotos/traffic",
+      "description": "Ready to scale your models? Contact the DepositPhotos Data Licensing team to request the full Traffic dataset, access premium metadata, or build a custom data pipeline. 📧 Email: vl",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "huggingface-co-datasets-deposi",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -473,7 +665,7 @@
       "name": "AhaseesAI/traffic-prediction",
       "domain": "huggingface.co/AhaseesAI/traffic-prediction",
       "url": "https://huggingface.co/AhaseesAI/traffic-prediction",
-      "description": "This model is a Random Forest Classifier trained to predict traffic conditions based on various input features. It helps estimate traffic congestion levels",
+      "description": "",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "huggingface-co-ahaseesai-traff",
@@ -486,13 +678,13 @@
       ]
     },
     {
-      "name": "PRO Account",
-      "domain": "huggingface.co/pro",
-      "url": "https://huggingface.co/pro",
+      "name": "Download Analytics",
+      "domain": "huggingface.co/docs/hub/en/download-analytics",
+      "url": "https://huggingface.co/docs/hub/en/download-analytics",
       "description": "",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "huggingface-co-pro",
+      "id": "huggingface-co-docs-hub-en-dow",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -502,13 +694,13 @@
       ]
     },
     {
-      "name": "How to identify traffic from AI coming to your website",
-      "domain": "go.bookassist.com/blog/how-to-identify-traffic-from-ai-coming-to-your-website",
-      "url": "https://go.bookassist.com/blog/how-to-identify-traffic-from-ai-coming-to-your-website",
-      "description": "Learn how to track and analyse hotel website traffic from AI tools like ChatGPT and Gemini by creating custom channel groups in GA4 for",
+      "name": "Pricing",
+      "domain": "huggingface.co/pricing",
+      "url": "https://huggingface.co/pricing",
+      "description": "",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "go-bookassist-com-blog-how-to-",
+      "id": "huggingface-co-pricing",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -518,13 +710,29 @@
       ]
     },
     {
-      "name": "Anthropic Overtakes OpenAI In Enterprise AI Traffic Before .",
-      "domain": "digg.com/tech/hjgw19n5",
-      "url": "https://digg.com/tech/hjgw19n5",
-      "description": "",
+      "name": "Home \\ Anthropic",
+      "domain": "anthropic.com",
+      "url": "https://www.anthropic.com",
+      "description": "Skip to footer\n\n Research\n\n  + Overview\n  + Alignment\n  + Economics\n  + Engineering\n  + Frontier Red Team\n  + Interpretability\n  + Science\n  + Societal Impacts\n Policy\n Commitments",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "digg-com-tech-hjgw19n5",
+      "id": "anthropic-com",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "domain": "openai.com",
+      "url": "https://openai.com",
+      "description": "Product\n\nIntroducing OpenAI Presence\n\nProduct\n\n## Stories\n\nView all\n\nTraining to cycle across Antarctica with ChatGPT\n\nCreating new simulations of black holes with Codex\n\nChip Gana",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "openai-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -550,38 +758,6 @@
       ]
     },
     {
-      "name": "openai.com",
-      "domain": "openai.com",
-      "url": "https://openai.com",
-      "description": "structured-source",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "openai-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "www.anthropic.com",
-      "domain": "anthropic.com",
-      "url": "https://www.anthropic.com",
-      "description": "structured-source",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "anthropic-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "www.together.ai",
       "domain": "together.ai",
       "url": "https://www.together.ai",
@@ -598,29 +774,13 @@
       ]
     },
     {
-      "name": "Ollama",
-      "domain": "ollama.com",
-      "url": "https://ollama.com",
+      "name": "Pricing and Billing",
+      "domain": "huggingface.co/docs/inference-providers/en/pricing",
+      "url": "https://huggingface.co/docs/inference-providers/en/pricing",
       "description": "",
-      "monthlyVisits": 1700000,
+      "monthlyVisits": 2000000,
       "hasTraffic": true,
-      "id": "ollama-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "The New Analytics Blind Spot: AI Traffic & AI Agents That Sh",
-      "domain": "seerinteractive.com/insights/how-will-you-know-when-open-ais-operator-agent-hits-your-website",
-      "url": "https://www.seerinteractive.com/insights/how-will-you-know-when-open-ais-operator-agent-hits-your-website",
-      "description": "Claude Cowork (Anthropic): Rolled out widely to paid tiers in mid-May 2026, integrated into the Claude desktop app. It operates within a dedicated local folder to manage files and ",
-      "monthlyVisits": 1400000,
-      "hasTraffic": true,
-      "id": "seerinteractive-com-insights-h",
+      "id": "huggingface-co-docs-inference-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -646,22 +806,6 @@
       ]
     },
     {
-      "name": "The 2026 State of AI Traffic & Cyberthreat Benchmark Report",
-      "domain": "benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
-      "url": "https://www.benton.org/headlines/2026-state-ai-traffic-cyberthreat-benchmark-report",
-      "description": "Automated traffic grew 8x faster than human traffic, year over year.\n Monthly volumes of AI-driven traffic grew 187% from January to December 2025, nearly tripling over the calenda",
-      "monthlyVisits": 1000000,
-      "hasTraffic": true,
-      "id": "benton-org-headlines-2026-stat",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "Best LLM API Providers in 2026: We Reviewed 8 Options",
       "domain": "fireworks.ai/blog/best-llm-api-providers",
       "url": "https://fireworks.ai/blog/best-llm-api-providers",
@@ -678,30 +822,14 @@
       ]
     },
     {
-      "name": "Hidden Costs Behind Cheap LLM API Pricing",
-      "domain": "community.latenode.com/t/hidden-costs-behind-cheap-llm-api-pricing-my-expensive-learning-experience/34393",
-      "url": "https://community.latenode.com/t/hidden-costs-behind-cheap-llm-api-pricing-my-expensive-learning-experience/34393",
-      "description": "This exact thing burned me during a research project with legal documents. I kept asking follow-up questions about specific clauses, not knowing each query was re-sending the entir",
-      "monthlyVisits": 1000000,
+      "name": "mnfst/awesome-free-llm-apis",
+      "domain": "github.com/mnfst/awesome-free-llm-apis",
+      "url": "https://github.com/mnfst/awesome-free-llm-apis",
+      "description": "Base URL: `\n\n| Model Name | Context | Max Output | Modality | Rate Limit |\n ---  --- \n| `aion-labs/aion-2.0` | 128K | 32K | Text (reasoning) | 15 RPM, 20K TPD |\n| `aion-labs/aion-r",
+      "monthlyVisits": 1000,
       "hasTraffic": true,
-      "id": "community-latenode-com-t-hidde",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Anthropic, OpenAI Crawl the Web Even More, and Give Little B",
-      "domain": "businessinsider.com/anthropic-openai-google-perplexity-microsoft-mistral-crawling-web-referrals-cloudflare-2026-1",
-      "url": "https://www.businessinsider.com/anthropic-openai-google-perplexity-microsoft-mistral-crawling-web-referrals-cloudflare-2026-1",
-      "description": "As you can see, Anthropic stands out like a sore thumb. According to Cloudflare data, it crawls sites way more than it sends users out to the web. Anthropic actually crawled even m",
-      "monthlyVisits": 1000000,
-      "hasTraffic": true,
-      "id": "businessinsider-com-anthropic-",
-      "tier": "T1",
+      "id": "github-com-mnfst-awesome-free-",
+      "tier": "T3",
       "trafficTrend": [],
       "type": "models",
       "features": [
@@ -740,43 +868,27 @@
         "AI",
         "models"
       ]
-    },
-    {
-      "name": "Awan LLM",
-      "domain": "awanllm.com",
-      "url": "https://www.awanllm.com/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "awanllm-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
     }
   ],
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 44 个，占据主要流量",
+      "content": "T1 级别 51 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 8079.5M",
+      "content": "有流量网站月访问总量 12754.8M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 2 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 1 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 47,
-    "totalMonthlyVisits": 8079531000
+    "totalSites": 54,
+    "totalMonthlyVisits": 12754832000
   }
 }

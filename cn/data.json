@@ -1,26 +1,10 @@
 {
-  "lastUpdated": "2026-09-03T09:13:03.683408+08:00",
+  "lastUpdated": "2026-09-04T09:12:37.777415+08:00",
   "config": {
     "category": "cn",
     "autoUpdate": true
   },
   "competitors": [
-    {
-      "name": "Aicpb",
-      "domain": "aicpb.com",
-      "url": "https://aicpb.com",
-      "description": "",
-      "monthlyVisits": 2026000000,
-      "hasTraffic": true,
-      "id": "aicpb-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
     {
       "name": "国内有哪些AI工具导航网站？2025年最全AI工具导航网站盘点",
       "domain": "i.ifeng.com/c/8layw9cXS5R",
@@ -29,22 +13,6 @@
       "monthlyVisits": 952500000,
       "hasTraffic": true,
       "id": "i-ifeng-com-c-8layw9cxs5r",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "全球成長最快 AI 工具排名揭曉！中國服務成唯一退步　Gemini 流量飆 6 倍",
-      "domain": "3c.ltn.com.tw/news/65227",
-      "url": "https://3c.ltn.com.tw/news/65227",
-      "description": "（圖／記者黃肇祥攝）（圖／記者黃肇祥攝）\n\nAI 工具已經成為民眾日常不可或缺的好幫手，從一開始 ChatGPT 遙遙領先，到現在 Gemini、Claude 逐漸成為強大敵手，替 AI 戰局添增諸多變化。\n\n數據網站 SimilarWeb 統計過去一年的網站流量，列出成長最多的 6 大 AI 工具排行榜，Gemini 毫無疑問地領先，而過去曾被視為中國版 ",
-      "monthlyVisits": 952500000,
-      "hasTraffic": true,
-      "id": "3c-ltn-com-tw-news-65227",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -70,13 +38,13 @@
       ]
     },
     {
-      "name": "全球-主要AI工具访问量(各工具加总)",
-      "domain": "sc.macromicro.me/charts/137718/world-main-ai-tools-visits-by-type-cumulative-total",
-      "url": "https://sc.macromicro.me/charts/137718/world-main-ai-tools-visits-by-type-cumulative-total",
-      "description": "#### AI 推荐图表\n\n####\n\n|\n|  |\n|\n|\n\n/ 500\n\n数据下载 \n\n数据檔案格式为 csv\n\n我同意财经M平方的数据使用协议规范\n\n数据下载 \n\n数据檔案格式为 csv\n\n我同意财经M平方的数据使用协议规范\n\n财经 M 平方应用 OpenAI 向量技术，帮助你连结到高度相关的其他图表。\n\n#### 收藏至图组\n\n若该图表不隶属于任何自",
+      "name": "AI工具箱",
+      "domain": "ai-bio.cn",
+      "url": "https://ai-bio.cn",
+      "description": "秒悟Meoo\n\n秒悟Meoo\n\n阿里推出的云端AI全栈应用生成与自动部署工具\n\nFastGPT\n\nFastGPT\n\n面向企业的知识库与流程型 AI 应用构建平台\n\nSophNet\n\nSophNet\n\n独家推出DeepSeek满血极速版，TPS指标超100，是目前DeepSeek API 推理速度最快的平台\n\n文心智能体平台\n\n文心智能体平台\n\n中文AI智能体",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "sc-macromicro-me-charts-137718",
+      "id": "ai-bio-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -86,29 +54,13 @@
       ]
     },
     {
-      "name": "生成式AI 的全球扩张：过去一年来的增长、新进入者以及攻击",
-      "domain": "blog.cloudflare.com/zh-cn/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks",
-      "url": "https://blog.cloudflare.com/zh-cn/global-expansion-in-generative-ai-a-year-of-growth-newcomers-and-attacks/",
+      "name": "【AI 工具大全】AI 工具有哪些？2025 最推薦的14 個AI 工具",
+      "domain": "kdan.com/zh-tw/blog/ai-tools",
+      "url": "https://www.kdan.com/zh-tw/blog/ai-tools",
       "description": "",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "blog-cloudflare-com-zh-cn-glob",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "Ai",
-      "domain": "ai.dreamthere.cn",
-      "url": "https://ai.dreamthere.cn",
-      "description": "",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "ai-dreamthere-cn",
+      "id": "kdan-com-zh-tw-blog-ai-tools",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -134,13 +86,13 @@
       ]
     },
     {
-      "name": "全球流量Top50的“AI网站”出炉：C端用户都愿意用AI干什么？-DNY123东南亚卖家导航",
-      "domain": "dny123.com/t/nAK4xGdu",
-      "url": "https://www.dny123.com/t/nAK4xGdu",
-      "description": "任天堂12月正式登陆印尼任天堂宣布，将于2026年12月通过印尼Salim集团旗下PT Nusantara Interactive Niaga公司在印尼正式发售Switch和Switch 2两款游戏主机，结束该国长期依赖水货渠道的局面。前7个月中国与APEC贸易狂增21%从2026年亚太经合组织（APEC）海关与商界对话会上获悉，前7个月，中国与APEC其他",
-      "monthlyVisits": 500000000,
+      "name": "AIGC工具导航",
+      "domain": "aigc.cn",
+      "url": "https://www.aigc.cn",
+      "description": "主办: 湖北省广播电视局\n\n2026年“视听长江”AIGC短片短剧大赛正式进入作品集中提交阶段（截止时间为7月30日），诚邀各单位将优秀作品提交报名，过往已发布作品和全新创作作品均可提交报名\n\nAIGC艺术创作 \n\n查看回顾\n\n#### AIGC智能对话\n\n AI智能助手\n AI知识库\n AI输入法\n AI搜索引擎\n AI聊天对话\n AI问答\n AI女友\n ",
+      "monthlyVisits": 200000000,
       "hasTraffic": true,
-      "id": "dny123-com-t-nak4xgdu",
+      "id": "aigc-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -150,13 +102,13 @@
       ]
     },
     {
-      "name": "AIGCRank：2024年6月国内AI网站流量排行榜",
-      "domain": "aigcrank.cn/top/202406cn",
-      "url": "https://aigcrank.cn/top/202406cn",
-      "description": "AIGCRank：2024年6月国内AI网站流量排行榜 ; 1, Kimi 智能助手, 聊天机器人 ; 2, 文心一言, 聊天机器人 ; 3, 秘塔AI搜索, AI搜索引擎 ; 4, 通义, 聊天机器人",
-      "monthlyVisits": 319000000,
+      "name": "iAmCorey/awesome-ai-directory: AI资源工具导航站收录 ...",
+      "domain": "github.com/iAmCorey/awesome-ai-directory",
+      "url": "https://github.com/iAmCorey/awesome-ai-directory",
+      "description": "",
+      "monthlyVisits": 191780000,
       "hasTraffic": true,
-      "id": "aigcrank-cn-top-202406cn",
+      "id": "github-com-iamcorey-awesome-ai",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -166,10 +118,42 @@
       ]
     },
     {
-      "name": "2025 最新AI工具表",
+      "name": "GitHub",
+      "domain": "github.com/whataicc/aitools",
+      "url": "https://github.com/whataicc/aitools",
+      "description": "| 产品名称 | 基础模型 | 相关信息 | 备注 |\n ---  --- |\n| 🔥🔥免费ChatGPT中文版 | 模型聚合 | 🆓&💰 | AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等 |\n| DuckDuckGo AI Chat | ChatGPT&Claude | 🧪✈️🆓 | 由著",
+      "monthlyVisits": 191780000,
+      "hasTraffic": true,
+      "id": "github-com-whataicc-aitools",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "免費AI 工具推薦，全球前100 強AI 工具有這些！",
+      "domain": "host.com.tw/best-AI-tools",
+      "url": "https://host.com.tw/best-AI-tools",
+      "description": "",
+      "monthlyVisits": 127650000,
+      "hasTraffic": true,
+      "id": "host-com-tw-best-ai-tools",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI Tools Guide",
       "domain": "99aicreator.com/ai-tools",
       "url": "https://www.99aicreator.com/ai-tools",
-      "description": "",
+      "description": "[]( AI can quickly convert text into hand-drawn visual charts, such as flowcharts and mind maps. Suitable for presentations, education, and content creation. Users can input text a",
       "monthlyVisits": 99130000,
       "hasTraffic": true,
       "id": "99aicreator-com-ai-tools",
@@ -198,13 +182,13 @@
       ]
     },
     {
-      "name": "10大AI工具推荐（2025年更新）",
-      "domain": "sites.google.com/view/aigongju/home",
-      "url": "https://sites.google.com/view/aigongju/home",
-      "description": "",
-      "monthlyVisits": 58000000,
+      "name": "全球流量Top50的“AI网站”出炉：C端用户都愿意用AI干什么？-DNY123东南亚卖家导航",
+      "domain": "dny123.com/t/nAK4xGdu",
+      "url": "https://www.dny123.com/t/nAK4xGdu",
+      "description": "任天堂12月正式登陆印尼任天堂宣布，将于2026年12月通过印尼Salim集团旗下PT Nusantara Interactive Niaga公司在印尼正式发售Switch和Switch 2两款游戏主机，结束该国长期依赖水货渠道的局面。前7个月中国与APEC贸易狂增21%从2026年亚太经合组织（APEC）海关与商界对话会上获悉，前7个月，中国与APEC其他",
+      "monthlyVisits": 40500000,
       "hasTraffic": true,
-      "id": "sites-google-com-view-aigongju",
+      "id": "dny123-com-t-nak4xgdu",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -214,10 +198,42 @@
       ]
     },
     {
-      "name": "目前最强10个AI导航网站，发现AI导航排名第一",
+      "name": "2024年最火「AI 工具导航网站」评测原创",
+      "domain": "blog.csdn.net/weixin_49703214/article/details/137791753",
+      "url": "https://blog.csdn.net/weixin_49703214/article/details/137791753",
+      "description": "3个AI工具导航网站，你想要的AI工具这里都有! · 1、AI导航123. 网址简介：aidh123.com - AI导航123网站，是一个专为您挑选并试用过的人工智能工具的导航",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "blog-csdn-net-weixin-49703214-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "全球生成式 AI 工具流量排行榜分析（2026 最新趨勢解讀）",
+      "domain": "ibest.com.tw/news-detail/2025-3-ai-tools-list",
+      "url": "https://www.ibest.com.tw/news-detail/2025-3-ai-tools-list",
+      "description": "從數據來看，ChatGPT 依然是目前全球生成式 AI 工具中流量最高的平台。  \n 12 個月前市佔高達 86.7%，即便到現在仍保有 64.5% 的市場份額，這個數字放在任何產業，依然是非常誇張的領先幅度。  \n   \n 不過，值得注意的是，ChatGPT 在短短一年內流失超過 22% 的市佔率，這個變化本身就釋放出一個關鍵訊號：  \n 市場並不是在「拋",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "ibest-com-tw-news-detail-2025-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "目前最强10个AI导航网站，发现AI导航排名第一_凤凰网",
       "domain": "baby.ifeng.com/c/8hTZqgRbOrj",
       "url": "https://baby.ifeng.com/c/8hTZqgRbOrj",
-      "description": "AI导航十大网站排行榜: 1.发现AI 发现AI(www.faxianai.com)是专注人工智能领域的导航网站。 五星 2.toolify.ai 收录超18000个AI工具, 推荐指数:五星 3.",
+      "description": "推荐指数:五星\n\n4.AIHub\n\n专注分享全球优质AI产品。站内精选国内外超999个AI工具、资源和资讯。涵盖AI绘画、写作、聊天、音视频等多领域,还提供AI教程、提示指令等内容,每日更新,帮助用户了解和运用AI。\n\n优点:\n\n从自然语言处理到图像识别,全面覆盖各类AI,为用户提供多样选择 。\n\n用户可依据自身需求,灵活调整AI助手功能,不管是文本对话风格",
       "monthlyVisits": 30000000,
       "hasTraffic": true,
       "id": "baby-ifeng-com-c-8htzqgrborj",
@@ -230,10 +246,26 @@
       ]
     },
     {
-      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有-雨果网",
+      "name": "月度访问量最高的AI工具排行",
+      "domain": "youknownews.com/24502",
+      "url": "https://youknownews.com/24502",
+      "description": "1 月份，没有其他AI 工具的每月访问量超过10 亿次。排名第二的是Canva，它使用OpenAI 的模型集成了AI 设计和图像编辑功能，访问量达8.87 亿次。 中国",
+      "monthlyVisits": 22100000,
+      "hasTraffic": true,
+      "id": "youknownews-com-24502",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "推荐一个访问量排名第一的AI导航网站，你要的全都有",
       "domain": "m.cifnews.com/article/170481",
       "url": "https://m.cifnews.com/article/170481",
-      "description": "开发者：雨果跨境（厦门）科技有限公司  \n©2013雨果跨境闽ICP备11004599号-1，闽ICP备11004599号-3，闽ICP备11004599号-4，闽ICP备11004599号-5,闽公网安备35020602003453号 [...] 收录于以下专栏 \n\n 跨境工具  306 个内容 · 20 人关注  查看专栏\n\n shopify app应用",
+      "description": "",
       "monthlyVisits": 22100000,
       "hasTraffic": true,
       "id": "m-cifnews-com-article-170481",
@@ -246,13 +278,13 @@
       ]
     },
     {
-      "name": "千库AI导航-热门AI助手大全-专业人工智能AI工具导航网站",
-      "domain": "kubao.588tool.com",
-      "url": "https://kubao.588tool.com/",
-      "description": "",
-      "monthlyVisits": 21810000,
+      "name": "全球成長最快 AI 工具排名揭曉！中國服務成唯一退步　Gemini 流量飆 6 倍",
+      "domain": "3c.ltn.com.tw/news/65227",
+      "url": "https://3c.ltn.com.tw/news/65227",
+      "description": "（圖／記者黃肇祥攝）（圖／記者黃肇祥攝）\n\nAI 工具已經成為民眾日常不可或缺的好幫手，從一開始 ChatGPT 遙遙領先，到現在 Gemini、Claude 逐漸成為強大敵手，替 AI 戰局添增諸多變化。\n\n數據網站 SimilarWeb 統計過去一年的網站流量，列出成長最多的 6 大 AI 工具排行榜，Gemini 毫無疑問地領先，而過去曾被視為中國版 ",
+      "monthlyVisits": 14000000,
       "hasTraffic": true,
-      "id": "kubao-588tool-com",
+      "id": "3c-ltn-com-tw-news-65227",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -262,13 +294,13 @@
       ]
     },
     {
-      "name": "AIHub",
-      "domain": "aihub.cn",
-      "url": "https://www.aihub.cn",
-      "description": "## LiblibAI•哩布哩布AI - 中国领先的一站式AI创作平台\n ## Midjourney - 优秀的 AI 图像创作平台\n ## Stable Diffusion-全球最强开源AI绘画模型\n ## Civitai(C站)-全球最大AI绘画模型分享平台\n ## 吐司AI-可免费在线生图的模型分享社区\n ## 海艺AI(SeaArt)官网：用AI创造",
-      "monthlyVisits": 21810000,
+      "name": "AI导航",
+      "domain": "hao.uied.cn",
+      "url": "https://hao.uied.cn",
+      "description": "# AI导航 - UIED AI工具导航\n\nUIED AI导航汇集全球优质AI工具与资源，涵盖AI写作、AI绘画、AI视频、AI办公、AI设计、AI编程等多个领域，帮助设计师、开发者与创作者快速发现和使用高效的人工智能工具。\n\nUIED AI导航汇集全球优质AI工具与资源，涵盖AI写作、AI绘画、AI视频、AI办公、AI设计、AI编程等多个领域，帮助设计师、",
+      "monthlyVisits": 13000000,
       "hasTraffic": true,
-      "id": "aihub-cn",
+      "id": "hao-uied-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -281,7 +313,7 @@
       "name": "大盘点！50款最受欢迎的AI应用，你用过几个？",
       "domain": "dedicated.wallstreetcn.com/toutiao/articles/3705107",
       "url": "https://dedicated.wallstreetcn.com/toutiao/articles/3705107",
-      "description": "过去12个月中，AI应用每月平均访问量达到20亿次，过去6个月，每月平均访问量激增至33亿次。 ChatGPT、Character AI和Google Bard的访问量分别净增长了18亿",
+      "description": "# 大盘点！50款最受欢迎的AI应用，你用过几个？\n\n华尔街见闻 / 葛佳明\n\n>  2022年9月至2023年8月间，排名前50的AI工具共吸引超240亿次访问，其中ChatGPT的访问量达到140亿次，排名第一，占总访问量的60%以上。\n>  过去12个月中，AI应用每月平均访问量达到20亿次，过去6个月，每月平均访问量激增至33亿次。\n>  ChatG",
       "monthlyVisits": 12460000,
       "hasTraffic": true,
       "id": "dedicated-wallstreetcn-com-tou",
@@ -294,13 +326,13 @@
       ]
     },
     {
-      "name": "GitHub",
-      "domain": "github.com/whataicc/aitools",
-      "url": "https://github.com/whataicc/aitools",
-      "description": "| 产品名称 | 基础模型 | 相关信息 | 备注 |\n ---  --- |\n| 🔥🔥免费ChatGPT中文版 | 模型聚合 | 🆓&💰 | AI 产品聚合网站。支持GPT4，ai聊天，ai问答，ai写作，生成ppt、AI笔记，文生视频、文生ai绘画于等 |\n| DuckDuckGo AI Chat | ChatGPT&Claude | 🧪✈️🆓 | 由著",
+      "name": "全球-主要AI工具访问量(各工具加总)",
+      "domain": "sc.macromicro.me/charts/137718/world-main-ai-tools-visits-by-type-cumulative-total",
+      "url": "https://sc.macromicro.me/charts/137718/world-main-ai-tools-visits-by-type-cumulative-total",
+      "description": "#### AI 推荐图表\n\n####\n\n|\n|  |\n|\n|\n\n/ 500\n\n数据下载 \n\n数据檔案格式为 csv\n\n我同意财经M平方的数据使用协议规范\n\n数据下载 \n\n数据檔案格式为 csv\n\n我同意财经M平方的数据使用协议规范\n\n财经 M 平方应用 OpenAI 向量技术，帮助你连结到高度相关的其他图表。\n\n#### 收藏至图组\n\n若该图表不隶属于任何自",
       "monthlyVisits": 12000000,
       "hasTraffic": true,
-      "id": "github-com-whataicc-aitools",
+      "id": "sc-macromicro-me-charts-137718",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -326,109 +358,13 @@
       ]
     },
     {
-      "name": "国内外AI工具导航合集",
-      "domain": "amz123.com/ai",
-      "url": "https://www.amz123.com/ai",
-      "description": "拖动LOGO到书签栏，立即收藏AMZ123\n\n 跨境百科跨境报告跨境早报跨境快讯每日一店\n 热门平台+ 亚马逊TikTok Shop\n\n    TikTok ShopeMAGCoupang速卖通Lazada\n\n  二维码背景图\n\n  客服二维码\n 骗子曝光跟卖曝光\n\n 2026阿里速卖通品牌出海千人峰会 广州场\n\n  2026阿里速卖通品牌出海千人峰会 广州",
+      "name": "Aicpb",
+      "domain": "aicpb.com",
+      "url": "https://aicpb.com",
+      "description": "",
       "monthlyVisits": 11800000,
       "hasTraffic": true,
-      "id": "amz123-com-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "2025全球十大AI导航站横评：发现AI登顶，高效整合AI生态圈",
-      "domain": "hea.china.com/articles/20250418/202504181661929.html",
-      "url": "https://hea.china.com/articles/20250418/202504181661929.html",
-      "description": "",
-      "monthlyVisits": 7000000,
-      "hasTraffic": true,
-      "id": "hea-china-com-articles-2025041",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "AI工具箱",
-      "domain": "ai-bio.cn",
-      "url": "https://ai-bio.cn",
-      "description": "Stability AI\n\n一家总部位于英国伦敦的全球化AI研究型企业，专注于开发开源的生成式AI模型，涵盖图像、语言、音频、视频、3D和生物学等多个领域\n\n蝉镜\n\n蝉镜\n\n中文数字人视频创作神器\n\n剪映AI\n\n剪映AI\n\n智能视频剪辑与创作者必备工具\n\n飞影数字人\n\n飞影数字人\n\nAI数字人创作平台，支持克隆你的数字人分身\n\n白日梦\n\n白日梦\n\n一款全新的",
-      "monthlyVisits": 7000000,
-      "hasTraffic": true,
-      "id": "ai-bio-cn",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "domain": "github.com/iAmCorey/awesome-ai-directory",
-      "url": "https://github.com/iAmCorey/awesome-ai-directory",
-      "description": "| Human with AI | 人工智能辅助人类工作的工具集 | 10 |\n| Journalist Toolbox | 面向记者的AI工具箱 | 8 |\n| Lachief | AI工具和资源的聚合平台 | 14 |\n| Maomaoyu | 个人维护的AI工具导航网站 | 16 |\n| AutoAI's | 自动化AI工具和服务平台 | 1 |\n| ",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "github-com-iamcorey-awesome-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "超全人工智能 AI工具导航网站合集-腾讯云开发者社区-腾讯云",
-      "domain": "developer.cloud.tencent.com/article/2255390",
-      "url": "https://developer.cloud.tencent.com/article/2255390",
-      "description": "### 腾讯云开发者\n\n扫码关注腾讯云开发者\n\n扫码关注腾讯云开发者\n\n领取腾讯云代金券\n\n### 热门产品\n\n 域名注册\n 云服务器\n 区块链服务\n 消息队列\n 网络加速\n 云数据库\n 域名解析\n 云存储\n 视频直播\n\n### 热门推荐\n\n 人脸识别\n 腾讯会议\n 企业云\n CDN加速\n 视频通话\n 图像分析\n MySQL 数据库\n SSL 证书\n 语音识",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "developer-cloud-tencent-com-ar",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "2024年最火「AI 工具导航网站」评测原创",
-      "domain": "blog.csdn.net/weixin_49703214/article/details/137791753",
-      "url": "https://blog.csdn.net/weixin_49703214/article/details/137791753",
-      "description": "3个AI工具导航网站，你想要的AI工具这里都有! · 1、AI导航123. 网址简介：aidh123.com - AI导航123网站，是一个专为您挑选并试用过的人工智能工具的导航",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "blog-csdn-net-weixin-49703214-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "重磅：AI行业分析：50款访问量最大的AI工具及其24B+流量行为",
-      "domain": "zhuanlan.zhihu.com/p/675474030",
-      "url": "https://zhuanlan.zhihu.com/p/675474030",
-      "description": "过去一年，人工智能行业平均每月访问量达到20 亿次，过去6 个月激增至33 亿次。 分析的50 种AI 工具的增长率为10.7 倍，平均每月访问量增加2.363 亿次。",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "zhuanlan-zhihu-com-p-675474030",
+      "id": "aicpb-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -442,7 +378,7 @@
       "domain": "cloud.tencent.com/developer/article/2256535",
       "url": "https://cloud.tencent.com/developer/article/2256535",
       "description": "论坛圈子：视觉族导航还提供了一个用户交流论坛，可以注册账号之后在论坛中和其他同样喜欢AI人工智能工具的用户进行在线交流，分享彼此的使用体验和技巧教程。 [...] 本文介绍了几个AI工具导航网站，它们涵盖了不同的AI领域和功能，可以帮助你快速找到和使用各种AI工具。这些网站都有自己的特色和优势，你可以根据自己的需求和兴趣，选择合适的网站进行探索和学习。无论你",
-      "monthlyVisits": 3620000,
+      "monthlyVisits": 7000000,
       "hasTraffic": true,
       "id": "cloud-tencent-com-developer-ar",
       "tier": "T1",
@@ -454,13 +390,45 @@
       ]
     },
     {
-      "name": "AI工具导航",
-      "domain": "aigcbb.com",
-      "url": "https://www.aigcbb.com",
-      "description": "MiMo Code\n\n面向开发者的新一代 AI 编程助手，支持无限上下文，帮助你更高效地理解、构建与协作。\n\nKilo – Open Source AI Coding Agent in IDE, CLI and Cloud\n\nKilo – Open Source AI Coding Agent in IDE, CLI and Cloud\n\nKilo 是一个开",
+      "name": "Ai",
+      "domain": "ai.dreamthere.cn",
+      "url": "https://ai.dreamthere.cn",
+      "description": "",
+      "monthlyVisits": 4400000,
+      "hasTraffic": true,
+      "id": "ai-dreamthere-cn",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "超全人工智能AI工具导航网站合集",
+      "domain": "developer.cloud.tencent.com/article/2255390",
+      "url": "https://developer.cloud.tencent.com/article/2255390",
+      "description": "人工智能时代来临，各类AI工具涌现。本文推荐多个优质AI工具合集网站，如amz123、AIHub、AINav等，涵盖国内外资源，助力用户高效获取并掌握前沿AI工具",
       "monthlyVisits": 3620000,
       "hasTraffic": true,
-      "id": "aigcbb-com",
+      "id": "developer-cloud-tencent-com-ar",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "重磅：AI行业分析：50款访问量最大的AI工具及其24B+流量行为",
+      "domain": "zhuanlan.zhihu.com/p/675474030",
+      "url": "https://zhuanlan.zhihu.com/p/675474030",
+      "description": "## 关键要点\n\n   2022 年 9 月至 2023 年 8 月期间，排名前 50 位的 AI 工具吸引了超过 240 亿次访问。\n   ChatGPT 以 140 亿次访问量领先，占分析流量的 60% 以上。\n   过去一年，人工智能行业平均每月访问量达到 20 亿次，过去 6 个月激增至 33 亿次。\n   分析的 50 种 AI 工具的增长率为 1",
+      "monthlyVisits": 3620000,
+      "hasTraffic": true,
+      "id": "zhuanlan-zhihu-com-p-675474030",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -486,26 +454,10 @@
       ]
     },
     {
-      "name": "AIGC工具导航",
-      "domain": "aigc.cn",
-      "url": "https://www.aigc.cn",
-      "description": "主办: 湖北省广播电视局\n\n2026年“视听长江”AIGC短片短剧大赛正式进入作品集中提交阶段（截止时间为7月30日），诚邀各单位将优秀作品提交报名，过往已发布作品和全新创作作品均可提交报名\n\nAIGC艺术创作 \n\n查看回顾\n\n#### AIGC智能对话\n\n AI智能助手\n AI知识库\n AI输入法\n AI搜索引擎\n AI聊天对话\n AI问答\n AI女友\n ",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "aigc-cn",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
       "name": "国内值得推荐的AI导航站：三类宝藏工具指南",
       "domain": "zhuanlan.zhihu.com/p/1914443650982732859",
       "url": "https://zhuanlan.zhihu.com/p/1914443650982732859",
-      "description": "精选6个AI导航网站,覆盖设计师、开发者、普通用户,按功能分类清晰,收录工具数量多且更新及时,部分支持热门工具跳转,适合快速获取AI资源。",
+      "description": "表格说明: 盘点三大AI导航站，分别聚焦综合、全球、学术场景，覆盖写作、图像、科研等多领域工具，助用户高效查找 。\n\nImage 7\n\n图片说明: 学术AI工具集界面，展示丰富科研工具分类，方便科研人使用。\n\n### 2 设计师/开发者/普通用户皆适用\n\n| 网站名称 | 核心特点 | 网址 |\n --- \n| 非猪AI导航 | 聚合国内外工具，分类清晰支持",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "zhuanlan-zhihu-com-p-191444365",
@@ -518,39 +470,7 @@
       ]
     },
     {
-      "name": "AI导航",
-      "domain": "hao.uied.cn",
-      "url": "https://hao.uied.cn",
-      "description": "# AI导航 - UIED AI工具导航\n\nUIED AI导航汇集全球优质AI工具与资源，涵盖AI写作、AI绘画、AI视频、AI办公、AI设计、AI编程等多个领域，帮助设计师、开发者与创作者快速发现和使用高效的人工智能工具。\n\nUIED AI导航汇集全球优质AI工具与资源，涵盖AI写作、AI绘画、AI视频、AI办公、AI设计、AI编程等多个领域，帮助设计师、",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "hao-uied-cn",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "2026全网最强AI 工具终极指南！别再交智商税了",
-      "domain": "youtube.com/watch",
-      "url": "https://www.youtube.com/watch?v=t12ajTFDkrk",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "youtube-com-watch",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "cn",
-      "features": [
-        "AI",
-        "cn"
-      ]
-    },
-    {
-      "name": "全网最全的「人工智能·AI工具导航网站」盘点- 知乎",
+      "name": "全网最全的「人工智能·AI工具导航网站」盘点",
       "domain": "zhuanlan.zhihu.com/p/608944516",
       "url": "https://zhuanlan.zhihu.com/p/608944516",
       "description": "",
@@ -569,7 +489,7 @@
       "name": "翻译：AI 行业分析：50 个访问量最大的AI 工具及流量行为",
       "domain": "waytoagi.feishu.cn/wiki/YsHKwCssIiGIlRkFY4ncOrDanKh",
       "url": "https://waytoagi.feishu.cn/wiki/YsHKwCssIiGIlRkFY4ncOrDanKh",
-      "description": "排名前50 位的人工智能工具就产生了超过240 亿次的访问量,月均访问量增长了2.363 亿次。 访问量最大的50 个人工智能",
+      "description": "备注：本文用SEMrush 工具来分析，与其他产品排名有所不同​ · 我们的研究方法​ · 要点​ · 2022 年9 月至2023 年8 月期间，排名前50 的人工智能工具吸引了超过240 亿次访问。",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "waytoagi-feishu-cn-wiki-yshkwc",
@@ -582,10 +502,26 @@
       ]
     },
     {
-      "name": "AI 网站全球流量前50 排行榜，你都认识哪一些？",
+      "name": "AIGCRank：2024年6月国内AI网站流量排行榜",
+      "domain": "aigcrank.cn/top/202406cn",
+      "url": "https://aigcrank.cn/top/202406cn",
+      "description": "| 排名 | 产品名称 | 分类 | 网址 | 访问量（万） | 流量变化 |\n ---  ---  --- |\n| 1 | Kimi 智能助手 | 聊天机器人 | kimi.moonshot.cn | 2,276.30 | 1.11% |\n| 2 | 文心一言 | 聊天机器人 | yiyan.baidu.com | 1,664.80 | -6.54% |\n",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "aigcrank-cn-top-202406cn",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "AI 网站全球流量前 50 排行榜，你都认识哪一些？",
       "domain": "uisdc.com/talk/121207534257.html",
       "url": "https://www.uisdc.com/talk/121207534257.html",
-      "description": "a16z 对目前市场上流量最高的50 款面向C 端用户开放的AI 产品进行了排名，其中ChatGPT 等对话类产品突出，用户以轻度体验为主。此次排名主要参考的是",
+      "description": "#### 小黄鸡\n\n## 关于我们\n\n优设是国内专业设计师平台，2012年创办至今，作为行业风向标，我们14年来专注于设计师创作者的学习成长交流。 通过优设网、AIXZD、优创网分别沉淀优质内容。是一家集齐媒体、内容、服务的多元化平台。MCN矩阵@优设AIGC 在微博、微信、小红书、抖音、B站布局，全网粉丝过千万。\n\n## 热门频道\n\n## AI频道\n\n##",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "uisdc-com-talk-121207534257-ht",
@@ -598,13 +534,13 @@
       ]
     },
     {
-      "name": "【AI懶人包】看這篇就夠！2026推薦AI免費vs訂閱工具大全，提高工作生產力&職場競爭力！（持續更新)｜104職場力",
-      "domain": "blog.104.com.tw/ai_tools",
-      "url": "https://blog.104.com.tw/ai_tools",
-      "description": "1. Mapify 一句話、文章、網站、YT、圖片、音訊生成各種漂亮心智圖 看教學>  \n   （免費 10 次）\n2. Taskade 說你的任務需求馬上產出一目了然執行清單、思維導圖、流程圖 看教學>  \n   （免費版每天 5 次）\n3. Napkin 貼上文字內容自動轉成秒懂的視覺化圖表，也可輸入提示詞生成 看教學>  \n   （免費版 3 個畫板）",
+      "name": "AIHub",
+      "domain": "aihub.cn",
+      "url": "https://www.aihub.cn",
+      "description": "## LiblibAI•哩布哩布AI - 中国领先的一站式AI创作平台\n ## Midjourney - 优秀的 AI 图像创作平台\n ## Stable Diffusion-全球最强开源AI绘画模型\n ## Civitai(C站)-全球最大AI绘画模型分享平台\n ## 吐司AI-可免费在线生图的模型分享社区\n ## 海艺AI(SeaArt)官网：用AI创造",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "blog-104-com-tw-ai-tools",
+      "id": "aihub-cn",
       "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
@@ -630,14 +566,14 @@
       ]
     },
     {
-      "name": "【AI工具排行榜】ChatGPT仍居全球首位...",
-      "domain": "facebook.com/hkct.asia/posts/ai%E5%B7%A5%E5%85%B7%E6%8E%92%E8%A1%8C%E6%A6%9Cchatgpt%E4%BB%8D%E5%B1%85%E5%85%A8%E7%90%83%",
-      "url": "https://www.facebook.com/hkct.asia/posts/ai%E5%B7%A5%E5%85%B7%E6%8E%92%E8%A1%8C%E6%A6%9Cchatgpt%E4%BB%8D%E5%B1%85%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%E7%94%A8%E6%88%B6%E8%BF%919%E5%84%84-%E8%B1%86%E5%8C%85deepseek%E6%88%90%E7%AC%AC%E4%B8%80%E6%A2%AF%E9%9A%8A%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%94%A8%E5%93%AA%E5%80%8Bai%E6%A0%B9%E6%93%9Aa16zsimilarweb%E7%AD%89%E6%9C%80%E6%96%B0%E8%AA%BF%E6%9F%A5%E6%95%B8%E6%93%9A%E6%88%AA%E8%87%B32026%E5%B9%B41/983716014647135",
-      "description": "## Hong Kong Commercial Times 香港商業時報 's Post\n\n### Hong Kong Commercial Times 香港商業時報\n\nJune 11  ·\n\n【AI工具排行榜】ChatGPT仍居全球首位！用戶近9億 豆包、DeepSeek成「第一梯隊」\n\n你每天用哪個AI？根據a16z、SimilarWeb等最新調查數據（",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "facebook-com-hkct-asia-posts-a",
-      "tier": "T4",
+      "name": "国内外AI工具导航合集",
+      "domain": "amz123.com/ai",
+      "url": "https://www.amz123.com/ai",
+      "description": "拖动LOGO到书签栏，立即收藏AMZ123\n\n 跨境百科跨境报告跨境早报跨境快讯每日一店\n 热门平台+ 亚马逊TikTok Shop\n\n    TikTok ShopeMAGCoupang速卖通Lazada\n\n  二维码背景图\n\n  客服二维码\n 骗子曝光跟卖曝光\n\n 2026阿里速卖通品牌出海千人峰会 广州场\n\n  2026阿里速卖通品牌出海千人峰会 广州",
+      "monthlyVisits": 1300000,
+      "hasTraffic": true,
+      "id": "amz123-com-ai",
+      "tier": "T1",
       "trafficTrend": [],
       "type": "cn",
       "features": [
@@ -646,13 +582,29 @@
       ]
     },
     {
-      "name": "全球生成式 AI 工具流量排行榜分析（2026 最新趨勢解讀）",
-      "domain": "ibest.com.tw/news-detail/2025-3-ai-tools-list",
-      "url": "https://www.ibest.com.tw/news-detail/2025-3-ai-tools-list",
-      "description": "從數據來看，ChatGPT 依然是目前全球生成式 AI 工具中流量最高的平台。  \n 12 個月前市佔高達 86.7%，即便到現在仍保有 64.5% 的市場份額，這個數字放在任何產業，依然是非常誇張的領先幅度。  \n   \n 不過，值得注意的是，ChatGPT 在短短一年內流失超過 22% 的市佔率，這個變化本身就釋放出一個關鍵訊號：  \n 市場並不是在「拋",
+      "name": "【AI 工具2026】13 個AI 工具香港懶人包",
+      "domain": "blog.shopline.hk/ai-tools",
+      "url": "https://blog.shopline.hk/ai-tools/",
+      "description": "",
+      "monthlyVisits": 1300000,
+      "hasTraffic": true,
+      "id": "blog-shopline-hk-ai-tools",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "cn",
+      "features": [
+        "AI",
+        "cn"
+      ]
+    },
+    {
+      "name": "2025全球十大AI导航站横评：发现AI登顶，高效整合AI生态圈_中华网",
+      "domain": "hea.china.com/articles/20250418/202504181661929.html",
+      "url": "https://hea.china.com/articles/20250418/202504181661929.html",
+      "description": "紧随其后的是Toolify.ai,这一平台以庞大的工具库著称。目前,Toolify.ai已收录超过18000个AI工具,涵盖233个细分分类。其智能搜索引擎不仅能精准匹配用户需求,还能根据使用习惯提供个性化推荐。每款工具均附有用户评分和详细评测,帮助新手避免“踩雷”。Toolify.ai的自动化更新系统确保新工具和热门工具能够第一时间被收录,极大提升了平台的",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "ibest-com-tw-news-detail-2025-",
+      "id": "hea-china-com-articles-2025041",
       "tier": "T4",
       "trafficTrend": [],
       "type": "cn",
@@ -681,22 +633,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 39 个，占据主要流量",
+      "content": "T1 级别 37 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 8456.0M",
+      "content": "有流量网站月访问总量 4739.8M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 3 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 2 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 42,
-    "totalMonthlyVisits": 8456010000
+    "totalSites": 39,
+    "totalMonthlyVisits": 4739840000
   }
 }
