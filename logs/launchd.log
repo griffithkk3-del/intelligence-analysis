@@ -54544,4 +54544,25 @@ Already up to date.
  ✓ 3,000,000
   Deepseek...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 1,000,000
-  Ollama...
+  Ollama...[main 5e95d39] data: 每日全量更新 2026-09-05
+ 10 files changed, 2560 insertions(+), 2888 deletions(-)
+ delete mode 100644 logs/daily_update_20260803.log
+ delete mode 100644 logs/daily_update_20260804.log
+ create mode 100644 logs/daily_update_20260905.log
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   7fc0568..5e95d39  main -> main
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,100,000
+  获取到 54 个候选数据
+  ✅ 保存 54 个网站
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 5/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
