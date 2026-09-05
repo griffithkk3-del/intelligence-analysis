@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-09-04T09:07:17.442189+08:00",
+  "lastUpdated": "2026-09-05T09:07:40.522678+08:00",
   "config": {
     "category": "global",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Siteimprove Help Center",
-      "domain": "help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
-      "url": "https://help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
-      "description": "## Overview\n\nWith the rapid growth of AI-driven assistants and search tools (such as ChatGPT, Copilot, Perplexity, Claude, and Gemini), many organizations want to understand how th",
-      "monthlyVisits": 7997000000,
+      "name": "Most popular AI tools and their monthly visits",
+      "domain": "facebook.com/groups/254247334226146/posts/647150031602539",
+      "url": "https://www.facebook.com/groups/254247334226146/posts/647150031602539/",
+      "description": "",
+      "monthlyVisits": 952500000,
       "hasTraffic": true,
-      "id": "help-siteimprove-com-support-s",
+      "id": "facebook-com-groups-2542473342",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -22,13 +22,13 @@
       ]
     },
     {
-      "name": "Top AI Chatbots and Tools Websites Ranking",
-      "domain": "similarweb.com/top-websites/ai-chatbots-and-tools",
-      "url": "https://www.similarweb.com/top-websites/ai-chatbots-and-tools",
-      "description": "See full list\n\n\\ Some websites ranked in the list above may contain adult content, please use caution when visiting unknown sites.\n\n## Most Visited AI Chatbots and Tools Websites R",
+      "name": "Top Information Technology Websites in the World",
+      "domain": "semrush.com/trending-websites/global/information-technology",
+      "url": "https://www.semrush.com/trending-websites/global/information-technology",
+      "description": "",
       "monthlyVisits": 952500000,
       "hasTraffic": true,
-      "id": "similarweb-com-top-websites-ai",
+      "id": "semrush-com-trending-websites-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -54,13 +54,61 @@
       ]
     },
     {
-      "name": "How AI is changing the rules of web traffic",
-      "domain": "martech.org/how-ai-is-changing-the-rules-of-web-traffic",
-      "url": "https://martech.org/how-ai-is-changing-the-rules-of-web-traffic",
-      "description": "AI is changing how people search, find and engage with content online, which means it’s changing how traffic reaches your website. If you’ve noticed a dip in organic search traffic",
+      "name": "AI Tools List 2026: Complete Directory by Category",
+      "domain": "fast.io/resources/ai-tools-list-2026",
+      "url": "https://fast.io/resources/ai-tools-list-2026",
+      "description": "The AI tools landscape will keep growing. The 14,200 tools available today will be well past 20,000 by the end of the year. But the best approach hasn't changed: find the tool that",
+      "monthlyVisits": 770000000,
+      "hasTraffic": true,
+      "id": "fast-io-resources-ai-tools-lis",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "The Ultimate List of Best AI Tools",
+      "domain": "aixploria.com/en/ultimate-list-ai",
+      "url": "https://www.aixploria.com/en/ultimate-list-ai",
+      "description": "English\nFrançais\nAixploria X\nAixploria YouTube\nAixploria TikTok\nGreen World [...] update-24hThis AI list is updated daily\n\nupdate-24h\nA ranking of the best AI tools\n\n# Lists and ra",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "martech-org-how-ai-is-changing",
+      "id": "aixploria-com-en-ultimate-list",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Best of AI — Handpicked AI Tools Directory",
+      "domain": "bestofai.io",
+      "url": "https://bestofai.io",
+      "description": "## Video Generator 35 View all 35\n\nSora OpenAI's video generation model, now being wound down in 2026 Luma Dream Machine L\n\nLuma Dream Machine High-quality AI video generation from",
+      "monthlyVisits": 655000000,
+      "hasTraffic": true,
+      "id": "bestofai-io",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "How Much of Your Traffic Comes From AI? 2 Ways to Track It",
+      "domain": "contentsquare.com/blog/how-much-ai-traffic",
+      "url": "https://contentsquare.com/blog/how-much-ai-traffic",
+      "description": "Agent traffic is when LLM bots crawl your website for information—similar to how Google crawls websites to store in its index for search retrieval.\n\nAnalytics tools typically don’t",
+      "monthlyVisits": 655000000,
+      "hasTraffic": true,
+      "id": "contentsquare-com-blog-how-muc",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -86,26 +134,10 @@
       ]
     },
     {
-      "name": "AI Website Traffic Analysis Generator",
-      "domain": "taskade.com/generate/ai-data/website-traffic-analysis",
-      "url": "https://www.taskade.com/generate/ai-data/website-traffic-analysis",
-      "description": "",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "taskade-com-generate-ai-data-w",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
       "name": "The Top 50 Sites Getting Traffic from AI Chatbots",
       "domain": "similarweb.com/blog/marketing/seo/top-50-sites-getting-ai-chatbots-traffic",
       "url": "https://www.similarweb.com/blog/marketing/seo/top-50-sites-getting-ai-chatbots-traffic",
-      "description": "Here’s a snapshot of the top 10 AI traffic recipients:\n\n## The Top 3: YouTube, Facebook, and Wikipedia\n\nThe top of the list mirrors the top of the website traffic rankings, except ",
+      "description": "ChatGPT and other major AI platforms are sharing more of their traffic with other sites, incorporating search functionality that goes beyond providing summary answers and linking t",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
       "id": "similarweb-com-blog-marketing-",
@@ -118,7 +150,7 @@
       ]
     },
     {
-      "name": "Top AI Tools: Most Used Gen-AI in August 2025",
+      "name": "Top AI Tools by Web and App Usage (August 2025 Data)",
       "domain": "similarweb.com/blog/marketing/seo/most-used-ai",
       "url": "https://www.similarweb.com/blog/marketing/seo/most-used-ai",
       "description": "Aside from ChatGPT.com reaching 5.84B visits in August, it has also reached almost 100% growth compared to September 2024. In terms of traffic share, Similarweb data for August 202",
@@ -134,13 +166,13 @@
       ]
     },
     {
-      "name": "Similarweb integration for AI agents",
-      "domain": "relevanceai.com",
-      "url": "https://relevanceai.com/",
-      "description": "",
+      "name": "Most Popular AI Tools by Traffic",
+      "domain": "onelittleweb.com/digital-market-intelligence/ai-tools",
+      "url": "https://onelittleweb.com/digital-market-intelligence/ai-tools",
+      "description": "Sign In\n\nFree Strategy\n\n## Social Links\n\nFacebook     Linkedin     X-twitter     Instagram\n\n## Get Your Free Website Audit\n\nFind out what’s wrong with your site in 2 business days\n",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "relevanceai-com",
+      "id": "onelittleweb-com-digital-marke",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -150,7 +182,7 @@
       ]
     },
     {
-      "name": "Otterly.AI",
+      "name": "AI Search Monitoring Tool: Track ChatGPT, Perplexity & Googl",
       "domain": "otterly.ai",
       "url": "https://otterly.ai",
       "description": "How can I start?\n\nGetting started with OtterlyAI is simple. Sign up for an account on our website to explore the features. Once registered, you can begin monitoring your brand's pe",
@@ -182,45 +214,13 @@
       ]
     },
     {
-      "name": "www.producthunt.com/topics/artificial-intelligence",
-      "domain": "producthunt.com/topics/artificial-intelligence",
-      "url": "https://www.producthunt.com/topics/artificial-intelligence",
-      "description": "structured-source",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "producthunt-com-topics-artific",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "alternativeto.net/category/ai-machine-learning",
-      "domain": "alternativeto.net/category/ai-machine-learning",
-      "url": "https://alternativeto.net/category/ai-machine-learning",
-      "description": "structured-source",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "alternativeto-net-category-ai-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "G2",
-      "domain": "g2.com/categories/ai-writing-assistant",
-      "url": "https://g2.com/categories/ai-writing-assistant",
+      "name": "Top 10 AI Directories to Discover the Best AI Tools in 2026",
+      "domain": "ecomstation.ai/blogs/top-10-ai-directories-to-discover-the-best-ai-tools-in-2026",
+      "url": "https://www.ecomstation.ai/blogs/top-10-ai-directories-to-discover-the-best-ai-tools-in-2026",
       "description": "",
-      "monthlyVisits": 655000000,
+      "monthlyVisits": 339000000,
       "hasTraffic": true,
-      "id": "g2-com-categories-ai-writing-a",
+      "id": "ecomstation-ai-blogs-top-10-ai",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -230,13 +230,13 @@
       ]
     },
     {
-      "name": "Most Popular AI Tools by Traffic",
-      "domain": "onelittleweb.com/digital-market-intelligence/ai-tools",
-      "url": "https://onelittleweb.com/digital-market-intelligence/ai-tools",
-      "description": "Sign In\n\nFree Strategy\n\n## Social Links\n\nFacebook     Linkedin     X-twitter     Instagram\n\n## Get Your Free Website Audit\n\nFind out what’s wrong with your site in 2 business days\n",
-      "monthlyVisits": 311620000,
+      "name": "GitHub",
+      "domain": "github.com/best-of-ai/ai-directories",
+      "url": "https://github.com/best-of-ai/ai-directories",
+      "description": "Altern - Find almost anything related to AI\n AI Tools Submit - Submit your AI tools\n Awesome AI Tools - A curated list of Artificial Intelligence Top Tools\n AI Corner - AI Tools Di",
+      "monthlyVisits": 306000000,
       "hasTraffic": true,
-      "id": "onelittleweb-com-digital-marke",
+      "id": "github-com-best-of-ai-ai-direc",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -246,10 +246,10 @@
       ]
     },
     {
-      "name": "Top AI Chatbots and Tools Websites Ranking in United ...",
+      "name": "Top AI Chatbots and Tools Websites Ranking in United States",
       "domain": "similarweb.com/top-websites/united-states/ai-chatbots-and-tools",
       "url": "https://www.similarweb.com/top-websites/united-states/ai-chatbots-and-tools",
-      "description": "chatgpt.com ranked number 1 and is the most visited AI Chatbots and Tools website in United States in July 2026, followed by gemini.google.com as the runner up,",
+      "description": "See full list\n\n\\ Some websites ranked in the list above may contain adult content, please use caution when visiting unknown sites.\n\n## Top AI Chatbots and Tools Websites in United ",
       "monthlyVisits": 225200000,
       "hasTraffic": true,
       "id": "similarweb-com-top-websites-un",
@@ -265,7 +265,7 @@
       "name": "Placer.ai: Location Intelligence & Foot Traffic Data Softwar",
       "domain": "placer.ai",
       "url": "https://www.placer.ai",
-      "description": "Chipotle's School Spirit BOGO drove a 71.6% visit surge on Aug. 20th – its biggest daily spike of 2026. See the foot traffic data.\n\nRead more\n\nSeptember 2, 2026\n\n### The New Tenant",
+      "description": "Article\n\nGolf course visits rose YoY in May and June 2026, with Father’s Day visits 71.4% above average as adults 18-45 gained share.\n\nRead more\n\nSeptember 2, 2026\n\nGrow Your Busin",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
       "id": "placer-ai",
@@ -278,29 +278,13 @@
       ]
     },
     {
-      "name": "What Is an AI Directory? The AI Stack for you",
-      "domain": "aistack.stackari.com/what-is-an-ai-tool-directory",
-      "url": "https://aistack.stackari.com/what-is-an-ai-tool-directory/",
-      "description": "",
+      "name": "Best AI Search Monitoring Tools for Marketers in 2026",
+      "domain": "nightwatch.io/blog/best-ai-search-monitoring-tools",
+      "url": "https://nightwatch.io/blog/best-ai-search-monitoring-tools",
+      "description": "## Take Control of Your AI Search Visibility Today\n\nAI search has fundamentally changed how buyers find and evaluate products. ChatGPT, Perplexity, and Google AI Overviews are answ",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
-      "id": "aistack-stackari-com-what-is-a",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tool Directory",
-      "domain": "crozdesk.com/software/ai-tool-directory",
-      "url": "https://crozdesk.com/software/ai-tool-directory",
-      "description": "AI Tool Directory Review: 'ToolDirectory.ai: Handpicked AI tools & tech from top-tier companies. Navigate AI with confidence.'",
-      "monthlyVisits": 99130000,
-      "hasTraffic": true,
-      "id": "crozdesk-com-software-ai-tool-",
+      "id": "nightwatch-io-blog-best-ai-sea",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -313,7 +297,7 @@
       "name": "The Ultimate Guide to Finding the Best AI Tools Directory",
       "domain": "finextra.com/blogposting/26620/the-ultimate-guide-to-finding-the-best-ai-tools-directory",
       "url": "https://www.finextra.com/blogposting/26620/the-ultimate-guide-to-finding-the-best-ai-tools-directory",
-      "description": "",
+      "description": "#### External\n\nThis content is provided by an external author without editing by Finextra. It expresses the views and opinions of the author.\n\n## Share\n\n### Channels\n\n### Artificia",
       "monthlyVisits": 72000000,
       "hasTraffic": true,
       "id": "finextra-com-blogposting-26620",
@@ -342,13 +326,13 @@
       ]
     },
     {
-      "name": "AI Tools List: 50+ Top Picks",
-      "domain": "geeksforgeeks.org/websites-apps/ai-tools-directory",
-      "url": "https://www.geeksforgeeks.org/websites-apps/ai-tools-directory/",
-      "description": "",
-      "monthlyVisits": 50100000,
+      "name": "www.producthunt.com/topics/artificial-intelligence",
+      "domain": "producthunt.com/topics/artificial-intelligence",
+      "url": "https://www.producthunt.com/topics/artificial-intelligence",
+      "description": "structured-source",
+      "monthlyVisits": 46800000,
       "hasTraffic": true,
-      "id": "geeksforgeeks-org-websites-app",
+      "id": "producthunt-com-topics-artific",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -362,9 +346,57 @@
       "domain": "theaisland.com/blog/best-ai-tools-2026",
       "url": "https://theaisland.com/blog/best-ai-tools-2026",
       "description": "AIsland Logo\n\nBack to Home\n\n# Best AI Tools Directory 2026: Complete Guide to 100+ AI Platforms, Agents & LLM Models\n\nDiscover the best AI tools for every use case. Our comprehensi",
-      "monthlyVisits": 30000000,
+      "monthlyVisits": 37900000,
       "hasTraffic": true,
       "id": "theaisland-com-blog-best-ai-to",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Top AI Chatbots and Tools Websites Ranking",
+      "domain": "similarweb.com/top-websites/ai-chatbots-and-tools",
+      "url": "https://www.similarweb.com/top-websites/ai-chatbots-and-tools",
+      "description": "See full list\n\n\\ Some websites ranked in the list above may contain adult content, please use caution when visiting unknown sites.\n\n## Most Visited AI Chatbots and Tools Websites R",
+      "monthlyVisits": 37900000,
+      "hasTraffic": true,
+      "id": "similarweb-com-top-websites-ai",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "How To Track AI Website Traffic From ChatGPT, Perplexity, Et",
+      "domain": "nikopajkovic.com/blog/how-to-track-ai-website-traffic",
+      "url": "https://www.nikopajkovic.com/blog/how-to-track-ai-website-traffic",
+      "description": "Skip to Content \n\nNiko Pajkovic\n\nNiko Pajkovic\n\n# How to Track AI Website Traffic From ChatGPT, Perplexity, and Other AI Tools\n\nWritten By Niko Pajkovic\n\nI built a simple a Looker ",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "nikopajkovic-com-blog-how-to-t",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Tracking Traffic from AI Tools: Technical Considerations",
+      "domain": "help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
+      "url": "https://help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
+      "description": "## Overview\n\nWith the rapid growth of AI-driven assistants and search tools (such as ChatGPT, Copilot, Perplexity, Claude, and Gemini), many organizations want to understand how th",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "help-siteimprove-com-support-s",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -393,7 +425,7 @@
       "name": "Is there any good AI tools directory where I can search ...",
       "domain": "quora.com/Is-there-any-good-AI-tools-directory-where-I-can-search-tools-based-on-use-cases",
       "url": "https://www.quora.com/Is-there-any-good-AI-tools-directory-where-I-can-search-tools-based-on-use-cases",
-      "description": "Is there any good AI tools directory where I can search tools based on use cases?",
+      "description": "",
       "monthlyVisits": 30000000,
       "hasTraffic": true,
       "id": "quora-com-is-there-any-good-ai",
@@ -406,13 +438,13 @@
       ]
     },
     {
-      "name": "Top AI Tools Directories",
-      "domain": "apix-drive.com/en/blog/reviews/top-ai-tools-directories",
-      "url": "https://apix-drive.com/en/blog/reviews/top-ai-tools-directories",
-      "description": "User-Centric Interface: The platform is designed with user experience in mind, featuring a clean, easy-to-navigate interface. This makes it straightforward for users to find the to",
+      "name": "Unique visitors to AI websites 2026| Statista",
+      "domain": "statista.com/statistics/1458129/ai-tool-website-visits",
+      "url": "https://www.statista.com/statistics/1458129/ai-tool-website-visits",
+      "description": "In February 2026, ChatGPT was the artificial intelligence (AI) website that had the highest number of unique monthly visits worldwide, with a total of \\\\\\ million. It was followed ",
       "monthlyVisits": 30000000,
       "hasTraffic": true,
-      "id": "apix-drive-com-en-blog-reviews",
+      "id": "statista-com-statistics-145812",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -422,13 +454,45 @@
       ]
     },
     {
-      "name": "Best of AI — Handpicked AI Tools Directory",
-      "domain": "bestofai.io",
-      "url": "https://bestofai.io",
-      "description": "## Video Generator 35 View all 35\n\nSora OpenAI's video generation model, now being wound down in 2026 Luma Dream Machine L\n\nLuma Dream Machine High-quality AI video generation from",
+      "name": "AI Tools with the Most Search Traffic",
+      "domain": "aitrustlist.com/ai-tool-rankings/top-search-traffic",
+      "url": "https://aitrustlist.com/ai-tool-rankings/top-search-traffic",
+      "description": "",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "aitrustlist-com-ai-tool-rankin",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Best AI Tools Directories: 13 Checked, 9 Worth Using",
+      "domain": "junia.ai/blog/top-ai-tools-directories",
+      "url": "https://www.junia.ai/blog/top-ai-tools-directories",
+      "description": "",
+      "monthlyVisits": 30000000,
+      "hasTraffic": true,
+      "id": "junia-ai-blog-top-ai-tools-dir",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Tools Directory",
+      "domain": "aitoolsdirectory.com",
+      "url": "https://aitoolsdirectory.com",
+      "description": "Whether your goal is to automate workflows, enhance creative output, or boost productivity, it’s all here.\n\nSubscribe\n\n🔥 Get your AI product in the Featured Tools Premium Placement",
       "monthlyVisits": 29650000,
       "hasTraffic": true,
-      "id": "bestofai-io",
+      "id": "aitoolsdirectory-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -438,29 +502,13 @@
       ]
     },
     {
-      "name": "Top 30 Ai Tools Directory websites (2026 Updated List)",
-      "domain": "researchgate.net/publication/400735299_Top_30_Ai_Tools_Directory_websites_2026_Updated_List",
-      "url": "https://www.researchgate.net/publication/400735299_Top_30_Ai_Tools_Directory_websites_2026_Updated_List",
-      "description": "There's An AI For That is a task-based AI search engine that helps users find tools. according to specific needs.",
-      "monthlyVisits": 25000000,
+      "name": "How AI is changing the rules of web traffic",
+      "domain": "martech.org/how-ai-is-changing-the-rules-of-web-traffic",
+      "url": "https://martech.org/how-ai-is-changing-the-rules-of-web-traffic",
+      "description": "AI is changing how people search, find and engage with content online, which means it’s changing how traffic reaches your website. If you’ve noticed a dip in organic search traffic",
+      "monthlyVisits": 23900000,
       "hasTraffic": true,
-      "id": "researchgate-net-publication-4",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "How To Track AI Website Traffic From ChatGPT, Perplexity, Et",
-      "domain": "nikopajkovic.com/blog/how-to-track-ai-website-traffic",
-      "url": "https://www.nikopajkovic.com/blog/how-to-track-ai-website-traffic",
-      "description": "Skip to Content \n\nNiko Pajkovic\n\nNiko Pajkovic\n\n# How to Track AI Website Traffic From ChatGPT, Perplexity, and Other AI Tools\n\nWritten By Niko Pajkovic\n\nI built a simple a Looker ",
-      "monthlyVisits": 21810000,
-      "hasTraffic": true,
-      "id": "nikopajkovic-com-blog-how-to-t",
+      "id": "martech-org-how-ai-is-changing",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -486,13 +534,13 @@
       ]
     },
     {
-      "name": "7 Best AI Tool Directories in 2026 (Curated and Ranked)",
-      "domain": "ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
-      "url": "https://ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
-      "description": "# 7 Best AI Tool Directories in 2026 (Curated and Ranked)\n\nCommunity;) \n\n July 30, 2026\n\nComments   views\n\n7 Best AI Tool Directories in 2026 (Curated and Ranked)\n\nFinding the righ",
-      "monthlyVisits": 12000000,
+      "name": "Best Website Traffic Monitoring Tool for Businesses",
+      "domain": "trysight.ai/blog/website-traffic-monitoring-tool",
+      "url": "https://www.trysight.ai/blog/website-traffic-monitoring-tool",
+      "description": "",
+      "monthlyVisits": 18000000,
       "hasTraffic": true,
-      "id": "ourcodeworld-com-articles-read",
+      "id": "trysight-ai-blog-website-traff",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -534,45 +582,13 @@
       ]
     },
     {
-      "name": "AI Traffic Analytics for ChatGPT, Claude & Perplexity",
+      "name": "AI Website Traffic Analytics — Track ChatGPT, Claude & Perpl",
       "domain": "loamly.ai/ai-website-traffic-analytics",
       "url": "https://www.loamly.ai/ai-website-traffic-analytics",
       "description": "",
       "monthlyVisits": 11800000,
       "hasTraffic": true,
       "id": "loamly-ai-ai-website-traffic-a",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "domain": "github.com/best-of-ai/ai-directories",
-      "url": "https://github.com/best-of-ai/ai-directories",
-      "description": "Altern - Find almost anything related to AI\n AI Tools Submit - Submit your AI tools\n Awesome AI Tools - A curated list of Artificial Intelligence Top Tools\n AI Corner - AI Tools Di",
-      "monthlyVisits": 11600000,
-      "hasTraffic": true,
-      "id": "github-com-best-of-ai-ai-direc",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best AI Search Monitoring Tools for Marketers in 2026",
-      "domain": "nightwatch.io/blog/best-ai-search-monitoring-tools",
-      "url": "https://nightwatch.io/blog/best-ai-search-monitoring-tools",
-      "description": "## Take Control of Your AI Search Visibility Today\n\nAI search has fundamentally changed how buyers find and evaluate products. ChatGPT, Perplexity, and Google AI Overviews are answ",
-      "monthlyVisits": 10300000,
-      "hasTraffic": true,
-      "id": "nightwatch-io-blog-best-ai-sea",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -614,6 +630,38 @@
       ]
     },
     {
+      "name": "AI Launch List: 100+ AI directories to showcase your ...",
+      "domain": "producthunt.com/products/ai-launch-list",
+      "url": "https://www.producthunt.com/products/ai-launch-list",
+      "description": "",
+      "monthlyVisits": 5130000,
+      "hasTraffic": true,
+      "id": "producthunt-com-products-ai-la",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Top Websites Ranking",
+      "domain": "similarweb.com/top-websites",
+      "url": "https://www.similarweb.com/top-websites/",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "hasTraffic": true,
+      "id": "similarweb-com-top-websites",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
       "name": "List of Top AI Tools by their Monthly Visit",
       "domain": "facebook.com/groups/1616723905597570/posts/1919306325339325",
       "url": "https://www.facebook.com/groups/1616723905597570/posts/1919306325339325",
@@ -630,13 +678,13 @@
       ]
     },
     {
-      "name": "Most popular AI tools and their monthly visits",
-      "domain": "facebook.com/groups/254247334226146/posts/647150031602539",
-      "url": "https://www.facebook.com/groups/254247334226146/posts/647150031602539/",
-      "description": "",
-      "monthlyVisits": 5000000,
+      "name": "AI Tools Directory",
+      "domain": "b12.io/ai-directory",
+      "url": "https://www.b12.io/ai-directory",
+      "description": "Limited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try ",
+      "monthlyVisits": 4400000,
       "hasTraffic": true,
-      "id": "facebook-com-groups-2542473342",
+      "id": "b12-io-ai-directory",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -646,13 +694,29 @@
       ]
     },
     {
-      "name": "AI Tools Directory & List of Best Free AI by Category (Top 1",
-      "domain": "aixploria.com/en",
-      "url": "https://www.aixploria.com/en",
-      "description": "A community spirit\n\nAIxploria is an online platform dedicated to artificial intelligence that encourages community participation. To this end, we believe that AI discovery is a col",
+      "name": "alternativeto.net/category/ai-machine-learning",
+      "domain": "alternativeto.net/category/ai-machine-learning",
+      "url": "https://alternativeto.net/category/ai-machine-learning",
+      "description": "structured-source",
       "monthlyVisits": 4400000,
       "hasTraffic": true,
-      "id": "aixploria-com-en",
+      "id": "alternativeto-net-category-ai-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "G2",
+      "domain": "g2.com/categories/ai-writing-assistant",
+      "url": "https://g2.com/categories/ai-writing-assistant",
+      "description": "",
+      "monthlyVisits": 4400000,
+      "hasTraffic": true,
+      "id": "g2-com-categories-ai-writing-a",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -694,61 +758,29 @@
       ]
     },
     {
-      "name": "Top AI tools Directory",
-      "domain": "kaggle.com/general/406240",
-      "url": "https://www.kaggle.com/general/406240",
-      "description": "Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "kaggle-com-general-406240",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory",
-      "domain": "b12.io/ai-directory",
-      "url": "https://www.b12.io/ai-directory",
-      "description": "Limited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try B12 $1/mo for 3 months.Sign up now\n\nLimited time: Try ",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "b12-io-ai-directory",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory",
-      "domain": "aidirectorybase.com",
-      "url": "https://aidirectorybase.com/",
-      "description": "",
-      "monthlyVisits": 3620000,
-      "hasTraffic": true,
-      "id": "aidirectorybase-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "I built a tool to rank AI Tools by web traffic. See what AI ",
-      "domain": "reddit.com/r/SideProject/comments/14lnu4o/i_built_a_tool_to_rank_ai_tools_by_web_traffic",
-      "url": "https://www.reddit.com/r/SideProject/comments/14lnu4o/i_built_a_tool_to_rank_ai_tools_by_web_traffic",
-      "description": "So I compiled a list of 1,900+ AI tools that I have seen shared on twitter, LinkedIn and other websites. Then calculated their web traffic",
+      "name": "7 Best AI Tool Directories in 2026 (Curated and Ranked)",
+      "domain": "ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
+      "url": "https://ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
+      "description": "## The 7 Best AI Tool Directories\n\n### 1. AI Parabellum: Best AI Tool Directory for Curated Discovery\n\nAI Parabellum is the best AI tool directory in 2026 because it combines human",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "reddit-com-r-sideproject-comme",
+      "id": "ourcodeworld-com-articles-read",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "I Used These 10 AI Tools and My Website Traffic Exploded ...",
+      "domain": "youtube.com/watch",
+      "url": "https://www.youtube.com/watch?v=p4qso99Nx1A",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "youtube-com-watch",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -774,7 +806,23 @@
       ]
     },
     {
-      "name": "Website Traffic Checker: Check Any Site’s Traffic for Free",
+      "name": "AI Studio: AI-Powered Research & Insights",
+      "domain": "similarweb.com/corp/ai/ai-studio",
+      "url": "https://www.similarweb.com/corp/ai/ai-studio",
+      "description": "Generate expert-level reports with executive summaries, key findings, and actionable recommendations, all in minutes.\n\nAI Dashboards\n\n### Visualize your insights.\n\nDescribe what yo",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "similarweb-com-corp-ai-ai-stud",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "Website Traffic Checker: Check Any Site's Traffic for Free",
       "domain": "semrush.com/website",
       "url": "https://www.semrush.com/website",
       "description": "All of this information is processed by Semrush’s machine learning systems, which identify patterns in visits, engagement, and audience growth for almost any website.\n\nThe result i",
@@ -790,13 +838,13 @@
       ]
     },
     {
-      "name": "AI Tools",
-      "domain": "futurepedia.io/ai-tools",
-      "url": "https://www.futurepedia.io/ai-tools",
-      "description": "Show all Misc AI Tools\n\nAI Code Tools\n\n## AI Code Tools\n\n code assistant (100)\n low-code/no-code (138)\n SQL (16)\n\nShow all AI Code Tools [...] prompt generators (23)\n writing gener",
+      "name": "AI Tools Directory & List of Best Free AI by Category",
+      "domain": "aibase.com/www.aibase.com/tools",
+      "url": "https://www.aibase.com/www.aibase.com/tools",
+      "description": "## AI Prompts\n\n## AI design\n\n## AI Digital Human\n\n## AI Plugin\n\n## Legal Assistant\n\nHot Products\n\nLegal Assistant [...] ### CareerSwift\n\nCareerSwift is your AI-powered job search a",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
-      "id": "futurepedia-io-ai-tools",
+      "id": "aibase-com-www-aibase-com-tool",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -806,29 +854,29 @@
       ]
     },
     {
-      "name": "github.com/topics/ai-tools",
-      "domain": "github.com/topics/ai-tools",
-      "url": "https://github.com/topics/ai-tools",
-      "description": "structured-source",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "github-com-topics-ai-tools",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "www.futurepedia.io",
+      "name": "Find The Best AI Tools & Software, Futurepedia.io",
       "domain": "futurepedia.io",
       "url": "https://www.futurepedia.io",
-      "description": "structured-source",
+      "description": "We operate the world’s first AI tool directory, featuring 4,000+ curated tools and 500,000 plus accounts, alongside a rapidly growing AI education platform with 29 courses and over",
       "monthlyVisits": 3000000,
       "hasTraffic": true,
       "id": "futurepedia-io",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Tools",
+      "domain": "futurepedia.io/ai-tools",
+      "url": "https://www.futurepedia.io/ai-tools",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "futurepedia-io-ai-tools",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -870,13 +918,13 @@
       ]
     },
     {
-      "name": "AI Tools Directory",
-      "domain": "aitoolsdirectory.com",
-      "url": "https://aitoolsdirectory.com",
-      "description": "Whether your goal is to automate workflows, enhance creative output, or boost productivity, it’s all here.\n\nSubscribe\n\n🔥 Get your AI product in the Featured Tools Premium Placement",
-      "monthlyVisits": 1230000,
+      "name": "github.com/topics/ai-tools",
+      "domain": "github.com/topics/ai-tools",
+      "url": "https://github.com/topics/ai-tools",
+      "description": "structured-source",
+      "monthlyVisits": 1780000,
       "hasTraffic": true,
-      "id": "aitoolsdirectory-com",
+      "id": "github-com-topics-ai-tools",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -886,13 +934,45 @@
       ]
     },
     {
-      "name": "How Much of Your Traffic Comes From AI? 2 Ways to Track It",
-      "domain": "contentsquare.com/blog/how-much-ai-traffic",
-      "url": "https://contentsquare.com/blog/how-much-ai-traffic",
-      "description": "Agent traffic is when LLM bots crawl your website for information—similar to how Google crawls websites to store in its index for search retrieval.\n\nAnalytics tools typically don’t",
+      "name": "Top AI tools Directory",
+      "domain": "kaggle.com/general/406240",
+      "url": "https://www.kaggle.com/general/406240",
+      "description": "Independent AI tools directory with 236 reviewed and ranked AI products, 1,638 side-by-side comparisons, and a free AI-powered tool advisor.",
+      "monthlyVisits": 1230000,
+      "hasTraffic": true,
+      "id": "kaggle-com-general-406240",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Tools Directory & List of Best Free AI by Category (Top 1",
+      "domain": "aixploria.com/en",
+      "url": "https://www.aixploria.com/en",
+      "description": "A community spirit\n\nAIxploria is an online platform dedicated to artificial intelligence that encourages community participation. To this end, we believe that AI discovery is a col",
+      "monthlyVisits": 1070000,
+      "hasTraffic": true,
+      "id": "aixploria-com-en",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "AI Traffic Checker",
+      "domain": "sitechecker.pro/ai-traffic-checker",
+      "url": "https://sitechecker.pro/ai-traffic-checker/",
+      "description": "",
       "monthlyVisits": 1000000,
       "hasTraffic": true,
-      "id": "contentsquare-com-blog-how-muc",
+      "id": "sitechecker-pro-ai-traffic-che",
       "tier": "T1",
       "trafficTrend": [],
       "type": "global",
@@ -918,14 +998,14 @@
       ]
     },
     {
-      "name": "Unique visitors to AI websites 2026| Statista",
-      "domain": "statista.com/statistics/1458129/ai-tool-website-visits",
-      "url": "https://www.statista.com/statistics/1458129/ai-tool-website-visits",
-      "description": "In February 2026, ChatGPT was the artificial intelligence (AI) website that had the highest number of unique monthly visits worldwide, with a total of \\\\\\ million. It was followed ",
-      "monthlyVisits": 3000,
+      "name": "AI Referral Traffic Winners By Industry",
+      "domain": "similarweb.com/blog/insights/ai-news/ai-referral-traffic-winners",
+      "url": "https://www.similarweb.com/blog/insights/ai-news/ai-referral-traffic-winners/",
+      "description": "",
+      "monthlyVisits": 295100,
       "hasTraffic": true,
-      "id": "statista-com-statistics-145812",
-      "tier": "T3",
+      "id": "similarweb-com-blog-insights-a",
+      "tier": "T2",
       "trafficTrend": [],
       "type": "global",
       "features": [
@@ -934,14 +1014,14 @@
       ]
     },
     {
-      "name": "AI Tools List 2026: Complete Directory by Category",
-      "domain": "fast.io/resources/ai-tools-list-2026",
-      "url": "https://fast.io/resources/ai-tools-list-2026",
-      "description": "Best for: Development teams running AI agents that need persistent file storage with semantic search, or creative teams managing large asset libraries.\n\n## How to Pick the Right AI",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "fast-io-resources-ai-tools-lis",
-      "tier": "T4",
+      "name": "I built a tool to rank AI Tools by web traffic. See what AI ",
+      "domain": "reddit.com/r/SideProject/comments/14lnu4o/i_built_a_tool_to_rank_ai_tools_by_web_traffic",
+      "url": "https://www.reddit.com/r/SideProject/comments/14lnu4o/i_built_a_tool_to_rank_ai_tools_by_web_traffic",
+      "description": "So I compiled a list of 1,900+ AI tools that I have seen shared on twitter, LinkedIn and other websites. Then calculated their web traffic",
+      "monthlyVisits": 3000,
+      "hasTraffic": true,
+      "id": "reddit-com-r-sideproject-comme",
+      "tier": "T3",
       "trafficTrend": [],
       "type": "global",
       "features": [
@@ -953,22 +1033,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 57 个，占据主要流量",
+      "content": "T1 级别 62 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 18327.2M",
+      "content": "有流量网站月访问总量 11112.8M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 1 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 0 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 59,
-    "totalMonthlyVisits": 18327163000
+    "totalSites": 64,
+    "totalMonthlyVisits": 11112818100
   }
 }

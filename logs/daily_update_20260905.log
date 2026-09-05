@@ -1,6 +1,6 @@
 ========================================
 AI 情报中心 - 每日自动更新
-时间: 2026-09-04 09:00:04
+时间: 2026-09-05 09:00:04
 目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
 ========================================
 
@@ -15,7 +15,7 @@ Already up to date.
 🔄 开始更新数据（daily_update.py）...
 ============================================================
 🔄 AI 情报中心 - 每日全量更新
-   时间: 2026-09-04 09:00
+   时间: 2026-09-05 09:00
    模式: 删除旧数据，重新获取真实数据
 ============================================================
 
@@ -34,58 +34,57 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: artificial intelligence tools directory ...
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 59 个网站
+  发现 64 个网站
 
 📊 获取 global 流量数据...
   Latest AI Tools 2026...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 789,860,000
-  7 Best AI Tool Direc...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
   Best AI Tools Direct...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+ ✓ 37,900,000
+  7 Best AI Tool Direc...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   AI Tools List 2026: ...  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
+ ✓ 770,000,000
   Best AI Tools Direct...  Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 10,000,000
-  Best of AI — Handpic...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 29,650,000
-  AI Tools Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,230,000
-  Top 30 Ai Tools Dire...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 25,000,000
-  How To Track AI Webs...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 21,810,000
-  How AI is changing t...  Serper 搜索失败: HTTP Error 400: Bad Request
+  The Ultimate List of...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
+  Best of AI — Handpic...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Tools Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 29,650,000
+  How To Track AI Webs...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  How AI is changing t...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 23,900,000
   How Much of Your Tra...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000,000
+ ✓ 655,000,000
+  Tracking Traffic fro...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
   I built a tool to ra...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
+ ✓ 3,000
   AI Traffic Tracker...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  Siteimprove Help Cen...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 7,997,000,000
   Placer.ai: Location ...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 100,000,000
+  I Used These 10 AI T...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  As AI Eats Web Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
   What are some of the...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 30,000,000
   AI Website Traffic A...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  As AI Eats Web Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  AI Traffic Analytics...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 11,800,000
-  Is there any good AI...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+  AI Traffic Checker...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
   Similarweb...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
   The Top 50 Sites Get...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
   Top AI Chatbots and ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 952,500,000
-  Top AI Tools: Most U...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 37,900,000
+  Top AI Tools by Web ...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
   Similarweb...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,620,000
@@ -93,60 +92,72 @@ Already up to date.
  ✓ 3,000,000
   Top AI Chatbots and ...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 225,200,000
-  Similarweb integrati...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+  AI Studio: AI-Powere...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Top Websites Ranking...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,000,000
+  AI Referral Traffic ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 295,100
+  Is there any good AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
   Website Traffic Chec...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   Free Website Traffic...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,620,000
   Unique visitors to A...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000
+ ✓ 30,000,000
   Most Popular AI Tool...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 311,620,000
+ ✓ 655,000,000
   Top 15 AI tools by m...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 57,000,000
   List of Top AI Tools...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 5,000,000
   Best AI Search Monit...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,300,000
-  Otterly.AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  AI Search Monitoring...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
   Most popular AI tool...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 5,000,000
-  AI Tools Directory &...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,400,000
-  GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,600,000
-  Top AI Tools Directo...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  Top Information Tech...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  AI Tools with the Mo...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 30,000,000
-  AITopTools...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  Top AI tools Directo...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  AI Tool Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 99,130,000
-  AI Tools Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  AI Tools...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  AI Tools List: 50+ T...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 50,100,000
+  Best Website Traffic...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 18,000,000
   The Ultimate Guide t...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 72,000,000
-  AI Tools Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  What Is an AI Direct...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
-  github.com/topics/ai...  Serper 搜索失败: HTTP Error 400: Bad Request
+  AI Tools Directory &...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,070,000
+  GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 306,000,000
+  AITopTools...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Tools Directory &...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  Top AI tools Directo...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,230,000
+  AI Tools Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
+  Find The Best AI Too...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AI Launch List: 100+...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,130,000
+  AI Tools...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Best AI Tools Direct...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  Top 10 AI Directorie...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 339,000,000
+  github.com/topics/ai...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,780,000
   www.producthunt.com/...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+ ✓ 46,800,000
   alternativeto.net/ca...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+ ✓ 4,400,000
   www.futuretools.io...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 21,810,000
-  www.futurepedia.io...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   Theresanaiforthat...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 10,050,000
   Toolify...  Serper 搜索失败: HTTP Error 400: Bad Request
@@ -156,9 +167,9 @@ Already up to date.
   Topai...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   G2...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  获取到 59 个候选数据
-  ✅ 保存 59 个网站
+ ✓ 4,400,000
+  获取到 64 个候选数据
+  ✅ 保存 64 个网站
 
 ==================================================
 📁 更新: cn
@@ -176,82 +187,81 @@ Already up to date.
   发现 39 个网站
 
 📊 获取 cn 流量数据...
+  优设AI工具导航...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
   AI工具集官网| 1000+ AI工具集...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  热门AI工具每周更新...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,800,000
-  AIGC工具导航...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 200,000,000
+  AIGC工具导航| 生成式AI工具导航,...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   国内外AI工具导航合集...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,300,000
+ ✓ 46,800,000
+  超全人工智能 AI工具导航网站合集-腾讯...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,620,000
   国内值得推荐的AI导航站：三类宝藏工具指...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  超全人工智能AI工具导航网站合集...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  AI导航...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 13,000,000
-  2024年最火「AI 工具导航网站」评测...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
   国内有哪些AI工具导航网站？2025年最...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 952,500,000
-  全网最全的「人工智能·AI工具导航网站」...  Serper 搜索失败: HTTP Error 400: Bad Request
+  AI导航...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  2024年最火「AI 工具导航网站」评测...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,620,000
+  xx025/carrot: AI 工具导...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 13,000,000
   重磅：AI行业分析：50款访问量最大的A...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,620,000
-  月度访问量最高的AI工具排行...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 22,100,000
   翻译：AI 行业分析：50 个访问量最大...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  生成AI工具最新網路流量排行(2025/...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 62,000,000
   全球-主要AI工具访问量...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  大盘点！50款最受欢迎的AI应用，你用过...  Serper 搜索失败: HTTP Error 400: Bad Request
+  生成AI工具最新網路流量排行(2025/...  Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,460,000
+ ✓ 20,000,000
+  【AI工具排行榜】ChatGPT仍居全球...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
   全球生成式 AI 工具流量排行榜分析（2...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 30,000,000
   全球成長最快 AI 工具排名揭曉！中國服...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 14,000,000
+ ✓ 952,500,000
   全球-主要AI工具访问量(各工具加总)...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  AIGCRank：2024年6月国内AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  全球-主要AI工具訪問量...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  大盘点！50款最受欢迎的AI应用，你用过...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  AIGCRank：2024年6月国内AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,195,000,000
   目前最强10个AI导航网站，发现AI导航...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+ ✓ 12,000,000
   AI 网站全球流量前 50 排行榜，你都...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   13个优秀的AI人工智能工具软件导航网站...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 7,000,000
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,089,999
   2025全球十大AI导航站横评：发现AI...  Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   全球流量Top50的“AI网站”出炉：C...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 40,500,000
-  iAmCorey/awesome-ai-...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 191,780,000
-  推荐一个访问量排名第一的AI导航网站，你...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 22,100,000
-  AI工具箱...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+ ✓ 3,000,000
   GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 191,780,000
-  AIHub...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  AI Tools Guide...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 99,130,000
-  【AI 工具2026】13 個AI 工具...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,300,000
-  免費AI 工具推薦，全球前100 強AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+  推荐一个访问量排名第一的AI导航网站，你...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,620,000
+  whataicc/aitools: AI...  Serper 搜索失败: HTTP Error 400: Bad Request
   Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 127,650,000
-  【AI 工具大全】AI 工具有哪些？20...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,700,000
+  AI工具箱...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
+  全网最全的「人工智能·AI工具导航网站」...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AI工具导航...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,620,000
+  【AI懶人包】看這篇就夠！2026推薦A...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  www.aihub.cn...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
   toolify.ai/zh...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   Ai...  Serper 搜索失败: HTTP Error 400: Bad Request
@@ -259,9 +269,9 @@ Already up to date.
   Nav...  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Ai-Nav...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+ ✓ 46,800,000
   Aicpb...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,800,000
+ ✓ 200,000,000
   获取到 39 个候选数据
   ✅ 保存 39 个网站
 
@@ -278,109 +288,107 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: cursor rules directory...
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 48 个网站
+  发现 46 个网站
 
 📊 获取 skills 流量数据...
   Unlock AI Agent comm...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,000,000
+ ✓ 9,000,000
   Best MCP Servers in ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 775,000,000
+ ✓ 3,000,000
   AI Agent Marketplace...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 16,000,000
   Best MCP Servers in ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 272,620,000
-  Everything your team...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 97,000,000
+ ✓ 5,000,000
   Best MCP Servers for...  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   MCP Market...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 2,026,000,000
   MCP.so...  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  MCP Server Marketpla...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  How to Build and Sel...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
   Build & Monetize MCP...  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Awesome Claude Skill...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,000,000
-  When Your AI Coding ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 900,000,000
+  How to Build and Sel...  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  MCP Marketplace — Ju...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  Everything your team...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 97,000,000
+  GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 14,000,000
   Claude Skills & Agen...  Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Sell Your AI Agent S...  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Anthropic Claude Ski...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,930,000
   Real Claude Skills f...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 614,000,000
-  10 Best Claude Skill...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 20,265,000,000
-  AI Analytics Skills ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 21,810,000
-  Update on the SKILL....  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  | Claude Code Market...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 8,000
-  Claude Code Skills: ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 22,340,000
-  Claude Code Has a Sk...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,000,000
+ ✓ 78,000,000
+  Browse Claude Skills...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  Claude Code Skills v...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  I've collected 2300+...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,000,000
   Agent Skills...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 4,000,000
-  This Claude SEO Coun...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,350,000
+  Claude Skills...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 7,000,000
+  Marketplace Skills a...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
   Expert AI Skills for...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  Claude Code Has a Sk...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
   AI Agent Skills Dire...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 100,000,000
-  Browse AI Agent Skil...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
+  AI Agent Skills — Th...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 770,000,000
   Skills Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  Use Agent Skills in ...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
   Directory of Claude ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 60,500,000
-  GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Confused About Where...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,300,000
+  Medium...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 10,300,000
-  Show HN: Cursor AI R...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 7,000,000
+  dmgrok/agent-plugins...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
   Global .cursor/rules...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,620,000
   Best cursor.director...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 500,000,000
   PatrickJS/awesome-cu...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 8,000
+ ✓ 3,620,000
+  Mastering Cursor Rul...  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
   Rules...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 30,000,000
-  cursor.directory has...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 6,000,000
   Medium...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 6,000,000
   Cursor Directory...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 20,300,000
+ ✓ 3,620,000
   Free AI .cursorrules...  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  github.com/topics/mo...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
+  Cursor Rules Folder...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  cursor.directory has...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  github.com/topics/mo...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 50,000,000
   github.com/topics/mc...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+ ✓ 3,000,000
   smithery.ai...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   glama.ai/mcp...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+ ✓ 100,000,000
   clawhub.ai...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   Composio...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   E2B...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  获取到 48 个候选数据
-  ✅ 保存 48 个网站
+  获取到 46 个候选数据
+  ✅ 保存 46 个网站
 
 ==================================================
 📁 更新: news
@@ -395,100 +403,97 @@ Already up to date.
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: machine learning news website...
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 52 个网站
+  发现 51 个网站
 
 📊 获取 news 流量数据...
-  The 2026 State of AI...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
+  Traffic to 10 bigges...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 26,000,000
   Most Popular Website...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  Website Traffic Plum...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,350,000
+ ✓ 29,520,000
   AI Answers Are the #...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  SEO in 2026: AI Over...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 20,261,800,000
-  26 AI SEO Statistics...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
+  Is AI Ending the Ope...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 35,300,000
   Clicking Into Nowher...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 73,900,000
-  Website traffic decl...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  The Hidden Reason U....  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,000,000
-  The End of Web Surfi...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,300,000
-  How Google's AI Over...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 133,000,000
-  Website Traffic Stat...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 23,900,000
-  2026 AI Search Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 10,300,000
-  The 5 Best AI Newsle...  Serper 搜索失败: HTTP Error 400: Bad Request
+  26 AI SEO Statistics...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,000,000
+  The 2026 State of AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  How AI search has im...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 20,000
+  Website Traffic Plum...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  The Best AI Newslett...  Serper 搜索失败: HTTP Error 400: Bad Request
+  The Hidden Reason U....  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  Website Traffic Stat...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
   Top 10 AI newsletter...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
+ ✓ 3,000,000
+  The Best AI Newslett...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
+  The 5 Best AI Newsle...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,800,000
   Best AI Tools for Ne...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 15,000,000
   6 AI Newsletters Tha...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  Compiled a list of 2...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000
+ ✓ 5,000,000
   Superhuman AI: Home...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  Best AI Newsletters ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,500,000
+ ✓ 46,800,000
+  What are your favori...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
+  What are the best AI...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,780,000
   Top AI Newslettters ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  The best AI newslett...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+ ✓ 20,000,000
+  Top Information Tech...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  ChatGPT leads the gl...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 152,700,000
   Google's AI Overview...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
-  Unique visitors to A...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000
-  ChatGPT leads the gl...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,026,000,000
-  AI Search Statistics...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  The Information...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Most Visited Informa...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 952,500,000
-  Google’s New AI Tool...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 112,000,000
   Decline in mainstrea...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 59,000,000
-  RealtyNXTExclusive...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 967,910,000
+  The Information...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,620,000
+  Number of unique mon...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  AI Search Statistics...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 900,000,000
   Products...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 770,000,000
-  45+ NEW Artificial I...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  r/machinelearningnew...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  10 Great Machine Lea...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
-  Machine learning...  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  News on Artificial I...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 46,800,000
-  Machine learning...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 396,800,000
-  The Batch...  Serper 搜索失败: HTTP Error 400: Bad Request
+  News Sites Are Getti...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 64,000,000
+  Most Popular AI Tool...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 575,000,000
+  NewsNow: Machine Lea...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  AI & Machine Learnin...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 700,000,000
-  AI News...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 126,000,000
-  Apple Machine Learni...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
   Machine Learning & A...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 46,800,000
+  Machine learning...  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Machine learning...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Machine Learning New...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  The Batch...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI News: Artificial ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI News & Artificial...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Machine Learning...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  Machine learning New...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 530,000,000
+  News on Artificial I...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,800,000
+  Apple Machine Learni...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  AI News...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 126,000,000
+  10 Great Machine Lea...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 770,700,000
   news.ycombinator.com...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   huggingface.co/paper...  Serper 搜索失败: HTTP Error 400: Bad Request
@@ -497,16 +502,14 @@ Already up to date.
  ✓ 3,000,000
   www.bensbites.com...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,620,000
-  www.techcrunch.com/c...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
   Theverge...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,400,000
+ ✓ 655,000,000
   Jiqizhixin...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,400,000
-  Arxiv...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  获取到 52 个候选数据
-  ✅ 保存 52 个网站
+  Arxiv...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,800,000
+  获取到 51 个候选数据
+  ✅ 保存 51 个网站
 
 ==================================================
 📁 更新: models
@@ -524,8 +527,8 @@ Already up to date.
   发现 54 个网站
 
 📊 获取 models 流量数据...
-  Gen AI Website Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 12,000,000
+  AI Traffic Grew 6.5x...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,000,000
   The State of AI Traf...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
   2026 AI Search Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
@@ -534,129 +537,104 @@ Already up to date.
  ✓ 655,000,000
   The 2026 State of AI...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
-  Top 100 AI Tools by ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 311,620,000
+  AI Crawler & Bot Tra...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,000,000
   The 2026 State of AI...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 12,000,000
+  Top 100 AI Tools by ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 311,620,000
   AI agents now make u...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 21,900,000
+  Which AI tools are g...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 870,400,000
+  AI Search Stats 2026...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
+  Top 7 Industrial AI ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,000,000
   Best Flat-Rate LLM A...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 120,000,000
+  LLM APIs: Price Comp...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
   7 best unified LLM A...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 27,000,000
-  mnfst/awesome-free-l...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,000
   Free LLM API in 2026...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 1,000
   Best LLM API Provide...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 1,000,000
-  Stop Overpaying for ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 15,350,000
-  Cheaper LLM API prov...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 655,000,000
-  LLM APIs: Tips for B...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 530,000,000
   12 APIs Compared by ...  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Medium...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Top 11 LLM API Provi...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 300,000,000
-  The 10 Best LLM API ...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  LLM Gateway For All ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 4,400,000
+  Hidden Costs Behind ...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  A Broke B**ch's Guid...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 16,200,000
+  Top 11 LLM API Provi...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 23,900,000
   HuggingFace Statisti...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 35,790,000
-  GitHub...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,620,000
-  transformer.huggingf...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 21,810,000
-  huggingface.co Websi...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
+ ✓ 25,000,000
   huggingface.co Traff...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  Hugging Face Pricing...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 25,000,000
-  huggingface.co Websi...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Why is the monthly d...  Serper 搜索失败: HTTP Error 400: Bad Request
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 69,200,000
-  fmops/ai-traffic-flo...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Depositphotos/traffi...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  Pricing and Billing...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,000,000
   Every Hugging Face S...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 28,810,000
-  AhaseesAI/traffic-pr...  Serper 搜索失败: HTTP Error 400: Bad Request
+  huggingface.co Websi...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,290,000
+  Pricing and Billing...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  huggingface.co Websi...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  Download Analytics...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Download Analytics ·...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
   Pricing...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  How OpenAI Competito...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 30,000,000
+  AhaseesAI/traffic-pr...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Inference Providers...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Free monthly limit r...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  API inference limit ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  At a Glance: ChatGPT...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 900,000,000
   Anthropic, OpenAI Cr...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 140,000,000
-  Anthropic vs OpenAI ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 614,000,000
-  Home \ Anthropic...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  OpenAI's Web traffic...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 2,027,000,000
-  Investigating three ...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 952,000,000
-  OpenAI...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 3,000,000
-  How is Anthropic get...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 952,600,000
-  ChatGPT Surpasses Cl...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 320,000,000
-  Impressions from vis...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 100,000,000
   AI Search Traffic: L...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 655,000,000
-  Google and OpenAI ar...  Serper 搜索失败: HTTP Error 400: Bad Request
+  AI Website Traffic A...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,800,000
+  openai.com Website T...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 54,010,000
+  OpenAI's Web traffic...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  The New Analytics Bl...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Investigating three ...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 952,000,000
+  How to see your webs...  Serper 搜索失败: HTTP Error 400: Bad Request
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 15,350,000
+  ChatGPT Surpasses Cl...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 780,000,000
+  Anthropic Unleashes ...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  OpenAI is gaining on...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,600,000
+  How to identify traf...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
   huggingface.co...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
-  www.together.ai...  Serper 搜索失败: HTTP Error 400: Bad Request
+  openai.com...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 3,000,000
+  www.anthropic.com...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  www.together.ai...  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
   groq.com...  Serper 搜索失败: HTTP Error 400: Bad Request
  ✓ 530,000,000
   replicate.com...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 1,230,000
+ ✓ 3,000,000
   Deepseek...  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 614,000,000
-  Ollama...[main d17be5d] data: 每日全量更新 2026-09-04
- 8 files changed, 2296 insertions(+), 1738 deletions(-)
- rename logs/{daily_update_20260802.log => daily_update_20260904.log} (61%)
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   f6bde93..d17be5d  main -> main
-  Serper 搜索失败: HTTP Error 400: Bad Request
- ✓ 11,100,000
-  获取到 54 个候选数据
-  ✅ 保存 54 个网站
-
-🚀 已推送到 GitHub
-
-============================================================
-✅ 更新完成: 5/5 个站点
-============================================================
-
-✅ 验证数据（validate_data.py）...
-✅ 所有数据校验通过！
-
-🚀 推送到 GitHub...
-[main 7fc0568] data: 每日自动更新 2026-09-04
- 2 files changed, 40 insertions(+), 2 deletions(-)
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   d17be5d..7fc0568  main -> main
-✅ 推送成功
-
-========================================
-✅ 每日更新完成
-========================================
+ ✓ 1,000,000
+  Ollama...
