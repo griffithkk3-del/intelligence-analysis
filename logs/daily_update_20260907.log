@@ -1,6 +1,6 @@
 ========================================
 AI 情报中心 - 每日自动更新
-时间: 2026-08-06 09:00:04
+时间: 2026-09-07 09:00:05
 目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
 ========================================
 
@@ -15,7 +15,7 @@ Already up to date.
 🔄 开始更新数据（daily_update.py）...
 ============================================================
 🔄 AI 情报中心 - 每日全量更新
-   时间: 2026-08-06 09:00
+   时间: 2026-09-07 09:00
    模式: 删除旧数据，重新获取真实数据
 ============================================================
 
@@ -26,139 +26,350 @@ Already up to date.
 🔍 发现 global 站点...
   搜索: best AI tools directory 2026...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: AI tools aggregator website traffic...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: top AI directory sites similarweb...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: AI tools finder website monthly visits...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: artificial intelligence tools directory ...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 11 个网站
+  发现 50 个网站
 
 📊 获取 global 流量数据...
+  AI Tools Directory...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  7 Best AI Tool Direc...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Best of AI — Handpic...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Tools List 2026: ...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  Complete Guide to 10...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 65,000,000
+  Best AI Tools Direct...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Latest AI Tools 2026...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 65,000,000
+  The Ultimate List of...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  What are some of the...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Traffic Tracker...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Tracking Traffic fro...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  How to Track AI Webs...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  How AI is changing t...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  How Much of Your Tra...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 15,000,000
+  Placer.ai: Location ...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026,000,000
+  Top AI Chatbots and ...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Similarweb: AI-Power...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  The Top 50 Sites Get...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Studio: AI-Powere...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  I Used SimilarWeb to...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Similarweb integrati...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top Trending AI Chat...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  Top AI Tools: Most U...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Similarweb...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Similarweb top websi...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  Unique visitors to A...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top AI tools by mont...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Most Popular AI Tool...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Search Monitoring...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Website Traffic Chec...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Best AI Search Monit...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Free Website Traffic...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  How to Measure AI Se...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AIxploria: AI Tools ...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  GitHub...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AITopTools...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Top AI tools Directo...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Find The Best AI Too...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  The Ultimate Guide t...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Tools Directory &...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI Tools Directory...  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
   github.com/topics/ai...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   www.producthunt.com/...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   alternativeto.net/ca...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   www.futuretools.io...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  www.futurepedia.io...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Theresanaiforthat...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Toolify...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Aitools...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   Topai...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  Aitoolsdirectory...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
   G2...  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  获取到 11 个候选数据
-  ✅ 保存 11 个网站
+  获取到 50 个候选数据
+  ✅ 保存 50 个网站
 
 ==================================================
 📁 更新: cn
@@ -167,24 +378,21 @@ Already up to date.
 🔍 发现 cn 站点...
   搜索: 中国AI工具导航网站 2026...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: AI工具集 月访问量...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: 国内AI导航站 流量排名...
   Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   搜索: AI工具大全 中文网站...
   Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
-  发现 8 个网站
+  发现 29 个网站
 
 📊 获取 cn 流量数据...
-  ai-bot.cn...  Tavily 搜索失败: HTTP Error 432: 
+  AI工具集官网| 1000+ AI工具集...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
@@ -194,7 +402,217 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  www.aigc.cn...  Tavily 搜索失败: HTTP Error 432: 
+  AIGC工具导航| 生成式AI工具导航,...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  国内外AI工具导航合集...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI导航- UIED AI工具导航- 精...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  国内专业AI工具导航网站...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI工具导航| 学习AI，从这里开始！...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  国内有哪些AI工具导航网站？2025年最...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  超全人工智能AI工具导航网站合集...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  全球-主要AI工具访问量...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  翻译：AI 行业分析：50 个访问量最大...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  重磅：AI行业分析：50款访问量最大的A...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  生成AI工具最新網路流量排行(2025/...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  【AI工具排行榜】ChatGPT仍居全球...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  全球-主要AI工具访问量(各工具加总)...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  全球生成式AI 工具流量排行榜分析（20...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  非凡产研：2024年3月全球AIGC行业...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  目前最强10个AI导航网站，发现AI导航...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  国内值得推荐的AI导航站：三类宝藏工具指...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AI 网站全球流量前50 排行榜，你都认...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  全球流量Top50的“AI网站”出炉：C...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  推荐一个访问量排名第一的AI导航网站，你...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  AIGCRank：2024年6月国内AI...  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  whataicc/aitools: AI...  Tavily 搜索失败: HTTP Error 432: 
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
   Tavily 搜索失败: HTTP Error 432: 
@@ -264,8 +682,8 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  获取到 8 个候选数据
-  ⚠️ 数据不足，保留旧数据
+  获取到 29 个候选数据
+  ✅ 保存 29 个网站
 
 ==================================================
 📁 更新: skills
@@ -595,41 +1013,4 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...[main ad16c6d] data: 每日全量更新 2026-08-06
- 6 files changed, 1216 insertions(+), 19 deletions(-)
- delete mode 100644 logs/daily_update_20260705.log
- create mode 100644 logs/daily_update_20260806.log
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   eaee1d9..ad16c6d  main -> main
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
-  Tavily 搜索失败: HTTP Error 432: 
-  Exa 搜索失败: HTTP Error 402: Payment Required
-  Serper 搜索失败: HTTP Error 400: Bad Request
- · 收录(无流量)
-  获取到 8 个候选数据
-  ⚠️ 数据不足，保留旧数据
-
-🚀 已推送到 GitHub
-
-============================================================
-✅ 更新完成: 2/5 个站点
-============================================================
-
-✅ 验证数据（validate_data.py）...
-✅ 所有数据校验通过！
-
-🚀 推送到 GitHub...
-[main 24a6f50] data: 每日自动更新 2026-08-06
- 2 files changed, 58 insertions(+), 2 deletions(-)
-To github-fundarb:griffithkk3-del/intelligence-analysis.git
-   ad16c6d..24a6f50  main -> main
-✅ 推送成功
-
-========================================
-✅ 每日更新完成
-========================================
+  Ollama...
