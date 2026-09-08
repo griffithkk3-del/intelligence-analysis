@@ -1,666 +1,10 @@
 {
-  "lastUpdated": "2026-09-07T09:11:34.930721+08:00",
+  "lastUpdated": "2026-09-08T09:02:10.114524+08:00",
   "config": {
     "category": "global",
     "autoUpdate": true
   },
   "competitors": [
-    {
-      "name": "Placer.ai: Location Intelligence & Foot Traffic Data Softwar",
-      "domain": "placer.ai",
-      "url": "https://www.placer.ai/",
-      "description": "",
-      "monthlyVisits": 2026000000,
-      "hasTraffic": true,
-      "id": "placer-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools List 2026: Complete Directory by Category",
-      "domain": "fast.io/resources/ai-tools-list-2026",
-      "url": "https://fast.io/resources/ai-tools-list-2026/",
-      "description": "",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "fast-io-resources-ai-tools-lis",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Top Trending AI Chatbots and Tools Websites in July 2026",
-      "domain": "similarweb.com/top-websites/ai-chatbots-and-tools/trending",
-      "url": "https://www.similarweb.com/top-websites/ai-chatbots-and-tools/trending/",
-      "description": "",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "similarweb-com-top-websites-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Similarweb top websites scraper for traffic rankings and cat",
-      "domain": "browse.ai/t/extract-top-ranking-websites-similarweb",
-      "url": "https://www.browse.ai/t/extract-top-ranking-websites-similarweb",
-      "description": "",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "browse-ai-t-extract-top-rankin",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Complete Guide to 100+ AI Platforms, Agents & LLM Models",
-      "domain": "theaisland.com/blog/best-ai-tools-2026",
-      "url": "https://theaisland.com/blog/best-ai-tools-2026",
-      "description": "",
-      "monthlyVisits": 65000000,
-      "hasTraffic": true,
-      "id": "theaisland-com-blog-best-ai-to",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Latest AI Tools 2026",
-      "domain": "011bq.com/blog/latest-ai-tools-2026-free-ai-tools-directory",
-      "url": "https://www.011bq.com/blog/latest-ai-tools-2026-free-ai-tools-directory/",
-      "description": "",
-      "monthlyVisits": 65000000,
-      "hasTraffic": true,
-      "id": "011bq-com-blog-latest-ai-tools",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "How Much of Your Traffic Comes From AI? 2 Ways to Track It",
-      "domain": "contentsquare.com/blog/how-much-ai-traffic",
-      "url": "https://contentsquare.com/blog/how-much-ai-traffic/",
-      "description": "",
-      "monthlyVisits": 15000000,
-      "hasTraffic": true,
-      "id": "contentsquare-com-blog-how-muc",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Find The Best AI Tools & Software, Futurepedia.io",
-      "domain": "futurepedia.io",
-      "url": "https://www.futurepedia.io/",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "futurepedia-io",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory",
-      "domain": "aitoolsdirectory.com",
-      "url": "https://aitoolsdirectory.com/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aitoolsdirectory-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "7 Best AI Tool Directories in 2026 (Curated and Ranked)",
-      "domain": "ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
-      "url": "https://ourcodeworld.com/articles/read/4155/7-best-ai-tool-directories-in-2026-curated-and-ranked",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "ourcodeworld-com-articles-read",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best of AI — Handpicked AI Tools Directory",
-      "domain": "bestofai.io",
-      "url": "https://bestofai.io/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "bestofai-io",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best AI Tools Directory (2026)",
-      "domain": "thesnowmedia.com/ai-tools",
-      "url": "https://thesnowmedia.com/ai-tools/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "thesnowmedia-com-ai-tools",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "The Ultimate List of Best AI Tools",
-      "domain": "aixploria.com/en/ultimate-list-ai",
-      "url": "https://www.aixploria.com/en/ultimate-list-ai/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aixploria-com-en-ultimate-list",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "What are some of the best free AI tools for driving high-qua",
-      "domain": "quora.com/What-are-some-of-the-best-free-AI-tools-for-driving-high-quality-website-traffic",
-      "url": "https://www.quora.com/What-are-some-of-the-best-free-AI-tools-for-driving-high-quality-website-traffic",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "quora-com-what-are-some-of-the",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Traffic Tracker",
-      "domain": "aisearch.similarweb.com/ai-chatbot-traffic",
-      "url": "https://aisearch.similarweb.com/ai-chatbot-traffic/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aisearch-similarweb-com-ai-cha",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Tracking Traffic from AI Tools: Technical Considerations",
-      "domain": "help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
-      "url": "https://help.siteimprove.com/support/solutions/articles/80001188499-tracking-traffic-from-ai-tools-technical-considerations",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "help-siteimprove-com-support-s",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "How to Track AI Website Traffic From ChatGPT, Perplexity ...",
-      "domain": "nikopajkovic.com/blog/how-to-track-ai-website-traffic",
-      "url": "https://www.nikopajkovic.com/blog/how-to-track-ai-website-traffic",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "nikopajkovic-com-blog-how-to-t",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "How AI is changing the rules of web traffic",
-      "domain": "martech.org/how-ai-is-changing-the-rules-of-web-traffic",
-      "url": "https://martech.org/how-ai-is-changing-the-rules-of-web-traffic/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "martech-org-how-ai-is-changing",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Top AI Chatbots and Tools Websites Ranking",
-      "domain": "similarweb.com/top-websites/ai-chatbots-and-tools",
-      "url": "https://www.similarweb.com/top-websites/ai-chatbots-and-tools/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "similarweb-com-top-websites-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Similarweb: AI-Powered Digital Data Intelligence Solutions",
-      "domain": "similarweb.com",
-      "url": "https://www.similarweb.com/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "similarweb-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "The Top 50 Sites Getting Traffic from AI Chatbots",
-      "domain": "similarweb.com/blog/marketing/seo/top-50-sites-getting-ai-chatbots-traffic",
-      "url": "https://www.similarweb.com/blog/marketing/seo/top-50-sites-getting-ai-chatbots-traffic/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "similarweb-com-blog-marketing-",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Studio: AI-Powered Research & Insights",
-      "domain": "similarweb.com/corp/ai/ai-studio",
-      "url": "https://www.similarweb.com/corp/ai/ai-studio/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "similarweb-com-corp-ai-ai-stud",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "I Used SimilarWeb to Rank in AI Results",
-      "domain": "youtube.com/watch",
-      "url": "https://www.youtube.com/watch?v=cQiB2CLrxfU",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "youtube-com-watch",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Similarweb integration for AI agents",
-      "domain": "relevanceai.com/integrations/similarweb",
-      "url": "https://relevanceai.com/integrations/similarweb",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "relevanceai-com-integrations-s",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Top AI Tools: Most Used Gen-AI in August 2025",
-      "domain": "similarweb.com/blog/marketing/seo/most-used-ai",
-      "url": "https://www.similarweb.com/blog/marketing/seo/most-used-ai/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "similarweb-com-blog-marketing-",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Similarweb",
-      "domain": "chromewebstore.google.com/detail/similarweb-website-traffi/hoklmmgfnpapgjgcpechhaamimifchmp",
-      "url": "https://chromewebstore.google.com/detail/similarweb-website-traffi/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "chromewebstore-google-com-deta",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Unique visitors to AI websites 2026",
-      "domain": "statista.com/statistics/1458129/ai-tool-website-visits",
-      "url": "https://www.statista.com/statistics/1458129/ai-tool-website-visits/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "statista-com-statistics-145812",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Top AI tools by monthly visits",
-      "domain": "facebook.com/groups/802532124993016/posts/1304251348154422",
-      "url": "https://www.facebook.com/groups/802532124993016/posts/1304251348154422/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "facebook-com-groups-8025321249",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Most Popular AI Tools by Traffic",
-      "domain": "onelittleweb.com/digital-market-intelligence/ai-tools",
-      "url": "https://onelittleweb.com/digital-market-intelligence/ai-tools/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "onelittleweb-com-digital-marke",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Search Monitoring Tool: Track ChatGPT, Perplexity ...",
-      "domain": "otterly.ai",
-      "url": "https://otterly.ai/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "otterly-ai",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Website Traffic Checker: Check Any Site's Traffic for Free",
-      "domain": "semrush.com/website",
-      "url": "https://www.semrush.com/website/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "semrush-com-website",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Best AI Search Monitoring Tools for Marketers in 2026",
-      "domain": "nightwatch.io/blog/best-ai-search-monitoring-tools",
-      "url": "https://nightwatch.io/blog/best-ai-search-monitoring-tools/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "nightwatch-io-blog-best-ai-sea",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Free Website Traffic Checker 🚀 Estimate Organic & PPC ...",
-      "domain": "seranking.com/website-traffic-checker.html",
-      "url": "https://seranking.com/website-traffic-checker.html",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "seranking-com-website-traffic-",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "How to Measure AI Search Traffic",
-      "domain": "mediashower.com/blog/measuring-ai-traffic",
-      "url": "https://www.mediashower.com/blog/measuring-ai-traffic/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "mediashower-com-blog-measuring",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AIxploria: AI Tools Directory & List of Best Free AI by Cate",
-      "domain": "aixploria.com/en",
-      "url": "https://www.aixploria.com/en/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aixploria-com-en",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "domain": "github.com/best-of-ai/ai-directories",
-      "url": "https://github.com/best-of-ai/ai-directories",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "github-com-best-of-ai-ai-direc",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AITopTools",
-      "domain": "aitoptools.com",
-      "url": "https://aitoptools.com/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aitoptools-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "Top AI tools Directory",
-      "domain": "kaggle.com/general/406240",
-      "url": "https://www.kaggle.com/general/406240",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "kaggle-com-general-406240",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "The Ultimate Guide to Finding the Best AI Tools Directory",
-      "domain": "finextra.com/blogposting/26620/the-ultimate-guide-to-finding-the-best-ai-tools-directory",
-      "url": "https://www.finextra.com/blogposting/26620/the-ultimate-guide-to-finding-the-best-ai-tools-directory",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "finextra-com-blogposting-26620",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory & List of Best Free AI by Category",
-      "domain": "aibase.com/www.aibase.com/tools",
-      "url": "https://www.aibase.com/www.aibase.com/tools",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "aibase-com-www-aibase-com-tool",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
-    {
-      "name": "AI Tools Directory",
-      "domain": "b12.io/ai-directory",
-      "url": "https://www.b12.io/ai-directory/",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "b12-io-ai-directory",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "global",
-      "features": [
-        "AI",
-        "global"
-      ]
-    },
     {
       "name": "github.com/topics/ai-tools",
       "domain": "github.com/topics/ai-tools",
@@ -717,6 +61,22 @@
       "monthlyVisits": 0,
       "hasTraffic": false,
       "id": "futuretools-io",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
+      "name": "www.futurepedia.io",
+      "domain": "futurepedia.io",
+      "url": "https://www.futurepedia.io",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "futurepedia-io",
       "tier": "T4",
       "trafficTrend": [],
       "type": "global",
@@ -790,6 +150,22 @@
       ]
     },
     {
+      "name": "Aitoolsdirectory",
+      "domain": "aitoolsdirectory.com",
+      "url": "https://aitoolsdirectory.com",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "aitoolsdirectory-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "global",
+      "features": [
+        "AI",
+        "global"
+      ]
+    },
+    {
       "name": "G2",
       "domain": "g2.com/categories/ai-writing-assistant",
       "url": "https://g2.com/categories/ai-writing-assistant",
@@ -809,22 +185,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 8 个，占据主要流量",
+      "content": "T1 级别 0 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 2474.0M",
+      "content": "有流量网站月访问总量 0.0M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 42 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 11 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 50,
-    "totalMonthlyVisits": 2474000000
+    "totalSites": 11,
+    "totalMonthlyVisits": 0
   }
 }
