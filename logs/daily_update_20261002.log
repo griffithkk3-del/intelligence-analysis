@@ -1,0 +1,847 @@
+========================================
+AI 情报中心 - 每日自动更新
+时间: 2026-10-02 09:00:05
+目录: /Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site
+========================================
+
+🔐 环境检查...
+  - TAVILY_API_KEY: 已设置
+  - EXA_API_KEY: 已设置
+  - SERPER_API_KEY: 已设置
+
+📥 拉取最新代码...
+Already up to date.
+
+🔄 开始更新数据（daily_update.py）...
+============================================================
+🔄 AI 情报中心 - 每日全量更新
+   时间: 2026-10-02 09:00
+   模式: 删除旧数据，重新获取真实数据
+============================================================
+
+==================================================
+📁 更新: global
+==================================================
+
+🔍 发现 global 站点...
+  搜索: best AI tools directory 2026...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI tools aggregator website traffic...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: top AI directory sites similarweb...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI tools finder website monthly visits...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: artificial intelligence tools directory ...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 56 个网站
+
+📊 获取 global 流量数据...
+  Latest AI Tools 2026...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 55,940,000
+  What Are the Best AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 17,000,000
+  Best AI Tools Direct...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 770,000,000
+  10,000+ AI Tools Dir...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 388,000,000
+  15 Best AI Tools Dir...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  Medium...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,800,000
+  Best of AI — Handpic...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,099,999
+  The Best AI Marketin...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,050,000
+  Futurepedia...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,190,000
+  OpenResources Launch...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  How to Track AI Traf...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  How To Track AI Webs...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  Similarweb...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 47,400,000
+  Siteimprove Help Cen...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  How Much of Your Tra...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Traffic Tracker...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  msn.com Website Traf...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 21,910,000
+  As AI Eats Web Traff...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  Website Visitor Trac...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 500,000,000
+  Website Visitor Trac...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 210,000,000
+  The Top 50 Sites Get...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 554,400,000
+  Top AI Chatbots and ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 723,300,000
+  Top 10 Best AI Tool ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,000
+  Top AI Tools: Most U...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 148,400,000
+  Similarweb Employee ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026
+  Similarweb Digital 1...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,300,000
+  Top AI Chatbots and ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 225,200,000
+  Most Popular AI Tool...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Ranked: Most Popular...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 870,400,000
+  Free Website Traffic...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,800,000
+  Allstate gas finder ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 29,300,000
+  Top 100 AI Tools by ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 7,590,000
+  Best AI Search Monit...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Most Visited Informa...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  10 Best Email Finder...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 500,000,000
+  Brad Gaines...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 870,400,000
+  Top Artificial Intel...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026,000,000
+  The Directory for AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,300,000
+  Top Artificial Intel...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026
+  AI Tools Directory &...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  GitHub...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  The top 100 AI tools...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 7,590,000
+  AI Tools Directory 2...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 148,400,000
+  AITopTools...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Tools Directory: ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,990,000
+  AI Tools...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,200,000
+  github.com/topics/ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  www.producthunt.com/...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  alternativeto.net/ca...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  www.futuretools.io...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,990,000
+  www.futurepedia.io...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 33,000
+  Theresanaiforthat...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 955,000,000
+  Toolify...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  Aitools...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Topai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  G2...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  获取到 56 个候选数据
+  ✅ 保存 56 个网站
+
+==================================================
+📁 更新: cn
+==================================================
+
+🔍 发现 cn 站点...
+  搜索: 中国AI工具导航网站 2026...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI工具集 月访问量...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: 国内AI导航站 流量排名...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI工具大全 中文网站...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 40 个网站
+
+📊 获取 cn 流量数据...
+  优设AI工具导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AIGC工具导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  AI之旅导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  AI工具集官网...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI工具箱导航-国内外AI工具导航合集-...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  2026 最強 AI 工具排行榜大公開｜...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,100,000
+  AI网址导航-国内外AI网站大全,AI写...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,800,000
+  AI导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  中国民航信息网络(0696)最新消息_今...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 93,100,000
+  中国国航(601111)股票历史数据:历...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  重磅：AI行业分析：50款访问量最大的A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  全球-主要AI工具訪問量...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  翻译：AI 行业分析：50 个访问量最大...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  全球-主要AI工具访问量(各工具加总)...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  生成AI工具最新網路流量排行(2025/...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  大盘点！50款最受欢迎的AI应用，你用过...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  【AI工具排行榜】ChatGPT仍居全球...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026,000
+  全球生成式 AI 工具流量排行榜分析（2...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 723,300,000
+  全球成長最快 AI 工具排名揭曉！中國服...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 384,000,000
+  推荐一个访问量排名第一的AI导航网站，你...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 22,100,000
+  目前最强10个AI导航网站，发现AI导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  全球流量Top50的“AI网站”出炉：C...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  2025全球十大AI导航站横评：发现AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  13个优秀的AI人工智能工具软件导航网站...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  美国半导体:美国银行在AI内存恐慌中对顶...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  中信建投：2026年民航春运国内市场热度...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 47,000,000
+  国联民生证券：中国航司份额提升主动承接入...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 30,000,000
+  日本通運名古屋航空名古屋物流センター国内...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  AI工具箱...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  全网最全的「人工智能·AI工具导航网站」...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  AI工具网站应用大全...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI工具导航...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  【AI懶人包】看這篇就夠！2026推薦A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,990,000
+  2026 全球 16 款最強 AI 工具...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  www.aihub.cn...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  toolify.ai/zh...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  Ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Nav...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Ai-Nav...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Aicpb...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  获取到 40 个候选数据
+  ✅ 保存 40 个网站
+
+==================================================
+📁 更新: skills
+==================================================
+
+🔍 发现 skills 站点...
+  搜索: MCP server marketplace 2026...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: Claude skills marketplace traffic...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI agent skills directory...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: cursor rules directory...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 45 个网站
+
+📊 获取 skills 流量数据...
+  8 Best MCP Marketpla...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  Best MCP Servers in ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,100,000
+  Best MCP Servers for...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  Everything your team...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 97,000,000
+  AI Agent Marketplace...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 33,200,000
+  MCP Server Regressio...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  MCP Market...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026,000,000
+  Wiz MCP Server Avail...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 20,000,000
+  MCP.so...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
+  MCP Marketplace...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  GitHub...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Claude Skills Market...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 18,900,000
+  AI Analytics Skills ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,000,000
+  Claude Skills & Agen...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,026,000,000
+  Claude-Skills/busine...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 8,000
+  When Your AI Coding ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 950,000,000
+  Claude Code Has a Sk...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
+  Prismatic Launches S...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 20,000,000
+  How to Sell Claude S...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 73,260,000
+  Agent Skills...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 950,000,000
+  AI Agent Skills — Th...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  Matt Pocock Skills...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000
+  Skills Directory...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Use Agent Skills in ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,040,000
+  AI Agent Skills Dire...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,800,000
+  Anthropic launches e...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,600,000
+  Specification...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  GitHub...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Show HN: Cursor AI R...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,690,000
+  GitHub...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  Global .cursor/rules...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 28,400,000
+  What are Cursor Rule...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,025,000,000
+  Best cursor.director...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
+  Rules...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  Cursor Rules for Tea...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  Cursor Directory...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  Cursor Rules and MCP...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
+  Free AI .cursorrules...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  github.com/topics/mo...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 110,000,000
+  github.com/topics/mc...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  smithery.ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,800,000
+  glama.ai/mcp...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  clawhub.ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Composio...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  E2B...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,300,000
+  获取到 45 个候选数据
+  ✅ 保存 45 个网站
+
+==================================================
+📁 更新: news
+==================================================
+
+🔍 发现 news 站点...
+  搜索: AI news website traffic 2026...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: best AI newsletter subscribers...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: AI technology news site monthly visits...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: machine learning news website...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 47 个网站
+
+📊 获取 news 流量数据...
+  The 2026 State of AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
+  Most Popular Website...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Answers Are the #...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  SEO in 2026: AI Over...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,820,000
+  How AI Overviews Are...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,300,000
+  Clicking Into Nowher...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,970,000
+  Traffic to 10 bigges...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 18,500,000
+  Google gives publish...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 126,000,000
+  The rise of 'zero-cl...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Google traffic to ne...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 201,000,000
+  10 Best AI Newslette...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 5,000,000
+  The 5 Best AI Newsle...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 384,000,000
+  The Best AI Newslett...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI For Business Reac...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  GenAI.Works, The Wor...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  6 AI Newsletters Tha...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,100,000
+  Home...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Inbox3000...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 500,000,000
+  28 Newsletter Sign-U...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 15,000,000
+  Wrong Newsletter Sub...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 126,990,000
+  In September, global...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,300,000
+  Google's AI Overview...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  Unique visitors to A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  What Americans See A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,400,000
+  How many visitors do...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,300,000
+  AI Search Statistics...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Most Visited Informa...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 952,500,000
+  AI Killed 600 Millio...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  The Information...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  10 Great Machine Lea...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 384,000,000
+  Machine learning...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  News on Artificial I...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI & Machine Learnin...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Machine learning...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Machine Learning Arc...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 21,000,000
+  AI News...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Seamless Machine Lea...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  Overview...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 685,400,000
+  Machine Learning...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 11,000,000
+  news.ycombinator.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  huggingface.co/paper...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  www.therundown.ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  www.bensbites.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  www.techcrunch.com/c...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Theverge...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Jiqizhixin...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,300,000
+  Arxiv...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  获取到 47 个候选数据
+  ✅ 保存 47 个网站
+
+==================================================
+📁 更新: models
+==================================================
+
+🔍 发现 models 站点...
+  搜索: AI model platform traffic 2026...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: LLM API provider monthly visits...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: huggingface monthly traffic...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  搜索: openai anthropic website visits...
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  发现 47 个网站
+
+📊 获取 models 流量数据...
+  Gen AI Website Traff...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  AI Search Stats in 2...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  AI Crawler & Bot Tra...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  BigBear.ai's Model-A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 281,900,000
+  The 2026 State of AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 4,000,000
+  AI agents now make u...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,100,000
+  15 Best AI Platforms...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Enterprise AI Platfo...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Linkhome launches AI...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 10,500,000
+  Ranking Every AI Too...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,100,000
+  Best Flat-Rate LLM A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 6,000,000
+  7 best unified LLM A...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 27,000,000
+  Free LLM API in 2026...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000
+  Top 11 LLM API Provi...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,000,000
+  Best LLM API Provide...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  LLM API Providers Le...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Hidden Costs Behind ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 20,000,000
+  Awan LLM...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  A Broke B**ch’s Guid...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  Every Hugging Face S...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 28,810,000
+  Pricing and Billing ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  huggingface.co Websi...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,670,000
+  Free monthly limit r...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 46,300,000
+  Pricing...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 100,000,000
+  About membership and...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,500,000
+  API inference limit ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  HF launched Inferenc...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,670,000
+  Huggingface Jobs, Em...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 36,000,000
+  Huggingface Jobs, Em...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  Anthropic Beats Open...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 847,000,000
+  OpenAI's ChatGPT Is ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 77,000,000
+  At a Glance: ChatGPT...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 2,660,000
+  OpenAI and Anthropic...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 20,000,000
+  Anthropic Or Openai ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  openai.com Website T...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,990,000
+  AI Search Traffic: L...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  Investigating three ...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 19,400,000
+  OpenAI Is Adding Bus...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  How to Track AI Traf...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,000,000
+  huggingface.co...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 3,670,000
+  openai.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 9,000,000
+  www.anthropic.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 950,000,000
+  www.together.ai...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 655,000,000
+  groq.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 12,000,000
+  replicate.com...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  Deepseek...  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ ✓ 1,000,000
+  Ollama...
