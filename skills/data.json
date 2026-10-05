@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-10-04T09:26:24.286760+08:00",
+  "lastUpdated": "2026-10-05T09:32:47.442763+08:00",
   "config": {
     "category": "skills",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "AI Agent Skills Explained Simply",
-      "domain": "medium.com/@tahirbalarabe2/ai-agent-skills-explained-simply-4010f6d9db92",
-      "url": "https://medium.com/@tahirbalarabe2/ai-agent-skills-explained-simply-4010f6d9db92",
-      "description": "",
-      "monthlyVisits": 20268000000,
+      "name": "smithery.ai",
+      "domain": "smithery.ai",
+      "url": "https://smithery.ai",
+      "description": "structured-source",
+      "monthlyVisits": 177000000000,
       "hasTraffic": true,
-      "id": "medium-com--tahirbalarabe2-ai-",
+      "id": "smithery-ai",
       "tier": "T1",
       "trafficTrend": [],
       "type": "skills",
@@ -22,90 +22,10 @@
       ]
     },
     {
-      "name": "AI Agent Skills Guide 2026: SKILL.md, Claude Code, ...",
-      "domain": "thepromptindex.com/how-to-use-ai-agent-skills-the-complete-guide.html",
-      "url": "https://www.thepromptindex.com/how-to-use-ai-agent-skills-the-complete-guide.html",
-      "description": "",
-      "monthlyVisits": 20268000000,
-      "hasTraffic": true,
-      "id": "thepromptindex-com-how-to-use-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "What Is an MCP Server? A GTM Leader's Guide",
-      "domain": "hginsights.com/blog/what-is-an-mcp-server",
-      "url": "https://hginsights.com/blog/what-is-an-mcp-server/",
-      "description": "",
-      "monthlyVisits": 2026000000,
-      "hasTraffic": true,
-      "id": "hginsights-com-blog-what-is-an",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "SellerSprite Amazon Traffic Analysis",
-      "domain": "mcpmarket.com/tools/skills/sellersprite-amazon-traffic-analysis",
-      "url": "https://mcpmarket.com/tools/skills/sellersprite-amazon-traffic-analysis",
-      "description": "",
-      "monthlyVisits": 2026000000,
-      "hasTraffic": true,
-      "id": "mcpmarket-com-tools-skills-sel",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "What are Cursor Rules? — WorkOS",
-      "domain": "workos.com/blog/what-are-cursor-rules",
-      "url": "https://workos.com/blog/what-are-cursor-rules",
-      "description": "By placing these rules in special files (often in the .cursor/rules directory), you can tailor Cursor’s suggestions or completions to match your team’s coding style and best practi",
-      "monthlyVisits": 2025000000,
-      "hasTraffic": true,
-      "id": "workos-com-blog-what-are-curso",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "When Your AI Coding Plugin Starts Picking Your Dependencies:",
-      "domain": "sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code",
-      "url": "https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code",
-      "description": "without error – malicious code is now embedded into the environment, capable of exfiltrating secrets, monitoring traffic, or lying dormant until it is triggered at a later time. [.",
-      "monthlyVisits": 950000000,
-      "hasTraffic": true,
-      "id": "sentinelone-com-blog-marketpla",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "How to Sell Claude Skills as a Digital Product (And Make $10",
+      "name": "How to Sell Claude Skills as a Digital Product (And Make ...",
       "domain": "ryandoser.com/sell-claude-skills",
-      "url": "https://ryandoser.com/sell-claude-skills",
-      "description": "No. I am non-technical and so are most buyers. If you can use ChatGPT, you can build one. The process is voice transcribing your knowledge into the Claude app and ending with the s",
+      "url": "https://ryandoser.com/sell-claude-skills/",
+      "description": "",
       "monthlyVisits": 950000000,
       "hasTraffic": true,
       "id": "ryandoser-com-sell-claude-skil",
@@ -118,13 +38,13 @@
       ]
     },
     {
-      "name": "Claude Code skills",
-      "domain": "mindstudio.ai/blog/claude-code-skills-marketing-automation",
-      "url": "https://www.mindstudio.ai/blog/claude-code-skills-marketing-automation",
+      "name": "Agent Skills",
+      "domain": "platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+      "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
       "description": "",
       "monthlyVisits": 950000000,
       "hasTraffic": true,
-      "id": "mindstudio-ai-blog-claude-code",
+      "id": "platform-claude-com-docs-en-ag",
       "tier": "T1",
       "trafficTrend": [],
       "type": "skills",
@@ -134,189 +54,13 @@
       ]
     },
     {
-      "name": "Developer Ecosystem Skill for Building Adoption",
-      "domain": "getclaudeskills.com/skills/developer-ecosystem-github",
-      "url": "https://www.getclaudeskills.com/skills/developer-ecosystem-github",
+      "name": "AI & Agents",
+      "domain": "skillsdirectory.com/categories/ai-agents",
+      "url": "https://www.skillsdirectory.com/categories/ai-agents",
       "description": "",
-      "monthlyVisits": 950000000,
+      "monthlyVisits": 23000000,
       "hasTraffic": true,
-      "id": "getclaudeskills-com-skills-dev",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Awesome Claude Skills",
-      "domain": "awesomeclaude.ai/awesome-claude-skills",
-      "url": "https://awesomeclaude.ai/awesome-claude-skills",
-      "description": "### deep-research\n\n363\n\nExecute autonomous multi-step research using Gemini Deep Research Agent for market analysis, competitive landscaping, and literature reviews.\n\ngithub.com/sa",
-      "monthlyVisits": 950000000,
-      "hasTraffic": true,
-      "id": "awesomeclaude-ai-awesome-claud",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "List of Top MCP Servers for September 11, 2026",
-      "domain": "mcpmarket.com/daily/top-mcp-server-list-september-11-2026",
-      "url": "https://mcpmarket.com/daily/top-mcp-server-list-september-11-2026",
-      "description": "",
-      "monthlyVisits": 759800000,
-      "hasTraffic": true,
-      "id": "mcpmarket-com-daily-top-mcp-se",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "List of Top MCP Servers for March 18, 2026",
-      "domain": "mcpmarket.com/daily/top-mcp-server-list-march-18-2026",
-      "url": "https://mcpmarket.com/daily/top-mcp-server-list-march-18-2026",
-      "description": "",
-      "monthlyVisits": 675370000,
-      "hasTraffic": true,
-      "id": "mcpmarket-com-daily-top-mcp-se",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP Marketplace Guide: Find the Right Server (2026)",
-      "domain": "apigene.ai/blog/mcp-marketplace",
-      "url": "https://apigene.ai/blog/mcp-marketplace",
-      "description": "An MCP marketplace is a directory or platform where developers can discover, evaluate, and install MCP (Model Context Protocol) servers. These servers let AI agents connect to exte",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "apigene-ai-blog-mcp-marketplac",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Next Level AI Coding Agents",
-      "domain": "blog.nimblepros.com/blogs/next-level-ai-skills",
-      "url": "https://blog.nimblepros.com/blogs/next-level-ai-skills/",
-      "description": "",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "blog-nimblepros-com-blogs-next",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP Marketplace Guide 2026: Where to Find AI Tools & Apps",
-      "domain": "radar.firstaimovers.com/mcp-marketplace-guide-2026",
-      "url": "https://radar.firstaimovers.com/mcp-marketplace-guide-2026",
-      "description": "The overall picture in February 2026 is one of healthy but still-maturing growth. For businesses, selecting the right tools from any MCP marketplace is a critical step that require",
-      "monthlyVisits": 553700000,
-      "hasTraffic": true,
-      "id": "radar-firstaimovers-com-mcp-ma",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "cursor.directory has a list of cursor rules that are used by",
-      "domain": "skool.com/ai-developer-accelerator/cursordirectory-has-a-list-of-cursor-rules-that-are-used-by-many-people",
-      "url": "https://www.skool.com/ai-developer-accelerator/cursordirectory-has-a-list-of-cursor-rules-that-are-used-by-many-people",
-      "description": "",
-      "monthlyVisits": 500000000,
-      "hasTraffic": true,
-      "id": "skool-com-ai-developer-acceler",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "clawhub.ai",
-      "domain": "clawhub.ai",
-      "url": "https://clawhub.ai",
-      "description": "structured-source",
-      "monthlyVisits": 350000000,
-      "hasTraffic": true,
-      "id": "clawhub-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Gemini web traffic jumps 9% in April as Claude surges 33% By",
-      "domain": "investing.com/news/company-news/gemini-web-traffic-jumps-9-in-april-as-claude-surges-33-93CH-4657997",
-      "url": "https://www.investing.com/news/company-news/gemini-web-traffic-jumps-9-in-april-as-claude-surges-33-93CH-4657997",
-      "description": "GOOGL+1.57%\n\nInvesting.com -- Google’s Gemini saw web traffic increase 9% month-over-month in April, while Claude experienced a 33% monthly jump, according to data from Similarweb ",
-      "monthlyVisits": 183000000,
-      "hasTraffic": true,
-      "id": "investing-com-news-company-new",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Servers for Founders & Market Research (2026)",
-      "domain": "bigideasdb.com/best-mcp-servers-for-founders-2026",
-      "url": "https://bigideasdb.com/best-mcp-servers-for-founders-2026",
-      "description": "",
-      "monthlyVisits": 174000000,
-      "hasTraffic": true,
-      "id": "bigideasdb-com-best-mcp-server",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Manage all your AI agent skills from a single dashboard",
-      "domain": "github.com/umutbozdag/agent-skills-manager",
-      "url": "https://github.com/umutbozdag/agent-skills-manager",
-      "description": "",
-      "monthlyVisits": 170370000,
-      "hasTraffic": true,
-      "id": "github-com-umutbozdag-agent-sk",
+      "id": "skillsdirectory-com-categories",
       "tier": "T1",
       "trafficTrend": [],
       "type": "skills",
@@ -330,729 +74,9 @@
       "domain": "github.com/HerringtonDarkholme/megarepo/issues/30",
       "url": "https://github.com/HerringtonDarkholme/megarepo/issues/30",
       "description": "",
-      "monthlyVisits": 170370000,
+      "monthlyVisits": 23000000,
       "hasTraffic": true,
       "id": "github-com-herringtondarkholme",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "github.com/topics/model-context-protocol",
-      "domain": "github.com/topics/model-context-protocol",
-      "url": "https://github.com/topics/model-context-protocol",
-      "description": "structured-source",
-      "monthlyVisits": 110000000,
-      "hasTraffic": true,
-      "id": "github-com-topics-model-contex",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Keyfactor Expands Agentic AI Capabilities with Command MCP S",
-      "domain": "finance.yahoo.com/news/keyfactor-expands-agentic-ai-capabilities-140000551.html",
-      "url": "https://finance.yahoo.com/news/keyfactor-expands-agentic-ai-capabilities-140000551.html",
-      "description": "5. Insurance \n      1. Find car insurance\n      2. Types of car insurance\n      3. Find life insurance\n   6. Taxes \n      1. How to file\n      2. Tax brackets and rates\n      3. Ch",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "finance-yahoo-com-news-keyfact",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI Agent Skills — The Curated Directory",
-      "domain": "agenticskills.io/skills",
-      "url": "https://agenticskills.io/skills",
-      "description": "An agent skill is a folder containing a `SKILL.md` file that teaches an AI coding agent how to do one thing well. The file carries a name and a description in YAML frontmatter, the",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "agenticskills-io-skills",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Mastering AI Agent Skills",
-      "domain": "sohamkamani.com/ai/what-are-ai-agents-and-how-to-make-your-own",
-      "url": "https://www.sohamkamani.com/ai/what-are-ai-agents-and-how-to-make-your-own",
-      "description": "A skill is simply a directory that contains a logic file called `SKILL.md` and supporting context like scripts, references, and assets.\n\nThe Agent Skills Specification defines a un",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "sohamkamani-com-ai-what-are-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Specification",
-      "domain": "agentskills.io/specification",
-      "url": "https://agentskills.io/specification",
-      "description": "A skill directory may contain any files and directories beyond the required `SKILL.md`. The conventions below are recommendations for organizing common types of content.\n\n### ​ `sc",
-      "monthlyVisits": 100000000,
-      "hasTraffic": true,
-      "id": "agentskills-io-specification",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Which Sales and CS Tools Actually Have MCP Servers? ...",
-      "domain": "getnoded.ai/post/which-sales-and-cs-tools-actually-have-mcp-servers",
-      "url": "https://www.getnoded.ai/post/which-sales-and-cs-tools-actually-have-mcp-servers",
-      "description": "",
-      "monthlyVisits": 97000000,
-      "hasTraffic": true,
-      "id": "getnoded-ai-post-which-sales-a",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude Code Has a Skills Marketplace Now — A Beginner-Friend",
-      "domain": "medium.com/@markchen69/claude-code-has-a-skills-marketplace-now-a-beginner-friendly-walkthrough-8adeb67cdc89",
-      "url": "https://medium.com/@markchen69/claude-code-has-a-skills-marketplace-now-a-beginner-friendly-walkthrough-8adeb67cdc89",
-      "description": "Skills are reusable “ways of working” (instructions, workflows, sometimes helpers).\n   A marketplace is a catalog so you don’t have to copy folders around manually.\n   Plugins (in ",
-      "monthlyVisits": 73260000,
-      "hasTraffic": true,
-      "id": "medium-com--markchen69-claude-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Server Directories for Developers",
-      "domain": "dev.to/descope/best-mcp-server-directories-for-developers-502e",
-      "url": "https://dev.to/descope/best-mcp-server-directories-for-developers-502e",
-      "description": "",
-      "monthlyVisits": 50000000,
-      "hasTraffic": true,
-      "id": "dev-to-descope-best-mcp-server",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI Agent Marketplaces 2026: Discovery and Distribution",
-      "domain": "digitalapplied.com/blog/ai-agent-marketplaces-2026-discovery-distribution",
-      "url": "https://www.digitalapplied.com/blog/ai-agent-marketplaces-2026-discovery-distribution",
-      "description": "### 1. MCP Server → mcp.so, Smithery, PulseMCP\n\nShip the core capability as an MCP server. This is the highest- leverage format because it interoperates across Claude Desktop, Curs",
-      "monthlyVisits": 46800000,
-      "hasTraffic": true,
-      "id": "digitalapplied-com-blog-ai-age",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "smithery.ai",
-      "domain": "smithery.ai",
-      "url": "https://smithery.ai",
-      "description": "structured-source",
-      "monthlyVisits": 46800000,
-      "hasTraffic": true,
-      "id": "smithery-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Prismatic Launches Skills for Claude Code to Help Developers",
-      "domain": "markets.businessinsider.com/news/stocks/prismatic-launches-skills-for-claude-code-to-help-developers-ship-integrations-f",
-      "url": "https://markets.businessinsider.com/news/stocks/prismatic-launches-skills-for-claude-code-to-help-developers-ship-integrations-faster-1036100624",
-      "description": "Prismatic Skills for Claude Code gives Claude that context. The plugin provides deep, specialized knowledge of the Prismatic platform, turning Claude from a general-purpose coding ",
-      "monthlyVisits": 45000000,
-      "hasTraffic": true,
-      "id": "markets-businessinsider-com-ne",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude-Skills/business-growth/partnerships-architect/referen",
-      "domain": "github.com/borghei/Claude-Skills/blob/main/business-growth/partnerships-architect/references/partnership-types.md",
-      "url": "https://github.com/borghei/Claude-Skills/blob/main/business-growth/partnerships-architect/references/partnership-types.md",
-      "description": "### Key KPIs\n\n Customers using the integration (mutual customers)\n Integration adoption rate (% of customers that activate)\n Joint customer satisfaction\n Co-marketing campaign perf",
-      "monthlyVisits": 32080000,
-      "hasTraffic": true,
-      "id": "github-com-borghei-claude-skil",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Global .cursor/rules directory",
-      "domain": "forum.cursor.com/t/global-cursor-rules-directory/50049",
-      "url": "https://forum.cursor.com/t/global-cursor-rules-directory/50049",
-      "description": "We don’t currently have a global rules directory feature, but you may be able to create a local `.cursor/rules` directory in your home folder as a workaround, and then just create ",
-      "monthlyVisits": 28400000,
-      "hasTraffic": true,
-      "id": "forum-cursor-com-t-global-curs",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Cursor AI and Rules Directory: Revolutionizing Code Editing",
-      "domain": "viitorcloud.com/blog/cursor-ai-and-rules-directory",
-      "url": "https://viitorcloud.com/blog/cursor-ai-and-rules-directory/",
-      "description": "",
-      "monthlyVisits": 22100000,
-      "hasTraffic": true,
-      "id": "viitorcloud-com-blog-cursor-ai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Servers for Stock Data in 2026",
-      "domain": "barchart.com/story/news/3232893/best-mcp-servers-for-stock-data-in-2026",
-      "url": "https://www.barchart.com/story/news/3232893/best-mcp-servers-for-stock-data-in-2026",
-      "description": "",
-      "monthlyVisits": 20000000,
-      "hasTraffic": true,
-      "id": "barchart-com-story-news-323289",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude Skills Marketplace: Buy, Sell & Discover Skills",
-      "domain": "agent37.com/blog/claude-skills-marketplace-buy-sell-discover-skills",
-      "url": "https://www.agent37.com/blog/claude-skills-marketplace-buy-sell-discover-skills",
-      "description": "What exists instead is more useful once you see it. The Claude skills marketplace is a distributed layer: skills live in GitHub repos, spread through demo links, run on hosted plat",
-      "monthlyVisits": 18900000,
-      "hasTraffic": true,
-      "id": "agent37-com-blog-claude-skills",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Cursor Rules for Teams: A Complete Setup Guide",
-      "domain": "devonbleibtrey.com/blog/cursor-rules-for-teams",
-      "url": "https://www.devonbleibtrey.com/blog/cursor-rules-for-teams",
-      "description": "Be direct: State things. Don't hedge with \"I think\" or \"it seems like.\"\n\nThese rules mean a product manager asking Cursor to help draft feature copy gets output that sounds human. ",
-      "monthlyVisits": 12000000,
-      "hasTraffic": true,
-      "id": "devonbleibtrey-com-blog-cursor",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Aaronontheweb/dotnet-cursor-rules: .mdc files for defining .",
-      "domain": "github.com/Aaronontheweb/dotnet-cursor-rules",
-      "url": "https://github.com/Aaronontheweb/dotnet-cursor-rules",
-      "description": "",
-      "monthlyVisits": 11000000,
-      "hasTraffic": true,
-      "id": "github-com-aaronontheweb-dotne",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI Analytics Skills Marketplace",
-      "domain": "databox.com/skills-marketplace",
-      "url": "https://databox.com/skills-marketplace",
-      "description": "Works with Claude\n\nGet it free\n\n.skill\n\n Sales\n\n### Sales Target Pacing\n\nYour monthly sales target turned into a rep-by-rep pace check — in deals, not just dollars.\n\n HubSpot CRM\n ",
-      "monthlyVisits": 10000000,
-      "hasTraffic": true,
-      "id": "databox-com-skills-marketplace",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP Server Regression Testing for QA Teams",
-      "domain": "scrolltest.com/mcp-server-regression-testing",
-      "url": "https://scrolltest.com/mcp-server-regression-testing",
-      "description": "The 2026.7.10 MCP servers release updated filesystem, time, fetch, and git packages.\n Each server maps to a clear QA risk: permissions, time zones, network behavior, and code-chang",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "scrolltest-com-mcp-server-regr",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP Server Best Practices for 2026",
-      "domain": "metorial.com/blog/best-mcp-practices",
-      "url": "https://metorial.com/blog/best-mcp-practices",
-      "description": "",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "metorial-com-blog-best-mcp-pra",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude Skills & Agent Skills Library",
-      "domain": "mcpservers.org/agent-skills",
-      "url": "https://mcpservers.org/agent-skills",
-      "description": "Right here — this Claude Skills marketplace lists hundreds of official and community skills. Open any skill to download it as a ZIP or install it with one command in Claude Code, C",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "mcpservers-org-agent-skills",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best cursor.directory Alternatives: Rules and Skills — local",
-      "domain": "localskills.sh/blog/cursor-directory-alternatives",
-      "url": "https://localskills.sh/blog/cursor-directory-alternatives",
-      "description": "cursor.directory is the best-known place to grab Cursor rules, and for a quick copy-paste it works fine. But if you're searching for a cursor.directory alternative, you've probably",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "localskills-sh-blog-cursor-dir",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Cursor Directory",
-      "domain": "cursor.directory",
-      "url": "https://cursor.directory",
-      "description": "Cursor Directory\n\n# Extend Cursor with community plugins.\n\nDiscover and install plugins from 89.1k+ developers, ranked by what’s trending.\n\nJava rules and best practices for Cursor",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "cursor-directory",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Cursor Rules and MCP’s — Why you should care about them as a",
-      "domain": "medium.com/@paulmkallarackal/cursor-rules-and-mcps-why-you-should-care-about-them-as-a-post-ai-developer-4eea367e4a1a",
-      "url": "https://medium.com/@paulmkallarackal/cursor-rules-and-mcps-why-you-should-care-about-them-as-a-post-ai-developer-4eea367e4a1a",
-      "description": "## Cursor Rules\n\nCursor Rules are simple. It’s a way to define the context, and is added into every call you make to the LLM. You can define when each rule is called and what goes ",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "medium-com--paulmkallarackal-c",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Python",
-      "domain": "cursor.directory/plugins/python",
-      "url": "https://cursor.directory/plugins/python",
-      "description": "",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "cursor-directory-plugins-pytho",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "mcp.so",
-      "domain": "mcp.so",
-      "url": "https://mcp.so",
-      "description": "structured-source",
-      "monthlyVisits": 6000000,
-      "hasTraffic": true,
-      "id": "mcp-so",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Matt Pocock Skills",
-      "domain": "agentconn.com/skills/mattpocock-skills",
-      "url": "https://agentconn.com/skills/mattpocock-skills",
-      "description": "## Input / Output\n\n### Accepts\n\nskill-name\n\n### Produces\n\ninstalled-skill  workflow-capability\n\n## Overview\n\nMatt Pocock — the creator of Total TypeScript and one of the most-follo",
-      "monthlyVisits": 5000000,
-      "hasTraffic": true,
-      "id": "agentconn-com-skills-mattpococ",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI skills and agent tools directory",
-      "domain": "learnetto.com/ai-skills",
-      "url": "https://learnetto.com/ai-skills",
-      "description": "",
-      "monthlyVisits": 4400000,
-      "hasTraffic": true,
-      "id": "learnetto-com-ai-skills",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "CommandCodeAI/agent-skills: A curated list of awesome ...",
-      "domain": "github.com/commandcodeai/agent-skills",
-      "url": "https://github.com/commandcodeai/agent-skills",
-      "description": "",
-      "monthlyVisits": 4000000,
-      "hasTraffic": true,
-      "id": "github-com-commandcodeai-agent",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "github.com/topics/mcp",
-      "domain": "github.com/topics/mcp",
-      "url": "https://github.com/topics/mcp",
-      "description": "structured-source",
-      "monthlyVisits": 4000000,
-      "hasTraffic": true,
-      "id": "github-com-topics-mcp",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Servers for Marketing in 2026",
-      "domain": "neuroflash.com/blog/mcp-api/best-mcp-servers-market-research",
-      "url": "https://neuroflash.com/blog/mcp-api/best-mcp-servers-market-research",
-      "description": "## Sources\n\n Digital Applied (2026): “MCP Servers for Marketing: 25 Servers Reviewed 2026.” \n\n Digital Applied (2026): “MCP Adoption Statistics 2026: Model Context Protocol.” \n\n GW",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "neuroflash-com-blog-mcp-api-be",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Top 5 MCP Servers for 2026",
-      "domain": "youtube.com/watch",
-      "url": "https://www.youtube.com/watch?v=ClN7eViudxU",
-      "description": "Discover the top 5 MCPs (Model Context Protocols) that are transforming how AI models interact with external data and tools. In this video, we break down the best MCPs available in",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "youtube-com-watch",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "domain": "github.com/BehiSecc/awesome-claude-skills",
-      "url": "https://github.com/BehiSecc/awesome-claude-skills",
-      "description": "Skillselion - Curated directory of Claude Code agent skills, MCP servers, and plugin marketplaces.\n AugmentClaude - Free hand-picked marketplace of Claude Code skills, bundles, MCP",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "github-com-behisecc-awesome-cl",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "OtterlyAI Launches a Public API, a Claude Skill, and a",
-      "domain": "globenewswire.com/news-release/2026/06/01/3304018/0/en/otterlyai-launches-a-public-api-a-claude-skill-and-a-marketplace-",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304018/0/en/otterlyai-launches-a-public-api-a-claude-skill-and-a-marketplace-of-101-marketing-workflows-for-ai-search.html",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "globenewswire-com-news-release",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Skills Directory",
-      "domain": "skillsdirectory.com",
-      "url": "https://www.skillsdirectory.com",
-      "description": "Skills DirectorySkills Directory\n\nSign InSubmit Skill\n\n582,077 indexed skills\n\n# Agent Skills Directory\n\nDiscover and install agent skills for coding, research, writing, and more.\n",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "skillsdirectory-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Show HN: Cursor AI Rules Directory (Open Source)",
-      "domain": "news.ycombinator.com/item",
-      "url": "https://news.ycombinator.com/item?id=41346156",
-      "description": "|  | | While Cursor has already revolutionized coding, you can still configure it to perform even better based on your language and framework. That's why we created Cursor Director",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "news-ycombinator-com-item",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Rules",
-      "domain": "cursor.com/docs/rules",
-      "url": "https://cursor.com/docs/rules",
-      "description": "Customize\n\n# Rules\n\nRules provide system-level instructions to Agent. They bundle prompts, scripts, and more together, making it easy to manage and share workflows across your team",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "cursor-com-docs-rules",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Community",
-      "domain": "skillsdirectory.com/community",
-      "url": "https://www.skillsdirectory.com/community",
-      "description": "",
-      "monthlyVisits": 2970000,
-      "hasTraffic": true,
-      "id": "skillsdirectory-com-community",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "domain": "github.com/PatrickJS/awesome-cursorrules",
-      "url": "https://github.com/PatrickJS/awesome-cursorrules",
-      "description": "## How to Use\n\n### Project Rules\n\n1. Install Cursor AI if you haven't already.\n2. Browse the rules above to find an `.mdc` rule that suits your needs.\n3. Create a `.cursor/rules/` ",
-      "monthlyVisits": 2970000,
-      "hasTraffic": true,
-      "id": "github-com-patrickjs-awesome-c",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": ".CursorRules Rules",
-      "domain": "dotcursorrules.com",
-      "url": "https://dotcursorrules.com/",
-      "description": "",
-      "monthlyVisits": 2970000,
-      "hasTraffic": true,
-      "id": "dotcursorrules-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Best MCP Servers in 2026: 12 Ranked Picks for Claude Code, C",
-      "domain": "totalum.app/blog/best-mcp-servers-2026",
-      "url": "https://www.totalum.app/blog/best-mcp-servers-2026",
-      "description": "MCP & API Builders ### Claude Code MCP Tutorial: Connect Tools and Ship a Production App in 2026 Claude Code MCP tutorial: connect MCP servers to Claude Code, then use Totalum's MC",
-      "monthlyVisits": 2100000,
-      "hasTraffic": true,
-      "id": "totalum-app-blog-best-mcp-serv",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "8 Best MCP Marketplaces to Discover MCP Servers",
-      "domain": "pub.towardsai.net/8-best-mcp-marketplaces-to-discover-mcp-servers-fb6cb082efcb",
-      "url": "https://pub.towardsai.net/8-best-mcp-marketplaces-to-discover-mcp-servers-fb6cb082efcb",
-      "description": "Smithery is a public MCP server registry and hosting platform with more than 3,000 verified listings as of mid-2026. It focuses on getting a server running fast, either installed l",
-      "monthlyVisits": 2000000,
-      "hasTraffic": true,
-      "id": "pub-towardsai-net-8-best-mcp-m",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "AI Agent Skills Directory",
-      "domain": "openagentskill.com/skills",
-      "url": "https://www.openagentskill.com/skills",
-      "description": "OpenAgentSkillRegistry\n\nStar200+Submit Skill\n\nStar200+\n\nLoading the next page\n\nOpenAgentSkillRegistry\n\nStar200+Submit Skill\n\nStar200+\n\nOPENAGENTSKILL / DIRECTORY\n\n# AI Agent Skills",
-      "monthlyVisits": 1800000,
-      "hasTraffic": true,
-      "id": "openagentskill-com-skills",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "glama.ai/mcp",
-      "domain": "glama.ai/mcp",
-      "url": "https://glama.ai/mcp",
-      "description": "structured-source",
-      "monthlyVisits": 1600000,
-      "hasTraffic": true,
-      "id": "glama-ai-mcp",
       "tier": "T1",
       "trafficTrend": [],
       "type": "skills",
@@ -1066,106 +90,10 @@
       "domain": "e2b.dev",
       "url": "https://e2b.dev",
       "description": "",
-      "monthlyVisits": 1300000,
+      "monthlyVisits": 23000000,
       "hasTraffic": true,
       "id": "e2b-dev",
       "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Anthropic launches enterprise ‘Agent Skills’ and opens the s",
-      "domain": "venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
-      "url": "https://venturebeat.com/technology/anthropic-launches-enterprise-agent-skills-and-opens-the-standard",
-      "description": "The San Francisco-based artificial intelligence company also unveiled organization-wide management tools for enterprise customers and a directory of partner-built skills from compa",
-      "monthlyVisits": 1000000,
-      "hasTraffic": true,
-      "id": "venturebeat-com-technology-ant",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "awesome-claude-skills/README.md at main · BehiSecc ...",
-      "domain": "github.com/BehiSecc/awesome-claude-skills/blob/main/README.md",
-      "url": "https://github.com/BehiSecc/awesome-claude-skills/blob/main/README.md",
-      "description": "",
-      "monthlyVisits": 8000,
-      "hasTraffic": true,
-      "id": "github-com-behisecc-awesome-cl",
-      "tier": "T3",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "MCP Market",
-      "domain": "mcpmarket.com",
-      "url": "https://mcpmarket.com",
-      "description": "### Is MCP secure?\n\n### What's the difference between MCP and regular APIs?\n\n### Can I build my own MCP server?\n\nDiscover MCP servers that connect MCP clients like Claude and Curso",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "mcpmarket-com",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Claude Skills Marketplace",
-      "domain": "spark.entire.vc/skills",
-      "url": "https://spark.entire.vc/skills?page=162",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "spark-entire-vc-skills",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Boosting Efficiency with Claude Skills: Competitive ...",
-      "domain": "linkedin.com/posts/ashley-mcalpin_claude-skills-ive-built-that-i-think-are-activity-7442238368882655232-lYMO",
-      "url": "https://www.linkedin.com/posts/ashley-mcalpin_claude-skills-ive-built-that-i-think-are-activity-7442238368882655232-lYMO",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "linkedin-com-posts-ashley-mcal",
-      "tier": "T4",
-      "trafficTrend": [],
-      "type": "skills",
-      "features": [
-        "AI",
-        "skills"
-      ]
-    },
-    {
-      "name": "Mastering Cursor Rules: Your Complete Guide to AI- ...",
-      "domain": "dev.to/anshul_02/mastering-cursor-rules-your-complete-guide-to-ai-powered-coding-excellence-2j5h",
-      "url": "https://dev.to/anshul_02/mastering-cursor-rules-your-complete-guide-to-ai-powered-coding-excellence-2j5h",
-      "description": "",
-      "monthlyVisits": 0,
-      "hasTraffic": false,
-      "id": "dev-to-anshul-02-mastering-cur",
-      "tier": "T4",
       "trafficTrend": [],
       "type": "skills",
       "features": [
@@ -1178,9 +106,601 @@
       "domain": "composio.dev",
       "url": "https://composio.dev",
       "description": "",
+      "monthlyVisits": 15000000,
+      "hasTraffic": true,
+      "id": "composio-dev",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "The Agent Skills Directory",
+      "domain": "skills.sh",
+      "url": "https://www.skills.sh/",
+      "description": "",
+      "monthlyVisits": 8000000,
+      "hasTraffic": true,
+      "id": "skills-sh",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cursor Rules: Complete .mdc Guide & 15 Templates (2026)",
+      "domain": "vibecodingacademy.ai/blog/cursor-rules-complete-guide",
+      "url": "https://www.vibecodingacademy.ai/blog/cursor-rules-complete-guide",
+      "description": "",
+      "monthlyVisits": 5000000,
+      "hasTraffic": true,
+      "id": "vibecodingacademy-ai-blog-curs",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "glama.ai/mcp",
+      "domain": "glama.ai/mcp",
+      "url": "https://glama.ai/mcp",
+      "description": "structured-source",
+      "monthlyVisits": 5000000,
+      "hasTraffic": true,
+      "id": "glama-ai-mcp",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "mcp.so",
+      "domain": "mcp.so",
+      "url": "https://mcp.so",
+      "description": "structured-source",
+      "monthlyVisits": 5000000,
+      "hasTraffic": true,
+      "id": "mcp-so",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Agent Skills Directory & Marketplace for Claude ...",
+      "domain": "mcpmarket.com/tools/skills",
+      "url": "https://mcpmarket.com/tools/skills",
+      "description": "",
+      "monthlyVisits": 4000000,
+      "hasTraffic": true,
+      "id": "mcpmarket-com-tools-skills",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "List of Top MCP Servers for June 19, 2026",
+      "domain": "mcpmarket.com/daily/top-mcp-server-list-june-19-2026",
+      "url": "https://mcpmarket.com/daily/top-mcp-server-list-june-19-2026",
+      "description": "",
       "monthlyVisits": 0,
       "hasTraffic": false,
-      "id": "composio-dev",
+      "id": "mcpmarket-com-daily-top-mcp-se",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best MCP Servers for Founders & Market Research (2026)",
+      "domain": "bigideasdb.com/best-mcp-servers-for-founders-2026",
+      "url": "https://bigideasdb.com/best-mcp-servers-for-founders-2026",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "bigideasdb-com-best-mcp-server",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best MCP Servers for Stock Data in 2026",
+      "domain": "barchart.com/story/news/3232893/best-mcp-servers-for-stock-data-in-2026",
+      "url": "https://www.barchart.com/story/news/3232893/best-mcp-servers-for-stock-data-in-2026",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "barchart-com-story-news-323289",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Which Sales and CS Tools Actually Have MCP Servers? ...",
+      "domain": "getnoded.ai/post/which-sales-and-cs-tools-actually-have-mcp-servers",
+      "url": "https://www.getnoded.ai/post/which-sales-and-cs-tools-actually-have-mcp-servers",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "getnoded-ai-post-which-sales-a",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "List of Top MCP Servers for June 3, 2026",
+      "domain": "mcpmarket.com/daily/top-mcp-server-list-june-3-2026",
+      "url": "https://mcpmarket.com/daily/top-mcp-server-list-june-3-2026",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mcpmarket-com-daily-top-mcp-se",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "What Is an MCP Server? A GTM Leader's Guide",
+      "domain": "hginsights.com/blog/what-is-an-mcp-server",
+      "url": "https://hginsights.com/blog/what-is-an-mcp-server/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "hginsights-com-blog-what-is-an",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Best MCP Server Directories for Developers",
+      "domain": "dev.to/descope/best-mcp-server-directories-for-developers-502e",
+      "url": "https://dev.to/descope/best-mcp-server-directories-for-developers-502e",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "dev-to-descope-best-mcp-server",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "1Password MCP Server",
+      "domain": "aws.amazon.com/marketplace/pp/prodview-qetzdijg6losq",
+      "url": "https://aws.amazon.com/marketplace/pp/prodview-qetzdijg6losq",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "aws-amazon-com-marketplace-pp-",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "domain": "github.com/BehiSecc/awesome-claude-skills",
+      "url": "https://github.com/BehiSecc/awesome-claude-skills",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "github-com-behisecc-awesome-cl",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Claude Skills Marketplace for Databox Analytics",
+      "domain": "databox.com/skills-marketplace",
+      "url": "https://databox.com/skills-marketplace",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "databox-com-skills-marketplace",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Claude Skills & Agent Skills Library",
+      "domain": "mcpservers.org/agent-skills",
+      "url": "https://mcpservers.org/agent-skills",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mcpservers-org-agent-skills",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Marketplace Skills and Dependency Hijack in Claude Code",
+      "domain": "sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code",
+      "url": "https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "sentinelone-com-blog-marketpla",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Claude Skills Marketplace: Buy, Sell & Discover Skills",
+      "domain": "agent37.com/blog/claude-skills-marketplace-buy-sell-discover-skills",
+      "url": "https://www.agent37.com/blog/claude-skills-marketplace-buy-sell-discover-skills",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "agent37-com-blog-claude-skills",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AI Agent Skills — The Curated Directory",
+      "domain": "agenticskills.io/skills",
+      "url": "https://agenticskills.io/skills",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "agenticskills-io-skills",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Skills Directory",
+      "domain": "skillsdirectory.com",
+      "url": "https://www.skillsdirectory.com/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "skillsdirectory-com",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AgentSkills Directory",
+      "domain": "directory.agentskills.ai",
+      "url": "https://directory.agentskills.ai/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "directory-agentskills-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AI Agent Skills Directory",
+      "domain": "openagentskill.com/skills",
+      "url": "https://www.openagentskill.com/skills",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "openagentskill-com-skills",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Hermes AI Agent Skills Directory",
+      "domain": "llmbase.ai/skills",
+      "url": "https://llmbase.ai/skills/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "llmbase-ai-skills",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AI Agent Skills Directory",
+      "domain": "agentskillshub.dev/tools/ai-agent-skills-directory",
+      "url": "https://agentskillshub.dev/tools/ai-agent-skills-directory/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "agentskillshub-dev-tools-ai-ag",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "AgenticSkills — AI Agent Skills & 190+ MCP Servers Directory",
+      "domain": "agenticskills.io",
+      "url": "https://agenticskills.io/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "agenticskills-io",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cursor Directory",
+      "domain": "cursor.directory",
+      "url": "https://cursor.directory/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cursor-directory",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Rules",
+      "domain": "cursor.com/docs/rules",
+      "url": "https://cursor.com/docs/rules",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cursor-com-docs-rules",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Free AI .cursorrules & .mdc Config Generator",
+      "domain": "cursorrules.org",
+      "url": "https://cursorrules.org/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cursorrules-org",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Front End",
+      "domain": "cursor.directory/front-end-cursor-rules",
+      "url": "https://cursor.directory/front-end-cursor-rules",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "cursor-directory-front-end-cur",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Global .cursor/rules directory",
+      "domain": "forum.cursor.com/t/global-cursor-rules-directory/50049",
+      "url": "https://forum.cursor.com/t/global-cursor-rules-directory/50049",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "forum-cursor-com-t-global-curs",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cursor Rules Guide: .cursor/rules Examples and Best Practice",
+      "domain": "markdific.com/guides/cursor-rules",
+      "url": "https://markdific.com/guides/cursor-rules/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "markdific-com-guides-cursor-ru",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Show HN: Cursor AI Rules Directory (Open Source)",
+      "domain": "news.ycombinator.com/item",
+      "url": "https://news.ycombinator.com/item?id=41346156",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "news-ycombinator-com-item",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Cursor Rules Folder",
+      "domain": "youtube.com/watch",
+      "url": "https://www.youtube.com/watch?v=KzkXJiXGUGw",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "youtube-com-watch",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "github.com/topics/model-context-protocol",
+      "domain": "github.com/topics/model-context-protocol",
+      "url": "https://github.com/topics/model-context-protocol",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "github-com-topics-model-contex",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "github.com/topics/mcp",
+      "domain": "github.com/topics/mcp",
+      "url": "https://github.com/topics/mcp",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "github-com-topics-mcp",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "clawhub.ai",
+      "domain": "clawhub.ai",
+      "url": "https://clawhub.ai",
+      "description": "structured-source",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "clawhub-ai",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "skills",
+      "features": [
+        "AI",
+        "skills"
+      ]
+    },
+    {
+      "name": "Mcpmarket",
+      "domain": "mcpmarket.com",
+      "url": "https://mcpmarket.com",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "mcpmarket-com",
       "tier": "T4",
       "trafficTrend": [],
       "type": "skills",
@@ -1193,22 +713,22 @@
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 68 个，占据主要流量",
+      "content": "T1 级别 12 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 57338.1M",
+      "content": "有流量网站月访问总量 179011.0M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 5 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 32 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 74,
-    "totalMonthlyVisits": 57338068000
+    "totalSites": 44,
+    "totalMonthlyVisits": 179011000000
   }
 }
