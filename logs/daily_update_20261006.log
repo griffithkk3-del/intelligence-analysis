@@ -1362,4 +1362,32 @@ Already up to date.
   Exa 搜索失败: HTTP Error 402: Payment Required
   Serper 搜索失败: HTTP Error 400: Bad Request
  · 收录(无流量)
-  Ollama...
+  Ollama...[main 3a5773d] data: 每日全量更新 2026-10-06
+ 8 files changed, 3671 insertions(+), 1377 deletions(-)
+ delete mode 100644 logs/daily_update_20260904.log
+ create mode 100644 logs/daily_update_20261006.log
+To github-fundarb:griffithkk3-del/intelligence-analysis.git
+   49bc859..3a5773d  main -> main
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+  Tavily 搜索失败: HTTP Error 432: 
+  Exa 搜索失败: HTTP Error 402: Payment Required
+  Serper 搜索失败: HTTP Error 400: Bad Request
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+
+🚀 已推送到 GitHub
+
+============================================================
+✅ 更新完成: 4/5 个站点
+============================================================
+
+✅ 验证数据（validate_data.py）...
+✅ 所有数据校验通过！
+
+🚀 推送到 GitHub...
