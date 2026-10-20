@@ -595,4 +595,34 @@ Already up to date.
   Exa 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
   Serper 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
  · 收录(无流量)
-  Ollama...
+  Ollama...[main ed3c6cc] data: 每日全量更新 2026-10-19
+ 6 files changed, 1216 insertions(+), 636 deletions(-)
+ delete mode 100644 logs/daily_update_20260916.log
+ create mode 100644 logs/daily_update_20261019.log
+ssh: connect to host github.com port 22: Undefined error: 0
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  Tavily 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Exa 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Serper 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Tavily 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Exa 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Serper 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Tavily 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Exa 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+  Serper 搜索失败: <urlopen error [Errno 8] nodename nor servname provided, or not known>
+ · 收录(无流量)
+  获取到 8 个候选数据
+  ⚠️ 数据不足，保留旧数据
+Traceback (most recent call last):
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 473, in <module>
+    main()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 466, in main
+    git_push()
+  File "/Users/tkzz/.openclaw/workspace/shared/artifacts/competitor-site/daily_update.py", line 442, in git_push
+    subprocess.run(['git', 'push'], check=True)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'push']' returned non-zero exit status 128.
