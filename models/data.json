@@ -1,18 +1,34 @@
 {
-  "lastUpdated": "2026-11-02T09:55:06.557570+08:00",
+  "lastUpdated": "2026-11-03T09:52:26.845361+08:00",
   "config": {
     "category": "models",
     "autoUpdate": true
   },
   "competitors": [
     {
-      "name": "Home \\ Anthropic",
+      "name": "Home",
       "domain": "anthropic.com",
       "url": "https://www.anthropic.com",
       "description": "### Our mission\n\nAnthropic is a Public Benefit Corporation. Our mission is to ensure the world safely makes the transition through transformative AI.\n\n### Log in\n\n   Claude.ai\n   C",
       "monthlyVisits": 950000000,
       "hasTraffic": true,
       "id": "anthropic-com",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Anthropic overtakes OpenAI to become most valuable AI ...",
+      "domain": "mashable.com/tech/anthropic-overtakes-openai-ai-company-valuation-revenue",
+      "url": "https://mashable.com/tech/anthropic-overtakes-openai-ai-company-valuation-revenue",
+      "description": "",
+      "monthlyVisits": 900000000,
+      "hasTraffic": true,
+      "id": "mashable-com-tech-anthropic-ov",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -29,22 +45,6 @@
       "monthlyVisits": 883000000,
       "hasTraffic": true,
       "id": "thedigitalbloom-com-learn-gen-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Data: Anthropic got 11% user boost from OpenAI-bashing ...",
-      "domain": "cnbc.com/2026/02/13/anthropic-open-ai-super-bowl-ads.html",
-      "url": "https://www.cnbc.com/2026/02/13/anthropic-open-ai-super-bowl-ads.html",
-      "description": "",
-      "monthlyVisits": 738000000,
-      "hasTraffic": true,
-      "id": "cnbc-com-2026-02-13-anthropic-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -89,7 +89,7 @@
       "name": "Measuring the AI-Driven Internet with The 2026 State of AI T",
       "domain": "humansecurity.com/learn/blog/ai-traffic-growth-2025-key-findings",
       "url": "https://www.humansecurity.com/learn/blog/ai-traffic-growth-2025-key-findings",
-      "description": "This growth was not linear. Total AI-driven traffic nearly quadrupled between January and October, peaking at 3.61x January’s volume before settling into a plateau for the final tw",
+      "description": "A little more than three years after the first LLMs took the web by storm, automated traffic is now growing eight times faster than human traffic, according to HUMAN’s new 2026 Sta",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
       "id": "humansecurity-com-learn-blog-a",
@@ -134,29 +134,13 @@
       ]
     },
     {
-      "name": "7 best unified LLM API providers in 2026",
-      "domain": "braintrust.dev/articles/best-unified-llm-api-providers-2026",
-      "url": "https://www.braintrust.dev/articles/best-unified-llm-api-providers-2026",
-      "description": "",
+      "name": "OpenAI is 80% of AI Search traffic. Yes, Anthropic is widely",
+      "domain": "linkedin.com/posts/gijs-de-groot2021_openai-is-80-of-ai-search-traffic-yes-activity-7503392621717811200-R8Er",
+      "url": "https://www.linkedin.com/posts/gijs-de-groot2021_openai-is-80-of-ai-search-traffic-yes-activity-7503392621717811200-R8Er",
+      "description": "Four orders. That's the entire ChatGPT channel of the store I run. It's also the most useful AEO dataset I have. In the 90 days to July, four orders came from ChatGPT. 26% of reven",
       "monthlyVisits": 655000000,
       "hasTraffic": true,
-      "id": "braintrust-dev-articles-best-u",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "LLM APIs: Tips for Bridging the Gap",
-      "domain": "ibm.com/think/insights/llm-apis",
-      "url": "https://www.ibm.com/think/insights/llm-apis",
-      "description": "",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "ibm-com-think-insights-llm-api",
+      "id": "linkedin-com-posts-gijs-de-gro",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -182,38 +166,6 @@
       ]
     },
     {
-      "name": "OpenAI vs Anthropic Statistics 2026: Revenue and Valuation",
-      "domain": "sqmagazine.co.uk/openai-vs-anthropic-statistics",
-      "url": "https://sqmagazine.co.uk/openai-vs-anthropic-statistics",
-      "description": "Robert A. Lee is a journalist at SQ Magazine who unpacks the fast-moving worlds of gaming and internet trends. He tracks everything from maj...\n\nLATEST POSTS:\n\nAnthropic Files S-1 ",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "sqmagazine-co-uk-openai-vs-ant",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "OpenAI",
-      "domain": "en.wikipedia.org/wiki/OpenAI",
-      "url": "https://en.wikipedia.org/wiki/OpenAI",
-      "description": "",
-      "monthlyVisits": 655000000,
-      "hasTraffic": true,
-      "id": "en-wikipedia-org-wiki-openai",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "www.together.ai",
       "domain": "together.ai",
       "url": "https://www.together.ai",
@@ -230,13 +182,13 @@
       ]
     },
     {
-      "name": "Models",
-      "domain": "huggingface.co/models",
-      "url": "https://huggingface.co/models?search=informer",
-      "description": "",
-      "monthlyVisits": 642000000,
+      "name": "OpenAI shares struggle to find buyers as investors shift to ",
+      "domain": "ca.investing.com/news/economy-news/openai-shares-struggle-to-find-buyers-as-investors-shift-to-anthropic-93CH-4545467",
+      "url": "https://ca.investing.com/news/economy-news/openai-shares-struggle-to-find-buyers-as-investors-shift-to-anthropic-93CH-4545467",
+      "description": "It is prohibited to use, store, reproduce, display, modify, transmit or distribute the data contained in this website without the explicit prior written permission of Fusion Media ",
+      "monthlyVisits": 600000000,
       "hasTraffic": true,
-      "id": "huggingface-co-models",
+      "id": "ca-investing-com-news-economy-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -250,105 +202,9 @@
       "domain": "huggingface.co",
       "url": "https://huggingface.co",
       "description": "structured-source",
-      "monthlyVisits": 642000000,
+      "monthlyVisits": 212000000,
       "hasTraffic": true,
       "id": "huggingface-co",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Anthropic vs OpenAI vs Google: Three Different Bets on the .",
-      "domain": "mindstudio.ai/blog/anthropic-vs-openai-vs-google-agent-strategy",
-      "url": "https://www.mindstudio.ai/blog/anthropic-vs-openai-vs-google-agent-strategy",
-      "description": "",
-      "monthlyVisits": 614000000,
-      "hasTraffic": true,
-      "id": "mindstudio-ai-blog-anthropic-v",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "OpenAI shares struggle to find buyers as investors shift to ",
-      "domain": "au.investing.com/news/economy-news/openai-shares-struggle-to-find-buyers-as-investors-shift-to-anthropic-93CH-4342817",
-      "url": "https://au.investing.com/news/economy-news/openai-shares-struggle-to-find-buyers-as-investors-shift-to-anthropic-93CH-4342817",
-      "description": "It is prohibited to use, store, reproduce, display, modify, transmit or distribute the data contained in this website without the explicit prior written permission of Fusion Media ",
-      "monthlyVisits": 600000000,
-      "hasTraffic": true,
-      "id": "au-investing-com-news-economy-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "OpenAI and Anthropic both caught their AI doing things ...",
-      "domain": "linkedin.com/pulse/openai-anthropic-both-caught-ai-doing-things-nobody-told-vallaeys-u3ubc",
-      "url": "https://www.linkedin.com/pulse/openai-anthropic-both-caught-ai-doing-things-nobody-told-vallaeys-u3ubc",
-      "description": "",
-      "monthlyVisits": 530000000,
-      "hasTraffic": true,
-      "id": "linkedin-com-pulse-openai-anth",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Deepseek",
-      "domain": "deepseek.com",
-      "url": "https://deepseek.com",
-      "description": "",
-      "monthlyVisits": 430000000,
-      "hasTraffic": true,
-      "id": "deepseek-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Impressions from visiting OpenAI, Anthropic, & Cursor",
-      "domain": "newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
-      "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
-      "description": "In recent days, I’ve visited the offices of OpenAI, Anthropic, and Cursor, in San Francisco. Onsite, I talked with software folks working on the model side to learn more about how ",
-      "monthlyVisits": 400000000,
-      "hasTraffic": true,
-      "id": "newsletter-pragmaticengineer-c",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Introducing Claude Opus 5.5",
-      "domain": "anthropic.com/claude-opus-5-5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "description": "",
-      "monthlyVisits": 183000000,
-      "hasTraffic": true,
-      "id": "anthropic-com-claude-opus-5-5",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -374,13 +230,13 @@
       ]
     },
     {
-      "name": "Anthropic Beats OpenAI on Super Bowl Buzz",
-      "domain": "finance.yahoo.com/news/anthropic-beats-openai-super-bowl-175400218.html",
-      "url": "https://finance.yahoo.com/news/anthropic-beats-openai-super-bowl-175400218.html",
-      "description": "In an interview on CNBC, EDO CEO Kevin Krim said two Anthropic ads sparked more searches and website visits than the three spots run by Microsoft (NASDAQ:MSFT) backed OpenAI. The t",
-      "monthlyVisits": 135000000,
+      "name": "A Broke B**ch's Guide to Tech Start-up: Choosing LLM",
+      "domain": "medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
+      "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
+      "description": "",
+      "monthlyVisits": 100000000,
       "hasTraffic": true,
-      "id": "finance-yahoo-com-news-anthrop",
+      "id": "medium-com-before-you-launch-a",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -390,10 +246,10 @@
       ]
     },
     {
-      "name": "LLM API Pricing Comparison & Cost Guide (Oct 2026)",
+      "name": "LLM API Pricing Comparison & Cost Guide (Nov 2026)",
       "domain": "costgoat.com/compare/llm-api",
       "url": "https://costgoat.com/compare/llm-api",
-      "description": "#### Not ideal for\n\n Real-time applications needing sub-100ms latency (consider edge-deployed models)\n Tasks that don't need language understanding (use traditional algorithms inst",
+      "description": "",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
       "id": "costgoat-com-compare-llm-api",
@@ -406,13 +262,13 @@
       ]
     },
     {
-      "name": "A Broke B**ch’s Guide to Tech Start-up: Choosing LLM — API P",
-      "domain": "medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
-      "url": "https://medium.com/before-you-launch/a-broke-b-chs-guide-to-tech-start-up-choosing-llm-api-prices-ad451a2abfd6",
-      "description": "For serverless endpoints, LLM service providers (like OpenAI, Anyscale etc.) charges you by the number of total tokens (roughly 0.75 words) where as dedicated endpoints tend to cha",
+      "name": "huggingface.co: Traffic, Backlinks & Authority Metrics",
+      "domain": "instantdomainsearch.com/directory/huggingface.co",
+      "url": "https://instantdomainsearch.com/directory/huggingface.co",
+      "description": "The site's traffic has grown by 1% year-over-year with over 1,378,642 monthly visits driven primarily by interest in AI model discovery, large language model benchmarking, computer",
       "monthlyVisits": 100000000,
       "hasTraffic": true,
-      "id": "medium-com-before-you-launch-a",
+      "id": "instantdomainsearch-com-direct",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -438,6 +294,22 @@
       ]
     },
     {
+      "name": "Impressions from visiting OpenAI, Anthropic, & Cursor",
+      "domain": "newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+      "url": "https://newsletter.pragmaticengineer.com/p/impressions-from-visiting-openai",
+      "description": "In recent days, I’ve visited the offices of OpenAI, Anthropic, and Cursor, in San Francisco. Onsite, I talked with software folks working on the model side to learn more about how ",
+      "monthlyVisits": 100000000,
+      "hasTraffic": true,
+      "id": "newsletter-pragmaticengineer-c",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "AI Bot & Agent Traffic Trends 2026",
       "domain": "datadome.co/resources/bot-and-agent-security-report/ai-traffic-trends",
       "url": "https://datadome.co/resources/bot-and-agent-security-report/ai-traffic-trends",
@@ -454,22 +326,6 @@
       ]
     },
     {
-      "name": "Best LLM API Providers in 2026: 8 Options Compared",
-      "domain": "fireworks.ai/blog/best-llm-api-providers",
-      "url": "https://fireworks.ai/blog/best-llm-api-providers",
-      "description": "Consumption-based per-second GPU compute; $30/month free credits on Starter plan\n\nNo managed model catalog; requires writing your own inference code; higher setup effort than turn-",
-      "monthlyVisits": 87000000,
-      "hasTraffic": true,
-      "id": "fireworks-ai-blog-best-llm-api",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
       "name": "huggingface.co Website Traffic, Ranking, Analytics [Septembe",
       "domain": "semrush.com/website/huggingface.co/overview",
       "url": "https://www.semrush.com/website/huggingface.co/overview",
@@ -477,22 +333,6 @@
       "monthlyVisits": 56680000,
       "hasTraffic": true,
       "id": "semrush-com-website-huggingfac",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Download Analytics · Hugging Face",
-      "domain": "huggingface.co/docs/hub/en/download-analytics",
-      "url": "https://huggingface.co/docs/hub/en/download-analytics",
-      "description": "## Egress overview\n\nThe page shows a daily egress (download bandwidth) graph, along with your month-to-date total compared against your plan’s included egress allowance. Only traff",
-      "monthlyVisits": 56680000,
-      "hasTraffic": true,
-      "id": "huggingface-co-docs-hub-en-dow",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -534,45 +374,13 @@
       ]
     },
     {
-      "name": "ottoykh/Smart-Traffic",
-      "domain": "huggingface.co/ottoykh/Smart-Traffic",
-      "url": "https://huggingface.co/ottoykh/Smart-Traffic",
-      "description": "",
-      "monthlyVisits": 56680000,
+      "name": "huggingface.co Website Traffic, Rankings & Analytics Report ",
+      "domain": "analytics.explodingtopics.com/website/huggingface.co",
+      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
+      "description": "Create a Project\n\nDomain OverviewTraffic AnalyticsTop PagesSources & DestinationsAudience OverlapMarket OverviewAI Visibility ToolkitKeyword ResearchKeyword Gap\n\nStart 14-day free ",
+      "monthlyVisits": 50900000,
       "hasTraffic": true,
-      "id": "huggingface-co-ottoykh-smart-t",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "cvtechniques/TrafficSignDetection",
-      "domain": "huggingface.co/cvtechniques/TrafficSignDetection",
-      "url": "https://huggingface.co/cvtechniques/TrafficSignDetection",
-      "description": "",
-      "monthlyVisits": 56680000,
-      "hasTraffic": true,
-      "id": "huggingface-co-cvtechniques-tr",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Traffic",
-      "domain": "huggingface.co/collections/Tempo14/traffic",
-      "url": "https://huggingface.co/collections/Tempo14/traffic",
-      "description": "",
-      "monthlyVisits": 56680000,
-      "hasTraffic": true,
-      "id": "huggingface-co-collections-tem",
+      "id": "analytics-explodingtopics-com-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -584,11 +392,27 @@
     {
       "name": "Enterprise AI Platform Guide: The Best of 2026",
       "domain": "sema4.ai/blog/best-ai-platforms-of-2026",
-      "url": "https://sema4.ai/blog/best-ai-platforms-of-2026/",
-      "description": "",
+      "url": "https://sema4.ai/blog/best-ai-platforms-of-2026",
+      "description": "The best enterprise AI platform depends on your organization’s use cases, but leading options in 2026 share a few traits: enterprise-grade security and compliance, the ability to h",
       "monthlyVisits": 46800000,
       "hasTraffic": true,
       "id": "sema4-ai-blog-best-ai-platform",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Now Hiring: 50 Huggingface Transformers Jobs",
+      "domain": "indeed.com/q-huggingface-transformers-jobs.html",
+      "url": "https://www.indeed.com/q-huggingface-transformers-jobs.html",
+      "description": "Our mission is to make complex unstructured data easily discoverable and actionable by building intelligent, retrieval-driven systems that enhance enterprise search, question answe",
+      "monthlyVisits": 42000000,
+      "hasTraffic": true,
+      "id": "indeed-com-q-huggingface-trans",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -602,57 +426,9 @@
       "domain": "finance.yahoo.com/markets/stocks/articles/bigbear-ais-model-agnostic-ai-160300708.html",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bigbear-ais-model-agnostic-ai-160300708.html",
       "description": "Financially, the company is entering 2026 from a stronger position, with improved liquidity and a cleaner balance sheet, allowing continued investment in platform capabilities. Man",
-      "monthlyVisits": 36700000,
+      "monthlyVisits": 36750000,
       "hasTraffic": true,
       "id": "finance-yahoo-com-markets-stoc",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "HuggingFace Statistics",
-      "domain": "originality.ai/blog/huggingface-statistics",
-      "url": "https://originality.ai/blog/huggingface-statistics",
-      "description": "",
-      "monthlyVisits": 35790000,
-      "hasTraffic": true,
-      "id": "originality-ai-blog-huggingfac",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Ranking Every AI Tool I Used in 2026 (What's ACTAULLY Good)",
-      "domain": "youtube.com/watch",
-      "url": "https://www.youtube.com/watch?v=JtBWA49t8hc",
-      "description": "",
-      "monthlyVisits": 30000000,
-      "hasTraffic": true,
-      "id": "youtube-com-watch",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "huggingface.co Website Traffic, Rankings & Analytics Report ",
-      "domain": "analytics.explodingtopics.com/website/huggingface.co",
-      "url": "https://analytics.explodingtopics.com/website/huggingface.co",
-      "description": "Create a Project\n\nDomain OverviewTraffic AnalyticsTop PagesSources & DestinationsAudience OverlapMarket OverviewAI Visibility ToolkitKeyword ResearchKeyword Gap\n\nStart 14-day free ",
-      "monthlyVisits": 30000000,
-      "hasTraffic": true,
-      "id": "analytics-explodingtopics-com-",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -669,6 +445,38 @@
       "monthlyVisits": 28810000,
       "hasTraffic": true,
       "id": "weam-ai-blog-guide-huggingface",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "7 best unified LLM API providers in 2026",
+      "domain": "braintrust.dev/articles/best-unified-llm-api-providers-2026",
+      "url": "https://www.braintrust.dev/articles/best-unified-llm-api-providers-2026",
+      "description": "Pricing: New accounts receive $5 in monthly credits to start, after which usage is pay-as-you-go at provider list price with no markup, including bring-your-own-key.\n\n### 4. LiteLL",
+      "monthlyVisits": 27000000,
+      "hasTraffic": true,
+      "id": "braintrust-dev-articles-best-u",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Hugging Face Pricing 2026: Is It Free? Complete Cost ...",
+      "domain": "metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "description": "",
+      "monthlyVisits": 25000000,
+      "hasTraffic": true,
+      "id": "metacto-com-blogs-the-true-cos",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -758,13 +566,13 @@
       ]
     },
     {
-      "name": "The Great Deception of \"Low Prices\" in LLM APIs",
-      "domain": "reddit.com/r/LocalLLaMA/comments/1meep6o/the_great_deception_of_low_prices_in_llm_apis",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1meep6o/the_great_deception_of_low_prices_in_llm_apis",
-      "description": "Almost* all API usage is prepaid. The only provider I've seen that actually uses monthly billing is Groq, for some odd reason.",
+      "name": "DeepL bolsters API with next-gen LLM model and Write functio",
+      "domain": "finance.yahoo.com/news/deepl-bolsters-api-next-gen-141000802.html",
+      "url": "https://finance.yahoo.com/news/deepl-bolsters-api-next-gen-141000802.html?fr=sycsrp_catchall",
+      "description": "\"When my team and I were preparing for international expansion [. . .] we chose DeepL API, which turned out to be a fantastic decision. The transition was quick and easy, ‌and we f",
       "monthlyVisits": 12000000,
       "hasTraffic": true,
-      "id": "reddit-com-r-localllama-commen",
+      "id": "finance-yahoo-com-news-deepl-b",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -774,13 +582,13 @@
       ]
     },
     {
-      "name": "OpenAI and Anthropic Breaches: Security Risks",
-      "domain": "telehealth.org/news/openai-anthropic-incidents-heighten-ai-cybersecurity-concerns-for-healthcare",
-      "url": "https://telehealth.org/news/openai-anthropic-incidents-heighten-ai-cybersecurity-concerns-for-healthcare/",
+      "name": "Ollama",
+      "domain": "ollama.com",
+      "url": "https://ollama.com",
       "description": "",
-      "monthlyVisits": 11900000,
+      "monthlyVisits": 11400000,
       "hasTraffic": true,
-      "id": "telehealth-org-news-openai-ant",
+      "id": "ollama-com",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -806,6 +614,22 @@
       ]
     },
     {
+      "name": "OpenAI and Anthropic Neared Deal to Stress Test Each ...",
+      "domain": "theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+      "url": "https://www.theinformation.com/articles/openai-anthropic-neared-deal-stress-test-others-ai",
+      "description": "",
+      "monthlyVisits": 9000000,
+      "hasTraffic": true,
+      "id": "theinformation-com-articles-op",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
       "name": "Best free LLM APIs: top options for developers in 2026",
       "domain": "dataiku.com/blog/best-llm-apis-for-developers",
       "url": "https://www.dataiku.com/blog/best-llm-apis-for-developers",
@@ -822,13 +646,13 @@
       ]
     },
     {
-      "name": "AI Model Evaluation Platform Market Research Report 2026: AW",
-      "domain": "au.finance.yahoo.com/news/ai-model-evaluation-platform-market-082800121.html",
-      "url": "https://au.finance.yahoo.com/news/ai-model-evaluation-platform-market-082800121.html",
-      "description": "The artificial intelligence (AI) model evaluation platform market is witnessing significant growth, expected to surge from $1.86 billion in 2025 to $2.36 billion in 2026, reflectin",
-      "monthlyVisits": 6000000,
+      "name": "Best LLM API Providers in 2026: 8 Options Compared",
+      "domain": "fireworks.ai/blog/best-llm-api-providers",
+      "url": "https://fireworks.ai/blog/best-llm-api-providers",
+      "description": "Consumption-based per-second GPU compute; $30/month free credits on Starter plan\n\nNo managed model catalog; requires writing your own inference code; higher setup effort than turn-",
+      "monthlyVisits": 5000000,
       "hasTraffic": true,
-      "id": "au-finance-yahoo-com-news-ai-m",
+      "id": "fireworks-ai-blog-best-llm-api",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -838,13 +662,13 @@
       ]
     },
     {
-      "name": "AhaseesAI/traffic-prediction",
-      "domain": "huggingface.co/AhaseesAI/traffic-prediction",
-      "url": "https://huggingface.co/AhaseesAI/traffic-prediction",
+      "name": "Anthropic cuts web access in all internal tests after 4 ...",
+      "domain": "ppc.land/anthropic-cuts-web-access-in-all-internal-tests-after-4-claude-workarounds",
+      "url": "https://ppc.land/anthropic-cuts-web-access-in-all-internal-tests-after-4-claude-workarounds/",
       "description": "",
-      "monthlyVisits": 6000000,
+      "monthlyVisits": 5000000,
       "hasTraffic": true,
-      "id": "huggingface-co-ahaseesai-traff",
+      "id": "ppc-land-anthropic-cuts-web-ac",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -854,13 +678,45 @@
       ]
     },
     {
-      "name": "Awan LLM",
-      "domain": "awanllm.com",
-      "url": "https://www.awanllm.com/",
+      "name": "Deepseek",
+      "domain": "deepseek.com",
+      "url": "https://deepseek.com",
       "description": "",
       "monthlyVisits": 4400000,
       "hasTraffic": true,
-      "id": "awanllm-com",
+      "id": "deepseek-com",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Ranking Every AI Tool I Used in 2026 (What's ACTAULLY Good)",
+      "domain": "youtube.com/watch",
+      "url": "https://www.youtube.com/watch?v=JtBWA49t8hc",
+      "description": "",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "youtube-com-watch",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Download Analytics · Hugging Face",
+      "domain": "huggingface.co/docs/hub/en/download-analytics",
+      "url": "https://huggingface.co/docs/hub/en/download-analytics",
+      "description": "## Egress overview\n\nThe page shows a daily egress (download bandwidth) graph, along with your month-to-date total compared against your plan’s included egress allowance. Only traff",
+      "monthlyVisits": 3000000,
+      "hasTraffic": true,
+      "id": "huggingface-co-docs-hub-en-dow",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -874,89 +730,9 @@
       "domain": "replicate.com",
       "url": "https://replicate.com",
       "description": "structured-source",
-      "monthlyVisits": 4400000,
+      "monthlyVisits": 1200000,
       "hasTraffic": true,
       "id": "replicate-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Now Hiring: 50 Huggingface Transformers Jobs",
-      "domain": "indeed.com/q-huggingface-transformers-jobs.html",
-      "url": "https://www.indeed.com/q-huggingface-transformers-jobs.html",
-      "description": "Our mission is to make complex unstructured data easily discoverable and actionable by building intelligent, retrieval-driven systems that enhance enterprise search, question answe",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "indeed-com-q-huggingface-trans",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Huggingface Jobs, Employment",
-      "domain": "indeed.com/q-huggingface-jobs.html",
-      "url": "https://www.indeed.com/q-huggingface-jobs.html",
-      "description": "Benefits\n  \n\n A chance to design your dream job at a mission-driven company.\n Work with (and learn from) a kind, ambitious, and wildly talented team.\n A culture that values opennes",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "indeed-com-q-huggingface-jobs-",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Season998/Traffic-R1",
-      "domain": "huggingface.co/Season998/Traffic-R1",
-      "url": "https://huggingface.co/Season998/Traffic-R1",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "huggingface-co-season998-traff",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Ollama",
-      "domain": "ollama.com",
-      "url": "https://ollama.com",
-      "description": "",
-      "monthlyVisits": 3000000,
-      "hasTraffic": true,
-      "id": "ollama-com",
-      "tier": "T1",
-      "trafficTrend": [],
-      "type": "models",
-      "features": [
-        "AI",
-        "models"
-      ]
-    },
-    {
-      "name": "Anthropic and OpenAI sound the alarm on AI safety",
-      "domain": "apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
-      "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
-      "description": "",
-      "monthlyVisits": 2000000,
-      "hasTraffic": true,
-      "id": "apnews-com-article-ai-slowdown",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -973,6 +749,38 @@
       "monthlyVisits": 1000000,
       "hasTraffic": true,
       "id": "community-latenode-com-t-hidde",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Hugging Face Inference API Pricing: A 2026 Guide",
+      "domain": "activepieces.com/blog/hugging-face-inference-api-pricing-a-2026-guide",
+      "url": "https://www.activepieces.com/blog/hugging-face-inference-api-pricing-a-2026-guide",
+      "description": "",
+      "monthlyVisits": 1000000,
+      "hasTraffic": true,
+      "id": "activepieces-com-blog-hugging-",
+      "tier": "T1",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "Anthropic Beats OpenAI on Super Bowl Buzz",
+      "domain": "finance.yahoo.com/news/anthropic-beats-openai-super-bowl-175400218.html",
+      "url": "https://finance.yahoo.com/news/anthropic-beats-openai-super-bowl-175400218.html",
+      "description": "In an interview on CNBC, EDO CEO Kevin Krim said two Anthropic ads sparked more searches and website visits than the three spots run by Microsoft (NASDAQ:MSFT) backed OpenAI. The t",
+      "monthlyVisits": 1000000,
+      "hasTraffic": true,
+      "id": "finance-yahoo-com-news-anthrop",
       "tier": "T1",
       "trafficTrend": [],
       "type": "models",
@@ -1028,27 +836,59 @@
         "AI",
         "models"
       ]
+    },
+    {
+      "name": "FTC subpoenas OpenAI and Anthropic over AI safety ...",
+      "domain": "thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
+      "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "thenextweb-com-news-ftc-subpoe",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
+    },
+    {
+      "name": "FTC subpoenas OpenAI and Anthropic in probe of AI risks ...",
+      "domain": "newsnationnow.com/business/tech/ai/open-ai-anthropic-ftc-safety-subpoenas",
+      "url": "https://www.newsnationnow.com/business/tech/ai/open-ai-anthropic-ftc-safety-subpoenas/",
+      "description": "",
+      "monthlyVisits": 0,
+      "hasTraffic": false,
+      "id": "newsnationnow-com-business-tec",
+      "tier": "T4",
+      "trafficTrend": [],
+      "type": "models",
+      "features": [
+        "AI",
+        "models"
+      ]
     }
   ],
   "insights": [
     {
       "title": "🏆 头部集中",
-      "content": "T1 级别 61 个，占据主要流量",
+      "content": "T1 级别 49 个，占据主要流量",
       "color": "blue"
     },
     {
       "title": "📈 总流量",
-      "content": "有流量网站月访问总量 15377.4M",
+      "content": "有流量网站月访问总量 10143.1M",
       "color": "green"
     },
     {
       "title": "🧩 长尾补充",
-      "content": "另收录 2 个暂无流量数据的网站，默认靠后展示",
+      "content": "另收录 4 个暂无流量数据的网站，默认靠后展示",
       "color": "purple"
     }
   ],
   "metrics": {
-    "totalSites": 64,
-    "totalMonthlyVisits": 15377351000
+    "totalSites": 54,
+    "totalMonthlyVisits": 10143091000
   }
 }
